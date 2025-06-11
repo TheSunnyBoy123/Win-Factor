@@ -1,0 +1,886 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2022-04-01",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "East London",
+    "dates": [
+      "2016-12-11"
+    ],
+    "event": {
+      "name": "CSA T20 Challenge"
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "officials": {
+      "match_referees": [
+        "D Govindjee"
+      ],
+      "reserve_umpires": [
+        "LJ Willemse"
+      ],
+      "tv_umpires": [
+        "S George"
+      ],
+      "umpires": [
+        "BP Jele",
+        "LB Gcuma"
+      ]
+    },
+    "outcome": {
+      "winner": "Titans",
+      "by": {
+        "runs": 6
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "F Behardien",
+      "D Wiese"
+    ],
+    "players": {
+      "Titans": [
+        "JD Vandiar",
+        "HG Kuhn",
+        "H Klaasen",
+        "F Behardien",
+        "JA Morkel",
+        "D Wiese",
+        "AK Markram",
+        "T Shamsi",
+        "L Ngidi",
+        "MP Siboto",
+        "CJ Dala"
+      ],
+      "Warriors": [
+        "JT Smuts",
+        "CA Ingram",
+        "C Jonker",
+        "MQ Adams",
+        "C Fortuin",
+        "SSB Magala",
+        "KJ Abbott",
+        "LC Ngoepe",
+        "SSN Nqweni",
+        "ACR Birch",
+        "BD Walters"
+      ]
+    },
+    "registry": {
+      "people": {
+        "ACR Birch": "9df3a2f4",
+        "AK Markram": "6a26221c",
+        "BD Walters": "1e182ae2",
+        "BP Jele": "7bb1331e",
+        "C Fortuin": "f25cebec",
+        "C Jonker": "a81d6706",
+        "CA Ingram": "c995d726",
+        "CJ Dala": "1cb14aa4",
+        "D Govindjee": "8b4c4069",
+        "D Wiese": "aa8d28ae",
+        "F Behardien": "dce2019b",
+        "H Klaasen": "235c2bb6",
+        "HG Kuhn": "ede05b97",
+        "JA Morkel": "c3d35165",
+        "JD Vandiar": "a833f99c",
+        "JT Smuts": "42172c3c",
+        "KJ Abbott": "a9da7784",
+        "L Ngidi": "f834dcfc",
+        "LB Gcuma": "02ba88e3",
+        "LC Ngoepe": "51355a30",
+        "LJ Willemse": "bec17912",
+        "MP Siboto": "9d50c7e1",
+        "MQ Adams": "59a7fc89",
+        "S George": "6d9e5a54",
+        "SSB Magala": "8361e524",
+        "SSN Nqweni": "179bea21",
+        "T Shamsi": "a03bba42"
+      }
+    },
+    "season": "2016/17",
+    "team_type": "club",
+    "teams": [
+      "Titans",
+      "Warriors"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Warriors"
+    },
+    "venue": "Buffalo Park, East London"
+  },
+  "innings": [
+    {
+      "team": "Titans",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "JD Vandiar",
+              "bowler": "ACR Birch",
+              "non_striker": "HG Kuhn",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HG Kuhn",
+              "bowler": "ACR Birch",
+              "non_striker": "JD Vandiar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "JD Vandiar",
+                  "fielders": [
+                    {
+                      "name": "ACR Birch"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "H Klaasen",
+              "bowler": "ACR Birch",
+              "non_striker": "HG Kuhn",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HG Kuhn",
+              "bowler": "ACR Birch",
+              "non_striker": "H Klaasen",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "HG Kuhn",
+              "bowler": "ACR Birch",
+              "non_striker": "H Klaasen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HG Kuhn",
+              "bowler": "ACR Birch",
+              "non_striker": "H Klaasen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "HG Kuhn",
+              "bowler": "BD Walters",
+              "non_striker": "H Klaasen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "HG Kuhn",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "F Behardien",
+              "bowler": "BD Walters",
+              "non_striker": "H Klaasen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Klaasen",
+              "bowler": "BD Walters",
+              "non_striker": "F Behardien",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "F Behardien",
+              "bowler": "BD Walters",
+              "non_striker": "H Klaasen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Klaasen",
+              "bowler": "BD Walters",
+              "non_striker": "F Behardien",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Klaasen",
+              "bowler": "BD Walters",
+              "non_striker": "F Behardien",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "H Klaasen",
+              "bowler": "JT Smuts",
+              "non_striker": "F Behardien",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "F Behardien",
+              "bowler": "JT Smuts",
+              "non_striker": "H Klaasen",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "F Behardien",
+              "bowler": "JT Smuts",
+              "non_striker": "H Klaasen",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "F Behardien",
+              "bowler": "JT Smuts",
+              "non_striker": "H Klaasen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Klaasen",
+              "bowler": "JT Smuts",
+              "non_striker": "F Behardien",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "H Klaasen",
+              "bowler": "JT Smuts",
+              "non_striker": "F Behardien",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "F Behardien",
+              "bowler": "SSB Magala",
+              "non_striker": "H Klaasen",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "F Behardien",
+              "bowler": "SSB Magala",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "H Klaasen",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "F Behardien",
+              "bowler": "SSB Magala",
+              "non_striker": "H Klaasen",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "F Behardien",
+              "bowler": "SSB Magala",
+              "non_striker": "H Klaasen",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "F Behardien",
+              "bowler": "SSB Magala",
+              "non_striker": "H Klaasen",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "F Behardien",
+              "bowler": "SSB Magala",
+              "non_striker": "H Klaasen",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "H Klaasen",
+              "bowler": "SSB Magala",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "F Behardien",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Klaasen",
+              "bowler": "SSB Magala",
+              "non_striker": "F Behardien",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "F Behardien",
+              "bowler": "KJ Abbott",
+              "non_striker": "H Klaasen",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "F Behardien",
+              "bowler": "KJ Abbott",
+              "non_striker": "H Klaasen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Klaasen",
+              "bowler": "KJ Abbott",
+              "non_striker": "F Behardien",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "F Behardien",
+              "bowler": "KJ Abbott",
+              "non_striker": "H Klaasen",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "F Behardien",
+              "bowler": "KJ Abbott",
+              "non_striker": "H Klaasen",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "F Behardien",
+              "bowler": "KJ Abbott",
+              "non_striker": "H Klaasen",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 1.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Warriors",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "JT Smuts",
+              "bowler": "L Ngidi",
+              "non_striker": "CA Ingram",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "JT Smuts",
+              "bowler": "L Ngidi",
+              "non_striker": "CA Ingram",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JT Smuts",
+              "bowler": "L Ngidi",
+              "non_striker": "CA Ingram",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CA Ingram",
+              "bowler": "L Ngidi",
+              "non_striker": "JT Smuts",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "CA Ingram",
+              "bowler": "L Ngidi",
+              "non_striker": "JT Smuts",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "CA Ingram",
+              "bowler": "L Ngidi",
+              "non_striker": "JT Smuts",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "JT Smuts",
+              "bowler": "CJ Dala",
+              "non_striker": "CA Ingram",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JT Smuts",
+              "bowler": "CJ Dala",
+              "non_striker": "CA Ingram",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JT Smuts",
+              "bowler": "CJ Dala",
+              "non_striker": "CA Ingram",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "JT Smuts",
+              "bowler": "CJ Dala",
+              "non_striker": "CA Ingram",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JT Smuts",
+              "bowler": "CJ Dala",
+              "non_striker": "CA Ingram",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "JT Smuts",
+                  "fielders": [
+                    {
+                      "name": "F Behardien"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "CA Ingram",
+              "bowler": "CJ Dala",
+              "non_striker": "C Jonker",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "C Jonker",
+              "bowler": "JA Morkel",
+              "non_striker": "CA Ingram",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CA Ingram",
+              "bowler": "JA Morkel",
+              "non_striker": "C Jonker",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "CA Ingram",
+              "bowler": "JA Morkel",
+              "non_striker": "C Jonker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Jonker",
+              "bowler": "JA Morkel",
+              "non_striker": "CA Ingram",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "C Jonker",
+              "bowler": "JA Morkel",
+              "non_striker": "CA Ingram",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "C Jonker",
+              "bowler": "JA Morkel",
+              "non_striker": "CA Ingram",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "CA Ingram",
+              "bowler": "D Wiese",
+              "non_striker": "C Jonker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CA Ingram",
+              "bowler": "D Wiese",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "C Jonker",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CA Ingram",
+              "bowler": "D Wiese",
+              "non_striker": "C Jonker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "CA Ingram",
+                  "fielders": [
+                    {
+                      "name": "F Behardien"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "C Jonker",
+              "bowler": "D Wiese",
+              "non_striker": "MQ Adams",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MQ Adams",
+              "bowler": "D Wiese",
+              "non_striker": "C Jonker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Jonker",
+              "bowler": "D Wiese",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "MQ Adams",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Jonker",
+              "bowler": "D Wiese",
+              "non_striker": "MQ Adams",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MQ Adams",
+              "bowler": "D Wiese",
+              "non_striker": "C Jonker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "MQ Adams",
+              "bowler": "MP Siboto",
+              "non_striker": "C Jonker",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MQ Adams",
+              "bowler": "MP Siboto",
+              "non_striker": "C Jonker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Jonker",
+              "bowler": "MP Siboto",
+              "non_striker": "MQ Adams",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MQ Adams",
+              "bowler": "MP Siboto",
+              "non_striker": "C Jonker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Jonker",
+              "bowler": "MP Siboto",
+              "non_striker": "MQ Adams",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "C Jonker",
+              "bowler": "MP Siboto",
+              "non_striker": "MQ Adams",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 1.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 5,
+        "runs": 81
+      }
+    }
+  ]
+}

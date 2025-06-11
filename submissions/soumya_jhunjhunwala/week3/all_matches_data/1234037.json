@@ -1,0 +1,225 @@
+{
+  "meta": {
+    "data_version": "1.0.0",
+    "created": "2021-01-28",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Auckland",
+    "dates": [
+      "2021-01-03"
+    ],
+    "event": {
+      "name": "New Zealand Cricket Women's Twenty20",
+      "match_number": 9
+    },
+    "gender": "female",
+    "match_type": "T20",
+    "officials": {
+      "match_referees": [
+        "PA Horne"
+      ],
+      "umpires": [
+        "A Stanley",
+        "JAK Bromley"
+      ]
+    },
+    "outcome": {
+      "result": "no result"
+    },
+    "overs": 20,
+    "players": {
+      "Canterbury": [
+        "FL Mackay",
+        "NB Cox",
+        "GES Sullivan",
+        "LEV Hughes",
+        "AE Satterthwaite",
+        "KFG Nation",
+        "MJ Banks",
+        "KE Ebrahim",
+        "LMM Tahuhu",
+        "KJ Havill",
+        "JL Savage"
+      ],
+      "Auckland": [
+        "AM Peterson",
+        "LR Down",
+        "KT Perkins",
+        "BG Armstrong",
+        "S Shahri",
+        "HR Huddleston",
+        "RSM Lili'i",
+        "AN Kelly",
+        "JEI Prasad",
+        "SJ Carnachan",
+        "FC Jonas"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Stanley": "5a72b592",
+        "AE Satterthwaite": "72b7ed1e",
+        "AM Peterson": "ae2c396f",
+        "AN Kelly": "397369e0",
+        "BG Armstrong": "eca08a1d",
+        "FC Jonas": "6df697a9",
+        "FL Mackay": "7391f160",
+        "GES Sullivan": "165b9097",
+        "HR Huddleston": "8d6b36e3",
+        "JAK Bromley": "ccf7baaf",
+        "JEI Prasad": "ec666142",
+        "JL Savage": "7938c793",
+        "KE Ebrahim": "7c0055c1",
+        "KFG Nation": "6ed21f30",
+        "KJ Havill": "244fea4c",
+        "KT Perkins": "78ad3258",
+        "LEV Hughes": "5b43fe48",
+        "LMM Tahuhu": "60471339",
+        "LR Down": "19147fe0",
+        "MJ Banks": "1e17a238",
+        "NB Cox": "219f1323",
+        "PA Horne": "095976d7",
+        "RSM Lili'i": "ba3a1359",
+        "S Shahri": "c28355cd",
+        "SJ Carnachan": "3b67e117"
+      }
+    },
+    "season": "2020/21",
+    "team_type": "club",
+    "teams": [
+      "Canterbury",
+      "Auckland"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Auckland"
+    },
+    "venue": "Eden Park Outer Oval"
+  },
+  "innings": [
+    {
+      "team": "Canterbury",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "FL Mackay",
+              "bowler": "AN Kelly",
+              "non_striker": "NB Cox",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "FL Mackay",
+              "bowler": "AN Kelly",
+              "non_striker": "NB Cox",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NB Cox",
+              "bowler": "AN Kelly",
+              "non_striker": "FL Mackay",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "FL Mackay",
+              "bowler": "AN Kelly",
+              "non_striker": "NB Cox",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "FL Mackay",
+              "bowler": "AN Kelly",
+              "non_striker": "NB Cox",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "FL Mackay",
+              "bowler": "AN Kelly",
+              "non_striker": "NB Cox",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "NB Cox",
+              "bowler": "HR Huddleston",
+              "non_striker": "FL Mackay",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NB Cox",
+              "bowler": "HR Huddleston",
+              "non_striker": "FL Mackay",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NB Cox",
+              "bowler": "HR Huddleston",
+              "non_striker": "FL Mackay",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NB Cox",
+              "bowler": "HR Huddleston",
+              "non_striker": "FL Mackay",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 1.4,
+          "type": "mandatory"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7153 @@
+{
+  "meta": {
+    "data_version": "1.0.0",
+    "created": "2014-06-17",
+    "revision": 2
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Pianoro",
+    "dates": [
+      "2010-08-19"
+    ],
+    "event": {
+      "name": "ICC World Cricket League Division Four"
+    },
+    "gender": "male",
+    "match_type": "ODM",
+    "missing": [
+      {
+        "powerplays": {
+          "2": [
+            "batting"
+          ]
+        }
+      }
+    ],
+    "officials": {
+      "match_referees": [
+        "DT Jukes"
+      ],
+      "reserve_umpires": [
+        "S Ketipe"
+      ],
+      "umpires": [
+        "L Fourie",
+        "CA McElwee"
+      ]
+    },
+    "outcome": {
+      "by": {
+        "runs": 55
+      },
+      "winner": "United States of America"
+    },
+    "overs": 50,
+    "player_of_match": [
+      "SS Nadkarni"
+    ],
+    "players": {
+      "Nepal": [
+        "MK Chhetri",
+        "AK Mandal",
+        "SP Gauchan",
+        "P Khadka",
+        "S Vesawkar",
+        "G Malla",
+        "PS Airee",
+        "B Regmi",
+        "BK Das",
+        "RK Vishwakarma",
+        "A Bhattarai"
+      ],
+      "United States of America": [
+        "OM Baker",
+        "CD Wright",
+        "SJ Massiah",
+        "LJ Cush",
+        "SS Nadkarni",
+        "A Thyagarajan",
+        "RA Marshall",
+        "Usman Shuja",
+        "Muhammad Ghous",
+        "A Gordon",
+        "KG Darlington"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Bhattarai": "2c2013a9",
+        "A Gordon": "898b09e8",
+        "A Thyagarajan": "50717bc4",
+        "AK Mandal": "defd49f6",
+        "B Regmi": "98d05440",
+        "BK Das": "d0c5dad4",
+        "CA McElwee": "a8fd2b20",
+        "CD Wright": "1ce9b927",
+        "DT Jukes": "7c215d14",
+        "G Malla": "b2e1d224",
+        "KG Darlington": "0aedbfd4",
+        "L Fourie": "de6a390f",
+        "LJ Cush": "92173bfb",
+        "MK Chhetri": "a381e879",
+        "Muhammad Ghous": "1676b2d6",
+        "OM Baker": "c62368d0",
+        "P Khadka": "12c3ba4d",
+        "PS Airee": "cc18ba92",
+        "RA Marshall": "c8087fe2",
+        "RK Vishwakarma": "2617ff3e",
+        "S Ketipe": "f6d9f548",
+        "S Vesawkar": "3de06845",
+        "SJ Massiah": "59cc6b79",
+        "SP Gauchan": "2d8aae2f",
+        "SS Nadkarni": "354cb360",
+        "TP Allen": "30baaf1f",
+        "Usman Shuja": "6d2dac56"
+      }
+    },
+    "season": 2010,
+    "team_type": "international",
+    "teams": [
+      "Nepal",
+      "United States of America"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "United States of America"
+    },
+    "venue": "Ovale di Rastignano"
+  },
+  "innings": [
+    {
+      "team": "United States of America",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "OM Baker",
+              "bowler": "A Bhattarai",
+              "non_striker": "CD Wright",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "OM Baker",
+              "bowler": "A Bhattarai",
+              "non_striker": "CD Wright",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "OM Baker",
+                  "fielders": [
+                    {
+                      "name": "MK Chhetri"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "SJ Massiah",
+              "bowler": "A Bhattarai",
+              "non_striker": "CD Wright",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CD Wright",
+              "bowler": "A Bhattarai",
+              "non_striker": "SJ Massiah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SJ Massiah",
+              "bowler": "A Bhattarai",
+              "non_striker": "CD Wright",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SJ Massiah",
+              "bowler": "A Bhattarai",
+              "non_striker": "CD Wright",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "SJ Massiah",
+              "bowler": "BK Das",
+              "non_striker": "CD Wright",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CD Wright",
+              "bowler": "BK Das",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "SJ Massiah",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CD Wright",
+              "bowler": "BK Das",
+              "non_striker": "SJ Massiah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CD Wright",
+              "bowler": "BK Das",
+              "non_striker": "SJ Massiah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CD Wright",
+              "bowler": "BK Das",
+              "non_striker": "SJ Massiah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CD Wright",
+              "bowler": "BK Das",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "SJ Massiah",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CD Wright",
+              "bowler": "BK Das",
+              "non_striker": "SJ Massiah",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "CD Wright",
+              "bowler": "BK Das",
+              "non_striker": "SJ Massiah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "SJ Massiah",
+              "bowler": "A Bhattarai",
+              "non_striker": "CD Wright",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SJ Massiah",
+              "bowler": "A Bhattarai",
+              "non_striker": "CD Wright",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CD Wright",
+              "bowler": "A Bhattarai",
+              "non_striker": "SJ Massiah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CD Wright",
+              "bowler": "A Bhattarai",
+              "non_striker": "SJ Massiah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CD Wright",
+              "bowler": "A Bhattarai",
+              "non_striker": "SJ Massiah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CD Wright",
+              "bowler": "A Bhattarai",
+              "non_striker": "SJ Massiah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "SJ Massiah",
+              "bowler": "BK Das",
+              "non_striker": "CD Wright",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SJ Massiah",
+              "bowler": "BK Das",
+              "non_striker": "CD Wright",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SJ Massiah",
+              "bowler": "BK Das",
+              "non_striker": "CD Wright",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SJ Massiah",
+              "bowler": "BK Das",
+              "non_striker": "CD Wright",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SJ Massiah",
+              "bowler": "BK Das",
+              "non_striker": "CD Wright",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SJ Massiah",
+              "bowler": "BK Das",
+              "non_striker": "CD Wright",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "CD Wright",
+              "bowler": "A Bhattarai",
+              "non_striker": "SJ Massiah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CD Wright",
+              "bowler": "A Bhattarai",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "SJ Massiah",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CD Wright",
+              "bowler": "A Bhattarai",
+              "non_striker": "SJ Massiah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CD Wright",
+              "bowler": "A Bhattarai",
+              "non_striker": "SJ Massiah",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "CD Wright",
+              "bowler": "A Bhattarai",
+              "non_striker": "SJ Massiah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CD Wright",
+              "bowler": "A Bhattarai",
+              "non_striker": "SJ Massiah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CD Wright",
+              "bowler": "A Bhattarai",
+              "non_striker": "SJ Massiah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "SJ Massiah",
+              "bowler": "BK Das",
+              "non_striker": "CD Wright",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SJ Massiah",
+              "bowler": "BK Das",
+              "non_striker": "CD Wright",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SJ Massiah",
+              "bowler": "BK Das",
+              "non_striker": "CD Wright",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SJ Massiah",
+              "bowler": "BK Das",
+              "non_striker": "CD Wright",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SJ Massiah",
+              "bowler": "BK Das",
+              "non_striker": "CD Wright",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SJ Massiah",
+              "bowler": "BK Das",
+              "non_striker": "CD Wright",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "CD Wright",
+              "bowler": "A Bhattarai",
+              "non_striker": "SJ Massiah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SJ Massiah",
+              "bowler": "A Bhattarai",
+              "non_striker": "CD Wright",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SJ Massiah",
+              "bowler": "A Bhattarai",
+              "non_striker": "CD Wright",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SJ Massiah",
+              "bowler": "A Bhattarai",
+              "non_striker": "CD Wright",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SJ Massiah",
+              "bowler": "A Bhattarai",
+              "non_striker": "CD Wright",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SJ Massiah",
+              "bowler": "A Bhattarai",
+              "non_striker": "CD Wright",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "CD Wright",
+              "bowler": "BK Das",
+              "non_striker": "SJ Massiah",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "CD Wright",
+              "bowler": "BK Das",
+              "non_striker": "SJ Massiah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CD Wright",
+              "bowler": "BK Das",
+              "non_striker": "SJ Massiah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "lbw",
+                  "player_out": "CD Wright"
+                }
+              ]
+            },
+            {
+              "batter": "LJ Cush",
+              "bowler": "BK Das",
+              "non_striker": "SJ Massiah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SJ Massiah",
+              "bowler": "BK Das",
+              "non_striker": "LJ Cush",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LJ Cush",
+              "bowler": "BK Das",
+              "non_striker": "SJ Massiah",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "SJ Massiah",
+              "bowler": "P Khadka",
+              "non_striker": "LJ Cush",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LJ Cush",
+              "bowler": "P Khadka",
+              "non_striker": "SJ Massiah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LJ Cush",
+              "bowler": "P Khadka",
+              "non_striker": "SJ Massiah",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "LJ Cush",
+              "bowler": "P Khadka",
+              "non_striker": "SJ Massiah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LJ Cush",
+              "bowler": "P Khadka",
+              "non_striker": "SJ Massiah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LJ Cush",
+              "bowler": "P Khadka",
+              "non_striker": "SJ Massiah",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "SJ Massiah",
+              "bowler": "BK Das",
+              "non_striker": "LJ Cush",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SJ Massiah",
+              "bowler": "BK Das",
+              "non_striker": "LJ Cush",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SJ Massiah",
+              "bowler": "BK Das",
+              "non_striker": "LJ Cush",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SJ Massiah",
+              "bowler": "BK Das",
+              "non_striker": "LJ Cush",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SJ Massiah",
+              "bowler": "BK Das",
+              "non_striker": "LJ Cush",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SJ Massiah",
+              "bowler": "BK Das",
+              "non_striker": "LJ Cush",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "LJ Cush",
+              "bowler": "P Khadka",
+              "non_striker": "SJ Massiah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LJ Cush",
+              "bowler": "P Khadka",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "SJ Massiah",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SJ Massiah",
+              "bowler": "P Khadka",
+              "non_striker": "LJ Cush",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SJ Massiah",
+              "bowler": "P Khadka",
+              "non_striker": "LJ Cush",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SJ Massiah",
+              "bowler": "P Khadka",
+              "non_striker": "LJ Cush",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SJ Massiah",
+              "bowler": "P Khadka",
+              "non_striker": "LJ Cush",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "LJ Cush",
+              "bowler": "BK Das",
+              "non_striker": "SJ Massiah",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "LJ Cush",
+              "bowler": "BK Das",
+              "non_striker": "SJ Massiah",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "LJ Cush",
+              "bowler": "BK Das",
+              "non_striker": "SJ Massiah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LJ Cush",
+              "bowler": "BK Das",
+              "non_striker": "SJ Massiah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LJ Cush",
+              "bowler": "BK Das",
+              "non_striker": "SJ Massiah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LJ Cush",
+              "bowler": "BK Das",
+              "non_striker": "SJ Massiah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "SJ Massiah",
+              "bowler": "A Bhattarai",
+              "non_striker": "LJ Cush",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SJ Massiah",
+              "bowler": "A Bhattarai",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "LJ Cush",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SJ Massiah",
+              "bowler": "A Bhattarai",
+              "non_striker": "LJ Cush",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SJ Massiah",
+              "bowler": "A Bhattarai",
+              "non_striker": "LJ Cush",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SJ Massiah",
+              "bowler": "A Bhattarai",
+              "non_striker": "LJ Cush",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LJ Cush",
+              "bowler": "A Bhattarai",
+              "non_striker": "SJ Massiah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LJ Cush",
+              "bowler": "A Bhattarai",
+              "non_striker": "SJ Massiah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "SJ Massiah",
+              "bowler": "B Regmi",
+              "non_striker": "LJ Cush",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SJ Massiah",
+              "bowler": "B Regmi",
+              "non_striker": "LJ Cush",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SJ Massiah",
+              "bowler": "B Regmi",
+              "non_striker": "LJ Cush",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SJ Massiah",
+              "bowler": "B Regmi",
+              "non_striker": "LJ Cush",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SJ Massiah",
+              "bowler": "B Regmi",
+              "non_striker": "LJ Cush",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SJ Massiah",
+              "bowler": "B Regmi",
+              "non_striker": "LJ Cush",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "LJ Cush",
+              "bowler": "SP Gauchan",
+              "non_striker": "SJ Massiah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LJ Cush",
+              "bowler": "SP Gauchan",
+              "non_striker": "SJ Massiah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LJ Cush",
+              "bowler": "SP Gauchan",
+              "non_striker": "SJ Massiah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LJ Cush",
+              "bowler": "SP Gauchan",
+              "non_striker": "SJ Massiah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LJ Cush",
+              "bowler": "SP Gauchan",
+              "non_striker": "SJ Massiah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LJ Cush",
+              "bowler": "SP Gauchan",
+              "non_striker": "SJ Massiah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "LJ Cush",
+              "bowler": "B Regmi",
+              "non_striker": "SJ Massiah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LJ Cush",
+              "bowler": "B Regmi",
+              "non_striker": "SJ Massiah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LJ Cush",
+              "bowler": "B Regmi",
+              "non_striker": "SJ Massiah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LJ Cush",
+              "bowler": "B Regmi",
+              "non_striker": "SJ Massiah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LJ Cush",
+              "bowler": "B Regmi",
+              "non_striker": "SJ Massiah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LJ Cush",
+              "bowler": "B Regmi",
+              "non_striker": "SJ Massiah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "SJ Massiah",
+              "bowler": "SP Gauchan",
+              "non_striker": "LJ Cush",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SJ Massiah",
+              "bowler": "SP Gauchan",
+              "non_striker": "LJ Cush",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LJ Cush",
+              "bowler": "SP Gauchan",
+              "non_striker": "SJ Massiah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LJ Cush",
+              "bowler": "SP Gauchan",
+              "non_striker": "SJ Massiah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LJ Cush",
+              "bowler": "SP Gauchan",
+              "non_striker": "SJ Massiah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LJ Cush",
+              "bowler": "SP Gauchan",
+              "non_striker": "SJ Massiah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "SJ Massiah",
+              "bowler": "B Regmi",
+              "non_striker": "LJ Cush",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LJ Cush",
+              "bowler": "B Regmi",
+              "non_striker": "SJ Massiah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LJ Cush",
+              "bowler": "B Regmi",
+              "non_striker": "SJ Massiah",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "LJ Cush",
+              "bowler": "B Regmi",
+              "non_striker": "SJ Massiah",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "LJ Cush",
+              "bowler": "B Regmi",
+              "non_striker": "SJ Massiah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught and bowled",
+                  "player_out": "LJ Cush"
+                }
+              ]
+            },
+            {
+              "batter": "SS Nadkarni",
+              "bowler": "B Regmi",
+              "non_striker": "SJ Massiah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "SS Nadkarni",
+              "bowler": "A Bhattarai",
+              "non_striker": "SJ Massiah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SS Nadkarni",
+              "bowler": "A Bhattarai",
+              "non_striker": "SJ Massiah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SS Nadkarni",
+              "bowler": "A Bhattarai",
+              "non_striker": "SJ Massiah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SS Nadkarni",
+              "bowler": "A Bhattarai",
+              "non_striker": "SJ Massiah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SS Nadkarni",
+              "bowler": "A Bhattarai",
+              "non_striker": "SJ Massiah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SS Nadkarni",
+              "bowler": "A Bhattarai",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "SJ Massiah",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SS Nadkarni",
+              "bowler": "A Bhattarai",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "SJ Massiah",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SS Nadkarni",
+              "bowler": "A Bhattarai",
+              "non_striker": "SJ Massiah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "SJ Massiah",
+              "bowler": "B Regmi",
+              "non_striker": "SS Nadkarni",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SJ Massiah",
+              "bowler": "B Regmi",
+              "non_striker": "SS Nadkarni",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SJ Massiah",
+              "bowler": "B Regmi",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "SS Nadkarni",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SJ Massiah",
+              "bowler": "B Regmi",
+              "non_striker": "SS Nadkarni",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SJ Massiah",
+              "bowler": "B Regmi",
+              "non_striker": "SS Nadkarni",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SJ Massiah",
+              "bowler": "B Regmi",
+              "non_striker": "SS Nadkarni",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "SJ Massiah",
+                  "fielders": [
+                    {
+                      "name": "P Khadka"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "A Thyagarajan",
+              "bowler": "B Regmi",
+              "non_striker": "SS Nadkarni",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 20,
+          "deliveries": [
+            {
+              "batter": "A Thyagarajan",
+              "bowler": "P Khadka",
+              "non_striker": "SS Nadkarni",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Thyagarajan",
+              "bowler": "P Khadka",
+              "non_striker": "SS Nadkarni",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "A Thyagarajan",
+              "bowler": "P Khadka",
+              "non_striker": "SS Nadkarni",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Thyagarajan",
+              "bowler": "P Khadka",
+              "non_striker": "SS Nadkarni",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Thyagarajan",
+              "bowler": "P Khadka",
+              "non_striker": "SS Nadkarni",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Thyagarajan",
+              "bowler": "P Khadka",
+              "non_striker": "SS Nadkarni",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 21,
+          "deliveries": [
+            {
+              "batter": "SS Nadkarni",
+              "bowler": "B Regmi",
+              "extras": {
+                "wides": 3
+              },
+              "non_striker": "A Thyagarajan",
+              "runs": {
+                "batter": 0,
+                "extras": 3,
+                "total": 3
+              }
+            },
+            {
+              "batter": "SS Nadkarni",
+              "bowler": "B Regmi",
+              "non_striker": "A Thyagarajan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Thyagarajan",
+              "bowler": "B Regmi",
+              "non_striker": "SS Nadkarni",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Thyagarajan",
+              "bowler": "B Regmi",
+              "non_striker": "SS Nadkarni",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Thyagarajan",
+              "bowler": "B Regmi",
+              "non_striker": "SS Nadkarni",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Thyagarajan",
+              "bowler": "B Regmi",
+              "non_striker": "SS Nadkarni",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Thyagarajan",
+              "bowler": "B Regmi",
+              "non_striker": "SS Nadkarni",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 22,
+          "deliveries": [
+            {
+              "batter": "SS Nadkarni",
+              "bowler": "P Khadka",
+              "non_striker": "A Thyagarajan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SS Nadkarni",
+              "bowler": "P Khadka",
+              "non_striker": "A Thyagarajan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SS Nadkarni",
+              "bowler": "P Khadka",
+              "non_striker": "A Thyagarajan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Thyagarajan",
+              "bowler": "P Khadka",
+              "non_striker": "SS Nadkarni",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SS Nadkarni",
+              "bowler": "P Khadka",
+              "non_striker": "A Thyagarajan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Thyagarajan",
+              "bowler": "P Khadka",
+              "non_striker": "SS Nadkarni",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 23,
+          "deliveries": [
+            {
+              "batter": "SS Nadkarni",
+              "bowler": "S Vesawkar",
+              "non_striker": "A Thyagarajan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SS Nadkarni",
+              "bowler": "S Vesawkar",
+              "non_striker": "A Thyagarajan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SS Nadkarni",
+              "bowler": "S Vesawkar",
+              "non_striker": "A Thyagarajan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Thyagarajan",
+              "bowler": "S Vesawkar",
+              "non_striker": "SS Nadkarni",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Thyagarajan",
+              "bowler": "S Vesawkar",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "SS Nadkarni",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SS Nadkarni",
+              "bowler": "S Vesawkar",
+              "non_striker": "A Thyagarajan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 24,
+          "deliveries": [
+            {
+              "batter": "A Thyagarajan",
+              "bowler": "RK Vishwakarma",
+              "non_striker": "SS Nadkarni",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Thyagarajan",
+              "bowler": "RK Vishwakarma",
+              "non_striker": "SS Nadkarni",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Thyagarajan",
+              "bowler": "RK Vishwakarma",
+              "non_striker": "SS Nadkarni",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "A Thyagarajan",
+                  "fielders": [
+                    {
+                      "name": "S Vesawkar"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "RA Marshall",
+              "bowler": "RK Vishwakarma",
+              "non_striker": "SS Nadkarni",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RA Marshall",
+              "bowler": "RK Vishwakarma",
+              "non_striker": "SS Nadkarni",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RA Marshall",
+              "bowler": "RK Vishwakarma",
+              "non_striker": "SS Nadkarni",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 25,
+          "deliveries": [
+            {
+              "batter": "SS Nadkarni",
+              "bowler": "S Vesawkar",
+              "non_striker": "RA Marshall",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SS Nadkarni",
+              "bowler": "S Vesawkar",
+              "non_striker": "RA Marshall",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SS Nadkarni",
+              "bowler": "S Vesawkar",
+              "non_striker": "RA Marshall",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SS Nadkarni",
+              "bowler": "S Vesawkar",
+              "non_striker": "RA Marshall",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SS Nadkarni",
+              "bowler": "S Vesawkar",
+              "non_striker": "RA Marshall",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RA Marshall",
+              "bowler": "S Vesawkar",
+              "non_striker": "SS Nadkarni",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 26,
+          "deliveries": [
+            {
+              "batter": "SS Nadkarni",
+              "bowler": "RK Vishwakarma",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "RA Marshall",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RA Marshall",
+              "bowler": "RK Vishwakarma",
+              "non_striker": "SS Nadkarni",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SS Nadkarni",
+              "bowler": "RK Vishwakarma",
+              "non_striker": "RA Marshall",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SS Nadkarni",
+              "bowler": "RK Vishwakarma",
+              "non_striker": "RA Marshall",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SS Nadkarni",
+              "bowler": "RK Vishwakarma",
+              "non_striker": "RA Marshall",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RA Marshall",
+              "bowler": "RK Vishwakarma",
+              "non_striker": "SS Nadkarni",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 27,
+          "deliveries": [
+            {
+              "batter": "SS Nadkarni",
+              "bowler": "S Vesawkar",
+              "non_striker": "RA Marshall",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SS Nadkarni",
+              "bowler": "S Vesawkar",
+              "non_striker": "RA Marshall",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SS Nadkarni",
+              "bowler": "S Vesawkar",
+              "non_striker": "RA Marshall",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RA Marshall",
+              "bowler": "S Vesawkar",
+              "non_striker": "SS Nadkarni",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "lbw",
+                  "player_out": "RA Marshall"
+                }
+              ]
+            },
+            {
+              "batter": "Usman Shuja",
+              "bowler": "S Vesawkar",
+              "non_striker": "SS Nadkarni",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Usman Shuja",
+              "bowler": "S Vesawkar",
+              "non_striker": "SS Nadkarni",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 28,
+          "deliveries": [
+            {
+              "batter": "SS Nadkarni",
+              "bowler": "A Bhattarai",
+              "non_striker": "Usman Shuja",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SS Nadkarni",
+              "bowler": "A Bhattarai",
+              "non_striker": "Usman Shuja",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Usman Shuja",
+              "bowler": "A Bhattarai",
+              "non_striker": "SS Nadkarni",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Usman Shuja",
+              "bowler": "A Bhattarai",
+              "non_striker": "SS Nadkarni",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Usman Shuja",
+              "bowler": "A Bhattarai",
+              "non_striker": "SS Nadkarni",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Usman Shuja",
+              "bowler": "A Bhattarai",
+              "non_striker": "SS Nadkarni",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 29,
+          "deliveries": [
+            {
+              "batter": "SS Nadkarni",
+              "bowler": "S Vesawkar",
+              "non_striker": "Usman Shuja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SS Nadkarni",
+              "bowler": "S Vesawkar",
+              "non_striker": "Usman Shuja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SS Nadkarni",
+              "bowler": "S Vesawkar",
+              "non_striker": "Usman Shuja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SS Nadkarni",
+              "bowler": "S Vesawkar",
+              "non_striker": "Usman Shuja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SS Nadkarni",
+              "bowler": "S Vesawkar",
+              "non_striker": "Usman Shuja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SS Nadkarni",
+              "bowler": "S Vesawkar",
+              "non_striker": "Usman Shuja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 30,
+          "deliveries": [
+            {
+              "batter": "Usman Shuja",
+              "bowler": "B Regmi",
+              "non_striker": "SS Nadkarni",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Usman Shuja",
+              "bowler": "B Regmi",
+              "non_striker": "SS Nadkarni",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SS Nadkarni",
+              "bowler": "B Regmi",
+              "non_striker": "Usman Shuja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SS Nadkarni",
+              "bowler": "B Regmi",
+              "non_striker": "Usman Shuja",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Usman Shuja",
+              "bowler": "B Regmi",
+              "non_striker": "SS Nadkarni",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Usman Shuja",
+              "bowler": "B Regmi",
+              "non_striker": "SS Nadkarni",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 31,
+          "deliveries": [
+            {
+              "batter": "SS Nadkarni",
+              "bowler": "S Vesawkar",
+              "non_striker": "Usman Shuja",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Usman Shuja",
+              "bowler": "S Vesawkar",
+              "non_striker": "SS Nadkarni",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Usman Shuja",
+              "bowler": "S Vesawkar",
+              "non_striker": "SS Nadkarni",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Usman Shuja",
+              "bowler": "S Vesawkar",
+              "non_striker": "SS Nadkarni",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Usman Shuja",
+              "bowler": "S Vesawkar",
+              "non_striker": "SS Nadkarni",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SS Nadkarni",
+              "bowler": "S Vesawkar",
+              "non_striker": "Usman Shuja",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 32,
+          "deliveries": [
+            {
+              "batter": "SS Nadkarni",
+              "bowler": "RK Vishwakarma",
+              "non_striker": "Usman Shuja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SS Nadkarni",
+              "bowler": "RK Vishwakarma",
+              "non_striker": "Usman Shuja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SS Nadkarni",
+              "bowler": "RK Vishwakarma",
+              "non_striker": "Usman Shuja",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Usman Shuja",
+              "bowler": "RK Vishwakarma",
+              "non_striker": "SS Nadkarni",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SS Nadkarni",
+              "bowler": "RK Vishwakarma",
+              "non_striker": "Usman Shuja",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Usman Shuja",
+              "bowler": "RK Vishwakarma",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "SS Nadkarni",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Usman Shuja",
+              "bowler": "RK Vishwakarma",
+              "non_striker": "SS Nadkarni",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 33,
+          "deliveries": [
+            {
+              "batter": "SS Nadkarni",
+              "bowler": "S Vesawkar",
+              "non_striker": "Usman Shuja",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Usman Shuja",
+              "bowler": "S Vesawkar",
+              "non_striker": "SS Nadkarni",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Usman Shuja",
+              "bowler": "S Vesawkar",
+              "non_striker": "SS Nadkarni",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Usman Shuja",
+              "bowler": "S Vesawkar",
+              "non_striker": "SS Nadkarni",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Usman Shuja",
+              "bowler": "S Vesawkar",
+              "non_striker": "SS Nadkarni",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Usman Shuja",
+              "bowler": "S Vesawkar",
+              "non_striker": "SS Nadkarni",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 34,
+          "deliveries": [
+            {
+              "batter": "SS Nadkarni",
+              "bowler": "RK Vishwakarma",
+              "non_striker": "Usman Shuja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SS Nadkarni",
+              "bowler": "RK Vishwakarma",
+              "non_striker": "Usman Shuja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SS Nadkarni",
+              "bowler": "RK Vishwakarma",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "Usman Shuja",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SS Nadkarni",
+              "bowler": "RK Vishwakarma",
+              "non_striker": "Usman Shuja",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Usman Shuja",
+              "bowler": "RK Vishwakarma",
+              "non_striker": "SS Nadkarni",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SS Nadkarni",
+              "bowler": "RK Vishwakarma",
+              "non_striker": "Usman Shuja",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SS Nadkarni",
+              "bowler": "RK Vishwakarma",
+              "non_striker": "Usman Shuja",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 35,
+          "deliveries": [
+            {
+              "batter": "Usman Shuja",
+              "bowler": "S Vesawkar",
+              "non_striker": "SS Nadkarni",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Usman Shuja",
+              "bowler": "S Vesawkar",
+              "non_striker": "SS Nadkarni",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SS Nadkarni",
+              "bowler": "S Vesawkar",
+              "non_striker": "Usman Shuja",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Usman Shuja",
+              "bowler": "S Vesawkar",
+              "non_striker": "SS Nadkarni",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Usman Shuja",
+              "bowler": "S Vesawkar",
+              "non_striker": "SS Nadkarni",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Usman Shuja",
+              "bowler": "S Vesawkar",
+              "non_striker": "SS Nadkarni",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Usman Shuja",
+                  "fielders": [
+                    {
+                      "name": "B Regmi"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 36,
+          "deliveries": [
+            {
+              "batter": "SS Nadkarni",
+              "bowler": "BK Das",
+              "non_striker": "Muhammad Ghous",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SS Nadkarni",
+              "bowler": "BK Das",
+              "non_striker": "Muhammad Ghous",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SS Nadkarni",
+              "bowler": "BK Das",
+              "non_striker": "Muhammad Ghous",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Ghous",
+              "bowler": "BK Das",
+              "non_striker": "SS Nadkarni",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Ghous",
+              "bowler": "BK Das",
+              "non_striker": "SS Nadkarni",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Ghous",
+              "bowler": "BK Das",
+              "non_striker": "SS Nadkarni",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 37,
+          "deliveries": [
+            {
+              "batter": "SS Nadkarni",
+              "bowler": "S Vesawkar",
+              "non_striker": "Muhammad Ghous",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SS Nadkarni",
+              "bowler": "S Vesawkar",
+              "non_striker": "Muhammad Ghous",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Ghous",
+              "bowler": "S Vesawkar",
+              "non_striker": "SS Nadkarni",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SS Nadkarni",
+              "bowler": "S Vesawkar",
+              "non_striker": "Muhammad Ghous",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Ghous",
+              "bowler": "S Vesawkar",
+              "non_striker": "SS Nadkarni",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Ghous",
+              "bowler": "S Vesawkar",
+              "non_striker": "SS Nadkarni",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 38,
+          "deliveries": [
+            {
+              "batter": "SS Nadkarni",
+              "bowler": "BK Das",
+              "non_striker": "Muhammad Ghous",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Ghous",
+              "bowler": "BK Das",
+              "non_striker": "SS Nadkarni",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Ghous",
+              "bowler": "BK Das",
+              "non_striker": "SS Nadkarni",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SS Nadkarni",
+              "bowler": "BK Das",
+              "non_striker": "Muhammad Ghous",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Ghous",
+              "bowler": "BK Das",
+              "non_striker": "SS Nadkarni",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Ghous",
+              "bowler": "BK Das",
+              "non_striker": "SS Nadkarni",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 39,
+          "deliveries": [
+            {
+              "batter": "Muhammad Ghous",
+              "bowler": "B Regmi",
+              "non_striker": "SS Nadkarni",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Ghous",
+              "bowler": "B Regmi",
+              "non_striker": "SS Nadkarni",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Ghous",
+              "bowler": "B Regmi",
+              "non_striker": "SS Nadkarni",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Ghous",
+              "bowler": "B Regmi",
+              "non_striker": "SS Nadkarni",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SS Nadkarni",
+              "bowler": "B Regmi",
+              "non_striker": "Muhammad Ghous",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SS Nadkarni",
+              "bowler": "B Regmi",
+              "non_striker": "Muhammad Ghous",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 40,
+          "deliveries": [
+            {
+              "batter": "Muhammad Ghous",
+              "bowler": "A Bhattarai",
+              "non_striker": "SS Nadkarni",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Ghous",
+              "bowler": "A Bhattarai",
+              "non_striker": "SS Nadkarni",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Ghous",
+              "bowler": "A Bhattarai",
+              "non_striker": "SS Nadkarni",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Ghous",
+              "bowler": "A Bhattarai",
+              "non_striker": "SS Nadkarni",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Ghous",
+              "bowler": "A Bhattarai",
+              "non_striker": "SS Nadkarni",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Ghous",
+              "bowler": "A Bhattarai",
+              "non_striker": "SS Nadkarni",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 41,
+          "deliveries": [
+            {
+              "batter": "Muhammad Ghous",
+              "bowler": "B Regmi",
+              "non_striker": "SS Nadkarni",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Ghous",
+              "bowler": "B Regmi",
+              "non_striker": "SS Nadkarni",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Muhammad Ghous",
+              "bowler": "B Regmi",
+              "non_striker": "SS Nadkarni",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Ghous",
+              "bowler": "B Regmi",
+              "non_striker": "SS Nadkarni",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Ghous",
+              "bowler": "B Regmi",
+              "non_striker": "SS Nadkarni",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Ghous",
+              "bowler": "B Regmi",
+              "non_striker": "SS Nadkarni",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 42,
+          "deliveries": [
+            {
+              "batter": "Muhammad Ghous",
+              "bowler": "SP Gauchan",
+              "non_striker": "SS Nadkarni",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Ghous",
+              "bowler": "SP Gauchan",
+              "non_striker": "SS Nadkarni",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Ghous",
+              "bowler": "SP Gauchan",
+              "non_striker": "SS Nadkarni",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Ghous",
+              "bowler": "SP Gauchan",
+              "non_striker": "SS Nadkarni",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Ghous",
+              "bowler": "SP Gauchan",
+              "non_striker": "SS Nadkarni",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Ghous",
+              "bowler": "SP Gauchan",
+              "non_striker": "SS Nadkarni",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 43,
+          "deliveries": [
+            {
+              "batter": "SS Nadkarni",
+              "bowler": "RK Vishwakarma",
+              "non_striker": "Muhammad Ghous",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Ghous",
+              "bowler": "RK Vishwakarma",
+              "non_striker": "SS Nadkarni",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SS Nadkarni",
+              "bowler": "RK Vishwakarma",
+              "non_striker": "Muhammad Ghous",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SS Nadkarni",
+              "bowler": "RK Vishwakarma",
+              "non_striker": "Muhammad Ghous",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Ghous",
+              "bowler": "RK Vishwakarma",
+              "non_striker": "SS Nadkarni",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Ghous",
+              "bowler": "RK Vishwakarma",
+              "non_striker": "SS Nadkarni",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 44,
+          "deliveries": [
+            {
+              "batter": "Muhammad Ghous",
+              "bowler": "SP Gauchan",
+              "non_striker": "SS Nadkarni",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Muhammad Ghous",
+              "bowler": "SP Gauchan",
+              "non_striker": "SS Nadkarni",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Ghous",
+              "bowler": "SP Gauchan",
+              "non_striker": "SS Nadkarni",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SS Nadkarni",
+              "bowler": "SP Gauchan",
+              "non_striker": "Muhammad Ghous",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SS Nadkarni",
+              "bowler": "SP Gauchan",
+              "non_striker": "Muhammad Ghous",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SS Nadkarni",
+              "bowler": "SP Gauchan",
+              "non_striker": "Muhammad Ghous",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 45,
+          "deliveries": [
+            {
+              "batter": "SS Nadkarni",
+              "bowler": "S Vesawkar",
+              "non_striker": "Muhammad Ghous",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SS Nadkarni",
+              "bowler": "S Vesawkar",
+              "non_striker": "Muhammad Ghous",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "SS Nadkarni",
+              "bowler": "S Vesawkar",
+              "non_striker": "Muhammad Ghous",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Ghous",
+              "bowler": "S Vesawkar",
+              "non_striker": "SS Nadkarni",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Ghous",
+              "bowler": "S Vesawkar",
+              "extras": {
+                "legbyes": 2
+              },
+              "non_striker": "SS Nadkarni",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Muhammad Ghous",
+              "bowler": "S Vesawkar",
+              "non_striker": "SS Nadkarni",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 46,
+          "deliveries": [
+            {
+              "batter": "SS Nadkarni",
+              "bowler": "A Bhattarai",
+              "non_striker": "Muhammad Ghous",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SS Nadkarni",
+              "bowler": "A Bhattarai",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Muhammad Ghous",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SS Nadkarni",
+              "bowler": "A Bhattarai",
+              "non_striker": "Muhammad Ghous",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SS Nadkarni",
+              "bowler": "A Bhattarai",
+              "non_striker": "Muhammad Ghous",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SS Nadkarni",
+              "bowler": "A Bhattarai",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Muhammad Ghous",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SS Nadkarni",
+              "bowler": "A Bhattarai",
+              "non_striker": "Muhammad Ghous",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Ghous",
+              "bowler": "A Bhattarai",
+              "non_striker": "SS Nadkarni",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Ghous",
+              "bowler": "A Bhattarai",
+              "non_striker": "SS Nadkarni",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Muhammad Ghous",
+                  "fielders": [
+                    {
+                      "name": "B Regmi"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 47,
+          "deliveries": [
+            {
+              "batter": "A Gordon",
+              "bowler": "B Regmi",
+              "non_striker": "SS Nadkarni",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Gordon",
+              "bowler": "B Regmi",
+              "non_striker": "SS Nadkarni",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Gordon",
+              "bowler": "B Regmi",
+              "non_striker": "SS Nadkarni",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Gordon",
+              "bowler": "B Regmi",
+              "non_striker": "SS Nadkarni",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SS Nadkarni",
+              "bowler": "B Regmi",
+              "non_striker": "A Gordon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SS Nadkarni",
+              "bowler": "B Regmi",
+              "non_striker": "A Gordon",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 48,
+          "deliveries": [
+            {
+              "batter": "SS Nadkarni",
+              "bowler": "A Bhattarai",
+              "non_striker": "A Gordon",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Gordon",
+              "bowler": "A Bhattarai",
+              "non_striker": "SS Nadkarni",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Gordon",
+              "bowler": "A Bhattarai",
+              "non_striker": "SS Nadkarni",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SS Nadkarni",
+              "bowler": "A Bhattarai",
+              "non_striker": "A Gordon",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Gordon",
+              "bowler": "A Bhattarai",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "SS Nadkarni",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SS Nadkarni",
+              "bowler": "A Bhattarai",
+              "non_striker": "A Gordon",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 49,
+          "deliveries": [
+            {
+              "batter": "SS Nadkarni",
+              "bowler": "P Khadka",
+              "non_striker": "A Gordon",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SS Nadkarni",
+              "bowler": "P Khadka",
+              "non_striker": "A Gordon",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Gordon",
+              "bowler": "P Khadka",
+              "non_striker": "SS Nadkarni",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SS Nadkarni",
+              "bowler": "P Khadka",
+              "non_striker": "A Gordon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SS Nadkarni",
+              "bowler": "P Khadka",
+              "non_striker": "A Gordon",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SS Nadkarni",
+              "bowler": "P Khadka",
+              "non_striker": "A Gordon",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 9.6,
+          "type": "mandatory"
+        },
+        {
+          "from": 15.1,
+          "to": 19.7,
+          "type": "fielding"
+        },
+        {
+          "from": 44.1,
+          "to": 48.6,
+          "type": "batting"
+        }
+      ]
+    },
+    {
+      "team": "Nepal",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "MK Chhetri",
+              "bowler": "KG Darlington",
+              "non_striker": "AK Mandal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MK Chhetri",
+              "bowler": "KG Darlington",
+              "non_striker": "AK Mandal",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MK Chhetri",
+              "bowler": "KG Darlington",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AK Mandal",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MK Chhetri",
+              "bowler": "KG Darlington",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AK Mandal",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MK Chhetri",
+              "bowler": "KG Darlington",
+              "non_striker": "AK Mandal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MK Chhetri",
+              "bowler": "KG Darlington",
+              "non_striker": "AK Mandal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MK Chhetri",
+              "bowler": "KG Darlington",
+              "extras": {
+                "byes": 4
+              },
+              "non_striker": "AK Mandal",
+              "runs": {
+                "batter": 0,
+                "extras": 4,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MK Chhetri",
+              "bowler": "KG Darlington",
+              "non_striker": "AK Mandal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "AK Mandal",
+              "bowler": "Usman Shuja",
+              "non_striker": "MK Chhetri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AK Mandal",
+              "bowler": "Usman Shuja",
+              "non_striker": "MK Chhetri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AK Mandal",
+              "bowler": "Usman Shuja",
+              "non_striker": "MK Chhetri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AK Mandal",
+              "bowler": "Usman Shuja",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "MK Chhetri",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AK Mandal",
+              "bowler": "Usman Shuja",
+              "non_striker": "MK Chhetri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "AK Mandal",
+                  "fielders": [
+                    {
+                      "name": "TP Allen",
+                      "substitute": true
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "SP Gauchan",
+              "bowler": "Usman Shuja",
+              "non_striker": "MK Chhetri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SP Gauchan",
+              "bowler": "Usman Shuja",
+              "non_striker": "MK Chhetri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "MK Chhetri",
+              "bowler": "KG Darlington",
+              "non_striker": "SP Gauchan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MK Chhetri",
+              "bowler": "KG Darlington",
+              "non_striker": "SP Gauchan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SP Gauchan",
+              "bowler": "KG Darlington",
+              "non_striker": "MK Chhetri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SP Gauchan",
+              "bowler": "KG Darlington",
+              "non_striker": "MK Chhetri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SP Gauchan",
+              "bowler": "KG Darlington",
+              "non_striker": "MK Chhetri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SP Gauchan",
+              "bowler": "KG Darlington",
+              "non_striker": "MK Chhetri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "MK Chhetri",
+              "bowler": "Usman Shuja",
+              "non_striker": "SP Gauchan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MK Chhetri",
+              "bowler": "Usman Shuja",
+              "non_striker": "SP Gauchan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MK Chhetri",
+              "bowler": "Usman Shuja",
+              "non_striker": "SP Gauchan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SP Gauchan",
+              "bowler": "Usman Shuja",
+              "non_striker": "MK Chhetri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SP Gauchan",
+              "bowler": "Usman Shuja",
+              "non_striker": "MK Chhetri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SP Gauchan",
+              "bowler": "Usman Shuja",
+              "non_striker": "MK Chhetri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "MK Chhetri",
+              "bowler": "KG Darlington",
+              "non_striker": "SP Gauchan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MK Chhetri",
+              "bowler": "KG Darlington",
+              "non_striker": "SP Gauchan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MK Chhetri",
+              "bowler": "KG Darlington",
+              "non_striker": "SP Gauchan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MK Chhetri",
+              "bowler": "KG Darlington",
+              "non_striker": "SP Gauchan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SP Gauchan",
+              "bowler": "KG Darlington",
+              "non_striker": "MK Chhetri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SP Gauchan",
+              "bowler": "KG Darlington",
+              "non_striker": "MK Chhetri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "MK Chhetri",
+              "bowler": "Usman Shuja",
+              "non_striker": "SP Gauchan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MK Chhetri",
+              "bowler": "Usman Shuja",
+              "non_striker": "SP Gauchan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SP Gauchan",
+              "bowler": "Usman Shuja",
+              "non_striker": "MK Chhetri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SP Gauchan",
+              "bowler": "Usman Shuja",
+              "non_striker": "MK Chhetri",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MK Chhetri",
+              "bowler": "Usman Shuja",
+              "non_striker": "SP Gauchan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MK Chhetri",
+              "bowler": "Usman Shuja",
+              "non_striker": "SP Gauchan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "SP Gauchan",
+              "bowler": "KG Darlington",
+              "non_striker": "MK Chhetri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SP Gauchan",
+              "bowler": "KG Darlington",
+              "non_striker": "MK Chhetri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SP Gauchan",
+              "bowler": "KG Darlington",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "MK Chhetri",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MK Chhetri",
+              "bowler": "KG Darlington",
+              "non_striker": "SP Gauchan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MK Chhetri",
+              "bowler": "KG Darlington",
+              "non_striker": "SP Gauchan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MK Chhetri",
+              "bowler": "KG Darlington",
+              "non_striker": "SP Gauchan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "SP Gauchan",
+              "bowler": "Usman Shuja",
+              "non_striker": "MK Chhetri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SP Gauchan",
+              "bowler": "Usman Shuja",
+              "non_striker": "MK Chhetri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SP Gauchan",
+              "bowler": "Usman Shuja",
+              "non_striker": "MK Chhetri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SP Gauchan",
+              "bowler": "Usman Shuja",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "MK Chhetri",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SP Gauchan",
+              "bowler": "Usman Shuja",
+              "non_striker": "MK Chhetri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SP Gauchan",
+              "bowler": "Usman Shuja",
+              "non_striker": "MK Chhetri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SP Gauchan",
+              "bowler": "Usman Shuja",
+              "non_striker": "MK Chhetri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "MK Chhetri",
+              "bowler": "OM Baker",
+              "non_striker": "SP Gauchan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SP Gauchan",
+              "bowler": "OM Baker",
+              "non_striker": "MK Chhetri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SP Gauchan",
+              "bowler": "OM Baker",
+              "non_striker": "MK Chhetri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SP Gauchan",
+              "bowler": "OM Baker",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "MK Chhetri",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SP Gauchan",
+              "bowler": "OM Baker",
+              "non_striker": "MK Chhetri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SP Gauchan",
+              "bowler": "OM Baker",
+              "non_striker": "MK Chhetri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SP Gauchan",
+              "bowler": "OM Baker",
+              "non_striker": "MK Chhetri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "MK Chhetri",
+              "bowler": "Usman Shuja",
+              "non_striker": "SP Gauchan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SP Gauchan",
+              "bowler": "Usman Shuja",
+              "non_striker": "MK Chhetri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SP Gauchan",
+              "bowler": "Usman Shuja",
+              "non_striker": "MK Chhetri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SP Gauchan",
+              "bowler": "Usman Shuja",
+              "non_striker": "MK Chhetri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SP Gauchan",
+              "bowler": "Usman Shuja",
+              "non_striker": "MK Chhetri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SP Gauchan",
+              "bowler": "Usman Shuja",
+              "non_striker": "MK Chhetri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "MK Chhetri",
+              "bowler": "OM Baker",
+              "non_striker": "SP Gauchan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SP Gauchan",
+              "bowler": "OM Baker",
+              "non_striker": "MK Chhetri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SP Gauchan",
+              "bowler": "OM Baker",
+              "non_striker": "MK Chhetri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SP Gauchan",
+              "bowler": "OM Baker",
+              "non_striker": "MK Chhetri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SP Gauchan",
+              "bowler": "OM Baker",
+              "non_striker": "MK Chhetri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "SP Gauchan",
+                  "fielders": [
+                    {
+                      "name": "CD Wright"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "P Khadka",
+              "bowler": "OM Baker",
+              "non_striker": "MK Chhetri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "MK Chhetri",
+              "bowler": "Usman Shuja",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "MK Chhetri",
+                  "fielders": [
+                    {
+                      "name": "CD Wright"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "S Vesawkar",
+              "bowler": "Usman Shuja",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Vesawkar",
+              "bowler": "Usman Shuja",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Vesawkar",
+              "bowler": "Usman Shuja",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Khadka",
+              "bowler": "Usman Shuja",
+              "non_striker": "S Vesawkar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Vesawkar",
+              "bowler": "Usman Shuja",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "P Khadka",
+              "bowler": "OM Baker",
+              "non_striker": "S Vesawkar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Khadka",
+              "bowler": "OM Baker",
+              "non_striker": "S Vesawkar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Khadka",
+              "bowler": "OM Baker",
+              "non_striker": "S Vesawkar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Vesawkar",
+              "bowler": "OM Baker",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Vesawkar",
+              "bowler": "OM Baker",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Vesawkar",
+              "bowler": "OM Baker",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Vesawkar",
+              "bowler": "OM Baker",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "P Khadka",
+              "bowler": "Usman Shuja",
+              "non_striker": "S Vesawkar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Khadka",
+              "bowler": "Usman Shuja",
+              "non_striker": "S Vesawkar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Vesawkar",
+              "bowler": "Usman Shuja",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Vesawkar",
+              "bowler": "Usman Shuja",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Vesawkar",
+              "bowler": "Usman Shuja",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "S Vesawkar",
+                  "fielders": [
+                    {
+                      "name": "TP Allen",
+                      "substitute": true
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "G Malla",
+              "bowler": "Usman Shuja",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "P Khadka",
+              "bowler": "OM Baker",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Khadka",
+              "bowler": "OM Baker",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Malla",
+              "bowler": "OM Baker",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Malla",
+              "bowler": "OM Baker",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Malla",
+              "bowler": "OM Baker",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Malla",
+              "bowler": "OM Baker",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Malla",
+              "bowler": "OM Baker",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "P Khadka",
+              "bowler": "Usman Shuja",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Khadka",
+              "bowler": "Usman Shuja",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Khadka",
+              "bowler": "Usman Shuja",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Khadka",
+              "bowler": "Usman Shuja",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "P Khadka",
+              "bowler": "Usman Shuja",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Khadka",
+              "bowler": "Usman Shuja",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "G Malla",
+              "bowler": "KG Darlington",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Malla",
+              "bowler": "KG Darlington",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Malla",
+              "bowler": "KG Darlington",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Malla",
+              "bowler": "KG Darlington",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Malla",
+              "bowler": "KG Darlington",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Malla",
+              "bowler": "KG Darlington",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "P Khadka",
+              "bowler": "A Gordon",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Malla",
+              "bowler": "A Gordon",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Khadka",
+              "bowler": "A Gordon",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Malla",
+              "bowler": "A Gordon",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Malla",
+              "bowler": "A Gordon",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Malla",
+              "bowler": "A Gordon",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "G Malla",
+              "bowler": "A Gordon",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "P Khadka",
+              "bowler": "KG Darlington",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "P Khadka",
+              "bowler": "KG Darlington",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Khadka",
+              "bowler": "KG Darlington",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Khadka",
+              "bowler": "KG Darlington",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Khadka",
+              "bowler": "KG Darlington",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Khadka",
+              "bowler": "KG Darlington",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "G Malla",
+              "bowler": "A Gordon",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Malla",
+              "bowler": "A Gordon",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Malla",
+              "bowler": "A Gordon",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Malla",
+              "bowler": "A Gordon",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Malla",
+              "bowler": "A Gordon",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Khadka",
+              "bowler": "A Gordon",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 20,
+          "deliveries": [
+            {
+              "batter": "P Khadka",
+              "bowler": "OM Baker",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Khadka",
+              "bowler": "OM Baker",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Khadka",
+              "bowler": "OM Baker",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "P Khadka",
+              "bowler": "OM Baker",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Khadka",
+              "bowler": "OM Baker",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Khadka",
+              "bowler": "OM Baker",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 21,
+          "deliveries": [
+            {
+              "batter": "P Khadka",
+              "bowler": "A Gordon",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Khadka",
+              "bowler": "A Gordon",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Malla",
+              "bowler": "A Gordon",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Malla",
+              "bowler": "A Gordon",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Malla",
+              "bowler": "A Gordon",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Khadka",
+              "bowler": "A Gordon",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 22,
+          "deliveries": [
+            {
+              "batter": "G Malla",
+              "bowler": "OM Baker",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Malla",
+              "bowler": "OM Baker",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Khadka",
+              "bowler": "OM Baker",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Khadka",
+              "bowler": "OM Baker",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Malla",
+              "bowler": "OM Baker",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Malla",
+              "bowler": "OM Baker",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 23,
+          "deliveries": [
+            {
+              "batter": "G Malla",
+              "bowler": "A Gordon",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Malla",
+              "bowler": "A Gordon",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Khadka",
+              "bowler": "A Gordon",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Malla",
+              "bowler": "A Gordon",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Malla",
+              "bowler": "A Gordon",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Khadka",
+              "bowler": "A Gordon",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 24,
+          "deliveries": [
+            {
+              "batter": "G Malla",
+              "bowler": "OM Baker",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Khadka",
+              "bowler": "OM Baker",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Khadka",
+              "bowler": "OM Baker",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "P Khadka",
+              "bowler": "OM Baker",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Malla",
+              "bowler": "OM Baker",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Malla",
+              "bowler": "OM Baker",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 25,
+          "deliveries": [
+            {
+              "batter": "G Malla",
+              "bowler": "Muhammad Ghous",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Khadka",
+              "bowler": "Muhammad Ghous",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Khadka",
+              "bowler": "Muhammad Ghous",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Khadka",
+              "bowler": "Muhammad Ghous",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Khadka",
+              "bowler": "Muhammad Ghous",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Khadka",
+              "bowler": "Muhammad Ghous",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 26,
+          "deliveries": [
+            {
+              "batter": "P Khadka",
+              "bowler": "A Gordon",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Malla",
+              "bowler": "A Gordon",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Malla",
+              "bowler": "A Gordon",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Malla",
+              "bowler": "A Gordon",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Khadka",
+              "bowler": "A Gordon",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Khadka",
+              "bowler": "A Gordon",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 27,
+          "deliveries": [
+            {
+              "batter": "G Malla",
+              "bowler": "Muhammad Ghous",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Khadka",
+              "bowler": "Muhammad Ghous",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Khadka",
+              "bowler": "Muhammad Ghous",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Khadka",
+              "bowler": "Muhammad Ghous",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Khadka",
+              "bowler": "Muhammad Ghous",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Khadka",
+              "bowler": "Muhammad Ghous",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 28,
+          "deliveries": [
+            {
+              "batter": "G Malla",
+              "bowler": "A Gordon",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Malla",
+              "bowler": "A Gordon",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Khadka",
+              "bowler": "A Gordon",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Malla",
+              "bowler": "A Gordon",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Malla",
+              "bowler": "A Gordon",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Khadka",
+              "bowler": "A Gordon",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 29,
+          "deliveries": [
+            {
+              "batter": "G Malla",
+              "bowler": "Muhammad Ghous",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Khadka",
+              "bowler": "Muhammad Ghous",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Khadka",
+              "bowler": "Muhammad Ghous",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Khadka",
+              "bowler": "Muhammad Ghous",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Khadka",
+              "bowler": "Muhammad Ghous",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Khadka",
+              "bowler": "Muhammad Ghous",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 30,
+          "deliveries": [
+            {
+              "batter": "P Khadka",
+              "bowler": "A Gordon",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Khadka",
+              "bowler": "A Gordon",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Malla",
+              "bowler": "A Gordon",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Malla",
+              "bowler": "A Gordon",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Malla",
+              "bowler": "A Gordon",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Khadka",
+              "bowler": "A Gordon",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 31,
+          "deliveries": [
+            {
+              "batter": "P Khadka",
+              "bowler": "Muhammad Ghous",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "P Khadka",
+              "bowler": "Muhammad Ghous",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Khadka",
+              "bowler": "Muhammad Ghous",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Khadka",
+              "bowler": "Muhammad Ghous",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Malla",
+              "bowler": "Muhammad Ghous",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Khadka",
+              "bowler": "Muhammad Ghous",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 32,
+          "deliveries": [
+            {
+              "batter": "G Malla",
+              "bowler": "A Gordon",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Khadka",
+              "bowler": "A Gordon",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Malla",
+              "bowler": "A Gordon",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Malla",
+              "bowler": "A Gordon",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Malla",
+              "bowler": "A Gordon",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Khadka",
+              "bowler": "A Gordon",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Khadka",
+              "bowler": "A Gordon",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Malla",
+              "bowler": "A Gordon",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 33,
+          "deliveries": [
+            {
+              "batter": "P Khadka",
+              "bowler": "Muhammad Ghous",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Malla",
+              "bowler": "Muhammad Ghous",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Khadka",
+              "bowler": "Muhammad Ghous",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "stumped",
+                  "player_out": "P Khadka",
+                  "fielders": [
+                    {
+                      "name": "CD Wright"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "PS Airee",
+              "bowler": "Muhammad Ghous",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PS Airee",
+              "bowler": "Muhammad Ghous",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "PS Airee",
+              "bowler": "Muhammad Ghous",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 34,
+          "deliveries": [
+            {
+              "batter": "G Malla",
+              "bowler": "A Gordon",
+              "non_striker": "PS Airee",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Malla",
+              "bowler": "A Gordon",
+              "non_striker": "PS Airee",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Malla",
+              "bowler": "A Gordon",
+              "non_striker": "PS Airee",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Malla",
+              "bowler": "A Gordon",
+              "non_striker": "PS Airee",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PS Airee",
+              "bowler": "A Gordon",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PS Airee",
+              "bowler": "A Gordon",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 35,
+          "deliveries": [
+            {
+              "batter": "G Malla",
+              "bowler": "Muhammad Ghous",
+              "non_striker": "PS Airee",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Malla",
+              "bowler": "Muhammad Ghous",
+              "non_striker": "PS Airee",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PS Airee",
+              "bowler": "Muhammad Ghous",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PS Airee",
+              "bowler": "Muhammad Ghous",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PS Airee",
+              "bowler": "Muhammad Ghous",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PS Airee",
+              "bowler": "Muhammad Ghous",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "PS Airee",
+                  "fielders": [
+                    {
+                      "name": "SJ Massiah"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 36,
+          "deliveries": [
+            {
+              "batter": "G Malla",
+              "bowler": "A Gordon",
+              "non_striker": "B Regmi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Malla",
+              "bowler": "A Gordon",
+              "non_striker": "B Regmi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Malla",
+              "bowler": "A Gordon",
+              "non_striker": "B Regmi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "G Malla",
+              "bowler": "A Gordon",
+              "non_striker": "B Regmi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Malla",
+              "bowler": "A Gordon",
+              "non_striker": "B Regmi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Malla",
+              "bowler": "A Gordon",
+              "non_striker": "B Regmi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 37,
+          "deliveries": [
+            {
+              "batter": "G Malla",
+              "bowler": "Muhammad Ghous",
+              "non_striker": "B Regmi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Malla",
+              "bowler": "Muhammad Ghous",
+              "non_striker": "B Regmi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "G Malla",
+              "bowler": "Muhammad Ghous",
+              "non_striker": "B Regmi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Malla",
+              "bowler": "Muhammad Ghous",
+              "non_striker": "B Regmi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Malla",
+              "bowler": "Muhammad Ghous",
+              "non_striker": "B Regmi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Regmi",
+              "bowler": "Muhammad Ghous",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 38,
+          "deliveries": [
+            {
+              "batter": "B Regmi",
+              "bowler": "OM Baker",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Regmi",
+              "bowler": "OM Baker",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Regmi",
+              "bowler": "OM Baker",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Malla",
+              "bowler": "OM Baker",
+              "non_striker": "B Regmi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Malla",
+              "bowler": "OM Baker",
+              "non_striker": "B Regmi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "G Malla",
+                  "fielders": [
+                    {
+                      "name": "CD Wright"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "BK Das",
+              "bowler": "OM Baker",
+              "non_striker": "B Regmi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 39,
+          "deliveries": [
+            {
+              "batter": "B Regmi",
+              "bowler": "Muhammad Ghous",
+              "non_striker": "BK Das",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BK Das",
+              "bowler": "Muhammad Ghous",
+              "non_striker": "B Regmi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BK Das",
+              "bowler": "Muhammad Ghous",
+              "non_striker": "B Regmi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Regmi",
+              "bowler": "Muhammad Ghous",
+              "non_striker": "BK Das",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Regmi",
+              "bowler": "Muhammad Ghous",
+              "non_striker": "BK Das",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BK Das",
+              "bowler": "Muhammad Ghous",
+              "non_striker": "B Regmi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 40,
+          "deliveries": [
+            {
+              "batter": "BK Das",
+              "bowler": "OM Baker",
+              "non_striker": "B Regmi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BK Das",
+              "bowler": "OM Baker",
+              "non_striker": "B Regmi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Regmi",
+              "bowler": "OM Baker",
+              "non_striker": "BK Das",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Regmi",
+              "bowler": "OM Baker",
+              "non_striker": "BK Das",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BK Das",
+              "bowler": "OM Baker",
+              "non_striker": "B Regmi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BK Das",
+              "bowler": "OM Baker",
+              "non_striker": "B Regmi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 41,
+          "deliveries": [
+            {
+              "batter": "BK Das",
+              "bowler": "Muhammad Ghous",
+              "non_striker": "B Regmi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BK Das",
+              "bowler": "Muhammad Ghous",
+              "non_striker": "B Regmi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BK Das",
+              "bowler": "Muhammad Ghous",
+              "non_striker": "B Regmi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "BK Das",
+              "bowler": "Muhammad Ghous",
+              "non_striker": "B Regmi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BK Das",
+              "bowler": "Muhammad Ghous",
+              "non_striker": "B Regmi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "BK Das",
+                  "fielders": [
+                    {
+                      "name": "Usman Shuja"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "B Regmi",
+              "bowler": "Muhammad Ghous",
+              "non_striker": "RK Vishwakarma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 42,
+          "deliveries": [
+            {
+              "batter": "RK Vishwakarma",
+              "bowler": "OM Baker",
+              "non_striker": "B Regmi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RK Vishwakarma",
+              "bowler": "OM Baker",
+              "non_striker": "B Regmi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "RK Vishwakarma",
+              "bowler": "OM Baker",
+              "non_striker": "B Regmi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RK Vishwakarma",
+              "bowler": "OM Baker",
+              "non_striker": "B Regmi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "RK Vishwakarma",
+              "bowler": "OM Baker",
+              "non_striker": "B Regmi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Regmi",
+              "bowler": "OM Baker",
+              "non_striker": "RK Vishwakarma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 43,
+          "deliveries": [
+            {
+              "batter": "B Regmi",
+              "bowler": "Muhammad Ghous",
+              "non_striker": "RK Vishwakarma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Regmi",
+              "bowler": "Muhammad Ghous",
+              "non_striker": "RK Vishwakarma",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "B Regmi",
+              "bowler": "Muhammad Ghous",
+              "non_striker": "RK Vishwakarma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Regmi",
+              "bowler": "Muhammad Ghous",
+              "non_striker": "RK Vishwakarma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RK Vishwakarma",
+              "bowler": "Muhammad Ghous",
+              "non_striker": "B Regmi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RK Vishwakarma",
+              "bowler": "Muhammad Ghous",
+              "non_striker": "B Regmi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 44,
+          "deliveries": [
+            {
+              "batter": "B Regmi",
+              "bowler": "KG Darlington",
+              "non_striker": "RK Vishwakarma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Regmi",
+              "bowler": "KG Darlington",
+              "non_striker": "RK Vishwakarma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Regmi",
+              "bowler": "KG Darlington",
+              "non_striker": "RK Vishwakarma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "B Regmi",
+                  "fielders": [
+                    {
+                      "name": "SJ Massiah"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "RK Vishwakarma",
+              "bowler": "KG Darlington",
+              "non_striker": "A Bhattarai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RK Vishwakarma",
+              "bowler": "KG Darlington",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Bhattarai",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RK Vishwakarma",
+              "bowler": "KG Darlington",
+              "non_striker": "A Bhattarai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Bhattarai",
+              "bowler": "KG Darlington",
+              "non_striker": "RK Vishwakarma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 45,
+          "deliveries": [
+            {
+              "batter": "RK Vishwakarma",
+              "bowler": "LJ Cush",
+              "non_striker": "A Bhattarai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RK Vishwakarma",
+              "bowler": "LJ Cush",
+              "non_striker": "A Bhattarai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RK Vishwakarma",
+              "bowler": "LJ Cush",
+              "non_striker": "A Bhattarai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RK Vishwakarma",
+              "bowler": "LJ Cush",
+              "non_striker": "A Bhattarai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RK Vishwakarma",
+              "bowler": "LJ Cush",
+              "non_striker": "A Bhattarai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RK Vishwakarma",
+              "bowler": "LJ Cush",
+              "non_striker": "A Bhattarai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 46,
+          "deliveries": [
+            {
+              "batter": "RK Vishwakarma",
+              "bowler": "KG Darlington",
+              "non_striker": "A Bhattarai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RK Vishwakarma",
+              "bowler": "KG Darlington",
+              "non_striker": "A Bhattarai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RK Vishwakarma",
+              "bowler": "KG Darlington",
+              "non_striker": "A Bhattarai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RK Vishwakarma",
+              "bowler": "KG Darlington",
+              "non_striker": "A Bhattarai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RK Vishwakarma",
+              "bowler": "KG Darlington",
+              "non_striker": "A Bhattarai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Bhattarai",
+              "bowler": "KG Darlington",
+              "non_striker": "RK Vishwakarma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 47,
+          "deliveries": [
+            {
+              "batter": "RK Vishwakarma",
+              "bowler": "LJ Cush",
+              "non_striker": "A Bhattarai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RK Vishwakarma",
+              "bowler": "LJ Cush",
+              "non_striker": "A Bhattarai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RK Vishwakarma",
+              "bowler": "LJ Cush",
+              "non_striker": "A Bhattarai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RK Vishwakarma",
+              "bowler": "LJ Cush",
+              "non_striker": "A Bhattarai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Bhattarai",
+              "bowler": "LJ Cush",
+              "non_striker": "RK Vishwakarma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Bhattarai",
+              "bowler": "LJ Cush",
+              "non_striker": "RK Vishwakarma",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 48,
+          "deliveries": [
+            {
+              "batter": "RK Vishwakarma",
+              "bowler": "KG Darlington",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Bhattarai",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RK Vishwakarma",
+              "bowler": "KG Darlington",
+              "non_striker": "A Bhattarai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RK Vishwakarma",
+              "bowler": "KG Darlington",
+              "non_striker": "A Bhattarai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RK Vishwakarma",
+              "bowler": "KG Darlington",
+              "non_striker": "A Bhattarai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RK Vishwakarma",
+              "bowler": "KG Darlington",
+              "non_striker": "A Bhattarai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RK Vishwakarma",
+              "bowler": "KG Darlington",
+              "non_striker": "A Bhattarai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Bhattarai",
+              "bowler": "KG Darlington",
+              "non_striker": "RK Vishwakarma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 49,
+          "deliveries": [
+            {
+              "batter": "RK Vishwakarma",
+              "bowler": "LJ Cush",
+              "non_striker": "A Bhattarai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Bhattarai",
+              "bowler": "LJ Cush",
+              "non_striker": "RK Vishwakarma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Bhattarai",
+              "bowler": "LJ Cush",
+              "non_striker": "RK Vishwakarma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "A Bhattarai",
+                  "fielders": [
+                    {
+                      "name": "SJ Massiah"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 9.6,
+          "type": "mandatory"
+        },
+        {
+          "from": 10.1,
+          "to": 14.7,
+          "type": "fielding"
+        }
+      ],
+      "target": {
+        "overs": 50,
+        "runs": 204
+      }
+    }
+  ]
+}

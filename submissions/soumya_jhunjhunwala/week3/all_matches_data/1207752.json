@@ -1,0 +1,2495 @@
+{
+  "meta": {
+    "data_version": "1.0.0",
+    "created": "2020-09-15",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Cardiff",
+    "dates": [
+      "2020-09-13"
+    ],
+    "event": {
+      "name": "Vitality Blast",
+      "group": "Central"
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "officials": {
+      "match_referees": [
+        "DA Cosker"
+      ],
+      "umpires": [
+        "JH Evans",
+        "RJ Warren"
+      ]
+    },
+    "outcome": {
+      "winner": "Glamorgan",
+      "by": {
+        "wickets": 7
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "DL Lloyd"
+    ],
+    "players": {
+      "Northamptonshire": [
+        "RE Levi",
+        "PR Stirling",
+        "JJ Cobb",
+        "AM Rossington",
+        "LA Procter",
+        "AG Wakely",
+        "TB Sole",
+        "GG White",
+        "GK Berg",
+        "NL Buck",
+        "BW Sanderson"
+      ],
+      "Glamorgan": [
+        "DL Lloyd",
+        "NJ Selman",
+        "CB Cooke",
+        "Callum Taylor",
+        "A Balbirnie",
+        "AO Morgan",
+        "AG Salter",
+        "M de Lange",
+        "T van der Gugten",
+        "RAJ Smith",
+        "P Sisodiya"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Balbirnie": "6ef13460",
+        "AG Salter": "1a45b864",
+        "AG Wakely": "730d120f",
+        "AM Rossington": "7bcde3fe",
+        "AO Morgan": "24dd1b81",
+        "BW Sanderson": "e871a7a1",
+        "CB Cooke": "6755cd5c",
+        "Callum Taylor": "5a42a396",
+        "DA Cosker": "aac9f784",
+        "DL Lloyd": "0c7f11be",
+        "GG White": "0f21680d",
+        "GK Berg": "42151725",
+        "JH Evans": "f444fdac",
+        "JJ Cobb": "58c481c6",
+        "LA Procter": "07c8a2f4",
+        "M de Lange": "d4eef961",
+        "NJ Selman": "bab08c8b",
+        "NL Buck": "5239d782",
+        "P Sisodiya": "dd9de7ad",
+        "PR Stirling": "cf494ffe",
+        "RAJ Smith": "6daf5e8c",
+        "RE Levi": "18c78b11",
+        "RJ Warren": "9d1c62d7",
+        "T van der Gugten": "d99cc23a",
+        "TB Sole": "98e908bd"
+      }
+    },
+    "season": "2020",
+    "team_type": "club",
+    "teams": [
+      "Northamptonshire",
+      "Glamorgan"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "Northamptonshire"
+    },
+    "venue": "Sophia Gardens"
+  },
+  "innings": [
+    {
+      "team": "Northamptonshire",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "RE Levi",
+              "bowler": "P Sisodiya",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "RE Levi",
+              "bowler": "P Sisodiya",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RE Levi",
+              "bowler": "P Sisodiya",
+              "extras": {
+                "byes": 4
+              },
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 0,
+                "extras": 4,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RE Levi",
+              "bowler": "P Sisodiya",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "RE Levi",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "JJ Cobb",
+              "bowler": "P Sisodiya",
+              "non_striker": "PR Stirling",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PR Stirling",
+              "bowler": "P Sisodiya",
+              "non_striker": "JJ Cobb",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "PR Stirling",
+              "bowler": "AG Salter",
+              "non_striker": "JJ Cobb",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "PR Stirling",
+                  "fielders": [
+                    {
+                      "name": "CB Cooke"
+                    }
+                  ],
+                  "kind": "stumped"
+                }
+              ]
+            },
+            {
+              "batter": "AM Rossington",
+              "bowler": "AG Salter",
+              "non_striker": "JJ Cobb",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JJ Cobb",
+              "bowler": "AG Salter",
+              "non_striker": "AM Rossington",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "JJ Cobb",
+              "bowler": "AG Salter",
+              "non_striker": "AM Rossington",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JJ Cobb",
+              "bowler": "AG Salter",
+              "non_striker": "AM Rossington",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JJ Cobb",
+              "bowler": "AG Salter",
+              "non_striker": "AM Rossington",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "JJ Cobb",
+              "bowler": "P Sisodiya",
+              "non_striker": "AM Rossington",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JJ Cobb",
+              "bowler": "P Sisodiya",
+              "non_striker": "AM Rossington",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AM Rossington",
+              "bowler": "P Sisodiya",
+              "non_striker": "JJ Cobb",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JJ Cobb",
+              "bowler": "P Sisodiya",
+              "non_striker": "AM Rossington",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AM Rossington",
+              "bowler": "P Sisodiya",
+              "non_striker": "JJ Cobb",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AM Rossington",
+              "bowler": "P Sisodiya",
+              "non_striker": "JJ Cobb",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "JJ Cobb",
+              "bowler": "RAJ Smith",
+              "non_striker": "AM Rossington",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JJ Cobb",
+              "bowler": "RAJ Smith",
+              "non_striker": "AM Rossington",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JJ Cobb",
+              "bowler": "RAJ Smith",
+              "non_striker": "AM Rossington",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JJ Cobb",
+              "bowler": "RAJ Smith",
+              "non_striker": "AM Rossington",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JJ Cobb",
+              "bowler": "RAJ Smith",
+              "non_striker": "AM Rossington",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AM Rossington",
+              "bowler": "RAJ Smith",
+              "non_striker": "JJ Cobb",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "JJ Cobb",
+              "bowler": "T van der Gugten",
+              "non_striker": "AM Rossington",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JJ Cobb",
+              "bowler": "T van der Gugten",
+              "non_striker": "AM Rossington",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JJ Cobb",
+              "bowler": "T van der Gugten",
+              "non_striker": "AM Rossington",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "JJ Cobb",
+                  "fielders": [
+                    {
+                      "name": "CB Cooke"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "AM Rossington",
+              "bowler": "T van der Gugten",
+              "non_striker": "LA Procter",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LA Procter",
+              "bowler": "T van der Gugten",
+              "non_striker": "AM Rossington",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AM Rossington",
+              "bowler": "T van der Gugten",
+              "non_striker": "LA Procter",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "AM Rossington",
+              "bowler": "RAJ Smith",
+              "non_striker": "LA Procter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AM Rossington",
+              "bowler": "RAJ Smith",
+              "non_striker": "LA Procter",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LA Procter",
+              "bowler": "RAJ Smith",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AM Rossington",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LA Procter",
+              "bowler": "RAJ Smith",
+              "non_striker": "AM Rossington",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "LA Procter",
+              "bowler": "RAJ Smith",
+              "non_striker": "AM Rossington",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "LA Procter",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "AG Wakely",
+              "bowler": "RAJ Smith",
+              "non_striker": "AM Rossington",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AG Wakely",
+              "bowler": "RAJ Smith",
+              "non_striker": "AM Rossington",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "AM Rossington",
+              "bowler": "T van der Gugten",
+              "non_striker": "AG Wakely",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AM Rossington",
+              "bowler": "T van der Gugten",
+              "non_striker": "AG Wakely",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AM Rossington",
+              "bowler": "T van der Gugten",
+              "non_striker": "AG Wakely",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AG Wakely",
+              "bowler": "T van der Gugten",
+              "non_striker": "AM Rossington",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AG Wakely",
+              "bowler": "T van der Gugten",
+              "non_striker": "AM Rossington",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AM Rossington",
+              "bowler": "T van der Gugten",
+              "non_striker": "AG Wakely",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "AM Rossington",
+                  "fielders": [
+                    {
+                      "name": "CB Cooke"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "AG Wakely",
+              "bowler": "AG Salter",
+              "non_striker": "TB Sole",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TB Sole",
+              "bowler": "AG Salter",
+              "non_striker": "AG Wakely",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TB Sole",
+              "bowler": "AG Salter",
+              "non_striker": "AG Wakely",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AG Wakely",
+              "bowler": "AG Salter",
+              "non_striker": "TB Sole",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TB Sole",
+              "bowler": "AG Salter",
+              "non_striker": "AG Wakely",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TB Sole",
+              "bowler": "AG Salter",
+              "non_striker": "AG Wakely",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "TB Sole",
+              "bowler": "M de Lange",
+              "non_striker": "AG Wakely",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TB Sole",
+              "bowler": "M de Lange",
+              "non_striker": "AG Wakely",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TB Sole",
+              "bowler": "M de Lange",
+              "non_striker": "AG Wakely",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TB Sole",
+              "bowler": "M de Lange",
+              "extras": {
+                "byes": 4,
+                "noballs": 2
+              },
+              "non_striker": "AG Wakely",
+              "runs": {
+                "batter": 0,
+                "extras": 6,
+                "total": 6
+              }
+            },
+            {
+              "batter": "TB Sole",
+              "bowler": "M de Lange",
+              "non_striker": "AG Wakely",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TB Sole",
+              "bowler": "M de Lange",
+              "non_striker": "AG Wakely",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "TB Sole",
+              "bowler": "M de Lange",
+              "non_striker": "AG Wakely",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "AG Wakely",
+              "bowler": "AG Salter",
+              "non_striker": "TB Sole",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TB Sole",
+              "bowler": "AG Salter",
+              "non_striker": "AG Wakely",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "TB Sole",
+              "bowler": "AG Salter",
+              "non_striker": "AG Wakely",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TB Sole",
+              "bowler": "AG Salter",
+              "non_striker": "AG Wakely",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AG Wakely",
+              "bowler": "AG Salter",
+              "non_striker": "TB Sole",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AG Wakely",
+              "bowler": "AG Salter",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "TB Sole",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "AG Wakely",
+              "bowler": "M de Lange",
+              "non_striker": "TB Sole",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TB Sole",
+              "bowler": "M de Lange",
+              "non_striker": "AG Wakely",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TB Sole",
+              "bowler": "M de Lange",
+              "non_striker": "AG Wakely",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AG Wakely",
+              "bowler": "M de Lange",
+              "non_striker": "TB Sole",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TB Sole",
+              "bowler": "M de Lange",
+              "non_striker": "AG Wakely",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AG Wakely",
+              "bowler": "M de Lange",
+              "non_striker": "TB Sole",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "AG Wakely",
+              "bowler": "AG Salter",
+              "non_striker": "TB Sole",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TB Sole",
+              "bowler": "AG Salter",
+              "non_striker": "AG Wakely",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TB Sole",
+              "bowler": "AG Salter",
+              "non_striker": "AG Wakely",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TB Sole",
+              "bowler": "AG Salter",
+              "non_striker": "AG Wakely",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "TB Sole",
+              "bowler": "AG Salter",
+              "non_striker": "AG Wakely",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AG Wakely",
+              "bowler": "AG Salter",
+              "non_striker": "TB Sole",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "AG Wakely",
+              "bowler": "P Sisodiya",
+              "non_striker": "TB Sole",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "AG Wakely",
+                  "kind": "caught and bowled"
+                }
+              ]
+            },
+            {
+              "batter": "GG White",
+              "bowler": "P Sisodiya",
+              "extras": {
+                "noballs": 2
+              },
+              "non_striker": "TB Sole",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "GG White",
+              "bowler": "P Sisodiya",
+              "non_striker": "TB Sole",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "GG White",
+              "bowler": "P Sisodiya",
+              "non_striker": "TB Sole",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GG White",
+              "bowler": "P Sisodiya",
+              "non_striker": "TB Sole",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GG White",
+              "bowler": "P Sisodiya",
+              "non_striker": "TB Sole",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "GG White",
+              "bowler": "P Sisodiya",
+              "non_striker": "TB Sole",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "GG White",
+                  "fielders": [
+                    {
+                      "name": "CB Cooke"
+                    }
+                  ],
+                  "kind": "stumped"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "TB Sole",
+              "bowler": "M de Lange",
+              "non_striker": "GK Berg",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TB Sole",
+              "bowler": "M de Lange",
+              "non_striker": "GK Berg",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GK Berg",
+              "bowler": "M de Lange",
+              "non_striker": "TB Sole",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GK Berg",
+              "bowler": "M de Lange",
+              "non_striker": "TB Sole",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GK Berg",
+              "bowler": "M de Lange",
+              "non_striker": "TB Sole",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TB Sole",
+              "bowler": "M de Lange",
+              "non_striker": "GK Berg",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "TB Sole",
+              "bowler": "P Sisodiya",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "GK Berg",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TB Sole",
+              "bowler": "P Sisodiya",
+              "non_striker": "GK Berg",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GK Berg",
+              "bowler": "P Sisodiya",
+              "non_striker": "TB Sole",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TB Sole",
+              "bowler": "P Sisodiya",
+              "non_striker": "GK Berg",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GK Berg",
+              "bowler": "P Sisodiya",
+              "non_striker": "TB Sole",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GK Berg",
+              "bowler": "P Sisodiya",
+              "non_striker": "TB Sole",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TB Sole",
+              "bowler": "P Sisodiya",
+              "non_striker": "GK Berg",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "GK Berg",
+              "bowler": "T van der Gugten",
+              "non_striker": "TB Sole",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "GK Berg",
+              "bowler": "T van der Gugten",
+              "non_striker": "TB Sole",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "GK Berg",
+                  "fielders": [
+                    {
+                      "name": "DL Lloyd"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "NL Buck",
+              "bowler": "T van der Gugten",
+              "non_striker": "TB Sole",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NL Buck",
+              "bowler": "T van der Gugten",
+              "non_striker": "TB Sole",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NL Buck",
+              "bowler": "T van der Gugten",
+              "non_striker": "TB Sole",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NL Buck",
+              "bowler": "T van der Gugten",
+              "non_striker": "TB Sole",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "TB Sole",
+              "bowler": "RAJ Smith",
+              "non_striker": "NL Buck",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NL Buck",
+              "bowler": "RAJ Smith",
+              "non_striker": "TB Sole",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NL Buck",
+              "bowler": "RAJ Smith",
+              "non_striker": "TB Sole",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TB Sole",
+              "bowler": "RAJ Smith",
+              "non_striker": "NL Buck",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "TB Sole",
+              "bowler": "RAJ Smith",
+              "non_striker": "NL Buck",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TB Sole",
+              "bowler": "RAJ Smith",
+              "non_striker": "NL Buck",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "TB Sole",
+                  "fielders": [
+                    {
+                      "name": "M de Lange"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "NL Buck",
+              "bowler": "M de Lange",
+              "non_striker": "BW Sanderson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NL Buck",
+              "bowler": "M de Lange",
+              "non_striker": "BW Sanderson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "NL Buck",
+                  "fielders": [
+                    {
+                      "name": "AG Salter"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.7,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Glamorgan",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "DL Lloyd",
+              "bowler": "JJ Cobb",
+              "non_striker": "NJ Selman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NJ Selman",
+              "bowler": "JJ Cobb",
+              "non_striker": "DL Lloyd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NJ Selman",
+              "bowler": "JJ Cobb",
+              "non_striker": "DL Lloyd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NJ Selman",
+              "bowler": "JJ Cobb",
+              "non_striker": "DL Lloyd",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DL Lloyd",
+              "bowler": "JJ Cobb",
+              "non_striker": "NJ Selman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NJ Selman",
+              "bowler": "JJ Cobb",
+              "non_striker": "DL Lloyd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "DL Lloyd",
+              "bowler": "BW Sanderson",
+              "non_striker": "NJ Selman",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DL Lloyd",
+              "bowler": "BW Sanderson",
+              "non_striker": "NJ Selman",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DL Lloyd",
+              "bowler": "BW Sanderson",
+              "non_striker": "NJ Selman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NJ Selman",
+              "bowler": "BW Sanderson",
+              "non_striker": "DL Lloyd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NJ Selman",
+              "bowler": "BW Sanderson",
+              "non_striker": "DL Lloyd",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DL Lloyd",
+              "bowler": "BW Sanderson",
+              "non_striker": "NJ Selman",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "NJ Selman",
+              "bowler": "GG White",
+              "non_striker": "DL Lloyd",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DL Lloyd",
+              "bowler": "GG White",
+              "non_striker": "NJ Selman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DL Lloyd",
+              "bowler": "GG White",
+              "non_striker": "NJ Selman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DL Lloyd",
+              "bowler": "GG White",
+              "non_striker": "NJ Selman",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "DL Lloyd",
+              "bowler": "GG White",
+              "non_striker": "NJ Selman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NJ Selman",
+              "bowler": "GG White",
+              "non_striker": "DL Lloyd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "DL Lloyd",
+              "bowler": "NL Buck",
+              "non_striker": "NJ Selman",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "DL Lloyd",
+              "bowler": "NL Buck",
+              "non_striker": "NJ Selman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DL Lloyd",
+              "bowler": "NL Buck",
+              "non_striker": "NJ Selman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NJ Selman",
+              "bowler": "NL Buck",
+              "non_striker": "DL Lloyd",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "NJ Selman",
+              "bowler": "NL Buck",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "DL Lloyd",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DL Lloyd",
+              "bowler": "NL Buck",
+              "non_striker": "NJ Selman",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "NJ Selman",
+              "bowler": "GG White",
+              "non_striker": "DL Lloyd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NJ Selman",
+              "bowler": "GG White",
+              "non_striker": "DL Lloyd",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "NJ Selman",
+              "bowler": "GG White",
+              "non_striker": "DL Lloyd",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DL Lloyd",
+              "bowler": "GG White",
+              "non_striker": "NJ Selman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NJ Selman",
+              "bowler": "GG White",
+              "non_striker": "DL Lloyd",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "NJ Selman",
+              "bowler": "GG White",
+              "non_striker": "DL Lloyd",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "NJ Selman",
+              "bowler": "JJ Cobb",
+              "non_striker": "DL Lloyd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NJ Selman",
+              "bowler": "JJ Cobb",
+              "non_striker": "DL Lloyd",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DL Lloyd",
+              "bowler": "JJ Cobb",
+              "non_striker": "NJ Selman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DL Lloyd",
+              "bowler": "JJ Cobb",
+              "non_striker": "NJ Selman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DL Lloyd",
+              "bowler": "JJ Cobb",
+              "non_striker": "NJ Selman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NJ Selman",
+              "bowler": "JJ Cobb",
+              "non_striker": "DL Lloyd",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "DL Lloyd",
+              "bowler": "LA Procter",
+              "non_striker": "NJ Selman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DL Lloyd",
+              "bowler": "LA Procter",
+              "non_striker": "NJ Selman",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "DL Lloyd",
+              "bowler": "LA Procter",
+              "non_striker": "NJ Selman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NJ Selman",
+              "bowler": "LA Procter",
+              "non_striker": "DL Lloyd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NJ Selman",
+              "bowler": "LA Procter",
+              "non_striker": "DL Lloyd",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DL Lloyd",
+              "bowler": "LA Procter",
+              "non_striker": "NJ Selman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "DL Lloyd",
+              "bowler": "GG White",
+              "non_striker": "NJ Selman",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "DL Lloyd",
+              "bowler": "GG White",
+              "non_striker": "NJ Selman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NJ Selman",
+              "bowler": "GG White",
+              "non_striker": "DL Lloyd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NJ Selman",
+              "bowler": "GG White",
+              "non_striker": "DL Lloyd",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DL Lloyd",
+              "bowler": "GG White",
+              "non_striker": "NJ Selman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NJ Selman",
+              "bowler": "GG White",
+              "non_striker": "DL Lloyd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "DL Lloyd",
+              "bowler": "JJ Cobb",
+              "non_striker": "NJ Selman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DL Lloyd",
+              "bowler": "JJ Cobb",
+              "non_striker": "NJ Selman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NJ Selman",
+              "bowler": "JJ Cobb",
+              "non_striker": "DL Lloyd",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "NJ Selman",
+              "bowler": "JJ Cobb",
+              "non_striker": "DL Lloyd",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DL Lloyd",
+              "bowler": "JJ Cobb",
+              "non_striker": "NJ Selman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DL Lloyd",
+              "bowler": "JJ Cobb",
+              "non_striker": "NJ Selman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "DL Lloyd",
+                  "kind": "caught and bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "NJ Selman",
+              "bowler": "GG White",
+              "non_striker": "CB Cooke",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CB Cooke",
+              "bowler": "GG White",
+              "non_striker": "NJ Selman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CB Cooke",
+              "bowler": "GG White",
+              "non_striker": "NJ Selman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NJ Selman",
+              "bowler": "GG White",
+              "non_striker": "CB Cooke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "NJ Selman",
+                  "fielders": [
+                    {
+                      "name": "AM Rossington"
+                    }
+                  ],
+                  "kind": "stumped"
+                }
+              ]
+            },
+            {
+              "batter": "Callum Taylor",
+              "bowler": "GG White",
+              "non_striker": "CB Cooke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Callum Taylor",
+              "bowler": "GG White",
+              "non_striker": "CB Cooke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "CB Cooke",
+              "bowler": "JJ Cobb",
+              "non_striker": "Callum Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Callum Taylor",
+              "bowler": "JJ Cobb",
+              "non_striker": "CB Cooke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Callum Taylor",
+              "bowler": "JJ Cobb",
+              "non_striker": "CB Cooke",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CB Cooke",
+              "bowler": "JJ Cobb",
+              "non_striker": "Callum Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CB Cooke",
+              "bowler": "JJ Cobb",
+              "non_striker": "Callum Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Callum Taylor",
+              "bowler": "JJ Cobb",
+              "non_striker": "CB Cooke",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "Callum Taylor",
+              "bowler": "GK Berg",
+              "non_striker": "CB Cooke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Callum Taylor",
+              "bowler": "GK Berg",
+              "non_striker": "CB Cooke",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Callum Taylor",
+              "bowler": "GK Berg",
+              "non_striker": "CB Cooke",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CB Cooke",
+              "bowler": "GK Berg",
+              "non_striker": "Callum Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CB Cooke",
+              "bowler": "GK Berg",
+              "non_striker": "Callum Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CB Cooke",
+              "bowler": "GK Berg",
+              "non_striker": "Callum Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "Callum Taylor",
+              "bowler": "BW Sanderson",
+              "non_striker": "CB Cooke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Callum Taylor",
+              "bowler": "BW Sanderson",
+              "non_striker": "CB Cooke",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Callum Taylor",
+              "bowler": "BW Sanderson",
+              "non_striker": "CB Cooke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Callum Taylor",
+              "bowler": "BW Sanderson",
+              "non_striker": "CB Cooke",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CB Cooke",
+              "bowler": "BW Sanderson",
+              "non_striker": "Callum Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Callum Taylor",
+              "bowler": "BW Sanderson",
+              "non_striker": "CB Cooke",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "Callum Taylor",
+              "bowler": "GK Berg",
+              "non_striker": "CB Cooke",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CB Cooke",
+              "bowler": "GK Berg",
+              "non_striker": "Callum Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "CB Cooke",
+                  "fielders": [
+                    {
+                      "name": "TB Sole"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Callum Taylor",
+              "bowler": "GK Berg",
+              "extras": {
+                "byes": 4
+              },
+              "non_striker": "A Balbirnie",
+              "runs": {
+                "batter": 0,
+                "extras": 4,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Callum Taylor",
+              "bowler": "GK Berg",
+              "non_striker": "A Balbirnie",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Callum Taylor",
+              "bowler": "GK Berg",
+              "non_striker": "A Balbirnie",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Balbirnie",
+              "bowler": "GK Berg",
+              "non_striker": "Callum Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "A Balbirnie",
+              "bowler": "LA Procter",
+              "non_striker": "Callum Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Balbirnie",
+              "bowler": "LA Procter",
+              "non_striker": "Callum Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Callum Taylor",
+              "bowler": "LA Procter",
+              "non_striker": "A Balbirnie",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Callum Taylor",
+              "bowler": "LA Procter",
+              "non_striker": "A Balbirnie",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Balbirnie",
+              "bowler": "LA Procter",
+              "non_striker": "Callum Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Callum Taylor",
+              "bowler": "LA Procter",
+              "non_striker": "A Balbirnie",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "A Balbirnie",
+              "bowler": "NL Buck",
+              "non_striker": "Callum Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Balbirnie",
+              "bowler": "NL Buck",
+              "non_striker": "Callum Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Balbirnie",
+              "bowler": "NL Buck",
+              "non_striker": "Callum Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Callum Taylor",
+              "bowler": "NL Buck",
+              "non_striker": "A Balbirnie",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Callum Taylor",
+              "bowler": "NL Buck",
+              "non_striker": "A Balbirnie",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Balbirnie",
+              "bowler": "NL Buck",
+              "non_striker": "Callum Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 99
+      }
+    }
+  ]
+}

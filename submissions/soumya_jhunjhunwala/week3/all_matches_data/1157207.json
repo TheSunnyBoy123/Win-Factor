@@ -1,0 +1,494 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2023-01-03",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "dates": [
+      "2019-03-02"
+    ],
+    "event": {
+      "name": "Syed Mushtaq Ali Trophy",
+      "group": "E"
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "missing": [
+      "umpires",
+      {
+        "powerplays": {
+          "1": [
+            "mandatory"
+          ]
+        }
+      }
+    ],
+    "outcome": {
+      "result": "no result"
+    },
+    "overs": 20,
+    "players": {
+      "Hyderabad (India)": [
+        "J Mallikarjun",
+        "Tilak Varma",
+        "Kolla Sumanth",
+        "PS Sairam",
+        "Ravi Teja",
+        "Mohammed Siraj",
+        "PS Chaitanya Reddy",
+        "Rohit Rayudu",
+        "Bavanaka Sandeep",
+        "Mehdi Hassan",
+        "CV Milind"
+      ],
+      "Uttarakhand": [
+        "D Dhapola",
+        "Gaurav Singh",
+        "Sunny Rana",
+        "Mayank Mishra",
+        "Vaibhav Singh Panwar",
+        "Girish Rauturi",
+        "Shivam Khurana",
+        "Vijay Sharma",
+        "Bhiguraj Pathania",
+        "Saurabh Rawat",
+        "Karanveer Kaushal"
+      ]
+    },
+    "registry": {
+      "people": {
+        "Bavanaka Sandeep": "bc67cc22",
+        "Bhiguraj Pathania": "00bcd434",
+        "CV Milind": "7b5b6311",
+        "D Dhapola": "5dd172a7",
+        "Gaurav Singh": "92eefbc5",
+        "Girish Rauturi": "478bbd5f",
+        "J Mallikarjun": "2222f8a7",
+        "Karanveer Kaushal": "9e62632a",
+        "Kolla Sumanth": "b93a5d0b",
+        "Mayank Mishra": "de00b96c",
+        "Mehdi Hassan": "5876c626",
+        "Mohammed Siraj": "2f49c897",
+        "PS Chaitanya Reddy": "887cdfc6",
+        "PS Sairam": "c08963b0",
+        "Ravi Teja": "5f39537c",
+        "Rohit Rayudu": "b4587494",
+        "Saurabh Rawat": "839b6d2e",
+        "Shivam Khurana": "e23960c5",
+        "Sunny Rana": "798c67e5",
+        "Tilak Varma": "b0482a1d",
+        "Vaibhav Singh Panwar": "8685f676",
+        "Vijay Sharma": "6e8d1234"
+      }
+    },
+    "season": "2018/19",
+    "team_type": "club",
+    "teams": [
+      "Hyderabad (India)",
+      "Uttarakhand"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Uttarakhand"
+    },
+    "venue": "Airforce Complex ground, Palam"
+  },
+  "innings": [
+    {
+      "team": "Hyderabad (India)",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "J Mallikarjun",
+              "bowler": "D Dhapola",
+              "non_striker": "Tilak Varma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Mallikarjun",
+              "bowler": "D Dhapola",
+              "non_striker": "Tilak Varma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Tilak Varma",
+              "bowler": "D Dhapola",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "J Mallikarjun",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Mallikarjun",
+              "bowler": "D Dhapola",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "Tilak Varma",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Tilak Varma",
+              "bowler": "D Dhapola",
+              "extras": {
+                "wides": 5
+              },
+              "non_striker": "J Mallikarjun",
+              "runs": {
+                "batter": 0,
+                "extras": 5,
+                "total": 5
+              }
+            },
+            {
+              "batter": "Tilak Varma",
+              "bowler": "D Dhapola",
+              "non_striker": "J Mallikarjun",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Tilak Varma",
+              "bowler": "D Dhapola",
+              "non_striker": "J Mallikarjun",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "J Mallikarjun",
+              "bowler": "Gaurav Singh",
+              "non_striker": "Tilak Varma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Tilak Varma",
+              "bowler": "Gaurav Singh",
+              "non_striker": "J Mallikarjun",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Tilak Varma",
+              "bowler": "Gaurav Singh",
+              "non_striker": "J Mallikarjun",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Mallikarjun",
+              "bowler": "Gaurav Singh",
+              "non_striker": "Tilak Varma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Tilak Varma",
+              "bowler": "Gaurav Singh",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "J Mallikarjun",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Mallikarjun",
+              "bowler": "Gaurav Singh",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Tilak Varma",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "J Mallikarjun",
+              "bowler": "Sunny Rana",
+              "non_striker": "Tilak Varma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Mallikarjun",
+              "bowler": "Sunny Rana",
+              "non_striker": "Tilak Varma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Mallikarjun",
+              "bowler": "Sunny Rana",
+              "non_striker": "Tilak Varma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Mallikarjun",
+              "bowler": "Sunny Rana",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "Tilak Varma",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Tilak Varma",
+              "bowler": "Sunny Rana",
+              "non_striker": "J Mallikarjun",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Tilak Varma",
+              "bowler": "Sunny Rana",
+              "non_striker": "J Mallikarjun",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "J Mallikarjun",
+              "bowler": "Mayank Mishra",
+              "non_striker": "Tilak Varma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "J Mallikarjun",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Kolla Sumanth",
+              "bowler": "Mayank Mishra",
+              "non_striker": "Tilak Varma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Tilak Varma",
+              "bowler": "Mayank Mishra",
+              "non_striker": "Kolla Sumanth",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Tilak Varma",
+              "bowler": "Mayank Mishra",
+              "non_striker": "Kolla Sumanth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Tilak Varma",
+              "bowler": "Mayank Mishra",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Kolla Sumanth",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Tilak Varma",
+              "bowler": "Mayank Mishra",
+              "non_striker": "Kolla Sumanth",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Tilak Varma",
+              "bowler": "Mayank Mishra",
+              "non_striker": "Kolla Sumanth",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Kolla Sumanth",
+              "bowler": "Gaurav Singh",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Tilak Varma",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Tilak Varma",
+              "bowler": "Gaurav Singh",
+              "non_striker": "Kolla Sumanth",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Tilak Varma",
+              "bowler": "Gaurav Singh",
+              "non_striker": "Kolla Sumanth",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Tilak Varma",
+              "bowler": "Gaurav Singh",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Kolla Sumanth",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Tilak Varma",
+              "bowler": "Gaurav Singh",
+              "non_striker": "Kolla Sumanth",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Kolla Sumanth",
+              "bowler": "Gaurav Singh",
+              "non_striker": "Tilak Varma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Kolla Sumanth",
+                  "fielders": [
+                    {
+                      "name": "Mayank Mishra"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

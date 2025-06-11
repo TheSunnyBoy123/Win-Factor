@@ -1,0 +1,2254 @@
+{
+  "meta": {
+    "data_version": "1.0.0",
+    "created": "2020-08-22",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "St Lucia",
+    "dates": [
+      "2014-08-03"
+    ],
+    "event": {
+      "name": "Caribbean Premier League",
+      "match_number": 21
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "officials": {
+      "match_referees": [
+        "Denavon Hayles"
+      ],
+      "reserve_umpires": [
+        "FX Maurice"
+      ],
+      "tv_umpires": [
+        "JS Wilson"
+      ],
+      "umpires": [
+        "LS Reifer",
+        "GO Brathwaite"
+      ]
+    },
+    "outcome": {
+      "winner": "St Lucia Zouks",
+      "by": {
+        "wickets": 5
+      },
+      "method": "D/L"
+    },
+    "overs": 20,
+    "player_of_match": [
+      "Sohail Tanvir"
+    ],
+    "players": {
+      "Antigua Hawksbills": [
+        "BR Dunk",
+        "DC Thomas",
+        "DP Hyatt",
+        "SE Thomas",
+        "MN Samuels",
+        "DJ Hussey",
+        "SS Cottrell",
+        "CR Brathwaite",
+        "GC Tonge",
+        "GB Hogg",
+        "B Laughlin"
+      ],
+      "St Lucia Zouks": [
+        "ADS Fletcher",
+        "J Charles",
+        "K Lesporis",
+        "SW Ambris",
+        "H Davids",
+        "Sohail Tanvir",
+        "DJG Sammy",
+        "S Shillingford",
+        "M Matthew",
+        "LAS Sebastien",
+        "ROO Jordan"
+      ]
+    },
+    "registry": {
+      "people": {
+        "ADS Fletcher": "1bae756b",
+        "B Laughlin": "b2a79f17",
+        "BR Dunk": "272d796e",
+        "CR Brathwaite": "e342e5fb",
+        "DC Thomas": "08a4f9ad",
+        "DJ Hussey": "fd835ab3",
+        "DJG Sammy": "c03c6200",
+        "DP Hyatt": "2e2fe3e8",
+        "Denavon Hayles": "5cbeeb02",
+        "FX Maurice": "96d71afe",
+        "GB Hogg": "f708a0bc",
+        "GC Tonge": "7d21eb9b",
+        "GO Brathwaite": "1ace56d4",
+        "H Davids": "9c9f8dbc",
+        "J Charles": "09a9d073",
+        "JJ Athanaze": "506caa6a",
+        "JS Wilson": "d7f3b72f",
+        "K Lesporis": "fb496f7a",
+        "LAS Sebastien": "a8333aa9",
+        "LS Reifer": "5dee559a",
+        "M Matthew": "e9200997",
+        "MN Samuels": "f846de6a",
+        "ROO Jordan": "416881d1",
+        "S Shillingford": "d76b0d2d",
+        "SE Thomas": "d9792701",
+        "SS Cottrell": "a1d053dd",
+        "SW Ambris": "c7f6dd3b",
+        "Sohail Tanvir": "64d43928"
+      }
+    },
+    "season": "2014",
+    "team_type": "club",
+    "teams": [
+      "Antigua Hawksbills",
+      "St Lucia Zouks"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "St Lucia Zouks"
+    },
+    "venue": "Daren Sammy National Cricket Stadium, Gros Islet"
+  },
+  "innings": [
+    {
+      "team": "Antigua Hawksbills",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "BR Dunk",
+              "bowler": "Sohail Tanvir",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "DC Thomas",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DC Thomas",
+              "bowler": "Sohail Tanvir",
+              "non_striker": "BR Dunk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BR Dunk",
+              "bowler": "Sohail Tanvir",
+              "non_striker": "DC Thomas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "BR Dunk",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "DP Hyatt",
+              "bowler": "Sohail Tanvir",
+              "non_striker": "DC Thomas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DP Hyatt",
+              "bowler": "Sohail Tanvir",
+              "non_striker": "DC Thomas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DP Hyatt",
+              "bowler": "Sohail Tanvir",
+              "non_striker": "DC Thomas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "DP Hyatt",
+              "bowler": "M Matthew",
+              "non_striker": "DC Thomas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DP Hyatt",
+              "bowler": "M Matthew",
+              "non_striker": "DC Thomas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DP Hyatt",
+              "bowler": "M Matthew",
+              "non_striker": "DC Thomas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DC Thomas",
+              "bowler": "M Matthew",
+              "non_striker": "DP Hyatt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DP Hyatt",
+              "bowler": "M Matthew",
+              "non_striker": "DC Thomas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DC Thomas",
+              "bowler": "M Matthew",
+              "non_striker": "DP Hyatt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "DC Thomas",
+                  "fielders": [
+                    {
+                      "name": "S Shillingford"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "SE Thomas",
+              "bowler": "Sohail Tanvir",
+              "non_striker": "DP Hyatt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SE Thomas",
+              "bowler": "Sohail Tanvir",
+              "non_striker": "DP Hyatt",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SE Thomas",
+              "bowler": "Sohail Tanvir",
+              "non_striker": "DP Hyatt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DP Hyatt",
+              "bowler": "Sohail Tanvir",
+              "non_striker": "SE Thomas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SE Thomas",
+              "bowler": "Sohail Tanvir",
+              "non_striker": "DP Hyatt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SE Thomas",
+              "bowler": "Sohail Tanvir",
+              "non_striker": "DP Hyatt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "SE Thomas",
+              "bowler": "M Matthew",
+              "non_striker": "DP Hyatt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DP Hyatt",
+              "bowler": "M Matthew",
+              "non_striker": "SE Thomas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DP Hyatt",
+              "bowler": "M Matthew",
+              "non_striker": "SE Thomas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DP Hyatt",
+              "bowler": "M Matthew",
+              "non_striker": "SE Thomas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DP Hyatt",
+              "bowler": "M Matthew",
+              "non_striker": "SE Thomas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SE Thomas",
+              "bowler": "M Matthew",
+              "non_striker": "DP Hyatt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "DP Hyatt",
+              "bowler": "DJG Sammy",
+              "non_striker": "SE Thomas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DP Hyatt",
+              "bowler": "DJG Sammy",
+              "non_striker": "SE Thomas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DP Hyatt",
+              "bowler": "DJG Sammy",
+              "non_striker": "SE Thomas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SE Thomas",
+              "bowler": "DJG Sammy",
+              "non_striker": "DP Hyatt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SE Thomas",
+              "bowler": "DJG Sammy",
+              "non_striker": "DP Hyatt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DP Hyatt",
+              "bowler": "DJG Sammy",
+              "non_striker": "SE Thomas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "SE Thomas",
+              "bowler": "ROO Jordan",
+              "non_striker": "DP Hyatt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DP Hyatt",
+              "bowler": "ROO Jordan",
+              "non_striker": "SE Thomas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DP Hyatt",
+              "bowler": "ROO Jordan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "SE Thomas",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DP Hyatt",
+              "bowler": "ROO Jordan",
+              "non_striker": "SE Thomas",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DP Hyatt",
+              "bowler": "ROO Jordan",
+              "non_striker": "SE Thomas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SE Thomas",
+              "bowler": "ROO Jordan",
+              "non_striker": "DP Hyatt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SE Thomas",
+              "bowler": "ROO Jordan",
+              "non_striker": "DP Hyatt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "DP Hyatt",
+              "bowler": "S Shillingford",
+              "non_striker": "SE Thomas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SE Thomas",
+              "bowler": "S Shillingford",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "DP Hyatt",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SE Thomas",
+              "bowler": "S Shillingford",
+              "non_striker": "DP Hyatt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SE Thomas",
+              "bowler": "S Shillingford",
+              "non_striker": "DP Hyatt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SE Thomas",
+              "bowler": "S Shillingford",
+              "non_striker": "DP Hyatt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DP Hyatt",
+              "bowler": "S Shillingford",
+              "non_striker": "SE Thomas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SE Thomas",
+              "bowler": "S Shillingford",
+              "non_striker": "DP Hyatt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "SE Thomas",
+              "bowler": "DJG Sammy",
+              "non_striker": "DP Hyatt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DP Hyatt",
+              "bowler": "DJG Sammy",
+              "non_striker": "SE Thomas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DP Hyatt",
+              "bowler": "DJG Sammy",
+              "non_striker": "SE Thomas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DP Hyatt",
+              "bowler": "DJG Sammy",
+              "non_striker": "SE Thomas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DP Hyatt",
+              "bowler": "DJG Sammy",
+              "non_striker": "SE Thomas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DP Hyatt",
+              "bowler": "DJG Sammy",
+              "non_striker": "SE Thomas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "DP Hyatt",
+              "bowler": "S Shillingford",
+              "non_striker": "SE Thomas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SE Thomas",
+              "bowler": "S Shillingford",
+              "non_striker": "DP Hyatt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SE Thomas",
+                  "fielders": [
+                    {
+                      "name": "J Charles"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "DP Hyatt",
+              "bowler": "S Shillingford",
+              "non_striker": "MN Samuels",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DP Hyatt",
+              "bowler": "S Shillingford",
+              "non_striker": "MN Samuels",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MN Samuels",
+              "bowler": "S Shillingford",
+              "non_striker": "DP Hyatt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DP Hyatt",
+              "bowler": "S Shillingford",
+              "non_striker": "MN Samuels",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "DP Hyatt",
+              "bowler": "ROO Jordan",
+              "non_striker": "MN Samuels",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MN Samuels",
+              "bowler": "ROO Jordan",
+              "non_striker": "DP Hyatt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MN Samuels",
+              "bowler": "ROO Jordan",
+              "non_striker": "DP Hyatt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DP Hyatt",
+              "bowler": "ROO Jordan",
+              "non_striker": "MN Samuels",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DP Hyatt",
+              "bowler": "ROO Jordan",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "MN Samuels",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MN Samuels",
+              "bowler": "ROO Jordan",
+              "non_striker": "DP Hyatt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DP Hyatt",
+              "bowler": "ROO Jordan",
+              "non_striker": "MN Samuels",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "DP Hyatt",
+              "bowler": "S Shillingford",
+              "non_striker": "MN Samuels",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MN Samuels",
+              "bowler": "S Shillingford",
+              "non_striker": "DP Hyatt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DP Hyatt",
+              "bowler": "S Shillingford",
+              "non_striker": "MN Samuels",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "DP Hyatt",
+              "bowler": "S Shillingford",
+              "non_striker": "MN Samuels",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "DP Hyatt",
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "MN Samuels",
+              "bowler": "S Shillingford",
+              "non_striker": "DJ Hussey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJ Hussey",
+              "bowler": "S Shillingford",
+              "non_striker": "MN Samuels",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "DJ Hussey",
+              "bowler": "DJG Sammy",
+              "non_striker": "MN Samuels",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJ Hussey",
+              "bowler": "DJG Sammy",
+              "non_striker": "MN Samuels",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "DJ Hussey",
+              "bowler": "DJG Sammy",
+              "non_striker": "MN Samuels",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MN Samuels",
+              "bowler": "DJG Sammy",
+              "non_striker": "DJ Hussey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJ Hussey",
+              "bowler": "DJG Sammy",
+              "non_striker": "MN Samuels",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "DJ Hussey",
+              "bowler": "DJG Sammy",
+              "non_striker": "MN Samuels",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "MN Samuels",
+              "bowler": "Sohail Tanvir",
+              "non_striker": "DJ Hussey",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MN Samuels",
+              "bowler": "Sohail Tanvir",
+              "non_striker": "DJ Hussey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJ Hussey",
+              "bowler": "Sohail Tanvir",
+              "non_striker": "MN Samuels",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "DJ Hussey",
+                  "fielders": [
+                    {
+                      "name": "J Charles"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "MN Samuels",
+              "bowler": "Sohail Tanvir",
+              "non_striker": "SS Cottrell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SS Cottrell",
+              "bowler": "Sohail Tanvir",
+              "non_striker": "MN Samuels",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SS Cottrell",
+              "bowler": "Sohail Tanvir",
+              "non_striker": "MN Samuels",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SS Cottrell",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "MN Samuels",
+              "bowler": "ROO Jordan",
+              "non_striker": "CR Brathwaite",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CR Brathwaite",
+              "bowler": "ROO Jordan",
+              "non_striker": "MN Samuels",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MN Samuels",
+              "bowler": "ROO Jordan",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "CR Brathwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "CR Brathwaite",
+              "bowler": "ROO Jordan",
+              "non_striker": "MN Samuels",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "CR Brathwaite",
+              "bowler": "ROO Jordan",
+              "non_striker": "MN Samuels",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "CR Brathwaite",
+              "bowler": "ROO Jordan",
+              "non_striker": "MN Samuels",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "CR Brathwaite",
+              "bowler": "ROO Jordan",
+              "non_striker": "MN Samuels",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "MN Samuels",
+              "bowler": "Sohail Tanvir",
+              "non_striker": "CR Brathwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MN Samuels",
+              "bowler": "Sohail Tanvir",
+              "non_striker": "CR Brathwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MN Samuels",
+              "bowler": "Sohail Tanvir",
+              "non_striker": "CR Brathwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MN Samuels",
+              "bowler": "Sohail Tanvir",
+              "non_striker": "CR Brathwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MN Samuels",
+              "bowler": "Sohail Tanvir",
+              "non_striker": "CR Brathwaite",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CR Brathwaite",
+              "bowler": "Sohail Tanvir",
+              "non_striker": "MN Samuels",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "CR Brathwaite",
+              "bowler": "M Matthew",
+              "non_striker": "MN Samuels",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CR Brathwaite",
+              "bowler": "M Matthew",
+              "non_striker": "MN Samuels",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MN Samuels",
+              "bowler": "M Matthew",
+              "non_striker": "CR Brathwaite",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "MN Samuels",
+              "bowler": "M Matthew",
+              "non_striker": "CR Brathwaite",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CR Brathwaite",
+              "bowler": "M Matthew",
+              "non_striker": "MN Samuels",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MN Samuels",
+              "bowler": "M Matthew",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "CR Brathwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.7,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "St Lucia Zouks",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "ADS Fletcher",
+              "bowler": "SS Cottrell",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ADS Fletcher",
+              "bowler": "SS Cottrell",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ADS Fletcher",
+              "bowler": "SS Cottrell",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "SS Cottrell",
+              "non_striker": "ADS Fletcher",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "SS Cottrell",
+              "non_striker": "ADS Fletcher",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "SS Cottrell",
+              "non_striker": "ADS Fletcher",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "ADS Fletcher",
+              "bowler": "GC Tonge",
+              "extras": {
+                "wides": 5
+              },
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 0,
+                "extras": 5,
+                "total": 5
+              }
+            },
+            {
+              "batter": "ADS Fletcher",
+              "bowler": "GC Tonge",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "GC Tonge",
+              "non_striker": "ADS Fletcher",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "GC Tonge",
+              "non_striker": "ADS Fletcher",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "GC Tonge",
+              "non_striker": "ADS Fletcher",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ADS Fletcher",
+              "bowler": "GC Tonge",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ADS Fletcher",
+              "bowler": "GC Tonge",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "ADS Fletcher",
+                  "fielders": [
+                    {
+                      "name": "CR Brathwaite"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "K Lesporis",
+              "bowler": "CR Brathwaite",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "CR Brathwaite",
+              "non_striker": "K Lesporis",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "CR Brathwaite",
+              "non_striker": "K Lesporis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "J Charles",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "SW Ambris",
+              "bowler": "CR Brathwaite",
+              "non_striker": "K Lesporis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Lesporis",
+              "bowler": "CR Brathwaite",
+              "non_striker": "SW Ambris",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Lesporis",
+              "bowler": "CR Brathwaite",
+              "non_striker": "SW Ambris",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "SW Ambris",
+              "bowler": "GC Tonge",
+              "non_striker": "K Lesporis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Lesporis",
+              "bowler": "GC Tonge",
+              "non_striker": "SW Ambris",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "K Lesporis",
+                  "fielders": [
+                    {
+                      "name": "GB Hogg"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "SW Ambris",
+              "bowler": "GC Tonge",
+              "non_striker": "H Davids",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SW Ambris",
+              "bowler": "GC Tonge",
+              "non_striker": "H Davids",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SW Ambris",
+              "bowler": "GC Tonge",
+              "non_striker": "H Davids",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SW Ambris",
+              "bowler": "GC Tonge",
+              "non_striker": "H Davids",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "H Davids",
+              "bowler": "SS Cottrell",
+              "non_striker": "SW Ambris",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Davids",
+              "bowler": "SS Cottrell",
+              "non_striker": "SW Ambris",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "H Davids",
+              "bowler": "SS Cottrell",
+              "non_striker": "SW Ambris",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Davids",
+              "bowler": "SS Cottrell",
+              "non_striker": "SW Ambris",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "H Davids",
+              "bowler": "SS Cottrell",
+              "extras": {
+                "byes": 4
+              },
+              "non_striker": "SW Ambris",
+              "runs": {
+                "batter": 0,
+                "extras": 4,
+                "total": 4
+              }
+            },
+            {
+              "batter": "H Davids",
+              "bowler": "SS Cottrell",
+              "non_striker": "SW Ambris",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "SW Ambris",
+              "bowler": "B Laughlin",
+              "extras": {
+                "legbyes": 4
+              },
+              "non_striker": "H Davids",
+              "runs": {
+                "batter": 0,
+                "extras": 4,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SW Ambris",
+              "bowler": "B Laughlin",
+              "non_striker": "H Davids",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Davids",
+              "bowler": "B Laughlin",
+              "non_striker": "SW Ambris",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SW Ambris",
+              "bowler": "B Laughlin",
+              "non_striker": "H Davids",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SW Ambris",
+              "bowler": "B Laughlin",
+              "non_striker": "H Davids",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Davids",
+              "bowler": "B Laughlin",
+              "non_striker": "SW Ambris",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "SW Ambris",
+              "bowler": "CR Brathwaite",
+              "non_striker": "H Davids",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Davids",
+              "bowler": "CR Brathwaite",
+              "non_striker": "SW Ambris",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Davids",
+              "bowler": "CR Brathwaite",
+              "non_striker": "SW Ambris",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "H Davids",
+              "bowler": "CR Brathwaite",
+              "non_striker": "SW Ambris",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "H Davids",
+              "bowler": "CR Brathwaite",
+              "non_striker": "SW Ambris",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Davids",
+              "bowler": "CR Brathwaite",
+              "non_striker": "SW Ambris",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "H Davids",
+              "bowler": "GB Hogg",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "SW Ambris",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Davids",
+              "bowler": "GB Hogg",
+              "non_striker": "SW Ambris",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Davids",
+              "bowler": "GB Hogg",
+              "non_striker": "SW Ambris",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "SW Ambris",
+              "bowler": "GB Hogg",
+              "non_striker": "H Davids",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SW Ambris",
+              "bowler": "GB Hogg",
+              "non_striker": "H Davids",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SW Ambris",
+              "bowler": "GB Hogg",
+              "non_striker": "H Davids",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SW Ambris",
+              "bowler": "GB Hogg",
+              "non_striker": "H Davids",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "H Davids",
+              "bowler": "CR Brathwaite",
+              "non_striker": "SW Ambris",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Davids",
+              "bowler": "CR Brathwaite",
+              "non_striker": "SW Ambris",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "H Davids",
+              "bowler": "CR Brathwaite",
+              "non_striker": "SW Ambris",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "player_out": "SW Ambris",
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "H Davids",
+              "bowler": "CR Brathwaite",
+              "non_striker": "Sohail Tanvir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Davids",
+              "bowler": "CR Brathwaite",
+              "non_striker": "Sohail Tanvir",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "H Davids",
+              "bowler": "CR Brathwaite",
+              "non_striker": "Sohail Tanvir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "H Davids",
+              "bowler": "MN Samuels",
+              "non_striker": "Sohail Tanvir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Davids",
+              "bowler": "MN Samuels",
+              "non_striker": "Sohail Tanvir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sohail Tanvir",
+              "bowler": "MN Samuels",
+              "non_striker": "H Davids",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Davids",
+              "bowler": "MN Samuels",
+              "non_striker": "Sohail Tanvir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Davids",
+              "bowler": "MN Samuels",
+              "non_striker": "Sohail Tanvir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sohail Tanvir",
+              "bowler": "MN Samuels",
+              "non_striker": "H Davids",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "Sohail Tanvir",
+              "bowler": "SS Cottrell",
+              "non_striker": "H Davids",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sohail Tanvir",
+              "bowler": "SS Cottrell",
+              "non_striker": "H Davids",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Davids",
+              "bowler": "SS Cottrell",
+              "non_striker": "Sohail Tanvir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Davids",
+              "bowler": "SS Cottrell",
+              "non_striker": "Sohail Tanvir",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "H Davids",
+              "bowler": "SS Cottrell",
+              "non_striker": "Sohail Tanvir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sohail Tanvir",
+              "bowler": "SS Cottrell",
+              "non_striker": "H Davids",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "H Davids",
+              "bowler": "GB Hogg",
+              "non_striker": "Sohail Tanvir",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "H Davids",
+              "bowler": "GB Hogg",
+              "non_striker": "Sohail Tanvir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Davids",
+              "bowler": "GB Hogg",
+              "non_striker": "Sohail Tanvir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sohail Tanvir",
+              "bowler": "GB Hogg",
+              "non_striker": "H Davids",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Davids",
+              "bowler": "GB Hogg",
+              "non_striker": "Sohail Tanvir",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "H Davids",
+              "bowler": "GB Hogg",
+              "non_striker": "Sohail Tanvir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "Sohail Tanvir",
+              "bowler": "SS Cottrell",
+              "non_striker": "H Davids",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Davids",
+              "bowler": "SS Cottrell",
+              "non_striker": "Sohail Tanvir",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "H Davids",
+              "bowler": "SS Cottrell",
+              "non_striker": "Sohail Tanvir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "H Davids",
+                  "fielders": [
+                    {
+                      "name": "JJ Athanaze",
+                      "substitute": true
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Sohail Tanvir",
+              "bowler": "SS Cottrell",
+              "non_striker": "DJG Sammy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sohail Tanvir",
+              "bowler": "SS Cottrell",
+              "non_striker": "DJG Sammy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJG Sammy",
+              "bowler": "SS Cottrell",
+              "non_striker": "Sohail Tanvir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "Sohail Tanvir",
+              "bowler": "MN Samuels",
+              "non_striker": "DJG Sammy",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Sohail Tanvir",
+              "bowler": "MN Samuels",
+              "non_striker": "DJG Sammy",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Sohail Tanvir",
+              "bowler": "MN Samuels",
+              "non_striker": "DJG Sammy",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 4.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 16,
+        "runs": 106
+      }
+    }
+  ]
+}

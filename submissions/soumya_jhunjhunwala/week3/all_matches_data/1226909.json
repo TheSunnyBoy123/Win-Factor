@@ -1,0 +1,400 @@
+{
+  "meta": {
+    "data_version": "1.0.0",
+    "created": "2020-10-26",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Sydney",
+    "dates": [
+      "2020-10-26"
+    ],
+    "event": {
+      "name": "Women's Big Bash League",
+      "match_number": 5
+    },
+    "gender": "female",
+    "match_type": "T20",
+    "officials": {
+      "match_referees": [
+        "Dave Gilbert"
+      ],
+      "umpires": [
+        "NR Johnstone",
+        "M Qureshi"
+      ]
+    },
+    "outcome": {
+      "result": "no result"
+    },
+    "overs": 20,
+    "players": {
+      "Sydney Thunder": [
+        "R Trenaman",
+        "TT Beaumont",
+        "HC Knight",
+        "RL Haynes",
+        "A Learoyd",
+        "HJ Darlington",
+        "T Wilson",
+        "SJ Johnson",
+        "LG Smith",
+        "S Ismail",
+        "SL Bates"
+      ],
+      "Melbourne Stars": [
+        "MM Lanning",
+        "EJ Villani",
+        "M du Preez",
+        "NR Sciver",
+        "A Sutherland",
+        "EA Osborne",
+        "T Flintoff",
+        "KH Brunt",
+        "S Day",
+        "N Faltum",
+        "HL Ferling"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Learoyd": "1757bedf",
+        "A Sutherland": "65d9b6b6",
+        "Dave Gilbert": "aa782370",
+        "EA Osborne": "fe731c62",
+        "EJ Villani": "cde96d97",
+        "HC Knight": "4ba0289e",
+        "HJ Darlington": "50b558d2",
+        "HL Ferling": "a594a6e0",
+        "KH Brunt": "6a434bd3",
+        "LG Smith": "9c515112",
+        "M Qureshi": "cf34fbef",
+        "M du Preez": "e219f17a",
+        "MM Lanning": "27e003ce",
+        "N Faltum": "9a56c670",
+        "NR Johnstone": "ce274b6a",
+        "NR Sciver": "f3a18a0c",
+        "R Trenaman": "877dd709",
+        "RL Haynes": "d7c6b0fb",
+        "S Day": "c3d27d76",
+        "S Ismail": "108c4c09",
+        "SJ Johnson": "d7b754d4",
+        "SL Bates": "0816fb1e",
+        "T Flintoff": "5471b94a",
+        "T Wilson": "32100b2d",
+        "TT Beaumont": "b2664905"
+      }
+    },
+    "season": "2020/21",
+    "team_type": "club",
+    "teams": [
+      "Sydney Thunder",
+      "Melbourne Stars"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Melbourne Stars"
+    },
+    "venue": "North Sydney Oval"
+  },
+  "innings": [
+    {
+      "team": "Sydney Thunder",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "R Trenaman",
+              "bowler": "KH Brunt",
+              "non_striker": "TT Beaumont",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TT Beaumont",
+              "bowler": "KH Brunt",
+              "non_striker": "R Trenaman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TT Beaumont",
+              "bowler": "KH Brunt",
+              "non_striker": "R Trenaman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Trenaman",
+              "bowler": "KH Brunt",
+              "non_striker": "TT Beaumont",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Trenaman",
+              "bowler": "KH Brunt",
+              "non_striker": "TT Beaumont",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TT Beaumont",
+              "bowler": "KH Brunt",
+              "non_striker": "R Trenaman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "R Trenaman",
+              "bowler": "NR Sciver",
+              "non_striker": "TT Beaumont",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Trenaman",
+              "bowler": "NR Sciver",
+              "non_striker": "TT Beaumont",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TT Beaumont",
+              "bowler": "NR Sciver",
+              "non_striker": "R Trenaman",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "TT Beaumont",
+              "bowler": "NR Sciver",
+              "non_striker": "R Trenaman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "TT Beaumont",
+                  "fielders": [
+                    {
+                      "name": "EJ Villani"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "HC Knight",
+              "bowler": "NR Sciver",
+              "non_striker": "R Trenaman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HC Knight",
+              "bowler": "NR Sciver",
+              "non_striker": "R Trenaman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "R Trenaman",
+              "bowler": "HL Ferling",
+              "non_striker": "HC Knight",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HC Knight",
+              "bowler": "HL Ferling",
+              "non_striker": "R Trenaman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Trenaman",
+              "bowler": "HL Ferling",
+              "non_striker": "HC Knight",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Trenaman",
+              "bowler": "HL Ferling",
+              "non_striker": "HC Knight",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "R Trenaman",
+                  "fielders": [
+                    {
+                      "name": "NR Sciver"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "RL Haynes",
+              "bowler": "HL Ferling",
+              "non_striker": "HC Knight",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HC Knight",
+              "bowler": "HL Ferling",
+              "non_striker": "RL Haynes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "HC Knight",
+              "bowler": "KH Brunt",
+              "non_striker": "RL Haynes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RL Haynes",
+              "bowler": "KH Brunt",
+              "non_striker": "HC Knight",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RL Haynes",
+              "bowler": "KH Brunt",
+              "non_striker": "HC Knight",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RL Haynes",
+              "bowler": "KH Brunt",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "HC Knight",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HC Knight",
+              "bowler": "KH Brunt",
+              "non_striker": "RL Haynes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RL Haynes",
+              "bowler": "KH Brunt",
+              "non_striker": "HC Knight",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 3.6,
+          "type": "mandatory"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3006 @@
+{
+  "meta": {
+    "data_version": "1.0.0",
+    "created": "2019-11-30",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Hobart",
+    "dates": [
+      "2019-11-22"
+    ],
+    "event": {
+      "name": "Women's Big Bash League",
+      "match_number": 42
+    },
+    "gender": "female",
+    "match_type": "T20",
+    "officials": {
+      "match_referees": [
+        "David Johnston"
+      ],
+      "tv_umpires": [
+        "Troy Penman"
+      ],
+      "umpires": [
+        "DR Close",
+        "TJ Matibiri"
+      ]
+    },
+    "outcome": {
+      "winner": "Brisbane Heat",
+      "by": {
+        "runs": 7
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "AC Kerr"
+    ],
+    "players": {
+      "Brisbane Heat": [
+        "BL Mooney",
+        "ML Green",
+        "SJ Johnson",
+        "JL Jonassen",
+        "GM Harris",
+        "L Harris",
+        "AC Kerr",
+        "DM Kimmince",
+        "KL Short",
+        "M Hinkley",
+        "G Prestwidge"
+      ],
+      "Hobart Hurricanes": [
+        "EG Fazackerley",
+        "FC Wilson",
+        "HC Knight",
+        "NJ Carey",
+        "CL Hall",
+        "SK Moloney",
+        "CL Tryon",
+        "ML Gibson",
+        "TJ Vlaeminck",
+        "B Vakarewa",
+        "E Manix-Geeves"
+      ]
+    },
+    "registry": {
+      "people": {
+        "AC Kerr": "7673c908",
+        "B Vakarewa": "06f988b8",
+        "BL Mooney": "52d1dbc8",
+        "CL Hall": "6026e2ae",
+        "CL Tryon": "4d4605e6",
+        "DM Kimmince": "d693012d",
+        "DR Close": "4cae2b0c",
+        "David Johnston": "92cef862",
+        "E Manix-Geeves": "5c225840",
+        "EG Fazackerley": "caaf2219",
+        "FC Wilson": "a28132bd",
+        "G Prestwidge": "c218e4e7",
+        "GM Harris": "72166006",
+        "HC Knight": "4ba0289e",
+        "JL Jonassen": "0475a86b",
+        "KL Short": "712bd44c",
+        "L Harris": "36e2dc83",
+        "M Hinkley": "3812165d",
+        "ML Gibson": "27fa592f",
+        "ML Green": "865eae1f",
+        "NJ Carey": "dff806f4",
+        "SJ Johnson": "d7b754d4",
+        "SK Moloney": "a0bc8dc1",
+        "TJ Matibiri": "4a3132b1",
+        "TJ Vlaeminck": "ef70a34b",
+        "Troy Penman": "0aa42c26"
+      }
+    },
+    "season": "2019/20",
+    "team_type": "club",
+    "teams": [
+      "Hobart Hurricanes",
+      "Brisbane Heat"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Hobart Hurricanes"
+    },
+    "venue": "Bellerive Oval"
+  },
+  "innings": [
+    {
+      "team": "Brisbane Heat",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "BL Mooney",
+              "bowler": "TJ Vlaeminck",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BL Mooney",
+              "bowler": "TJ Vlaeminck",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "BL Mooney",
+              "bowler": "TJ Vlaeminck",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ML Green",
+              "bowler": "TJ Vlaeminck",
+              "non_striker": "BL Mooney",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ML Green",
+              "bowler": "TJ Vlaeminck",
+              "non_striker": "BL Mooney",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "ML Green",
+              "bowler": "TJ Vlaeminck",
+              "non_striker": "BL Mooney",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "BL Mooney",
+              "bowler": "B Vakarewa",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ML Green",
+              "bowler": "B Vakarewa",
+              "non_striker": "BL Mooney",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BL Mooney",
+              "bowler": "B Vakarewa",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "BL Mooney",
+                  "fielders": [
+                    {
+                      "name": "FC Wilson"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "SJ Johnson",
+              "bowler": "B Vakarewa",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SJ Johnson",
+              "bowler": "B Vakarewa",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SJ Johnson",
+              "bowler": "B Vakarewa",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "ML Green",
+              "bowler": "TJ Vlaeminck",
+              "non_striker": "SJ Johnson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ML Green",
+              "bowler": "TJ Vlaeminck",
+              "non_striker": "SJ Johnson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ML Green",
+              "bowler": "TJ Vlaeminck",
+              "non_striker": "SJ Johnson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SJ Johnson",
+              "bowler": "TJ Vlaeminck",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SJ Johnson",
+              "bowler": "TJ Vlaeminck",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SJ Johnson",
+              "bowler": "TJ Vlaeminck",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "SJ Johnson",
+                  "fielders": [
+                    {
+                      "name": "EG Fazackerley"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "JL Jonassen",
+              "bowler": "B Vakarewa",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JL Jonassen",
+              "bowler": "B Vakarewa",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ML Green",
+              "bowler": "B Vakarewa",
+              "non_striker": "JL Jonassen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JL Jonassen",
+              "bowler": "B Vakarewa",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JL Jonassen",
+              "bowler": "B Vakarewa",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JL Jonassen",
+              "bowler": "B Vakarewa",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "ML Green",
+              "bowler": "NJ Carey",
+              "non_striker": "JL Jonassen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ML Green",
+              "bowler": "NJ Carey",
+              "non_striker": "JL Jonassen",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "ML Green",
+              "bowler": "NJ Carey",
+              "non_striker": "JL Jonassen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JL Jonassen",
+              "bowler": "NJ Carey",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JL Jonassen",
+              "bowler": "NJ Carey",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ML Green",
+              "bowler": "NJ Carey",
+              "non_striker": "JL Jonassen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "JL Jonassen",
+              "bowler": "HC Knight",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ML Green",
+              "bowler": "HC Knight",
+              "non_striker": "JL Jonassen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ML Green",
+              "bowler": "HC Knight",
+              "non_striker": "JL Jonassen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JL Jonassen",
+              "bowler": "HC Knight",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JL Jonassen",
+              "bowler": "HC Knight",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ML Green",
+              "bowler": "HC Knight",
+              "non_striker": "JL Jonassen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "ML Green",
+              "bowler": "NJ Carey",
+              "non_striker": "JL Jonassen",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "ML Green",
+              "bowler": "NJ Carey",
+              "non_striker": "JL Jonassen",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "ML Green",
+              "bowler": "NJ Carey",
+              "non_striker": "JL Jonassen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ML Green",
+              "bowler": "NJ Carey",
+              "non_striker": "JL Jonassen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ML Green",
+              "bowler": "NJ Carey",
+              "non_striker": "JL Jonassen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ML Green",
+              "bowler": "NJ Carey",
+              "non_striker": "JL Jonassen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "JL Jonassen",
+              "bowler": "ML Gibson",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ML Green",
+              "bowler": "ML Gibson",
+              "non_striker": "JL Jonassen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ML Green",
+              "bowler": "ML Gibson",
+              "non_striker": "JL Jonassen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JL Jonassen",
+              "bowler": "ML Gibson",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JL Jonassen",
+              "bowler": "ML Gibson",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JL Jonassen",
+              "bowler": "ML Gibson",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "JL Jonassen",
+              "bowler": "HC Knight",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ML Green",
+              "bowler": "HC Knight",
+              "non_striker": "JL Jonassen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JL Jonassen",
+              "bowler": "HC Knight",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JL Jonassen",
+              "bowler": "HC Knight",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JL Jonassen",
+              "bowler": "HC Knight",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JL Jonassen",
+              "bowler": "HC Knight",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "ML Green",
+              "bowler": "ML Gibson",
+              "non_striker": "JL Jonassen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "stumped",
+                  "player_out": "ML Green",
+                  "fielders": [
+                    {
+                      "name": "E Manix-Geeves"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "GM Harris",
+              "bowler": "ML Gibson",
+              "non_striker": "JL Jonassen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JL Jonassen",
+              "bowler": "ML Gibson",
+              "non_striker": "GM Harris",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "JL Jonassen",
+                  "fielders": [
+                    {
+                      "name": "EG Fazackerley"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "GM Harris",
+              "bowler": "ML Gibson",
+              "non_striker": "L Harris",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "GM Harris",
+              "bowler": "ML Gibson",
+              "non_striker": "L Harris",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Harris",
+              "bowler": "ML Gibson",
+              "non_striker": "GM Harris",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "GM Harris",
+              "bowler": "TJ Vlaeminck",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "L Harris",
+              "runs": {
+                "batter": 1,
+                "extras": 1,
+                "total": 2
+              }
+            },
+            {
+              "batter": "L Harris",
+              "bowler": "TJ Vlaeminck",
+              "non_striker": "GM Harris",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GM Harris",
+              "bowler": "TJ Vlaeminck",
+              "non_striker": "L Harris",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GM Harris",
+              "bowler": "TJ Vlaeminck",
+              "non_striker": "L Harris",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Harris",
+              "bowler": "TJ Vlaeminck",
+              "non_striker": "GM Harris",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "L Harris",
+              "bowler": "TJ Vlaeminck",
+              "non_striker": "GM Harris",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Harris",
+              "bowler": "TJ Vlaeminck",
+              "non_striker": "GM Harris",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "GM Harris",
+              "bowler": "B Vakarewa",
+              "non_striker": "L Harris",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "GM Harris",
+              "bowler": "B Vakarewa",
+              "non_striker": "L Harris",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Harris",
+              "bowler": "B Vakarewa",
+              "non_striker": "GM Harris",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GM Harris",
+              "bowler": "B Vakarewa",
+              "non_striker": "L Harris",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GM Harris",
+              "bowler": "B Vakarewa",
+              "non_striker": "L Harris",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Harris",
+              "bowler": "B Vakarewa",
+              "non_striker": "GM Harris",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "GM Harris",
+              "bowler": "NJ Carey",
+              "non_striker": "L Harris",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GM Harris",
+              "bowler": "NJ Carey",
+              "non_striker": "L Harris",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Harris",
+              "bowler": "NJ Carey",
+              "non_striker": "GM Harris",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GM Harris",
+              "bowler": "NJ Carey",
+              "non_striker": "L Harris",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GM Harris",
+              "bowler": "NJ Carey",
+              "non_striker": "L Harris",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GM Harris",
+              "bowler": "NJ Carey",
+              "non_striker": "L Harris",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "L Harris",
+              "bowler": "EG Fazackerley",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "GM Harris",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Harris",
+              "bowler": "EG Fazackerley",
+              "non_striker": "GM Harris",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GM Harris",
+              "bowler": "EG Fazackerley",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "L Harris",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Harris",
+              "bowler": "EG Fazackerley",
+              "non_striker": "GM Harris",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "L Harris",
+              "bowler": "EG Fazackerley",
+              "extras": {
+                "byes": 4
+              },
+              "non_striker": "GM Harris",
+              "runs": {
+                "batter": 0,
+                "extras": 4,
+                "total": 4
+              }
+            },
+            {
+              "batter": "L Harris",
+              "bowler": "EG Fazackerley",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "GM Harris",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Harris",
+              "bowler": "EG Fazackerley",
+              "non_striker": "GM Harris",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "L Harris",
+                  "fielders": [
+                    {
+                      "name": "CL Tryon"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "GM Harris",
+              "bowler": "EG Fazackerley",
+              "non_striker": "AC Kerr",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "GM Harris",
+              "bowler": "ML Gibson",
+              "non_striker": "AC Kerr",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AC Kerr",
+              "bowler": "ML Gibson",
+              "non_striker": "GM Harris",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AC Kerr",
+              "bowler": "ML Gibson",
+              "non_striker": "GM Harris",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GM Harris",
+              "bowler": "ML Gibson",
+              "non_striker": "AC Kerr",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AC Kerr",
+              "bowler": "ML Gibson",
+              "non_striker": "GM Harris",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GM Harris",
+              "bowler": "ML Gibson",
+              "non_striker": "AC Kerr",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "AC Kerr",
+              "bowler": "HC Knight",
+              "non_striker": "GM Harris",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AC Kerr",
+              "bowler": "HC Knight",
+              "non_striker": "GM Harris",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GM Harris",
+              "bowler": "HC Knight",
+              "non_striker": "AC Kerr",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "GM Harris",
+              "bowler": "HC Knight",
+              "non_striker": "AC Kerr",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GM Harris",
+              "bowler": "HC Knight",
+              "non_striker": "AC Kerr",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AC Kerr",
+              "bowler": "HC Knight",
+              "non_striker": "GM Harris",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "GM Harris",
+              "bowler": "TJ Vlaeminck",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "AC Kerr",
+              "runs": {
+                "batter": 4,
+                "extras": 1,
+                "total": 5
+              }
+            },
+            {
+              "batter": "GM Harris",
+              "bowler": "TJ Vlaeminck",
+              "non_striker": "AC Kerr",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "GM Harris",
+              "bowler": "TJ Vlaeminck",
+              "non_striker": "AC Kerr",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "GM Harris",
+              "bowler": "TJ Vlaeminck",
+              "non_striker": "AC Kerr",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "GM Harris"
+                }
+              ]
+            },
+            {
+              "batter": "DM Kimmince",
+              "bowler": "TJ Vlaeminck",
+              "non_striker": "AC Kerr",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DM Kimmince",
+              "bowler": "TJ Vlaeminck",
+              "non_striker": "AC Kerr",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AC Kerr",
+              "bowler": "TJ Vlaeminck",
+              "non_striker": "DM Kimmince",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "AC Kerr",
+              "bowler": "ML Gibson",
+              "non_striker": "DM Kimmince",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DM Kimmince",
+              "bowler": "ML Gibson",
+              "non_striker": "AC Kerr",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AC Kerr",
+              "bowler": "ML Gibson",
+              "non_striker": "DM Kimmince",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AC Kerr",
+              "bowler": "ML Gibson",
+              "non_striker": "DM Kimmince",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AC Kerr",
+              "bowler": "ML Gibson",
+              "non_striker": "DM Kimmince",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DM Kimmince",
+              "bowler": "ML Gibson",
+              "non_striker": "AC Kerr",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "DM Kimmince",
+              "bowler": "NJ Carey",
+              "non_striker": "AC Kerr",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AC Kerr",
+              "bowler": "NJ Carey",
+              "non_striker": "DM Kimmince",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DM Kimmince",
+              "bowler": "NJ Carey",
+              "extras": {
+                "legbyes": 2
+              },
+              "non_striker": "AC Kerr",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "DM Kimmince",
+              "bowler": "NJ Carey",
+              "non_striker": "AC Kerr",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AC Kerr",
+              "bowler": "NJ Carey",
+              "non_striker": "DM Kimmince",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AC Kerr",
+              "bowler": "NJ Carey",
+              "non_striker": "DM Kimmince",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "AC Kerr",
+              "bowler": "B Vakarewa",
+              "non_striker": "DM Kimmince",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DM Kimmince",
+              "bowler": "B Vakarewa",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "AC Kerr",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AC Kerr",
+              "bowler": "B Vakarewa",
+              "non_striker": "DM Kimmince",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "AC Kerr",
+                  "fielders": [
+                    {
+                      "name": "ML Gibson"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "DM Kimmince",
+              "bowler": "B Vakarewa",
+              "non_striker": "KL Short",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KL Short",
+              "bowler": "B Vakarewa",
+              "non_striker": "DM Kimmince",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "run out",
+                  "player_out": "KL Short"
+                }
+              ]
+            },
+            {
+              "batter": "DM Kimmince",
+              "bowler": "B Vakarewa",
+              "non_striker": "M Hinkley",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "DM Kimmince"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Hobart Hurricanes",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "EG Fazackerley",
+              "bowler": "SJ Johnson",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "FC Wilson",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "EG Fazackerley",
+              "bowler": "SJ Johnson",
+              "non_striker": "FC Wilson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "EG Fazackerley",
+              "bowler": "SJ Johnson",
+              "non_striker": "FC Wilson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "FC Wilson",
+              "bowler": "SJ Johnson",
+              "non_striker": "EG Fazackerley",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "FC Wilson",
+              "bowler": "SJ Johnson",
+              "non_striker": "EG Fazackerley",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "EG Fazackerley",
+              "bowler": "SJ Johnson",
+              "non_striker": "FC Wilson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "EG Fazackerley",
+              "bowler": "SJ Johnson",
+              "non_striker": "FC Wilson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "EG Fazackerley",
+              "bowler": "DM Kimmince",
+              "non_striker": "FC Wilson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "EG Fazackerley",
+              "bowler": "DM Kimmince",
+              "non_striker": "FC Wilson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "FC Wilson",
+              "bowler": "DM Kimmince",
+              "non_striker": "EG Fazackerley",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "FC Wilson",
+              "bowler": "DM Kimmince",
+              "non_striker": "EG Fazackerley",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "FC Wilson",
+              "bowler": "DM Kimmince",
+              "non_striker": "EG Fazackerley",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "FC Wilson",
+              "bowler": "DM Kimmince",
+              "non_striker": "EG Fazackerley",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "FC Wilson",
+              "bowler": "SJ Johnson",
+              "non_striker": "EG Fazackerley",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "FC Wilson",
+              "bowler": "SJ Johnson",
+              "non_striker": "EG Fazackerley",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "FC Wilson",
+              "bowler": "SJ Johnson",
+              "non_striker": "EG Fazackerley",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "FC Wilson",
+              "bowler": "SJ Johnson",
+              "non_striker": "EG Fazackerley",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "FC Wilson",
+              "bowler": "SJ Johnson",
+              "non_striker": "EG Fazackerley",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "EG Fazackerley",
+              "bowler": "SJ Johnson",
+              "non_striker": "FC Wilson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "EG Fazackerley",
+              "bowler": "JL Jonassen",
+              "non_striker": "FC Wilson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "EG Fazackerley",
+              "bowler": "JL Jonassen",
+              "non_striker": "FC Wilson",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "EG Fazackerley",
+              "bowler": "JL Jonassen",
+              "non_striker": "FC Wilson",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "EG Fazackerley",
+              "bowler": "JL Jonassen",
+              "non_striker": "FC Wilson",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "EG Fazackerley",
+              "bowler": "JL Jonassen",
+              "non_striker": "FC Wilson",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "EG Fazackerley",
+              "bowler": "JL Jonassen",
+              "non_striker": "FC Wilson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "FC Wilson",
+              "bowler": "DM Kimmince",
+              "non_striker": "EG Fazackerley",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "FC Wilson",
+              "bowler": "DM Kimmince",
+              "non_striker": "EG Fazackerley",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "FC Wilson",
+              "bowler": "DM Kimmince",
+              "non_striker": "EG Fazackerley",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "EG Fazackerley",
+              "bowler": "DM Kimmince",
+              "non_striker": "FC Wilson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "EG Fazackerley",
+              "bowler": "DM Kimmince",
+              "non_striker": "FC Wilson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "EG Fazackerley",
+              "bowler": "DM Kimmince",
+              "non_striker": "FC Wilson",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "FC Wilson",
+              "bowler": "SJ Johnson",
+              "non_striker": "EG Fazackerley",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "FC Wilson",
+              "bowler": "SJ Johnson",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "EG Fazackerley",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "FC Wilson",
+              "bowler": "SJ Johnson",
+              "non_striker": "EG Fazackerley",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "EG Fazackerley",
+              "bowler": "SJ Johnson",
+              "non_striker": "FC Wilson",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "EG Fazackerley",
+              "bowler": "SJ Johnson",
+              "non_striker": "FC Wilson",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "EG Fazackerley",
+              "bowler": "SJ Johnson",
+              "non_striker": "FC Wilson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "EG Fazackerley",
+              "bowler": "SJ Johnson",
+              "non_striker": "FC Wilson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "EG Fazackerley",
+              "bowler": "AC Kerr",
+              "non_striker": "FC Wilson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "EG Fazackerley",
+                  "fielders": [
+                    {
+                      "name": "BL Mooney"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "HC Knight",
+              "bowler": "AC Kerr",
+              "non_striker": "FC Wilson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HC Knight",
+              "bowler": "AC Kerr",
+              "non_striker": "FC Wilson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HC Knight",
+              "bowler": "AC Kerr",
+              "non_striker": "FC Wilson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HC Knight",
+              "bowler": "AC Kerr",
+              "non_striker": "FC Wilson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "kind": "run out",
+                  "player_out": "HC Knight"
+                }
+              ]
+            },
+            {
+              "batter": "NJ Carey",
+              "bowler": "AC Kerr",
+              "non_striker": "FC Wilson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "NJ Carey",
+              "bowler": "G Prestwidge",
+              "non_striker": "FC Wilson",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "NJ Carey",
+              "bowler": "G Prestwidge",
+              "non_striker": "FC Wilson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "FC Wilson",
+              "bowler": "G Prestwidge",
+              "non_striker": "NJ Carey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "FC Wilson",
+              "bowler": "G Prestwidge",
+              "non_striker": "NJ Carey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NJ Carey",
+              "bowler": "G Prestwidge",
+              "non_striker": "FC Wilson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "FC Wilson",
+              "bowler": "G Prestwidge",
+              "non_striker": "NJ Carey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "NJ Carey",
+              "bowler": "AC Kerr",
+              "non_striker": "FC Wilson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NJ Carey",
+              "bowler": "AC Kerr",
+              "non_striker": "FC Wilson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NJ Carey",
+              "bowler": "AC Kerr",
+              "non_striker": "FC Wilson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "NJ Carey",
+                  "fielders": [
+                    {
+                      "name": "BL Mooney"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "CL Hall",
+              "bowler": "AC Kerr",
+              "non_striker": "FC Wilson",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "CL Hall",
+              "bowler": "AC Kerr",
+              "non_striker": "FC Wilson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "FC Wilson",
+              "bowler": "AC Kerr",
+              "non_striker": "CL Hall",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "CL Hall",
+              "bowler": "GM Harris",
+              "non_striker": "FC Wilson",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "CL Hall",
+              "bowler": "GM Harris",
+              "non_striker": "FC Wilson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "FC Wilson",
+              "bowler": "GM Harris",
+              "non_striker": "CL Hall",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CL Hall",
+              "bowler": "GM Harris",
+              "non_striker": "FC Wilson",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "CL Hall",
+              "bowler": "GM Harris",
+              "non_striker": "FC Wilson",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "CL Hall",
+              "bowler": "GM Harris",
+              "non_striker": "FC Wilson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "FC Wilson",
+              "bowler": "AC Kerr",
+              "non_striker": "CL Hall",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CL Hall",
+              "bowler": "AC Kerr",
+              "non_striker": "FC Wilson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CL Hall",
+              "bowler": "AC Kerr",
+              "non_striker": "FC Wilson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "FC Wilson",
+              "bowler": "AC Kerr",
+              "non_striker": "CL Hall",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CL Hall",
+              "bowler": "AC Kerr",
+              "non_striker": "FC Wilson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "FC Wilson",
+              "bowler": "AC Kerr",
+              "non_striker": "CL Hall",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "FC Wilson",
+              "bowler": "JL Jonassen",
+              "non_striker": "CL Hall",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CL Hall",
+              "bowler": "JL Jonassen",
+              "non_striker": "FC Wilson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "FC Wilson",
+              "bowler": "JL Jonassen",
+              "non_striker": "CL Hall",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "FC Wilson",
+              "bowler": "JL Jonassen",
+              "non_striker": "CL Hall",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "FC Wilson",
+              "bowler": "JL Jonassen",
+              "non_striker": "CL Hall",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CL Hall",
+              "bowler": "JL Jonassen",
+              "non_striker": "FC Wilson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "CL Hall",
+              "bowler": "G Prestwidge",
+              "non_striker": "FC Wilson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "CL Hall",
+                  "fielders": [
+                    {
+                      "name": "BL Mooney"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "SK Moloney",
+              "bowler": "G Prestwidge",
+              "non_striker": "FC Wilson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "FC Wilson",
+              "bowler": "G Prestwidge",
+              "non_striker": "SK Moloney",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "FC Wilson",
+              "bowler": "G Prestwidge",
+              "non_striker": "SK Moloney",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SK Moloney",
+              "bowler": "G Prestwidge",
+              "non_striker": "FC Wilson",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SK Moloney",
+              "bowler": "G Prestwidge",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "FC Wilson",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SK Moloney",
+              "bowler": "G Prestwidge",
+              "non_striker": "FC Wilson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "FC Wilson",
+              "bowler": "JL Jonassen",
+              "non_striker": "SK Moloney",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "FC Wilson",
+              "bowler": "JL Jonassen",
+              "non_striker": "SK Moloney",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SK Moloney",
+              "bowler": "JL Jonassen",
+              "non_striker": "FC Wilson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "FC Wilson",
+              "bowler": "JL Jonassen",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "SK Moloney",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SK Moloney",
+              "bowler": "JL Jonassen",
+              "non_striker": "FC Wilson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SK Moloney",
+              "bowler": "JL Jonassen",
+              "non_striker": "FC Wilson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "SK Moloney",
+              "bowler": "AC Kerr",
+              "non_striker": "FC Wilson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SK Moloney",
+              "bowler": "AC Kerr",
+              "non_striker": "FC Wilson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "FC Wilson",
+              "bowler": "AC Kerr",
+              "non_striker": "SK Moloney",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SK Moloney",
+              "bowler": "AC Kerr",
+              "non_striker": "FC Wilson",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SK Moloney",
+              "bowler": "AC Kerr",
+              "non_striker": "FC Wilson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "FC Wilson",
+              "bowler": "AC Kerr",
+              "non_striker": "SK Moloney",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "FC Wilson",
+              "bowler": "DM Kimmince",
+              "non_striker": "SK Moloney",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "FC Wilson",
+                  "fielders": [
+                    {
+                      "name": "SJ Johnson"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "SK Moloney",
+              "bowler": "DM Kimmince",
+              "non_striker": "CL Tryon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SK Moloney",
+              "bowler": "DM Kimmince",
+              "non_striker": "CL Tryon",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CL Tryon",
+              "bowler": "DM Kimmince",
+              "non_striker": "SK Moloney",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CL Tryon",
+              "bowler": "DM Kimmince",
+              "non_striker": "SK Moloney",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SK Moloney",
+              "bowler": "DM Kimmince",
+              "non_striker": "CL Tryon",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "CL Tryon",
+              "bowler": "SJ Johnson",
+              "non_striker": "SK Moloney",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SK Moloney",
+              "bowler": "SJ Johnson",
+              "non_striker": "CL Tryon",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SK Moloney",
+              "bowler": "SJ Johnson",
+              "non_striker": "CL Tryon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "SK Moloney"
+                }
+              ]
+            },
+            {
+              "batter": "ML Gibson",
+              "bowler": "SJ Johnson",
+              "non_striker": "CL Tryon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ML Gibson",
+              "bowler": "SJ Johnson",
+              "non_striker": "CL Tryon",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CL Tryon",
+              "bowler": "SJ Johnson",
+              "non_striker": "ML Gibson",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "ML Gibson",
+              "bowler": "GM Harris",
+              "non_striker": "CL Tryon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ML Gibson",
+              "bowler": "GM Harris",
+              "non_striker": "CL Tryon",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CL Tryon",
+              "bowler": "GM Harris",
+              "non_striker": "ML Gibson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ML Gibson",
+              "bowler": "GM Harris",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "CL Tryon",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ML Gibson",
+              "bowler": "GM Harris",
+              "non_striker": "CL Tryon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ML Gibson",
+              "bowler": "GM Harris",
+              "non_striker": "CL Tryon",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "ML Gibson",
+              "bowler": "GM Harris",
+              "non_striker": "CL Tryon",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "ML Gibson",
+              "bowler": "JL Jonassen",
+              "non_striker": "CL Tryon",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CL Tryon",
+              "bowler": "JL Jonassen",
+              "non_striker": "ML Gibson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CL Tryon",
+              "bowler": "JL Jonassen",
+              "non_striker": "ML Gibson",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "CL Tryon",
+              "bowler": "JL Jonassen",
+              "non_striker": "ML Gibson",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "CL Tryon",
+              "bowler": "JL Jonassen",
+              "non_striker": "ML Gibson",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "CL Tryon",
+              "bowler": "JL Jonassen",
+              "non_striker": "ML Gibson",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "ML Gibson",
+              "bowler": "DM Kimmince",
+              "non_striker": "CL Tryon",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CL Tryon",
+              "bowler": "DM Kimmince",
+              "non_striker": "ML Gibson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CL Tryon",
+              "bowler": "DM Kimmince",
+              "non_striker": "ML Gibson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "CL Tryon"
+                }
+              ]
+            },
+            {
+              "batter": "TJ Vlaeminck",
+              "bowler": "DM Kimmince",
+              "non_striker": "ML Gibson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ML Gibson",
+              "bowler": "DM Kimmince",
+              "non_striker": "TJ Vlaeminck",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TJ Vlaeminck",
+              "bowler": "DM Kimmince",
+              "non_striker": "ML Gibson",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.7,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 158
+      }
+    }
+  ]
+}

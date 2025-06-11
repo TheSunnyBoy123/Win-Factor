@@ -1,0 +1,3215 @@
+{
+  "meta": {
+    "data_version": "1.0.0",
+    "created": "2020-01-06",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Bangkok",
+    "dates": [
+      "2019-02-27"
+    ],
+    "event": {
+      "name": "ICC Women's T20 World Cup Asia Region Qualifier",
+      "match_number": 20
+    },
+    "gender": "female",
+    "match_type": "T20",
+    "match_type_number": 597,
+    "officials": {
+      "match_referees": [
+        "Neeyamur Rashid"
+      ],
+      "reserve_umpires": [
+        "VK Jha"
+      ],
+      "umpires": [
+        "Akbar Ali",
+        "Tabarak Dar"
+      ]
+    },
+    "outcome": {
+      "winner": "Nepal",
+      "by": {
+        "runs": 30
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "RC Belbashi"
+    ],
+    "players": {
+      "Nepal": [
+        "K Shrestha",
+        "SR Magar",
+        "I Barma",
+        "B Rawal",
+        "Roma Thapa",
+        "S Magar",
+        "Nary Thapa",
+        "RC Belbashi",
+        "Karuna Bhandari",
+        "MM Chaudhary",
+        "K Kunwar"
+      ],
+      "Kuwait": [
+        "Priyada Murali",
+        "Sabreen Zaki",
+        "Maryam Omar",
+        "SL Gomez",
+        "Amna Tariq",
+        "Mariamma Hyder",
+        "Maryyam Ashraf",
+        "Khadija Khalil",
+        "Madeeha Zuberi",
+        "Zeefa Jilani",
+        "Iqra Ishaq"
+      ]
+    },
+    "registry": {
+      "people": {
+        "Akbar Ali": "e753931d",
+        "Amna Tariq": "44b53fba",
+        "B Rawal": "4d1cc284",
+        "I Barma": "521abce2",
+        "Iqra Ishaq": "59c770e7",
+        "K Kunwar": "97e6e41a",
+        "K Shrestha": "119de50f",
+        "Karuna Bhandari": "c68fc575",
+        "Khadija Khalil": "7c61a686",
+        "MM Chaudhary": "f4b9d4e0",
+        "Madeeha Zuberi": "c86675a9",
+        "Mariamma Hyder": "c8ae2573",
+        "Maryam Omar": "b4d08794",
+        "Maryyam Ashraf": "1b9d3eb3",
+        "Nary Thapa": "d24e69f5",
+        "Neeyamur Rashid": "bd81a027",
+        "Priyada Murali": "f4b942ae",
+        "RC Belbashi": "dfdaca74",
+        "Roma Thapa": "05d9faac",
+        "S Magar": "4fc3790e",
+        "SL Gomez": "02264be0",
+        "SR Magar": "61c22ad0",
+        "Sabreen Zaki": "d13e5a0d",
+        "Tabarak Dar": "2259c12d",
+        "VK Jha": "5d46eb72",
+        "Zeefa Jilani": "3f2b40f0"
+      }
+    },
+    "season": "2018/19",
+    "team_type": "international",
+    "teams": [
+      "Kuwait",
+      "Nepal"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Kuwait"
+    },
+    "venue": "Asian Institute of Technology Ground"
+  },
+  "innings": [
+    {
+      "team": "Nepal",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "K Shrestha",
+              "bowler": "Maryam Omar",
+              "non_striker": "SR Magar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Shrestha",
+              "bowler": "Maryam Omar",
+              "non_striker": "SR Magar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Shrestha",
+              "bowler": "Maryam Omar",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "SR Magar",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Shrestha",
+              "bowler": "Maryam Omar",
+              "non_striker": "SR Magar",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "K Shrestha",
+              "bowler": "Maryam Omar",
+              "non_striker": "SR Magar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SR Magar",
+              "bowler": "Maryam Omar",
+              "non_striker": "K Shrestha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SR Magar",
+              "bowler": "Maryam Omar",
+              "non_striker": "K Shrestha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "stumped",
+                  "player_out": "SR Magar",
+                  "fielders": [
+                    {
+                      "name": "Khadija Khalil"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "K Shrestha",
+              "bowler": "Priyada Murali",
+              "non_striker": "I Barma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Shrestha",
+              "bowler": "Priyada Murali",
+              "non_striker": "I Barma",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "K Shrestha",
+              "bowler": "Priyada Murali",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "I Barma",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Shrestha",
+              "bowler": "Priyada Murali",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "I Barma",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Shrestha",
+              "bowler": "Priyada Murali",
+              "non_striker": "I Barma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Barma",
+              "bowler": "Priyada Murali",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "K Shrestha",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Barma",
+              "bowler": "Priyada Murali",
+              "non_striker": "K Shrestha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Barma",
+              "bowler": "Priyada Murali",
+              "non_striker": "K Shrestha",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "I Barma",
+              "bowler": "Priyada Murali",
+              "non_striker": "K Shrestha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "K Shrestha",
+              "bowler": "Maryam Omar",
+              "non_striker": "I Barma",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "K Shrestha",
+              "bowler": "Maryam Omar",
+              "non_striker": "I Barma",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "I Barma",
+              "bowler": "Maryam Omar",
+              "non_striker": "K Shrestha",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Shrestha",
+              "bowler": "Maryam Omar",
+              "non_striker": "I Barma",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "K Shrestha",
+              "bowler": "Maryam Omar",
+              "non_striker": "I Barma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Shrestha",
+              "bowler": "Maryam Omar",
+              "non_striker": "I Barma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "I Barma",
+              "bowler": "Mariamma Hyder",
+              "non_striker": "K Shrestha",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Shrestha",
+              "bowler": "Mariamma Hyder",
+              "non_striker": "I Barma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Shrestha",
+              "bowler": "Mariamma Hyder",
+              "non_striker": "I Barma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Shrestha",
+              "bowler": "Mariamma Hyder",
+              "non_striker": "I Barma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Barma",
+              "bowler": "Mariamma Hyder",
+              "non_striker": "K Shrestha",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Shrestha",
+              "bowler": "Mariamma Hyder",
+              "non_striker": "I Barma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "I Barma",
+              "bowler": "Amna Tariq",
+              "non_striker": "K Shrestha",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "I Barma",
+              "bowler": "Amna Tariq",
+              "non_striker": "K Shrestha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "run out",
+                  "player_out": "K Shrestha"
+                }
+              ]
+            },
+            {
+              "batter": "I Barma",
+              "bowler": "Amna Tariq",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "B Rawal",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Barma",
+              "bowler": "Amna Tariq",
+              "non_striker": "B Rawal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Barma",
+              "bowler": "Amna Tariq",
+              "non_striker": "B Rawal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Barma",
+              "bowler": "Amna Tariq",
+              "non_striker": "B Rawal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "I Barma",
+                  "fielders": [
+                    {
+                      "name": "Maryam Omar"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "B Rawal",
+              "bowler": "Amna Tariq",
+              "non_striker": "Roma Thapa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Roma Thapa",
+              "bowler": "Maryam Omar",
+              "non_striker": "B Rawal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Rawal",
+              "bowler": "Maryam Omar",
+              "non_striker": "Roma Thapa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Rawal",
+              "bowler": "Maryam Omar",
+              "non_striker": "Roma Thapa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Rawal",
+              "bowler": "Maryam Omar",
+              "non_striker": "Roma Thapa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Rawal",
+              "bowler": "Maryam Omar",
+              "non_striker": "Roma Thapa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Roma Thapa",
+              "bowler": "Maryam Omar",
+              "non_striker": "B Rawal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "B Rawal",
+              "bowler": "Amna Tariq",
+              "non_striker": "Roma Thapa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Rawal",
+              "bowler": "Amna Tariq",
+              "non_striker": "Roma Thapa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Rawal",
+              "bowler": "Amna Tariq",
+              "non_striker": "Roma Thapa",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "B Rawal",
+              "bowler": "Amna Tariq",
+              "non_striker": "Roma Thapa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Roma Thapa",
+              "bowler": "Amna Tariq",
+              "non_striker": "B Rawal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Roma Thapa",
+              "bowler": "Amna Tariq",
+              "non_striker": "B Rawal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Roma Thapa",
+              "bowler": "Maryam Omar",
+              "non_striker": "B Rawal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Rawal",
+              "bowler": "Maryam Omar",
+              "non_striker": "Roma Thapa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Roma Thapa",
+              "bowler": "Maryam Omar",
+              "non_striker": "B Rawal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Roma Thapa",
+              "bowler": "Maryam Omar",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "B Rawal",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Roma Thapa",
+              "bowler": "Maryam Omar",
+              "non_striker": "B Rawal",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Roma Thapa",
+              "bowler": "Maryam Omar",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "B Rawal",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Roma Thapa",
+              "bowler": "Maryam Omar",
+              "non_striker": "B Rawal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Roma Thapa",
+              "bowler": "Maryam Omar",
+              "non_striker": "B Rawal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Roma Thapa",
+                  "fielders": [
+                    {
+                      "name": "Khadija Khalil"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "S Magar",
+              "bowler": "Madeeha Zuberi",
+              "non_striker": "B Rawal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "S Magar",
+                  "fielders": [
+                    {
+                      "name": "Amna Tariq"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "Nary Thapa",
+              "bowler": "Madeeha Zuberi",
+              "non_striker": "B Rawal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nary Thapa",
+              "bowler": "Madeeha Zuberi",
+              "non_striker": "B Rawal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nary Thapa",
+              "bowler": "Madeeha Zuberi",
+              "non_striker": "B Rawal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nary Thapa",
+              "bowler": "Madeeha Zuberi",
+              "non_striker": "B Rawal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nary Thapa",
+              "bowler": "Madeeha Zuberi",
+              "non_striker": "B Rawal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "B Rawal",
+              "bowler": "Mariamma Hyder",
+              "non_striker": "Nary Thapa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Rawal",
+              "bowler": "Mariamma Hyder",
+              "non_striker": "Nary Thapa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Rawal",
+              "bowler": "Mariamma Hyder",
+              "non_striker": "Nary Thapa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Rawal",
+              "bowler": "Mariamma Hyder",
+              "non_striker": "Nary Thapa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nary Thapa",
+              "bowler": "Mariamma Hyder",
+              "non_striker": "B Rawal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nary Thapa",
+              "bowler": "Mariamma Hyder",
+              "non_striker": "B Rawal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "Nary Thapa",
+              "bowler": "Madeeha Zuberi",
+              "non_striker": "B Rawal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nary Thapa",
+              "bowler": "Madeeha Zuberi",
+              "non_striker": "B Rawal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Rawal",
+              "bowler": "Madeeha Zuberi",
+              "non_striker": "Nary Thapa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nary Thapa",
+              "bowler": "Madeeha Zuberi",
+              "non_striker": "B Rawal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nary Thapa",
+              "bowler": "Madeeha Zuberi",
+              "non_striker": "B Rawal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Rawal",
+              "bowler": "Madeeha Zuberi",
+              "non_striker": "Nary Thapa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "B Rawal",
+              "bowler": "Mariamma Hyder",
+              "non_striker": "Nary Thapa",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "B Rawal",
+              "bowler": "Mariamma Hyder",
+              "non_striker": "Nary Thapa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Rawal",
+              "bowler": "Mariamma Hyder",
+              "non_striker": "Nary Thapa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Rawal",
+              "bowler": "Mariamma Hyder",
+              "non_striker": "Nary Thapa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Rawal",
+              "bowler": "Mariamma Hyder",
+              "non_striker": "Nary Thapa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Rawal",
+              "bowler": "Mariamma Hyder",
+              "non_striker": "Nary Thapa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "B Rawal",
+              "bowler": "Madeeha Zuberi",
+              "non_striker": "Nary Thapa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Rawal",
+              "bowler": "Madeeha Zuberi",
+              "non_striker": "Nary Thapa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nary Thapa",
+              "bowler": "Madeeha Zuberi",
+              "non_striker": "B Rawal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Rawal",
+              "bowler": "Madeeha Zuberi",
+              "non_striker": "Nary Thapa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nary Thapa",
+              "bowler": "Madeeha Zuberi",
+              "non_striker": "B Rawal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Rawal",
+              "bowler": "Madeeha Zuberi",
+              "non_striker": "Nary Thapa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "B Rawal",
+              "bowler": "Mariamma Hyder",
+              "non_striker": "Nary Thapa",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "B Rawal",
+              "bowler": "Mariamma Hyder",
+              "non_striker": "Nary Thapa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Rawal",
+              "bowler": "Mariamma Hyder",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "Nary Thapa",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nary Thapa",
+              "bowler": "Mariamma Hyder",
+              "non_striker": "B Rawal",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Nary Thapa",
+              "bowler": "Mariamma Hyder",
+              "non_striker": "B Rawal",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Nary Thapa",
+              "bowler": "Mariamma Hyder",
+              "non_striker": "B Rawal",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "B Rawal",
+              "bowler": "Madeeha Zuberi",
+              "non_striker": "Nary Thapa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Rawal",
+              "bowler": "Madeeha Zuberi",
+              "non_striker": "Nary Thapa",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "B Rawal",
+              "bowler": "Madeeha Zuberi",
+              "non_striker": "Nary Thapa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Rawal",
+              "bowler": "Madeeha Zuberi",
+              "non_striker": "Nary Thapa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Rawal",
+              "bowler": "Madeeha Zuberi",
+              "non_striker": "Nary Thapa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Rawal",
+              "bowler": "Madeeha Zuberi",
+              "non_striker": "Nary Thapa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "B Rawal",
+              "bowler": "Priyada Murali",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Nary Thapa",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nary Thapa",
+              "bowler": "Priyada Murali",
+              "non_striker": "B Rawal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nary Thapa",
+              "bowler": "Priyada Murali",
+              "non_striker": "B Rawal",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Nary Thapa",
+              "bowler": "Priyada Murali",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "B Rawal",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nary Thapa",
+              "bowler": "Priyada Murali",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "B Rawal",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nary Thapa",
+              "bowler": "Priyada Murali",
+              "non_striker": "B Rawal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "Nary Thapa"
+                }
+              ]
+            },
+            {
+              "batter": "RC Belbashi",
+              "bowler": "Priyada Murali",
+              "non_striker": "B Rawal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Rawal",
+              "bowler": "Priyada Murali",
+              "non_striker": "RC Belbashi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "RC Belbashi",
+              "bowler": "Amna Tariq",
+              "non_striker": "B Rawal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Rawal",
+              "bowler": "Amna Tariq",
+              "non_striker": "RC Belbashi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Rawal",
+              "bowler": "Amna Tariq",
+              "non_striker": "RC Belbashi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RC Belbashi",
+              "bowler": "Amna Tariq",
+              "non_striker": "B Rawal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Rawal",
+              "bowler": "Amna Tariq",
+              "non_striker": "RC Belbashi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Rawal",
+              "bowler": "Amna Tariq",
+              "non_striker": "RC Belbashi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "RC Belbashi",
+              "bowler": "SL Gomez",
+              "non_striker": "B Rawal",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "RC Belbashi",
+              "bowler": "SL Gomez",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "B Rawal",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RC Belbashi",
+              "bowler": "SL Gomez",
+              "non_striker": "B Rawal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Rawal",
+              "bowler": "SL Gomez",
+              "non_striker": "RC Belbashi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RC Belbashi",
+              "bowler": "SL Gomez",
+              "non_striker": "B Rawal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Rawal",
+              "bowler": "SL Gomez",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "RC Belbashi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Rawal",
+              "bowler": "SL Gomez",
+              "non_striker": "RC Belbashi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "B Rawal",
+              "bowler": "SL Gomez",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "RC Belbashi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Rawal",
+              "bowler": "SL Gomez",
+              "non_striker": "RC Belbashi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "B Rawal",
+              "bowler": "Amna Tariq",
+              "non_striker": "RC Belbashi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Rawal",
+              "bowler": "Amna Tariq",
+              "non_striker": "RC Belbashi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Rawal",
+              "bowler": "Amna Tariq",
+              "non_striker": "RC Belbashi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RC Belbashi",
+              "bowler": "Amna Tariq",
+              "non_striker": "B Rawal",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RC Belbashi",
+              "bowler": "Amna Tariq",
+              "non_striker": "B Rawal",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RC Belbashi",
+              "bowler": "Amna Tariq",
+              "non_striker": "B Rawal",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "B Rawal",
+              "bowler": "Priyada Murali",
+              "non_striker": "RC Belbashi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RC Belbashi",
+              "bowler": "Priyada Murali",
+              "non_striker": "B Rawal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RC Belbashi",
+              "bowler": "Priyada Murali",
+              "non_striker": "B Rawal",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "RC Belbashi",
+              "bowler": "Priyada Murali",
+              "non_striker": "B Rawal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Rawal",
+              "bowler": "Priyada Murali",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "RC Belbashi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RC Belbashi",
+              "bowler": "Priyada Murali",
+              "non_striker": "B Rawal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "RC Belbashi",
+                  "fielders": [
+                    {
+                      "name": "Madeeha Zuberi"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Kuwait",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Priyada Murali",
+              "bowler": "RC Belbashi",
+              "non_striker": "Sabreen Zaki",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Priyada Murali",
+              "bowler": "RC Belbashi",
+              "non_striker": "Sabreen Zaki",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Priyada Murali",
+              "bowler": "RC Belbashi",
+              "non_striker": "Sabreen Zaki",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sabreen Zaki",
+              "bowler": "RC Belbashi",
+              "non_striker": "Priyada Murali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sabreen Zaki",
+              "bowler": "RC Belbashi",
+              "non_striker": "Priyada Murali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Priyada Murali",
+              "bowler": "RC Belbashi",
+              "non_striker": "Sabreen Zaki",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Sabreen Zaki",
+              "bowler": "SR Magar",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Priyada Murali",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sabreen Zaki",
+              "bowler": "SR Magar",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Priyada Murali",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sabreen Zaki",
+              "bowler": "SR Magar",
+              "non_striker": "Priyada Murali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sabreen Zaki",
+              "bowler": "SR Magar",
+              "non_striker": "Priyada Murali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Priyada Murali",
+              "bowler": "SR Magar",
+              "non_striker": "Sabreen Zaki",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Priyada Murali",
+              "bowler": "SR Magar",
+              "non_striker": "Sabreen Zaki",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sabreen Zaki",
+              "bowler": "SR Magar",
+              "non_striker": "Priyada Murali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Priyada Murali",
+              "bowler": "SR Magar",
+              "non_striker": "Sabreen Zaki",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Sabreen Zaki",
+              "bowler": "RC Belbashi",
+              "non_striker": "Priyada Murali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sabreen Zaki",
+              "bowler": "RC Belbashi",
+              "non_striker": "Priyada Murali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sabreen Zaki",
+              "bowler": "RC Belbashi",
+              "non_striker": "Priyada Murali",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Sabreen Zaki",
+              "bowler": "RC Belbashi",
+              "non_striker": "Priyada Murali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sabreen Zaki",
+              "bowler": "RC Belbashi",
+              "non_striker": "Priyada Murali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sabreen Zaki",
+              "bowler": "RC Belbashi",
+              "non_striker": "Priyada Murali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Priyada Murali",
+              "bowler": "Nary Thapa",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Sabreen Zaki",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Priyada Murali",
+              "bowler": "Nary Thapa",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Sabreen Zaki",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Priyada Murali",
+              "bowler": "Nary Thapa",
+              "non_striker": "Sabreen Zaki",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Priyada Murali",
+              "bowler": "Nary Thapa",
+              "non_striker": "Sabreen Zaki",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Priyada Murali",
+              "bowler": "Nary Thapa",
+              "non_striker": "Sabreen Zaki",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sabreen Zaki",
+              "bowler": "Nary Thapa",
+              "non_striker": "Priyada Murali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sabreen Zaki",
+              "bowler": "Nary Thapa",
+              "non_striker": "Priyada Murali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sabreen Zaki",
+              "bowler": "Nary Thapa",
+              "non_striker": "Priyada Murali",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Priyada Murali",
+              "bowler": "Karuna Bhandari",
+              "non_striker": "Sabreen Zaki",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sabreen Zaki",
+              "bowler": "Karuna Bhandari",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "Priyada Murali",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sabreen Zaki",
+              "bowler": "Karuna Bhandari",
+              "non_striker": "Priyada Murali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sabreen Zaki",
+              "bowler": "Karuna Bhandari",
+              "non_striker": "Priyada Murali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Priyada Murali",
+              "bowler": "Karuna Bhandari",
+              "non_striker": "Sabreen Zaki",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Priyada Murali",
+              "bowler": "Karuna Bhandari",
+              "non_striker": "Sabreen Zaki",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Priyada Murali",
+              "bowler": "Karuna Bhandari",
+              "non_striker": "Sabreen Zaki",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Priyada Murali",
+              "bowler": "Nary Thapa",
+              "non_striker": "Sabreen Zaki",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Priyada Murali",
+              "bowler": "Nary Thapa",
+              "non_striker": "Sabreen Zaki",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sabreen Zaki",
+              "bowler": "Nary Thapa",
+              "non_striker": "Priyada Murali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sabreen Zaki",
+              "bowler": "Nary Thapa",
+              "non_striker": "Priyada Murali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sabreen Zaki",
+              "bowler": "Nary Thapa",
+              "non_striker": "Priyada Murali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "Sabreen Zaki"
+                }
+              ]
+            },
+            {
+              "batter": "Maryam Omar",
+              "bowler": "Nary Thapa",
+              "non_striker": "Priyada Murali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Maryam Omar",
+              "bowler": "Karuna Bhandari",
+              "non_striker": "Priyada Murali",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Maryam Omar",
+              "bowler": "Karuna Bhandari",
+              "non_striker": "Priyada Murali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Maryam Omar",
+              "bowler": "Karuna Bhandari",
+              "non_striker": "Priyada Murali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Maryam Omar",
+              "bowler": "Karuna Bhandari",
+              "non_striker": "Priyada Murali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Maryam Omar",
+              "bowler": "Karuna Bhandari",
+              "non_striker": "Priyada Murali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Maryam Omar",
+              "bowler": "Karuna Bhandari",
+              "non_striker": "Priyada Murali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Maryam Omar",
+              "bowler": "Nary Thapa",
+              "non_striker": "Priyada Murali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Maryam Omar",
+              "bowler": "Nary Thapa",
+              "non_striker": "Priyada Murali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Maryam Omar",
+              "bowler": "Nary Thapa",
+              "non_striker": "Priyada Murali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Priyada Murali",
+              "bowler": "Nary Thapa",
+              "non_striker": "Maryam Omar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Maryam Omar",
+              "bowler": "Nary Thapa",
+              "non_striker": "Priyada Murali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Maryam Omar",
+              "bowler": "Nary Thapa",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Priyada Murali",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Maryam Omar",
+              "bowler": "Nary Thapa",
+              "non_striker": "Priyada Murali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "Priyada Murali",
+              "bowler": "SR Magar",
+              "non_striker": "Maryam Omar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Priyada Murali",
+              "bowler": "SR Magar",
+              "non_striker": "Maryam Omar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Priyada Murali",
+              "bowler": "SR Magar",
+              "non_striker": "Maryam Omar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Priyada Murali",
+              "bowler": "SR Magar",
+              "non_striker": "Maryam Omar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Priyada Murali",
+              "bowler": "SR Magar",
+              "non_striker": "Maryam Omar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Priyada Murali",
+              "bowler": "SR Magar",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Maryam Omar",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "Priyada Murali",
+              "bowler": "S Magar",
+              "non_striker": "Maryam Omar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Maryam Omar",
+              "bowler": "S Magar",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "Priyada Murali",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Maryam Omar",
+              "bowler": "S Magar",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "Priyada Murali",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Maryam Omar",
+              "bowler": "S Magar",
+              "non_striker": "Priyada Murali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Priyada Murali",
+              "bowler": "S Magar",
+              "non_striker": "Maryam Omar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Maryam Omar",
+              "bowler": "S Magar",
+              "non_striker": "Priyada Murali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Maryam Omar",
+              "bowler": "S Magar",
+              "non_striker": "Priyada Murali",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Maryam Omar",
+              "bowler": "S Magar",
+              "non_striker": "Priyada Murali",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "Priyada Murali",
+              "bowler": "SR Magar",
+              "non_striker": "Maryam Omar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Priyada Murali",
+              "bowler": "SR Magar",
+              "non_striker": "Maryam Omar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Priyada Murali",
+              "bowler": "SR Magar",
+              "non_striker": "Maryam Omar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Maryam Omar",
+              "bowler": "SR Magar",
+              "non_striker": "Priyada Murali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Maryam Omar",
+              "bowler": "SR Magar",
+              "non_striker": "Priyada Murali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Priyada Murali",
+              "bowler": "SR Magar",
+              "non_striker": "Maryam Omar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "Maryam Omar",
+              "bowler": "K Kunwar",
+              "non_striker": "Priyada Murali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Maryam Omar",
+              "bowler": "K Kunwar",
+              "non_striker": "Priyada Murali",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Maryam Omar",
+              "bowler": "K Kunwar",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Priyada Murali",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Maryam Omar",
+              "bowler": "K Kunwar",
+              "non_striker": "Priyada Murali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Priyada Murali",
+              "bowler": "K Kunwar",
+              "non_striker": "Maryam Omar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Maryam Omar",
+              "bowler": "K Kunwar",
+              "non_striker": "Priyada Murali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Maryam Omar",
+              "bowler": "K Kunwar",
+              "non_striker": "Priyada Murali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "Maryam Omar",
+              "bowler": "SR Magar",
+              "non_striker": "Priyada Murali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Priyada Murali",
+              "bowler": "SR Magar",
+              "non_striker": "Maryam Omar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Priyada Murali",
+              "bowler": "SR Magar",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Maryam Omar",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Priyada Murali",
+              "bowler": "SR Magar",
+              "non_striker": "Maryam Omar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Priyada Murali",
+              "bowler": "SR Magar",
+              "non_striker": "Maryam Omar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Priyada Murali",
+              "bowler": "SR Magar",
+              "non_striker": "Maryam Omar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Maryam Omar",
+              "bowler": "SR Magar",
+              "non_striker": "Priyada Murali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "Priyada Murali",
+              "bowler": "RC Belbashi",
+              "non_striker": "Maryam Omar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Priyada Murali",
+              "bowler": "RC Belbashi",
+              "non_striker": "Maryam Omar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Maryam Omar",
+              "bowler": "RC Belbashi",
+              "non_striker": "Priyada Murali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Maryam Omar",
+              "bowler": "RC Belbashi",
+              "non_striker": "Priyada Murali",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Maryam Omar",
+              "bowler": "RC Belbashi",
+              "non_striker": "Priyada Murali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Maryam Omar",
+              "bowler": "RC Belbashi",
+              "non_striker": "Priyada Murali",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "Priyada Murali",
+              "bowler": "Karuna Bhandari",
+              "non_striker": "Maryam Omar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "kind": "run out",
+                  "player_out": "Priyada Murali"
+                }
+              ]
+            },
+            {
+              "batter": "SL Gomez",
+              "bowler": "Karuna Bhandari",
+              "non_striker": "Maryam Omar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught and bowled",
+                  "player_out": "SL Gomez"
+                }
+              ]
+            },
+            {
+              "batter": "Amna Tariq",
+              "bowler": "Karuna Bhandari",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Maryam Omar",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Amna Tariq",
+              "bowler": "Karuna Bhandari",
+              "non_striker": "Maryam Omar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "stumped",
+                  "player_out": "Amna Tariq",
+                  "fielders": [
+                    {
+                      "name": "K Shrestha"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "Mariamma Hyder",
+              "bowler": "Karuna Bhandari",
+              "non_striker": "Maryam Omar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Maryam Omar",
+              "bowler": "Karuna Bhandari",
+              "non_striker": "Mariamma Hyder",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mariamma Hyder",
+              "bowler": "Karuna Bhandari",
+              "non_striker": "Maryam Omar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "Maryam Omar",
+              "bowler": "S Magar",
+              "non_striker": "Mariamma Hyder",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Maryam Omar",
+              "bowler": "S Magar",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "Mariamma Hyder",
+              "runs": {
+                "batter": 1,
+                "extras": 1,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Mariamma Hyder",
+              "bowler": "S Magar",
+              "non_striker": "Maryam Omar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Maryam Omar",
+              "bowler": "S Magar",
+              "non_striker": "Mariamma Hyder",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mariamma Hyder",
+              "bowler": "S Magar",
+              "non_striker": "Maryam Omar",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Mariamma Hyder",
+              "bowler": "S Magar",
+              "non_striker": "Maryam Omar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mariamma Hyder",
+              "bowler": "S Magar",
+              "non_striker": "Maryam Omar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "Maryam Omar",
+              "bowler": "Karuna Bhandari",
+              "non_striker": "Mariamma Hyder",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "stumped",
+                  "player_out": "Maryam Omar",
+                  "fielders": [
+                    {
+                      "name": "K Shrestha"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "Maryyam Ashraf",
+              "bowler": "Karuna Bhandari",
+              "non_striker": "Mariamma Hyder",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Maryyam Ashraf",
+              "bowler": "Karuna Bhandari",
+              "non_striker": "Mariamma Hyder",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mariamma Hyder",
+              "bowler": "Karuna Bhandari",
+              "non_striker": "Maryyam Ashraf",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mariamma Hyder",
+              "bowler": "Karuna Bhandari",
+              "non_striker": "Maryyam Ashraf",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mariamma Hyder",
+              "bowler": "Karuna Bhandari",
+              "non_striker": "Maryyam Ashraf",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "Maryyam Ashraf",
+              "bowler": "Nary Thapa",
+              "non_striker": "Mariamma Hyder",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Maryyam Ashraf",
+              "bowler": "Nary Thapa",
+              "non_striker": "Mariamma Hyder",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Maryyam Ashraf",
+              "bowler": "Nary Thapa",
+              "non_striker": "Mariamma Hyder",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Maryyam Ashraf",
+              "bowler": "Nary Thapa",
+              "non_striker": "Mariamma Hyder",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Maryyam Ashraf",
+              "bowler": "Nary Thapa",
+              "non_striker": "Mariamma Hyder",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mariamma Hyder",
+              "bowler": "Nary Thapa",
+              "non_striker": "Maryyam Ashraf",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "Maryyam Ashraf",
+              "bowler": "K Kunwar",
+              "non_striker": "Mariamma Hyder",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Maryyam Ashraf",
+              "bowler": "K Kunwar",
+              "non_striker": "Mariamma Hyder",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Maryyam Ashraf",
+                  "fielders": [
+                    {
+                      "name": "SR Magar"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "Khadija Khalil",
+              "bowler": "K Kunwar",
+              "non_striker": "Mariamma Hyder",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Khadija Khalil",
+              "bowler": "K Kunwar",
+              "non_striker": "Mariamma Hyder",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mariamma Hyder",
+              "bowler": "K Kunwar",
+              "non_striker": "Khadija Khalil",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Mariamma Hyder",
+              "bowler": "K Kunwar",
+              "non_striker": "Khadija Khalil",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "Mariamma Hyder",
+              "bowler": "RC Belbashi",
+              "non_striker": "Khadija Khalil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mariamma Hyder",
+              "bowler": "RC Belbashi",
+              "non_striker": "Khadija Khalil",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Mariamma Hyder",
+              "bowler": "RC Belbashi",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Khadija Khalil",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mariamma Hyder",
+              "bowler": "RC Belbashi",
+              "non_striker": "Khadija Khalil",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Khadija Khalil",
+              "bowler": "RC Belbashi",
+              "non_striker": "Mariamma Hyder",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "Khadija Khalil"
+                }
+              ]
+            },
+            {
+              "batter": "Madeeha Zuberi",
+              "bowler": "RC Belbashi",
+              "non_striker": "Mariamma Hyder",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "Madeeha Zuberi"
+                }
+              ]
+            },
+            {
+              "batter": "Zeefa Jilani",
+              "bowler": "RC Belbashi",
+              "non_striker": "Mariamma Hyder",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "Zeefa Jilani"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 117
+      }
+    }
+  ]
+}

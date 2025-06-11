@@ -1,0 +1,2803 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2023-03-11",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Rawalpindi",
+    "dates": [
+      "2023-03-09"
+    ],
+    "event": {
+      "name": "Pakistan Super League",
+      "match_number": 26
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "officials": {
+      "match_referees": [
+        "RS Mahanama"
+      ],
+      "reserve_umpires": [
+        "Nasir Hussain"
+      ],
+      "tv_umpires": [
+        "Ahsan Raza"
+      ],
+      "umpires": [
+        "Aleem Dar",
+        "Faisal Afridi"
+      ]
+    },
+    "outcome": {
+      "winner": "Lahore Qalandars",
+      "by": {
+        "runs": 119
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "Fakhar Zaman"
+    ],
+    "players": {
+      "Lahore Qalandars": [
+        "Abdullah Shafique",
+        "Fakhar Zaman",
+        "Kamran Ghulam",
+        "SW Billings",
+        "Sikandar Raza",
+        "D Wiese",
+        "Rashid Khan",
+        "Hussain Talat",
+        "Shaheen Shah Afridi",
+        "Haris Rauf",
+        "Zaman Khan"
+      ],
+      "Islamabad United": [
+        "Rahmanullah Gurbaz",
+        "AD Hales",
+        "C Munro",
+        "Shadab Khan",
+        "Mubasir Khan",
+        "Asif Ali",
+        "Faheem Ashraf",
+        "Hasan Ali",
+        "Mohammad Wasim",
+        "Fazalhaq Farooqi",
+        "Azam Khan"
+      ]
+    },
+    "registry": {
+      "people": {
+        "AD Hales": "92aeac25",
+        "Abdullah Shafique": "fc2fffb5",
+        "Ahsan Raza": "e0e5b209",
+        "Aleem Dar": "f02778d1",
+        "Asif Ali": "0a4736eb",
+        "Azam Khan": "ee8f1a6d",
+        "C Munro": "af2c687b",
+        "D Wiese": "aa8d28ae",
+        "Faheem Ashraf": "bd4ea627",
+        "Faisal Afridi": "ed0bc503",
+        "Fakhar Zaman": "1777c020",
+        "Fazalhaq Farooqi": "e9c7f0d0",
+        "Haris Rauf": "24bb1c2f",
+        "Hasan Ali": "2911de16",
+        "Hussain Talat": "bb4b445b",
+        "Kamran Ghulam": "35f4cf7e",
+        "Mohammad Wasim": "9e9af5f2",
+        "Mubasir Khan": "7264b765",
+        "Nasir Hussain": "5b2fe85b",
+        "RS Mahanama": "57910393",
+        "Rahmanullah Gurbaz": "0bacade8",
+        "Rashid Khan": "5f547c8b",
+        "SW Billings": "c16d4035",
+        "Shadab Khan": "9de62878",
+        "Shaheen Shah Afridi": "45a7e761",
+        "Sikandar Raza": "26d041c4",
+        "Zaman Khan": "28392e11"
+      }
+    },
+    "season": "2022/23",
+    "team_type": "club",
+    "teams": [
+      "Lahore Qalandars",
+      "Islamabad United"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "Lahore Qalandars"
+    },
+    "venue": "Rawalpindi Cricket Stadium"
+  },
+  "innings": [
+    {
+      "team": "Lahore Qalandars",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Abdullah Shafique",
+              "bowler": "Fazalhaq Farooqi",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Abdullah Shafique",
+              "bowler": "Fazalhaq Farooqi",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "Fazalhaq Farooqi",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Abdullah Shafique",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Abdullah Shafique",
+              "bowler": "Fazalhaq Farooqi",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Abdullah Shafique",
+                  "fielders": [
+                    {
+                      "name": "AD Hales"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Kamran Ghulam",
+              "bowler": "Fazalhaq Farooqi",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Kamran Ghulam",
+              "bowler": "Fazalhaq Farooqi",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Kamran Ghulam",
+              "bowler": "Fazalhaq Farooqi",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Kamran Ghulam",
+              "bowler": "Fazalhaq Farooqi",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "Hasan Ali",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Kamran Ghulam",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "Hasan Ali",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Kamran Ghulam",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "Hasan Ali",
+              "non_striker": "Kamran Ghulam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "Hasan Ali",
+              "non_striker": "Kamran Ghulam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Kamran Ghulam",
+              "bowler": "Hasan Ali",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Kamran Ghulam",
+              "bowler": "Hasan Ali",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Kamran Ghulam",
+              "bowler": "Hasan Ali",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Kamran Ghulam",
+              "bowler": "Hasan Ali",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "Hasan Ali",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Kamran Ghulam",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "Hasan Ali",
+              "non_striker": "Kamran Ghulam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "Hasan Ali",
+              "non_striker": "Kamran Ghulam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "Fazalhaq Farooqi",
+              "non_striker": "Kamran Ghulam",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "Fazalhaq Farooqi",
+              "non_striker": "Kamran Ghulam",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "Fazalhaq Farooqi",
+              "non_striker": "Kamran Ghulam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "Fazalhaq Farooqi",
+              "non_striker": "Kamran Ghulam",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "Fazalhaq Farooqi",
+              "non_striker": "Kamran Ghulam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Kamran Ghulam",
+              "bowler": "Fazalhaq Farooqi",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "Faheem Ashraf",
+              "non_striker": "Kamran Ghulam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "Faheem Ashraf",
+              "non_striker": "Kamran Ghulam",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "Faheem Ashraf",
+              "non_striker": "Kamran Ghulam",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "Faheem Ashraf",
+              "non_striker": "Kamran Ghulam",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "Faheem Ashraf",
+              "non_striker": "Kamran Ghulam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Kamran Ghulam",
+              "bowler": "Faheem Ashraf",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Kamran Ghulam",
+              "bowler": "Hasan Ali",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "Hasan Ali",
+              "non_striker": "Kamran Ghulam",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "Hasan Ali",
+              "non_striker": "Kamran Ghulam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Kamran Ghulam",
+              "bowler": "Hasan Ali",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Kamran Ghulam",
+              "bowler": "Hasan Ali",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Kamran Ghulam",
+              "bowler": "Hasan Ali",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "Mohammad Wasim",
+              "non_striker": "Kamran Ghulam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Kamran Ghulam",
+              "bowler": "Mohammad Wasim",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Kamran Ghulam",
+              "bowler": "Mohammad Wasim",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Kamran Ghulam",
+              "bowler": "Mohammad Wasim",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "Mohammad Wasim",
+              "non_striker": "Kamran Ghulam",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "Mohammad Wasim",
+              "non_striker": "Kamran Ghulam",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Kamran Ghulam",
+              "bowler": "Mubasir Khan",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Kamran Ghulam",
+              "bowler": "Mubasir Khan",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "Mubasir Khan",
+              "non_striker": "Kamran Ghulam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Kamran Ghulam",
+              "bowler": "Mubasir Khan",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "Mubasir Khan",
+              "non_striker": "Kamran Ghulam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Kamran Ghulam",
+              "bowler": "Mubasir Khan",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Kamran Ghulam",
+              "bowler": "Shadab Khan",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Kamran Ghulam",
+              "bowler": "Shadab Khan",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "Shadab Khan",
+              "non_striker": "Kamran Ghulam",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "Shadab Khan",
+              "non_striker": "Kamran Ghulam",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "Shadab Khan",
+              "non_striker": "Kamran Ghulam",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "Shadab Khan",
+              "non_striker": "Kamran Ghulam",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "Kamran Ghulam",
+              "bowler": "Mubasir Khan",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Kamran Ghulam",
+              "bowler": "Mubasir Khan",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "Mubasir Khan",
+              "non_striker": "Kamran Ghulam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Kamran Ghulam",
+              "bowler": "Mubasir Khan",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Kamran Ghulam",
+              "bowler": "Mubasir Khan",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Kamran Ghulam",
+              "bowler": "Mubasir Khan",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "Shadab Khan",
+              "non_striker": "Kamran Ghulam",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "Shadab Khan",
+              "non_striker": "Kamran Ghulam",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "Shadab Khan",
+              "non_striker": "Kamran Ghulam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Kamran Ghulam",
+              "bowler": "Shadab Khan",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "Shadab Khan",
+              "non_striker": "Kamran Ghulam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Kamran Ghulam",
+              "bowler": "Shadab Khan",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "Mohammad Wasim",
+              "non_striker": "Kamran Ghulam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Kamran Ghulam",
+              "bowler": "Mohammad Wasim",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "Mohammad Wasim",
+              "non_striker": "Kamran Ghulam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Kamran Ghulam",
+              "bowler": "Mohammad Wasim",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Kamran Ghulam",
+                  "fielders": [
+                    {
+                      "name": "Faheem Ashraf"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "SW Billings",
+              "bowler": "Mohammad Wasim",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "Mohammad Wasim",
+              "non_striker": "SW Billings",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "Faheem Ashraf",
+              "non_striker": "SW Billings",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SW Billings",
+              "bowler": "Faheem Ashraf",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SW Billings",
+              "bowler": "Faheem Ashraf",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "Faheem Ashraf",
+              "non_striker": "SW Billings",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "Faheem Ashraf",
+              "non_striker": "SW Billings",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SW Billings",
+              "bowler": "Faheem Ashraf",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "SW Billings",
+              "bowler": "Fazalhaq Farooqi",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "Fazalhaq Farooqi",
+              "non_striker": "SW Billings",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SW Billings",
+              "bowler": "Fazalhaq Farooqi",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SW Billings",
+              "bowler": "Fazalhaq Farooqi",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "Fazalhaq Farooqi",
+              "non_striker": "SW Billings",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "Fazalhaq Farooqi",
+              "non_striker": "SW Billings",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "Faheem Ashraf",
+              "non_striker": "SW Billings",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "Faheem Ashraf",
+              "non_striker": "SW Billings",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "Faheem Ashraf",
+              "non_striker": "SW Billings",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SW Billings",
+              "bowler": "Faheem Ashraf",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SW Billings",
+              "bowler": "Faheem Ashraf",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SW Billings",
+              "bowler": "Faheem Ashraf",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "Faheem Ashraf",
+              "non_striker": "SW Billings",
+              "review": {
+                "by": "Lahore Qalandars",
+                "umpire": "Faisal Afridi",
+                "batter": "Fakhar Zaman",
+                "decision": "upheld"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "SW Billings",
+              "bowler": "Hasan Ali",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "Hasan Ali",
+              "non_striker": "SW Billings",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SW Billings",
+              "bowler": "Hasan Ali",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "Hasan Ali",
+              "non_striker": "SW Billings",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "Hasan Ali",
+              "non_striker": "SW Billings",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SW Billings",
+              "bowler": "Hasan Ali",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "Mohammad Wasim",
+              "non_striker": "SW Billings",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "Mohammad Wasim",
+              "non_striker": "SW Billings",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "Mohammad Wasim",
+              "non_striker": "SW Billings",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SW Billings",
+              "bowler": "Mohammad Wasim",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "SW Billings",
+              "bowler": "Mohammad Wasim",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SW Billings",
+              "bowler": "Mohammad Wasim",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "SW Billings",
+              "bowler": "Faheem Ashraf",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "Faheem Ashraf",
+              "non_striker": "SW Billings",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "Faheem Ashraf",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "SW Billings",
+              "runs": {
+                "batter": 1,
+                "extras": 1,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SW Billings",
+              "bowler": "Faheem Ashraf",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SW Billings",
+              "bowler": "Faheem Ashraf",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "Faheem Ashraf",
+              "non_striker": "SW Billings",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "Faheem Ashraf",
+              "non_striker": "SW Billings",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "Hasan Ali",
+              "non_striker": "SW Billings",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SW Billings",
+              "bowler": "Hasan Ali",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "Hasan Ali",
+              "non_striker": "SW Billings",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "Hasan Ali",
+              "non_striker": "SW Billings",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Fakhar Zaman",
+                  "fielders": [
+                    {
+                      "name": "Mohammad Wasim"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Sikandar Raza",
+              "bowler": "Hasan Ali",
+              "non_striker": "SW Billings",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SW Billings",
+              "bowler": "Hasan Ali",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Sikandar Raza",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "SW Billings",
+              "bowler": "Fazalhaq Farooqi",
+              "non_striker": "Sikandar Raza",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "SW Billings",
+              "bowler": "Fazalhaq Farooqi",
+              "non_striker": "Sikandar Raza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SW Billings",
+                  "fielders": [
+                    {
+                      "name": "Hasan Ali"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "D Wiese",
+              "bowler": "Fazalhaq Farooqi",
+              "non_striker": "Sikandar Raza",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "D Wiese",
+              "bowler": "Fazalhaq Farooqi",
+              "non_striker": "Sikandar Raza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "D Wiese",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Rashid Khan",
+              "bowler": "Fazalhaq Farooqi",
+              "non_striker": "Sikandar Raza",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Rashid Khan",
+              "bowler": "Fazalhaq Farooqi",
+              "non_striker": "Sikandar Raza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "Sikandar Raza",
+              "bowler": "Mohammad Wasim",
+              "non_striker": "Rashid Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sikandar Raza",
+              "bowler": "Mohammad Wasim",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "Rashid Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rashid Khan",
+              "bowler": "Mohammad Wasim",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Sikandar Raza",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rashid Khan",
+              "bowler": "Mohammad Wasim",
+              "non_striker": "Sikandar Raza",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Rashid Khan",
+              "bowler": "Mohammad Wasim",
+              "non_striker": "Sikandar Raza",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Rashid Khan",
+              "bowler": "Mohammad Wasim",
+              "non_striker": "Sikandar Raza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sikandar Raza",
+              "bowler": "Mohammad Wasim",
+              "non_striker": "Rashid Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Islamabad United",
+      "absent_hurt": [
+        "Azam Khan"
+      ],
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Rahmanullah Gurbaz",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AD Hales",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "Rahmanullah Gurbaz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rahmanullah Gurbaz",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rahmanullah Gurbaz",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rahmanullah Gurbaz",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AD Hales",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "Rahmanullah Gurbaz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "AD Hales",
+              "bowler": "Zaman Khan",
+              "extras": {
+                "byes": 4
+              },
+              "non_striker": "Rahmanullah Gurbaz",
+              "runs": {
+                "batter": 0,
+                "extras": 4,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AD Hales",
+              "bowler": "Zaman Khan",
+              "non_striker": "Rahmanullah Gurbaz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rahmanullah Gurbaz",
+              "bowler": "Zaman Khan",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AD Hales",
+              "bowler": "Zaman Khan",
+              "non_striker": "Rahmanullah Gurbaz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rahmanullah Gurbaz",
+              "bowler": "Zaman Khan",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Rahmanullah Gurbaz",
+              "bowler": "Zaman Khan",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "AD Hales",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "Rahmanullah Gurbaz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rahmanullah Gurbaz",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AD Hales",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "Rahmanullah Gurbaz",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "AD Hales",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "Rahmanullah Gurbaz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rahmanullah Gurbaz",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Rahmanullah Gurbaz",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Rahmanullah Gurbaz",
+              "bowler": "Zaman Khan",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rahmanullah Gurbaz",
+              "bowler": "Zaman Khan",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rahmanullah Gurbaz",
+              "bowler": "Zaman Khan",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rahmanullah Gurbaz",
+              "bowler": "Zaman Khan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rahmanullah Gurbaz",
+              "bowler": "Zaman Khan",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rahmanullah Gurbaz",
+              "bowler": "Zaman Khan",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Rahmanullah Gurbaz",
+                  "fielders": [
+                    {
+                      "name": "Haris Rauf"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "C Munro",
+              "bowler": "Zaman Khan",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "C Munro",
+              "bowler": "Haris Rauf",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "C Munro",
+              "bowler": "Haris Rauf",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "C Munro",
+              "bowler": "Haris Rauf",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AD Hales",
+              "bowler": "Haris Rauf",
+              "non_striker": "C Munro",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Munro",
+              "bowler": "Haris Rauf",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AD Hales",
+              "bowler": "Haris Rauf",
+              "non_striker": "C Munro",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "C Munro",
+              "bowler": "Zaman Khan",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "C Munro",
+                  "fielders": [
+                    {
+                      "name": "SW Billings"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Shadab Khan",
+              "bowler": "Zaman Khan",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Shadab Khan",
+              "bowler": "Zaman Khan",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shadab Khan",
+              "bowler": "Zaman Khan",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AD Hales",
+              "bowler": "Zaman Khan",
+              "non_striker": "Shadab Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shadab Khan",
+              "bowler": "Zaman Khan",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "AD Hales",
+              "bowler": "Rashid Khan",
+              "non_striker": "Shadab Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shadab Khan",
+              "bowler": "Rashid Khan",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Shadab Khan",
+              "bowler": "Rashid Khan",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AD Hales",
+              "bowler": "Rashid Khan",
+              "non_striker": "Shadab Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shadab Khan",
+              "bowler": "Rashid Khan",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Shadab Khan",
+                  "fielders": [
+                    {
+                      "name": "SW Billings"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Mubasir Khan",
+              "bowler": "Rashid Khan",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "AD Hales",
+              "bowler": "D Wiese",
+              "non_striker": "Mubasir Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mubasir Khan",
+              "bowler": "D Wiese",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mubasir Khan",
+              "bowler": "D Wiese",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AD Hales",
+              "bowler": "D Wiese",
+              "non_striker": "Mubasir Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mubasir Khan",
+              "bowler": "D Wiese",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AD Hales",
+              "bowler": "D Wiese",
+              "non_striker": "Mubasir Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "AD Hales",
+                  "fielders": [
+                    {
+                      "name": "SW Billings"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "Mubasir Khan",
+              "bowler": "Rashid Khan",
+              "non_striker": "Asif Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Asif Ali",
+              "bowler": "Rashid Khan",
+              "non_striker": "Mubasir Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mubasir Khan",
+              "bowler": "Rashid Khan",
+              "extras": {
+                "wides": 3
+              },
+              "non_striker": "Asif Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 3,
+                "total": 3
+              }
+            },
+            {
+              "batter": "Mubasir Khan",
+              "bowler": "Rashid Khan",
+              "non_striker": "Asif Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Mubasir Khan",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Faheem Ashraf",
+              "bowler": "Rashid Khan",
+              "non_striker": "Asif Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Faheem Ashraf",
+              "bowler": "Rashid Khan",
+              "non_striker": "Asif Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Faheem Ashraf",
+              "bowler": "Rashid Khan",
+              "non_striker": "Asif Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "Asif Ali",
+              "bowler": "D Wiese",
+              "non_striker": "Faheem Ashraf",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Faheem Ashraf",
+              "bowler": "D Wiese",
+              "non_striker": "Asif Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Asif Ali",
+              "bowler": "D Wiese",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Faheem Ashraf",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Asif Ali",
+              "bowler": "D Wiese",
+              "non_striker": "Faheem Ashraf",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Faheem Ashraf",
+              "bowler": "D Wiese",
+              "non_striker": "Asif Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Asif Ali",
+              "bowler": "D Wiese",
+              "non_striker": "Faheem Ashraf",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Faheem Ashraf",
+              "bowler": "D Wiese",
+              "non_striker": "Asif Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "Faheem Ashraf",
+              "bowler": "Rashid Khan",
+              "non_striker": "Asif Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Asif Ali",
+              "bowler": "Rashid Khan",
+              "non_striker": "Faheem Ashraf",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Faheem Ashraf",
+              "bowler": "Rashid Khan",
+              "non_striker": "Asif Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Faheem Ashraf",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "Hasan Ali",
+              "bowler": "Rashid Khan",
+              "non_striker": "Asif Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Asif Ali",
+              "bowler": "Rashid Khan",
+              "non_striker": "Hasan Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Hasan Ali",
+              "bowler": "Rashid Khan",
+              "non_striker": "Asif Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "Asif Ali",
+              "bowler": "Sikandar Raza",
+              "non_striker": "Hasan Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Hasan Ali",
+              "bowler": "Sikandar Raza",
+              "non_striker": "Asif Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Hasan Ali",
+              "bowler": "Sikandar Raza",
+              "non_striker": "Asif Ali",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Hasan Ali",
+              "bowler": "Sikandar Raza",
+              "non_striker": "Asif Ali",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Hasan Ali",
+              "bowler": "Sikandar Raza",
+              "non_striker": "Asif Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Hasan Ali",
+              "bowler": "Sikandar Raza",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Asif Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Hasan Ali",
+              "bowler": "Sikandar Raza",
+              "non_striker": "Asif Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "Asif Ali",
+              "bowler": "Rashid Khan",
+              "non_striker": "Hasan Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Asif Ali",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Mohammad Wasim",
+              "bowler": "Rashid Khan",
+              "non_striker": "Hasan Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Wasim",
+              "bowler": "Rashid Khan",
+              "non_striker": "Hasan Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Hasan Ali",
+              "bowler": "Rashid Khan",
+              "non_striker": "Mohammad Wasim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Wasim",
+              "bowler": "Rashid Khan",
+              "non_striker": "Hasan Ali",
+              "review": {
+                "by": "Lahore Qalandars",
+                "umpire": "Aleem Dar",
+                "batter": "Mohammad Wasim",
+                "decision": "struck down"
+              },
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Hasan Ali",
+              "bowler": "Rashid Khan",
+              "non_striker": "Mohammad Wasim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "Mohammad Wasim",
+              "bowler": "Haris Rauf",
+              "non_striker": "Hasan Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Hasan Ali",
+              "bowler": "Haris Rauf",
+              "non_striker": "Mohammad Wasim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Hasan Ali",
+              "bowler": "Haris Rauf",
+              "non_striker": "Mohammad Wasim",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Hasan Ali",
+              "bowler": "Haris Rauf",
+              "non_striker": "Mohammad Wasim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Hasan Ali",
+              "bowler": "Haris Rauf",
+              "non_striker": "Mohammad Wasim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Hasan Ali",
+                  "fielders": [
+                    {
+                      "name": "Abdullah Shafique"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Fazalhaq Farooqi",
+              "bowler": "Haris Rauf",
+              "non_striker": "Mohammad Wasim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "Mohammad Wasim",
+              "bowler": "D Wiese",
+              "non_striker": "Fazalhaq Farooqi",
+              "review": {
+                "by": "Lahore Qalandars",
+                "umpire": "Aleem Dar",
+                "batter": "Mohammad Wasim",
+                "decision": "struck down"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Wasim",
+              "bowler": "D Wiese",
+              "non_striker": "Fazalhaq Farooqi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Wasim",
+              "bowler": "D Wiese",
+              "non_striker": "Fazalhaq Farooqi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Wasim",
+              "bowler": "D Wiese",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Fazalhaq Farooqi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Wasim",
+              "bowler": "D Wiese",
+              "non_striker": "Fazalhaq Farooqi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Mohammad Wasim",
+              "bowler": "D Wiese",
+              "non_striker": "Fazalhaq Farooqi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Wasim",
+              "bowler": "D Wiese",
+              "non_striker": "Fazalhaq Farooqi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "Mohammad Wasim",
+              "bowler": "Haris Rauf",
+              "non_striker": "Fazalhaq Farooqi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Mohammad Wasim",
+                  "fielders": [
+                    {
+                      "name": "SW Billings"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 227
+      }
+    }
+  ]
+}

@@ -1,0 +1,937 @@
+{
+  "meta": {
+    "data_version": "1.0.0",
+    "created": "2017-04-19",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "dates": [
+      "2015-01-12"
+    ],
+    "event": {
+      "name": "Big Bash League"
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "officials": {
+      "match_referees": [
+        "PL Marshall"
+      ],
+      "reserve_umpires": [
+        "C Thomas"
+      ],
+      "tv_umpires": [
+        "MD Martell"
+      ],
+      "umpires": [
+        "SD Fry",
+        "BNJ Oxenford"
+      ]
+    },
+    "outcome": {
+      "result": "no result"
+    },
+    "overs": 20,
+    "players": {
+      "Adelaide Strikers": [
+        "CJ Simmons",
+        "TP Ludeman",
+        "JR Dean",
+        "RN ten Doeschate",
+        "TM Head",
+        "J Botha",
+        "AI Ross",
+        "KW Richardson",
+        "A Zampa",
+        "B Laughlin",
+        "SW Tait"
+      ],
+      "Sydney Thunder": [
+        "JJ Roy",
+        "JH Kallis",
+        "AC Blizzard",
+        "NM Hauritz",
+        "DP Hughes",
+        "CD Hartley",
+        "JK Lalor",
+        "IA Moran",
+        "AR Beadle",
+        "CP Tremain",
+        "GS Sandhu"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Zampa": "14f96089",
+        "AC Blizzard": "1efb8a28",
+        "AI Ross": "fb0d68b4",
+        "AR Beadle": "bb1c1950",
+        "B Laughlin": "b2a79f17",
+        "BNJ Oxenford": "c1add349",
+        "C Thomas": "68664af7",
+        "CD Hartley": "9a06679d",
+        "CJ Simmons": "0095ce38",
+        "CP Tremain": "96824e68",
+        "DP Hughes": "f3982af9",
+        "GS Sandhu": "1558d83b",
+        "IA Moran": "5ce5204c",
+        "J Botha": "7c503806",
+        "JH Kallis": "86dc8f2e",
+        "JJ Roy": "d1c36f5c",
+        "JK Lalor": "88209c84",
+        "JR Dean": "97188292",
+        "KW Richardson": "dfc4d8b5",
+        "MD Martell": "487c072e",
+        "NM Hauritz": "8ea6e670",
+        "PL Marshall": "c1ca6df3",
+        "RN ten Doeschate": "4ec07775",
+        "SD Fry": "6b725ed1",
+        "SW Tait": "addfb70e",
+        "TM Head": "12b610c2",
+        "TP Ludeman": "c3f7898b"
+      }
+    },
+    "season": "2014/15",
+    "team_type": "club",
+    "teams": [
+      "Adelaide Strikers",
+      "Sydney Thunder"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Sydney Thunder"
+    },
+    "venue": "Adelaide Oval"
+  },
+  "innings": [
+    {
+      "team": "Adelaide Strikers",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "CJ Simmons",
+              "bowler": "JH Kallis",
+              "non_striker": "TP Ludeman",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "CJ Simmons",
+              "bowler": "JH Kallis",
+              "non_striker": "TP Ludeman",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "CJ Simmons",
+              "bowler": "JH Kallis",
+              "non_striker": "TP Ludeman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CJ Simmons",
+              "bowler": "JH Kallis",
+              "non_striker": "TP Ludeman",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "TP Ludeman",
+              "bowler": "JH Kallis",
+              "non_striker": "CJ Simmons",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TP Ludeman",
+              "bowler": "JH Kallis",
+              "non_striker": "CJ Simmons",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "CJ Simmons",
+              "bowler": "JK Lalor",
+              "non_striker": "TP Ludeman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TP Ludeman",
+              "bowler": "JK Lalor",
+              "non_striker": "CJ Simmons",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "TP Ludeman",
+              "bowler": "JK Lalor",
+              "non_striker": "CJ Simmons",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "TP Ludeman",
+                  "fielders": [
+                    {
+                      "name": "CD Hartley"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "JR Dean",
+              "bowler": "JK Lalor",
+              "non_striker": "CJ Simmons",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JR Dean",
+              "bowler": "JK Lalor",
+              "non_striker": "CJ Simmons",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JR Dean",
+              "bowler": "JK Lalor",
+              "non_striker": "CJ Simmons",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "JR Dean",
+              "bowler": "GS Sandhu",
+              "non_striker": "CJ Simmons",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CJ Simmons",
+              "bowler": "GS Sandhu",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "JR Dean",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JR Dean",
+              "bowler": "GS Sandhu",
+              "non_striker": "CJ Simmons",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CJ Simmons",
+              "bowler": "GS Sandhu",
+              "non_striker": "JR Dean",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JR Dean",
+              "bowler": "GS Sandhu",
+              "non_striker": "CJ Simmons",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "JR Dean",
+                  "fielders": [
+                    {
+                      "name": "JH Kallis"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "CJ Simmons",
+              "bowler": "GS Sandhu",
+              "non_striker": "RN ten Doeschate",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "RN ten Doeschate",
+              "bowler": "JH Kallis",
+              "non_striker": "CJ Simmons",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RN ten Doeschate",
+              "bowler": "JH Kallis",
+              "non_striker": "CJ Simmons",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CJ Simmons",
+              "bowler": "JH Kallis",
+              "non_striker": "RN ten Doeschate",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CJ Simmons",
+              "bowler": "JH Kallis",
+              "non_striker": "RN ten Doeschate",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CJ Simmons",
+              "bowler": "JH Kallis",
+              "non_striker": "RN ten Doeschate",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RN ten Doeschate",
+              "bowler": "JH Kallis",
+              "non_striker": "CJ Simmons",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "CJ Simmons",
+              "bowler": "NM Hauritz",
+              "non_striker": "RN ten Doeschate",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "CJ Simmons",
+              "bowler": "NM Hauritz",
+              "non_striker": "RN ten Doeschate",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RN ten Doeschate",
+              "bowler": "NM Hauritz",
+              "non_striker": "CJ Simmons",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "RN ten Doeschate",
+              "bowler": "NM Hauritz",
+              "non_striker": "CJ Simmons",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "RN ten Doeschate",
+              "bowler": "NM Hauritz",
+              "non_striker": "CJ Simmons",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CJ Simmons",
+              "bowler": "NM Hauritz",
+              "non_striker": "RN ten Doeschate",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "RN ten Doeschate",
+              "bowler": "CP Tremain",
+              "non_striker": "CJ Simmons",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CJ Simmons",
+              "bowler": "CP Tremain",
+              "non_striker": "RN ten Doeschate",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "CJ Simmons",
+                  "fielders": [
+                    {
+                      "name": "DP Hughes"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "RN ten Doeschate",
+              "bowler": "CP Tremain",
+              "non_striker": "TM Head",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "RN ten Doeschate",
+              "bowler": "CP Tremain",
+              "non_striker": "TM Head",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TM Head",
+              "bowler": "CP Tremain",
+              "non_striker": "RN ten Doeschate",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RN ten Doeschate",
+              "bowler": "CP Tremain",
+              "non_striker": "TM Head",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "TM Head",
+              "bowler": "IA Moran",
+              "non_striker": "RN ten Doeschate",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "TM Head",
+              "bowler": "IA Moran",
+              "non_striker": "RN ten Doeschate",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "TM Head",
+              "bowler": "IA Moran",
+              "non_striker": "RN ten Doeschate",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "TM Head",
+              "bowler": "IA Moran",
+              "non_striker": "RN ten Doeschate",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RN ten Doeschate",
+              "bowler": "IA Moran",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "TM Head",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RN ten Doeschate",
+              "bowler": "IA Moran",
+              "non_striker": "TM Head",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TM Head",
+              "bowler": "IA Moran",
+              "non_striker": "RN ten Doeschate",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "TM Head"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "RN ten Doeschate",
+              "bowler": "CP Tremain",
+              "non_striker": "J Botha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "RN ten Doeschate",
+                  "fielders": [
+                    {
+                      "name": "JJ Roy"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "AI Ross",
+              "bowler": "CP Tremain",
+              "non_striker": "J Botha",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "AI Ross",
+              "bowler": "CP Tremain",
+              "non_striker": "J Botha",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "AI Ross",
+              "bowler": "CP Tremain",
+              "non_striker": "J Botha",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Botha",
+              "bowler": "CP Tremain",
+              "non_striker": "AI Ross",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Botha",
+              "bowler": "CP Tremain",
+              "non_striker": "AI Ross",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "AI Ross",
+              "bowler": "GS Sandhu",
+              "non_striker": "J Botha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AI Ross",
+              "bowler": "GS Sandhu",
+              "non_striker": "J Botha",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AI Ross",
+              "bowler": "GS Sandhu",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "J Botha",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Botha",
+              "bowler": "GS Sandhu",
+              "non_striker": "AI Ross",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Botha",
+              "bowler": "GS Sandhu",
+              "non_striker": "AI Ross",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AI Ross",
+              "bowler": "GS Sandhu",
+              "non_striker": "J Botha",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "AI Ross",
+              "bowler": "JK Lalor",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "J Botha",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AI Ross",
+              "bowler": "JK Lalor",
+              "non_striker": "J Botha",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Botha",
+              "bowler": "JK Lalor",
+              "non_striker": "AI Ross",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AI Ross",
+              "bowler": "JK Lalor",
+              "non_striker": "J Botha",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "AI Ross",
+              "bowler": "JK Lalor",
+              "non_striker": "J Botha",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "AI Ross",
+              "bowler": "JK Lalor",
+              "non_striker": "J Botha",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Botha",
+              "bowler": "JK Lalor",
+              "non_striker": "AI Ross",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 2.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Sydney Thunder",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "JJ Roy",
+              "bowler": "KW Richardson",
+              "non_striker": "JH Kallis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JJ Roy",
+              "bowler": "KW Richardson",
+              "non_striker": "JH Kallis",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "JJ Roy",
+              "bowler": "KW Richardson",
+              "non_striker": "JH Kallis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JJ Roy",
+              "bowler": "KW Richardson",
+              "non_striker": "JH Kallis",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JJ Roy",
+              "bowler": "KW Richardson",
+              "non_striker": "JH Kallis",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JJ Roy",
+              "bowler": "KW Richardson",
+              "extras": {
+                "byes": 4
+              },
+              "non_striker": "JH Kallis",
+              "runs": {
+                "batter": 0,
+                "extras": 4,
+                "total": 4
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 0.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 10,
+        "runs": 120
+      }
+    }
+  ]
+}

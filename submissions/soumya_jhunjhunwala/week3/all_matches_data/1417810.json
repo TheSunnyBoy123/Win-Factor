@@ -1,0 +1,529 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2024-08-09",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 5,
+    "city": "Cardiff",
+    "dates": [
+      "2024-08-08"
+    ],
+    "event": {
+      "name": "The Hundred Men's Competition",
+      "match_number": 21
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "officials": {
+      "match_referees": [
+        "AM Smith"
+      ],
+      "reserve_umpires": [
+        "Surendiran Shanmugam"
+      ],
+      "tv_umpires": [
+        "PK Baldwin"
+      ],
+      "umpires": [
+        "MJ Saggers",
+        "M Burns"
+      ]
+    },
+    "outcome": {
+      "result": "no result"
+    },
+    "overs": 20,
+    "players": {
+      "Northern Superchargers": [
+        "N Pooran",
+        "MW Short",
+        "HC Brook",
+        "BA Stokes",
+        "AJ Hose",
+        "OG Robinson",
+        "G Clark",
+        "MJ Santner",
+        "MJ Potts",
+        "AU Rashid",
+        "RJW Topley"
+      ],
+      "Welsh Fire": [
+        "LWP Wells",
+        "JM Bairstow",
+        "JM Clarke",
+        "TB Abell",
+        "T Kohler-Cadmore",
+        "GD Phillips",
+        "DJ Willey",
+        "DA Payne",
+        "MJ Henry",
+        "RA Whiteley",
+        "Haris Rauf"
+      ]
+    },
+    "registry": {
+      "people": {
+        "AJ Hose": "104e88a4",
+        "AM Smith": "a0bc360f",
+        "AU Rashid": "249d60c9",
+        "BA Stokes": "e087956b",
+        "DA Payne": "6c79c098",
+        "DJ Willey": "7f048519",
+        "G Clark": "4fd09cfc",
+        "GD Phillips": "9a46c4e5",
+        "HC Brook": "4ae1755b",
+        "Haris Rauf": "24bb1c2f",
+        "JM Bairstow": "abb83e27",
+        "JM Clarke": "2eca67f5",
+        "LWP Wells": "1957c6b7",
+        "M Burns": "b3bd0666",
+        "MJ Henry": "e84ac20c",
+        "MJ Potts": "894b2d25",
+        "MJ Saggers": "402d5937",
+        "MJ Santner": "e4a0deae",
+        "MW Short": "a90e53ec",
+        "N Pooran": "3241e3fd",
+        "OG Robinson": "60f4c586",
+        "PK Baldwin": "6bb53c12",
+        "RA Whiteley": "d346d939",
+        "RJW Topley": "8db7f47f",
+        "Surendiran Shanmugam": "2ef5fc2b",
+        "T Kohler-Cadmore": "f836b33d",
+        "TB Abell": "ba9258a7"
+      }
+    },
+    "season": "2024",
+    "team_type": "club",
+    "teams": [
+      "Northern Superchargers",
+      "Welsh Fire"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Welsh Fire"
+    },
+    "venue": "Sophia Gardens, Cardiff"
+  },
+  "innings": [
+    {
+      "team": "Northern Superchargers",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "N Pooran",
+              "bowler": "DJ Willey",
+              "non_striker": "MW Short",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "N Pooran",
+              "bowler": "DJ Willey",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "MW Short",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MW Short",
+              "bowler": "DJ Willey",
+              "non_striker": "N Pooran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MW Short",
+                  "fielders": [
+                    {
+                      "name": "DA Payne"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "HC Brook",
+              "bowler": "DJ Willey",
+              "non_striker": "N Pooran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HC Brook",
+              "bowler": "DJ Willey",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "N Pooran",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HC Brook",
+              "bowler": "DJ Willey",
+              "non_striker": "N Pooran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "N Pooran",
+              "bowler": "MJ Henry",
+              "non_striker": "HC Brook",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Pooran",
+              "bowler": "MJ Henry",
+              "non_striker": "HC Brook",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "N Pooran",
+                  "fielders": [
+                    {
+                      "name": "JM Bairstow"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "BA Stokes",
+              "bowler": "MJ Henry",
+              "non_striker": "HC Brook",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BA Stokes",
+              "bowler": "MJ Henry",
+              "non_striker": "HC Brook",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HC Brook",
+              "bowler": "MJ Henry",
+              "non_striker": "BA Stokes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "BA Stokes",
+              "bowler": "MJ Henry",
+              "non_striker": "HC Brook",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HC Brook",
+              "bowler": "MJ Henry",
+              "non_striker": "BA Stokes",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "HC Brook",
+              "bowler": "MJ Henry",
+              "non_striker": "BA Stokes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HC Brook",
+              "bowler": "MJ Henry",
+              "non_striker": "BA Stokes",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "HC Brook",
+              "bowler": "MJ Henry",
+              "non_striker": "BA Stokes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "HC Brook",
+                  "fielders": [
+                    {
+                      "name": "RA Whiteley"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "AJ Hose",
+              "bowler": "Haris Rauf",
+              "non_striker": "BA Stokes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "AJ Hose",
+                  "fielders": [
+                    {
+                      "name": "DJ Willey"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "OG Robinson",
+              "bowler": "Haris Rauf",
+              "non_striker": "BA Stokes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BA Stokes",
+              "bowler": "Haris Rauf",
+              "non_striker": "OG Robinson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "BA Stokes",
+                  "fielders": [
+                    {
+                      "name": "T Kohler-Cadmore"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "G Clark",
+              "bowler": "Haris Rauf",
+              "non_striker": "OG Robinson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "OG Robinson",
+              "bowler": "Haris Rauf",
+              "non_striker": "G Clark",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "OG Robinson",
+              "bowler": "Haris Rauf",
+              "non_striker": "G Clark",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "OG Robinson",
+              "bowler": "Haris Rauf",
+              "non_striker": "G Clark",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "OG Robinson",
+              "bowler": "Haris Rauf",
+              "non_striker": "G Clark",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "OG Robinson",
+              "bowler": "Haris Rauf",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "G Clark",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Clark",
+              "bowler": "Haris Rauf",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "OG Robinson",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 1.1,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Welsh Fire",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "LWP Wells",
+              "bowler": "BA Stokes",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "JM Bairstow",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LWP Wells",
+              "bowler": "BA Stokes",
+              "non_striker": "JM Bairstow",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LWP Wells",
+              "bowler": "BA Stokes",
+              "non_striker": "JM Bairstow",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 0.3,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 5,
+        "runs": 27
+      }
+    }
+  ]
+}

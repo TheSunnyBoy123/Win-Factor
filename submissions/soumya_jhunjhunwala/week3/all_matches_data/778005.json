@@ -1,0 +1,2241 @@
+{
+  "meta": {
+    "data_version": "1.0.0",
+    "created": "2014-09-26",
+    "revision": 3
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Incheon",
+    "dates": [
+      "2014-09-24"
+    ],
+    "event": {
+      "name": "Asian Games Women's Cricket Competition",
+      "stage": "Quarter Final"
+    },
+    "gender": "female",
+    "match_type": "IT20",
+    "missing": [
+      "player_of_match"
+    ],
+    "officials": {
+      "match_referees": [
+        "Aminul Islam"
+      ],
+      "reserve_umpires": [
+        "Irfan Ghafoor"
+      ],
+      "umpires": [
+        "BB Pradhan",
+        "B Ramani"
+      ]
+    },
+    "outcome": {
+      "by": {
+        "runs": 51
+      },
+      "winner": "Pakistan"
+    },
+    "overs": 20,
+    "players": {
+      "Pakistan": [
+        "Marina Iqbal",
+        "Javeria Khan",
+        "Bismah Maroof",
+        "Nain Abidi",
+        "Qanita Jalil",
+        "Nida Dar",
+        "Asmavia Iqbal",
+        "Sidra Nawaz",
+        "Sadia Yousuf",
+        "Sana Mir",
+        "Sania Khan"
+      ],
+      "Thailand": [
+        "N Chantam",
+        "N Boochatham",
+        "S Tippoch",
+        "P Prathanmitr",
+        "C Sutthiruang",
+        "S Saengsakaorat",
+        "N Chaiwai",
+        "R Sangsoma",
+        "W Liengprasert",
+        "S Saenya",
+        "S Laomi"
+      ]
+    },
+    "registry": {
+      "people": {
+        "Aminul Islam": "8f82bd30",
+        "Asmavia Iqbal": "98dfe425",
+        "B Ramani": "92ad5353",
+        "BB Pradhan": "8603d942",
+        "Bismah Maroof": "3b770527",
+        "C Sutthiruang": "f6ddfe08",
+        "Irfan Ghafoor": "6386441e",
+        "Javeria Khan": "d921449d",
+        "Marina Iqbal": "e429f443",
+        "N Boochatham": "58acb320",
+        "N Chaiwai": "0825e4b3",
+        "N Chantam": "b5626ff7",
+        "Nain Abidi": "5486d41f",
+        "Nida Dar": "ed840f44",
+        "P Prathanmitr": "5fd81581",
+        "Qanita Jalil": "2ea9b32c",
+        "R Sangsoma": "e1aa1469",
+        "S Laomi": "4b15618c",
+        "S Saengsakaorat": "6214c0c6",
+        "S Saenya": "befa9863",
+        "S Tippoch": "9c4b58db",
+        "Sadia Yousuf": "3cfbddce",
+        "Sana Mir": "b287e7b1",
+        "Sania Khan": "e5be2427",
+        "Sidra Nawaz": "ca3ded6f",
+        "W Liengprasert": "4dabe716"
+      }
+    },
+    "season": "2014/15",
+    "team_type": "international",
+    "teams": [
+      "Pakistan",
+      "Thailand"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Thailand"
+    },
+    "venue": "Yeonhui Cricket Ground"
+  },
+  "innings": [
+    {
+      "team": "Pakistan",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Marina Iqbal",
+              "bowler": "N Chantam",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Javeria Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Marina Iqbal",
+              "bowler": "N Chantam",
+              "non_striker": "Javeria Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Marina Iqbal",
+              "bowler": "N Chantam",
+              "non_striker": "Javeria Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Marina Iqbal",
+              "bowler": "N Chantam",
+              "non_striker": "Javeria Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "kind": "run out",
+                  "player_out": "Javeria Khan",
+                  "fielders": [
+                    {
+                      "name": "W Liengprasert"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "Bismah Maroof",
+              "bowler": "N Chantam",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Marina Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Bismah Maroof",
+              "bowler": "N Chantam",
+              "non_striker": "Marina Iqbal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Marina Iqbal",
+              "bowler": "N Chantam",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Bismah Maroof",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Marina Iqbal",
+              "bowler": "N Chantam",
+              "non_striker": "Bismah Maroof",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Marina Iqbal",
+              "bowler": "N Chantam",
+              "non_striker": "Bismah Maroof",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Marina Iqbal",
+              "bowler": "W Liengprasert",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Bismah Maroof",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Marina Iqbal",
+              "bowler": "W Liengprasert",
+              "non_striker": "Bismah Maroof",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Marina Iqbal",
+              "bowler": "W Liengprasert",
+              "non_striker": "Bismah Maroof",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Marina Iqbal",
+              "bowler": "W Liengprasert",
+              "non_striker": "Bismah Maroof",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Marina Iqbal",
+              "bowler": "W Liengprasert",
+              "non_striker": "Bismah Maroof",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Marina Iqbal",
+              "bowler": "W Liengprasert",
+              "non_striker": "Bismah Maroof",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Marina Iqbal",
+                  "fielders": [
+                    {
+                      "name": "S Tippoch"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "Nain Abidi",
+              "bowler": "W Liengprasert",
+              "non_striker": "Bismah Maroof",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Bismah Maroof",
+              "bowler": "N Chantam",
+              "non_striker": "Nain Abidi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nain Abidi",
+              "bowler": "N Chantam",
+              "non_striker": "Bismah Maroof",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Bismah Maroof",
+              "bowler": "N Chantam",
+              "non_striker": "Nain Abidi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Bismah Maroof",
+              "bowler": "N Chantam",
+              "non_striker": "Nain Abidi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Bismah Maroof",
+              "bowler": "N Chantam",
+              "non_striker": "Nain Abidi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nain Abidi",
+              "bowler": "N Chantam",
+              "non_striker": "Bismah Maroof",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Nain Abidi",
+              "bowler": "W Liengprasert",
+              "non_striker": "Bismah Maroof",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nain Abidi",
+              "bowler": "W Liengprasert",
+              "non_striker": "Bismah Maroof",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nain Abidi",
+              "bowler": "W Liengprasert",
+              "non_striker": "Bismah Maroof",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nain Abidi",
+              "bowler": "W Liengprasert",
+              "non_striker": "Bismah Maroof",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Bismah Maroof",
+              "bowler": "W Liengprasert",
+              "non_striker": "Nain Abidi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nain Abidi",
+              "bowler": "W Liengprasert",
+              "non_striker": "Bismah Maroof",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Bismah Maroof",
+              "bowler": "C Sutthiruang",
+              "non_striker": "Nain Abidi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nain Abidi",
+              "bowler": "C Sutthiruang",
+              "non_striker": "Bismah Maroof",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nain Abidi",
+              "bowler": "C Sutthiruang",
+              "non_striker": "Bismah Maroof",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nain Abidi",
+              "bowler": "C Sutthiruang",
+              "non_striker": "Bismah Maroof",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Nain Abidi",
+              "bowler": "C Sutthiruang",
+              "non_striker": "Bismah Maroof",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Nain Abidi",
+              "bowler": "C Sutthiruang",
+              "extras": {
+                "legbyes": 2
+              },
+              "non_striker": "Bismah Maroof",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Bismah Maroof",
+              "bowler": "W Liengprasert",
+              "non_striker": "Nain Abidi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nain Abidi",
+              "bowler": "W Liengprasert",
+              "non_striker": "Bismah Maroof",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Bismah Maroof",
+              "bowler": "W Liengprasert",
+              "non_striker": "Nain Abidi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Bismah Maroof",
+              "bowler": "W Liengprasert",
+              "non_striker": "Nain Abidi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nain Abidi",
+              "bowler": "W Liengprasert",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Bismah Maroof",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nain Abidi",
+              "bowler": "W Liengprasert",
+              "non_striker": "Bismah Maroof",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Bismah Maroof",
+              "bowler": "W Liengprasert",
+              "non_striker": "Nain Abidi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Bismah Maroof",
+              "bowler": "C Sutthiruang",
+              "non_striker": "Nain Abidi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nain Abidi",
+              "bowler": "C Sutthiruang",
+              "non_striker": "Bismah Maroof",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Bismah Maroof",
+              "bowler": "C Sutthiruang",
+              "non_striker": "Nain Abidi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Bismah Maroof",
+              "bowler": "C Sutthiruang",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Nain Abidi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Bismah Maroof",
+              "bowler": "C Sutthiruang",
+              "non_striker": "Nain Abidi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Bismah Maroof",
+              "bowler": "C Sutthiruang",
+              "non_striker": "Nain Abidi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nain Abidi",
+              "bowler": "C Sutthiruang",
+              "non_striker": "Bismah Maroof",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Nain Abidi",
+              "bowler": "N Boochatham",
+              "non_striker": "Bismah Maroof",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Bismah Maroof",
+              "bowler": "N Boochatham",
+              "non_striker": "Nain Abidi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Bismah Maroof",
+              "bowler": "N Boochatham",
+              "non_striker": "Nain Abidi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Bismah Maroof",
+              "bowler": "N Boochatham",
+              "non_striker": "Nain Abidi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Bismah Maroof",
+              "bowler": "N Boochatham",
+              "non_striker": "Nain Abidi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "run out",
+                  "player_out": "Bismah Maroof",
+                  "fielders": [
+                    {
+                      "name": "S Laomi"
+                    },
+                    {
+                      "name": "P Prathanmitr"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "Qanita Jalil",
+              "bowler": "N Boochatham",
+              "extras": {
+                "byes": 2
+              },
+              "non_striker": "Nain Abidi",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "Nain Abidi",
+              "bowler": "R Sangsoma",
+              "non_striker": "Qanita Jalil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nain Abidi",
+              "bowler": "R Sangsoma",
+              "non_striker": "Qanita Jalil",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Nain Abidi",
+              "bowler": "R Sangsoma",
+              "non_striker": "Qanita Jalil",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Nain Abidi",
+              "bowler": "R Sangsoma",
+              "non_striker": "Qanita Jalil",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Qanita Jalil",
+              "bowler": "R Sangsoma",
+              "non_striker": "Nain Abidi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Qanita Jalil",
+              "bowler": "R Sangsoma",
+              "non_striker": "Nain Abidi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "Nain Abidi",
+              "bowler": "N Boochatham",
+              "non_striker": "Qanita Jalil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nain Abidi",
+              "bowler": "N Boochatham",
+              "non_striker": "Qanita Jalil",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Nain Abidi",
+              "bowler": "N Boochatham",
+              "non_striker": "Qanita Jalil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nain Abidi",
+              "bowler": "N Boochatham",
+              "non_striker": "Qanita Jalil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nain Abidi",
+              "bowler": "N Boochatham",
+              "non_striker": "Qanita Jalil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nain Abidi",
+              "bowler": "N Boochatham",
+              "non_striker": "Qanita Jalil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "Qanita Jalil",
+              "bowler": "R Sangsoma",
+              "non_striker": "Nain Abidi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nain Abidi",
+              "bowler": "R Sangsoma",
+              "non_striker": "Qanita Jalil",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Nain Abidi",
+              "bowler": "R Sangsoma",
+              "non_striker": "Qanita Jalil",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Qanita Jalil",
+              "bowler": "R Sangsoma",
+              "non_striker": "Nain Abidi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Qanita Jalil",
+              "bowler": "R Sangsoma",
+              "non_striker": "Nain Abidi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Qanita Jalil",
+              "bowler": "R Sangsoma",
+              "non_striker": "Nain Abidi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "Qanita Jalil",
+              "bowler": "C Sutthiruang",
+              "non_striker": "Nain Abidi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nain Abidi",
+              "bowler": "C Sutthiruang",
+              "non_striker": "Qanita Jalil",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Nain Abidi",
+              "bowler": "C Sutthiruang",
+              "non_striker": "Qanita Jalil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nain Abidi",
+              "bowler": "C Sutthiruang",
+              "non_striker": "Qanita Jalil",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Nain Abidi",
+              "bowler": "C Sutthiruang",
+              "non_striker": "Qanita Jalil",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Qanita Jalil",
+              "bowler": "C Sutthiruang",
+              "non_striker": "Nain Abidi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "Nain Abidi",
+              "bowler": "N Chantam",
+              "non_striker": "Qanita Jalil",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Qanita Jalil",
+              "bowler": "N Chantam",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Nain Abidi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Qanita Jalil",
+              "bowler": "N Chantam",
+              "non_striker": "Nain Abidi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nain Abidi",
+              "bowler": "N Chantam",
+              "non_striker": "Qanita Jalil",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Nain Abidi",
+              "bowler": "N Chantam",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Qanita Jalil",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nain Abidi",
+              "bowler": "N Chantam",
+              "non_striker": "Qanita Jalil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nain Abidi",
+              "bowler": "N Chantam",
+              "non_striker": "Qanita Jalil",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Qanita Jalil",
+              "bowler": "N Chantam",
+              "non_striker": "Nain Abidi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "Qanita Jalil"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "Nain Abidi",
+              "bowler": "N Boochatham",
+              "non_striker": "Nida Dar",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Nain Abidi",
+              "bowler": "N Boochatham",
+              "non_striker": "Nida Dar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nida Dar",
+              "bowler": "N Boochatham",
+              "non_striker": "Nain Abidi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Nida Dar",
+              "bowler": "N Boochatham",
+              "non_striker": "Nain Abidi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "kind": "run out",
+                  "player_out": "Nain Abidi",
+                  "fielders": [
+                    {
+                      "name": "S Tippoch"
+                    },
+                    {
+                      "name": "N Boochatham"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "Nida Dar",
+              "bowler": "N Boochatham",
+              "non_striker": "Asmavia Iqbal",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Nida Dar",
+              "bowler": "N Boochatham",
+              "non_striker": "Asmavia Iqbal",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 3.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Thailand",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "N Chantam",
+              "bowler": "Sadia Yousuf",
+              "non_striker": "N Boochatham",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Chantam",
+              "bowler": "Sadia Yousuf",
+              "non_striker": "N Boochatham",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Chantam",
+              "bowler": "Sadia Yousuf",
+              "non_striker": "N Boochatham",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Boochatham",
+              "bowler": "Sadia Yousuf",
+              "non_striker": "N Chantam",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "N Boochatham",
+              "bowler": "Sadia Yousuf",
+              "non_striker": "N Chantam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Boochatham",
+              "bowler": "Sadia Yousuf",
+              "non_striker": "N Chantam",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "N Boochatham",
+              "bowler": "Sana Mir",
+              "non_striker": "N Chantam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Chantam",
+              "bowler": "Sana Mir",
+              "non_striker": "N Boochatham",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Boochatham",
+              "bowler": "Sana Mir",
+              "non_striker": "N Chantam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Boochatham",
+              "bowler": "Sana Mir",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "N Chantam",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Boochatham",
+              "bowler": "Sana Mir",
+              "non_striker": "N Chantam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Boochatham",
+              "bowler": "Sana Mir",
+              "non_striker": "N Chantam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Chantam",
+              "bowler": "Sana Mir",
+              "non_striker": "N Boochatham",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "N Chantam",
+                  "fielders": [
+                    {
+                      "name": "Sidra Nawaz"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "N Boochatham",
+              "bowler": "Asmavia Iqbal",
+              "non_striker": "S Tippoch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Boochatham",
+              "bowler": "Asmavia Iqbal",
+              "non_striker": "S Tippoch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Boochatham",
+              "bowler": "Asmavia Iqbal",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Tippoch",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Boochatham",
+              "bowler": "Asmavia Iqbal",
+              "non_striker": "S Tippoch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Boochatham",
+              "bowler": "Asmavia Iqbal",
+              "non_striker": "S Tippoch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Tippoch",
+              "bowler": "Asmavia Iqbal",
+              "non_striker": "N Boochatham",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Tippoch",
+              "bowler": "Asmavia Iqbal",
+              "non_striker": "N Boochatham",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "N Boochatham",
+              "bowler": "Sana Mir",
+              "non_striker": "S Tippoch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Tippoch",
+              "bowler": "Sana Mir",
+              "non_striker": "N Boochatham",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Tippoch",
+              "bowler": "Sana Mir",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "N Boochatham",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Tippoch",
+              "bowler": "Sana Mir",
+              "non_striker": "N Boochatham",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Boochatham",
+              "bowler": "Sana Mir",
+              "non_striker": "S Tippoch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Tippoch",
+              "bowler": "Sana Mir",
+              "non_striker": "N Boochatham",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Boochatham",
+              "bowler": "Sana Mir",
+              "non_striker": "S Tippoch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "S Tippoch",
+              "bowler": "Asmavia Iqbal",
+              "non_striker": "N Boochatham",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Tippoch",
+              "bowler": "Asmavia Iqbal",
+              "non_striker": "N Boochatham",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Tippoch",
+              "bowler": "Asmavia Iqbal",
+              "non_striker": "N Boochatham",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "run out",
+                  "player_out": "S Tippoch",
+                  "fielders": [
+                    {
+                      "name": "Qanita Jalil"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "P Prathanmitr",
+              "bowler": "Asmavia Iqbal",
+              "non_striker": "N Boochatham",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "P Prathanmitr",
+              "bowler": "Asmavia Iqbal",
+              "non_striker": "N Boochatham",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Prathanmitr",
+              "bowler": "Asmavia Iqbal",
+              "non_striker": "N Boochatham",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "N Boochatham",
+              "bowler": "Qanita Jalil",
+              "non_striker": "P Prathanmitr",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Prathanmitr",
+              "bowler": "Qanita Jalil",
+              "non_striker": "N Boochatham",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Prathanmitr",
+              "bowler": "Qanita Jalil",
+              "non_striker": "N Boochatham",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Boochatham",
+              "bowler": "Qanita Jalil",
+              "non_striker": "P Prathanmitr",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Boochatham",
+              "bowler": "Qanita Jalil",
+              "non_striker": "P Prathanmitr",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Boochatham",
+              "bowler": "Qanita Jalil",
+              "non_striker": "P Prathanmitr",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "P Prathanmitr",
+              "bowler": "Sania Khan",
+              "non_striker": "N Boochatham",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Boochatham",
+              "bowler": "Sania Khan",
+              "non_striker": "P Prathanmitr",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Boochatham",
+              "bowler": "Sania Khan",
+              "non_striker": "P Prathanmitr",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "N Boochatham",
+              "bowler": "Sania Khan",
+              "non_striker": "P Prathanmitr",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Boochatham",
+              "bowler": "Sania Khan",
+              "non_striker": "P Prathanmitr",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "P Prathanmitr",
+              "bowler": "Sania Khan",
+              "non_striker": "N Boochatham",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "N Boochatham",
+              "bowler": "Qanita Jalil",
+              "non_striker": "P Prathanmitr",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Prathanmitr",
+              "bowler": "Qanita Jalil",
+              "non_striker": "N Boochatham",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Boochatham",
+              "bowler": "Qanita Jalil",
+              "non_striker": "P Prathanmitr",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "N Boochatham"
+                }
+              ]
+            },
+            {
+              "batter": "C Sutthiruang",
+              "bowler": "Qanita Jalil",
+              "non_striker": "P Prathanmitr",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Sutthiruang",
+              "bowler": "Qanita Jalil",
+              "non_striker": "P Prathanmitr",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Sutthiruang",
+              "bowler": "Qanita Jalil",
+              "non_striker": "P Prathanmitr",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "C Sutthiruang",
+              "bowler": "Sania Khan",
+              "non_striker": "P Prathanmitr",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Sutthiruang",
+              "bowler": "Sania Khan",
+              "non_striker": "P Prathanmitr",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Prathanmitr",
+              "bowler": "Sania Khan",
+              "non_striker": "C Sutthiruang",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Prathanmitr",
+              "bowler": "Sania Khan",
+              "non_striker": "C Sutthiruang",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Prathanmitr",
+              "bowler": "Sania Khan",
+              "non_striker": "C Sutthiruang",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "P Prathanmitr",
+              "bowler": "Sania Khan",
+              "non_striker": "C Sutthiruang",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "C Sutthiruang",
+              "bowler": "Sadia Yousuf",
+              "non_striker": "P Prathanmitr",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Sutthiruang",
+              "bowler": "Sadia Yousuf",
+              "non_striker": "P Prathanmitr",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Sutthiruang",
+              "bowler": "Sadia Yousuf",
+              "non_striker": "P Prathanmitr",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "C Sutthiruang",
+                  "fielders": [
+                    {
+                      "name": "Sania Khan"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "S Saengsakaorat",
+              "bowler": "Sadia Yousuf",
+              "non_striker": "P Prathanmitr",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Prathanmitr",
+              "bowler": "Sadia Yousuf",
+              "non_striker": "S Saengsakaorat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Prathanmitr",
+              "bowler": "Sadia Yousuf",
+              "non_striker": "S Saengsakaorat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "S Saengsakaorat",
+              "bowler": "Nida Dar",
+              "non_striker": "P Prathanmitr",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Saengsakaorat",
+              "bowler": "Nida Dar",
+              "non_striker": "P Prathanmitr",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Saengsakaorat",
+              "bowler": "Nida Dar",
+              "non_striker": "P Prathanmitr",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Saengsakaorat",
+              "bowler": "Nida Dar",
+              "non_striker": "P Prathanmitr",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Saengsakaorat",
+              "bowler": "Nida Dar",
+              "non_striker": "P Prathanmitr",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Saengsakaorat",
+              "bowler": "Nida Dar",
+              "non_striker": "P Prathanmitr",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "S Saengsakaorat",
+              "bowler": "Bismah Maroof",
+              "non_striker": "P Prathanmitr",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Prathanmitr",
+              "bowler": "Bismah Maroof",
+              "non_striker": "S Saengsakaorat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Saengsakaorat",
+              "bowler": "Bismah Maroof",
+              "non_striker": "P Prathanmitr",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Prathanmitr",
+              "bowler": "Bismah Maroof",
+              "non_striker": "S Saengsakaorat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Prathanmitr",
+              "bowler": "Bismah Maroof",
+              "non_striker": "S Saengsakaorat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Prathanmitr",
+              "bowler": "Bismah Maroof",
+              "non_striker": "S Saengsakaorat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "P Prathanmitr",
+              "bowler": "Nida Dar",
+              "non_striker": "S Saengsakaorat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "P Prathanmitr",
+                  "fielders": [
+                    {
+                      "name": "Bismah Maroof"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "S Saengsakaorat",
+              "bowler": "Nida Dar",
+              "non_striker": "N Chaiwai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Chaiwai",
+              "bowler": "Nida Dar",
+              "non_striker": "S Saengsakaorat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Chaiwai",
+              "bowler": "Nida Dar",
+              "non_striker": "S Saengsakaorat",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "N Chaiwai",
+              "bowler": "Nida Dar",
+              "non_striker": "S Saengsakaorat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Saengsakaorat",
+              "bowler": "Nida Dar",
+              "non_striker": "N Chaiwai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "S Saengsakaorat",
+              "bowler": "Asmavia Iqbal",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "N Chaiwai",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Saengsakaorat",
+              "bowler": "Asmavia Iqbal",
+              "non_striker": "N Chaiwai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Saengsakaorat",
+              "bowler": "Asmavia Iqbal",
+              "non_striker": "N Chaiwai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "lbw",
+                  "player_out": "S Saengsakaorat"
+                }
+              ]
+            },
+            {
+              "batter": "R Sangsoma",
+              "bowler": "Asmavia Iqbal",
+              "non_striker": "N Chaiwai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Sangsoma",
+              "bowler": "Asmavia Iqbal",
+              "non_striker": "N Chaiwai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "R Sangsoma"
+                }
+              ]
+            },
+            {
+              "batter": "W Liengprasert",
+              "bowler": "Asmavia Iqbal",
+              "non_striker": "N Chaiwai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "W Liengprasert",
+              "bowler": "Asmavia Iqbal",
+              "non_striker": "N Chaiwai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 3.7,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 14,
+        "runs": 98
+      }
+    }
+  ]
+}
