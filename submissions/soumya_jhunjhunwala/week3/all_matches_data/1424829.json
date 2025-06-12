@@ -1,0 +1,158 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2024-04-18",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Rawalpindi",
+    "dates": [
+      "2024-04-18"
+    ],
+    "event": {
+      "name": "New Zealand tour of Pakistan",
+      "match_number": 1
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 2575,
+    "officials": {
+      "match_referees": [
+        "AJ Pycroft"
+      ],
+      "reserve_umpires": [
+        "Rashid Riaz"
+      ],
+      "tv_umpires": [
+        "Faisal Afridi"
+      ],
+      "umpires": [
+        "Ahsan Raza",
+        "Aleem Dar"
+      ]
+    },
+    "outcome": {
+      "result": "no result"
+    },
+    "overs": 20,
+    "players": {
+      "New Zealand": [
+        "TB Robinson",
+        "TL Seifert",
+        "D Foxcroft",
+        "MS Chapman",
+        "JDS Neesham",
+        "MG Bracewell",
+        "JA Clarkson",
+        "IS Sodhi",
+        "JA Duffy",
+        "BV Sears",
+        "BG Lister"
+      ],
+      "Pakistan": [
+        "Babar Azam",
+        "Saim Ayub",
+        "Mohammad Rizwan",
+        "Usman Khan",
+        "Iftikhar Ahmed",
+        "Irfan Khan",
+        "Shadab Khan",
+        "Shaheen Shah Afridi",
+        "Mohammad Amir",
+        "Naseem Shah",
+        "Abrar Ahmed"
+      ]
+    },
+    "registry": {
+      "people": {
+        "AJ Pycroft": "685d3f80",
+        "Abrar Ahmed": "abb7c76c",
+        "Ahsan Raza": "e0e5b209",
+        "Aleem Dar": "f02778d1",
+        "BG Lister": "79f5bc26",
+        "BV Sears": "e1891e00",
+        "Babar Azam": "8a75e999",
+        "D Foxcroft": "ed6894af",
+        "Faisal Afridi": "ed0bc503",
+        "IS Sodhi": "641ac5ff",
+        "Iftikhar Ahmed": "29e253dd",
+        "Irfan Khan": "ee95065d",
+        "JA Clarkson": "bed90114",
+        "JA Duffy": "dadbdb68",
+        "JDS Neesham": "9219eff0",
+        "MG Bracewell": "e38bce7a",
+        "MS Chapman": "7fa12533",
+        "Mohammad Amir": "e174dadd",
+        "Mohammad Rizwan": "2f26ac1a",
+        "Naseem Shah": "9c9af282",
+        "Rashid Riaz": "fb82725e",
+        "Saim Ayub": "33609a8c",
+        "Shadab Khan": "9de62878",
+        "Shaheen Shah Afridi": "45a7e761",
+        "TB Robinson": "5d664346",
+        "TL Seifert": "4663bd23",
+        "Usman Khan": "bafb9238"
+      }
+    },
+    "season": "2024",
+    "team_type": "international",
+    "teams": [
+      "New Zealand",
+      "Pakistan"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "New Zealand"
+    },
+    "venue": "Rawalpindi Cricket Stadium"
+  },
+  "innings": [
+    {
+      "team": "New Zealand",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "TB Robinson",
+              "bowler": "Shaheen Shah Afridi",
+              "extras": {
+                "legbyes": 2
+              },
+              "non_striker": "TL Seifert",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "TB Robinson",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "TL Seifert",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "TB Robinson",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 0.2,
+          "type": "mandatory"
+        }
+      ]
+    }
+  ]
+}

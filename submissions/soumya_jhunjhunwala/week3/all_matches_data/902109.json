@@ -1,0 +1,1786 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2023-01-06",
+    "revision": 2
+  },
+  "info": {
+    "balls_per_over": 6,
+    "dates": [
+      "2016-01-02"
+    ],
+    "event": {
+      "name": "Syed Mushtaq Ali Trophy",
+      "group": "D"
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "missing": [
+      "umpires"
+    ],
+    "outcome": {
+      "winner": "Uttar Pradesh",
+      "by": {
+        "wickets": 7
+      }
+    },
+    "overs": 20,
+    "players": {
+      "Maharashtra": [
+        "HH Khadiwale",
+        "RH Motwani",
+        "KM Jadhav",
+        "AR Bawne",
+        "SS Mundhe",
+        "RA Tripathi",
+        "NS Naik",
+        "PJ Bhati",
+        "SM Kazi",
+        "DJ Muthuswami",
+        "SM Fallah"
+      ],
+      "Uttar Pradesh": [
+        "P Kumar",
+        "AS Rajpoot",
+        "Amit Mishra",
+        "PP Chawla",
+        "Kuldeep Yadav",
+        "AD Nath",
+        "Prashant Gupta",
+        "Samarth Singh",
+        "ER Dwivedi",
+        "Umang Sharma",
+        "Saurabh Dubey"
+      ]
+    },
+    "registry": {
+      "people": {
+        "AD Nath": "f10e94c4",
+        "AR Bawne": "afe3355a",
+        "AS Rajpoot": "db31895a",
+        "Amit Mishra": "40792cff",
+        "DJ Muthuswami": "2c76b512",
+        "ER Dwivedi": "b274dbbd",
+        "HH Khadiwale": "4a65051a",
+        "KM Jadhav": "99d63244",
+        "Kuldeep Yadav": "8d2c70ad",
+        "NS Naik": "aedc3b7c",
+        "P Kumar": "e938e1bc",
+        "PJ Bhati": "278989a3",
+        "PP Chawla": "98ae73b1",
+        "Prashant Gupta": "ad1e02b4",
+        "RA Tripathi": "77255a9e",
+        "RH Motwani": "40fd2e48",
+        "SM Fallah": "c8f697bd",
+        "SM Kazi": "868e3639",
+        "SS Mundhe": "0af3426f",
+        "Samarth Singh": "9889da93",
+        "Saurabh Dubey": "66317b81",
+        "Umang Sharma": "6f0f39fb"
+      }
+    },
+    "season": "2015/16",
+    "team_type": "club",
+    "teams": [
+      "Maharashtra",
+      "Uttar Pradesh"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Uttar Pradesh"
+    },
+    "venue": "DRIEMS Ground"
+  },
+  "innings": [
+    {
+      "team": "Maharashtra",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "HH Khadiwale",
+              "bowler": "P Kumar",
+              "non_striker": "RH Motwani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RH Motwani",
+              "bowler": "P Kumar",
+              "non_striker": "HH Khadiwale",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RH Motwani",
+              "bowler": "P Kumar",
+              "non_striker": "HH Khadiwale",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "RH Motwani",
+              "bowler": "P Kumar",
+              "non_striker": "HH Khadiwale",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HH Khadiwale",
+              "bowler": "P Kumar",
+              "non_striker": "RH Motwani",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "HH Khadiwale",
+              "bowler": "P Kumar",
+              "non_striker": "RH Motwani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "HH Khadiwale",
+              "bowler": "AS Rajpoot",
+              "non_striker": "RH Motwani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RH Motwani",
+              "bowler": "AS Rajpoot",
+              "non_striker": "HH Khadiwale",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RH Motwani",
+              "bowler": "AS Rajpoot",
+              "non_striker": "HH Khadiwale",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HH Khadiwale",
+              "bowler": "AS Rajpoot",
+              "non_striker": "RH Motwani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "HH Khadiwale",
+                  "fielders": [
+                    {
+                      "name": "ER Dwivedi"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "RH Motwani",
+              "bowler": "AS Rajpoot",
+              "non_striker": "KM Jadhav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KM Jadhav",
+              "bowler": "AS Rajpoot",
+              "non_striker": "RH Motwani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "RH Motwani",
+              "bowler": "P Kumar",
+              "non_striker": "KM Jadhav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KM Jadhav",
+              "bowler": "P Kumar",
+              "non_striker": "RH Motwani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KM Jadhav",
+              "bowler": "P Kumar",
+              "non_striker": "RH Motwani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RH Motwani",
+              "bowler": "P Kumar",
+              "non_striker": "KM Jadhav",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "RH Motwani",
+              "bowler": "P Kumar",
+              "non_striker": "KM Jadhav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RH Motwani",
+              "bowler": "P Kumar",
+              "non_striker": "KM Jadhav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "RH Motwani",
+              "bowler": "AS Rajpoot",
+              "non_striker": "KM Jadhav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KM Jadhav",
+              "bowler": "AS Rajpoot",
+              "non_striker": "RH Motwani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RH Motwani",
+              "bowler": "AS Rajpoot",
+              "non_striker": "KM Jadhav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "RH Motwani",
+                  "fielders": [
+                    {
+                      "name": "Saurabh Dubey"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "KM Jadhav",
+              "bowler": "AS Rajpoot",
+              "non_striker": "AR Bawne",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AR Bawne",
+              "bowler": "AS Rajpoot",
+              "non_striker": "KM Jadhav",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AR Bawne",
+              "bowler": "AS Rajpoot",
+              "non_striker": "KM Jadhav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "KM Jadhav",
+              "bowler": "Amit Mishra",
+              "non_striker": "AR Bawne",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AR Bawne",
+              "bowler": "Amit Mishra",
+              "non_striker": "KM Jadhav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AR Bawne",
+              "bowler": "Amit Mishra",
+              "non_striker": "KM Jadhav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AR Bawne",
+              "bowler": "Amit Mishra",
+              "non_striker": "KM Jadhav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KM Jadhav",
+              "bowler": "Amit Mishra",
+              "non_striker": "AR Bawne",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KM Jadhav",
+              "bowler": "Amit Mishra",
+              "non_striker": "AR Bawne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "AR Bawne",
+              "bowler": "PP Chawla",
+              "non_striker": "KM Jadhav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KM Jadhav",
+              "bowler": "PP Chawla",
+              "non_striker": "AR Bawne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KM Jadhav",
+              "bowler": "PP Chawla",
+              "non_striker": "AR Bawne",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AR Bawne",
+              "bowler": "PP Chawla",
+              "non_striker": "KM Jadhav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KM Jadhav",
+              "bowler": "PP Chawla",
+              "non_striker": "AR Bawne",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AR Bawne",
+              "bowler": "PP Chawla",
+              "non_striker": "KM Jadhav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "AR Bawne",
+                  "fielders": [
+                    {
+                      "name": "Samarth Singh"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "KM Jadhav",
+              "bowler": "Kuldeep Yadav",
+              "non_striker": "SS Mundhe",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "KM Jadhav",
+              "bowler": "Kuldeep Yadav",
+              "non_striker": "SS Mundhe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SS Mundhe",
+              "bowler": "Kuldeep Yadav",
+              "non_striker": "KM Jadhav",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SS Mundhe",
+              "bowler": "Kuldeep Yadav",
+              "non_striker": "KM Jadhav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KM Jadhav",
+              "bowler": "Kuldeep Yadav",
+              "non_striker": "SS Mundhe",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KM Jadhav",
+              "bowler": "Kuldeep Yadav",
+              "non_striker": "SS Mundhe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "KM Jadhav",
+              "bowler": "PP Chawla",
+              "non_striker": "SS Mundhe",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "KM Jadhav",
+              "bowler": "PP Chawla",
+              "non_striker": "SS Mundhe",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KM Jadhav",
+              "bowler": "PP Chawla",
+              "non_striker": "SS Mundhe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KM Jadhav",
+              "bowler": "PP Chawla",
+              "non_striker": "SS Mundhe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SS Mundhe",
+              "bowler": "PP Chawla",
+              "non_striker": "KM Jadhav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SS Mundhe",
+                  "fielders": [
+                    {
+                      "name": "Samarth Singh"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "RA Tripathi",
+              "bowler": "PP Chawla",
+              "non_striker": "KM Jadhav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "RA Tripathi",
+                  "kind": "caught and bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "KM Jadhav",
+              "bowler": "Amit Mishra",
+              "non_striker": "NS Naik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NS Naik",
+              "bowler": "Amit Mishra",
+              "non_striker": "KM Jadhav",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "NS Naik",
+              "bowler": "Amit Mishra",
+              "non_striker": "KM Jadhav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KM Jadhav",
+              "bowler": "Amit Mishra",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "NS Naik",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KM Jadhav",
+              "bowler": "Amit Mishra",
+              "non_striker": "NS Naik",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KM Jadhav",
+              "bowler": "Amit Mishra",
+              "non_striker": "NS Naik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NS Naik",
+              "bowler": "Amit Mishra",
+              "non_striker": "KM Jadhav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "NS Naik",
+              "bowler": "AD Nath",
+              "non_striker": "KM Jadhav",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "NS Naik",
+              "bowler": "AD Nath",
+              "non_striker": "KM Jadhav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KM Jadhav",
+              "bowler": "AD Nath",
+              "non_striker": "NS Naik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KM Jadhav",
+              "bowler": "AD Nath",
+              "non_striker": "NS Naik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NS Naik",
+              "bowler": "AD Nath",
+              "non_striker": "KM Jadhav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KM Jadhav",
+              "bowler": "AD Nath",
+              "non_striker": "NS Naik",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "NS Naik",
+              "bowler": "PP Chawla",
+              "non_striker": "KM Jadhav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "NS Naik",
+                  "fielders": [
+                    {
+                      "name": "Saurabh Dubey"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "KM Jadhav",
+              "bowler": "PP Chawla",
+              "non_striker": "PJ Bhati",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KM Jadhav",
+              "bowler": "PP Chawla",
+              "non_striker": "PJ Bhati",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PJ Bhati",
+              "bowler": "PP Chawla",
+              "non_striker": "KM Jadhav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PJ Bhati",
+              "bowler": "PP Chawla",
+              "non_striker": "KM Jadhav",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "PJ Bhati",
+              "bowler": "PP Chawla",
+              "non_striker": "KM Jadhav",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "KM Jadhav",
+              "bowler": "AS Rajpoot",
+              "non_striker": "PJ Bhati",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PJ Bhati",
+              "bowler": "AS Rajpoot",
+              "non_striker": "KM Jadhav",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "PJ Bhati",
+              "bowler": "AS Rajpoot",
+              "non_striker": "KM Jadhav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "PJ Bhati",
+                  "fielders": [
+                    {
+                      "name": "ER Dwivedi"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "SM Kazi",
+              "bowler": "AS Rajpoot",
+              "non_striker": "KM Jadhav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SM Kazi",
+              "bowler": "AS Rajpoot",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "KM Jadhav",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SM Kazi",
+              "bowler": "AS Rajpoot",
+              "non_striker": "KM Jadhav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KM Jadhav",
+              "bowler": "AS Rajpoot",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "SM Kazi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Uttar Pradesh",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Prashant Gupta",
+              "bowler": "SM Fallah",
+              "non_striker": "Samarth Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Samarth Singh",
+              "bowler": "SM Fallah",
+              "non_striker": "Prashant Gupta",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Samarth Singh",
+              "bowler": "SM Fallah",
+              "non_striker": "Prashant Gupta",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Prashant Gupta",
+              "bowler": "SM Fallah",
+              "non_striker": "Samarth Singh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Prashant Gupta",
+              "bowler": "SM Fallah",
+              "non_striker": "Samarth Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Prashant Gupta",
+              "bowler": "SM Fallah",
+              "non_striker": "Samarth Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Prashant Gupta",
+              "bowler": "DJ Muthuswami",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Samarth Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Samarth Singh",
+              "bowler": "DJ Muthuswami",
+              "non_striker": "Prashant Gupta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Samarth Singh",
+              "bowler": "DJ Muthuswami",
+              "non_striker": "Prashant Gupta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Samarth Singh",
+              "bowler": "DJ Muthuswami",
+              "non_striker": "Prashant Gupta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Samarth Singh",
+                  "kind": "caught and bowled"
+                }
+              ]
+            },
+            {
+              "batter": "ER Dwivedi",
+              "bowler": "DJ Muthuswami",
+              "non_striker": "Prashant Gupta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ER Dwivedi",
+              "bowler": "DJ Muthuswami",
+              "non_striker": "Prashant Gupta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Prashant Gupta",
+              "bowler": "SM Fallah",
+              "non_striker": "ER Dwivedi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Prashant Gupta",
+              "bowler": "SM Fallah",
+              "non_striker": "ER Dwivedi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Prashant Gupta",
+              "bowler": "SM Fallah",
+              "non_striker": "ER Dwivedi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Prashant Gupta",
+              "bowler": "SM Fallah",
+              "non_striker": "ER Dwivedi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Prashant Gupta",
+              "bowler": "SM Fallah",
+              "non_striker": "ER Dwivedi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ER Dwivedi",
+              "bowler": "SM Fallah",
+              "non_striker": "Prashant Gupta",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "ER Dwivedi",
+              "bowler": "DJ Muthuswami",
+              "non_striker": "Prashant Gupta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "ER Dwivedi",
+                  "fielders": [
+                    {
+                      "name": "AR Bawne"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "Prashant Gupta",
+              "bowler": "DJ Muthuswami",
+              "non_striker": "Umang Sharma",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Prashant Gupta",
+              "bowler": "DJ Muthuswami",
+              "non_striker": "Umang Sharma",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Prashant Gupta",
+              "bowler": "DJ Muthuswami",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Umang Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Umang Sharma",
+              "bowler": "DJ Muthuswami",
+              "non_striker": "Prashant Gupta",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Umang Sharma",
+              "bowler": "DJ Muthuswami",
+              "non_striker": "Prashant Gupta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Prashant Gupta",
+              "bowler": "RA Tripathi",
+              "non_striker": "Umang Sharma",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Prashant Gupta",
+              "bowler": "RA Tripathi",
+              "non_striker": "Umang Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Umang Sharma",
+              "bowler": "RA Tripathi",
+              "non_striker": "Prashant Gupta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Umang Sharma",
+              "bowler": "RA Tripathi",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Prashant Gupta",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Umang Sharma",
+              "bowler": "RA Tripathi",
+              "non_striker": "Prashant Gupta",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Prashant Gupta",
+              "bowler": "RA Tripathi",
+              "non_striker": "Umang Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Umang Sharma",
+              "bowler": "RA Tripathi",
+              "non_striker": "Prashant Gupta",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Umang Sharma",
+              "bowler": "SS Mundhe",
+              "non_striker": "Prashant Gupta",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Umang Sharma",
+              "bowler": "SS Mundhe",
+              "non_striker": "Prashant Gupta",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Prashant Gupta",
+              "bowler": "SS Mundhe",
+              "non_striker": "Umang Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Umang Sharma",
+              "bowler": "SS Mundhe",
+              "non_striker": "Prashant Gupta",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Prashant Gupta",
+              "bowler": "SS Mundhe",
+              "non_striker": "Umang Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Umang Sharma",
+              "bowler": "SS Mundhe",
+              "non_striker": "Prashant Gupta",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Prashant Gupta",
+              "bowler": "RA Tripathi",
+              "non_striker": "Umang Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Prashant Gupta",
+              "bowler": "RA Tripathi",
+              "non_striker": "Umang Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Prashant Gupta",
+              "bowler": "RA Tripathi",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Umang Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Umang Sharma",
+              "bowler": "RA Tripathi",
+              "non_striker": "Prashant Gupta",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Umang Sharma",
+              "bowler": "RA Tripathi",
+              "non_striker": "Prashant Gupta",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Prashant Gupta",
+              "bowler": "RA Tripathi",
+              "non_striker": "Umang Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Prashant Gupta",
+              "bowler": "SM Kazi",
+              "non_striker": "Umang Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Prashant Gupta",
+              "bowler": "SM Kazi",
+              "non_striker": "Umang Sharma",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Prashant Gupta",
+              "bowler": "SM Kazi",
+              "non_striker": "Umang Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Umang Sharma",
+              "bowler": "SM Kazi",
+              "non_striker": "Prashant Gupta",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Prashant Gupta",
+              "bowler": "SM Kazi",
+              "non_striker": "Umang Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Prashant Gupta",
+                  "kind": "caught and bowled"
+                }
+              ]
+            },
+            {
+              "batter": "AD Nath",
+              "bowler": "SM Kazi",
+              "non_striker": "Umang Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "AD Nath",
+              "bowler": "SS Mundhe",
+              "non_striker": "Umang Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AD Nath",
+              "bowler": "SS Mundhe",
+              "non_striker": "Umang Sharma",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AD Nath",
+              "bowler": "SS Mundhe",
+              "non_striker": "Umang Sharma",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AD Nath",
+              "bowler": "SS Mundhe",
+              "non_striker": "Umang Sharma",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AD Nath",
+              "bowler": "SS Mundhe",
+              "non_striker": "Umang Sharma",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AD Nath",
+              "bowler": "SS Mundhe",
+              "non_striker": "Umang Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "AD Nath",
+              "bowler": "SM Kazi",
+              "non_striker": "Umang Sharma",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AD Nath",
+              "bowler": "SM Kazi",
+              "non_striker": "Umang Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Umang Sharma",
+              "bowler": "SM Kazi",
+              "non_striker": "AD Nath",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AD Nath",
+              "bowler": "SM Kazi",
+              "non_striker": "Umang Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AD Nath",
+              "bowler": "SM Kazi",
+              "non_striker": "Umang Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Umang Sharma",
+              "bowler": "SM Kazi",
+              "non_striker": "AD Nath",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "AD Nath",
+              "bowler": "DJ Muthuswami",
+              "non_striker": "Umang Sharma",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AD Nath",
+              "bowler": "DJ Muthuswami",
+              "non_striker": "Umang Sharma",
+              "runs": {
+                "batter": 5,
+                "extras": 0,
+                "total": 5
+              }
+            },
+            {
+              "batter": "Umang Sharma",
+              "bowler": "DJ Muthuswami",
+              "non_striker": "AD Nath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Umang Sharma",
+              "bowler": "DJ Muthuswami",
+              "non_striker": "AD Nath",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AD Nath",
+              "bowler": "DJ Muthuswami",
+              "non_striker": "Umang Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Umang Sharma",
+              "bowler": "DJ Muthuswami",
+              "non_striker": "AD Nath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "AD Nath",
+              "bowler": "SM Fallah",
+              "non_striker": "Umang Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AD Nath",
+              "bowler": "SM Fallah",
+              "non_striker": "Umang Sharma",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    }
+  ]
+}

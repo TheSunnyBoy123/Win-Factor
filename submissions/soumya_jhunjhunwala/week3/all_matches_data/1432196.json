@@ -1,0 +1,3269 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2024-05-13",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Dreux",
+    "dates": [
+      "2024-05-10"
+    ],
+    "event": {
+      "name": "Mdina Cup",
+      "match_number": 3
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 2598,
+    "officials": {
+      "match_referees": [
+        "Asif Zahir"
+      ],
+      "reserve_umpires": [
+        "Waseem Dar"
+      ],
+      "umpires": [
+        "Atif Zahir",
+        "Niaz Chaudhry"
+      ]
+    },
+    "outcome": {
+      "result": "tie",
+      "eliminator": "France"
+    },
+    "overs": 20,
+    "player_of_match": [
+      "Zaheer Zahiri"
+    ],
+    "players": {
+      "Belgium": [
+        "Muhammad Muneeb",
+        "A Raza",
+        "F Khaliq",
+        "Sheraz Sheikh",
+        "D Dewald",
+        "Shaheryar Butt",
+        "Saber Zakhil",
+        "Waqas Ali",
+        "Khalid Ahmadi",
+        "Murid Ekrami",
+        "Sajad Ahmadzai"
+      ],
+      "France": [
+        "G Mckeon",
+        "H Niaz",
+        "C Roberts",
+        "L Canessane",
+        "HA Jackson",
+        "Usman Khan",
+        "Kamran Ahmadzai",
+        "Noman Amjad",
+        "Zaheer Zahiri",
+        "S Stanikzay",
+        "Dawood Ahmadzai"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Raza": "838bc6ab",
+        "Asif Zahir": "2f4f7785",
+        "Atif Zahir": "bdebac8a",
+        "C Roberts": "07ac9c54",
+        "D Dewald": "f97e4db3",
+        "Dawood Ahmadzai": "951686f5",
+        "F Khaliq": "c17dcc29",
+        "G Mckeon": "31366b7e",
+        "H Niaz": "d0e2e8ea",
+        "HA Jackson": "ee40679e",
+        "Kamran Ahmadzai": "afa2ebba",
+        "Khalid Ahmadi": "cf0b9a0d",
+        "L Canessane": "72a4c3b2",
+        "Muhammad Muneeb": "5338b9f5",
+        "Murid Ekrami": "76b19864",
+        "Niaz Chaudhry": "5abe5d27",
+        "Noman Amjad": "c079c66a",
+        "S Jamil": "3d6617c6",
+        "S Stanikzay": "c5445834",
+        "Saber Zakhil": "036dcf9b",
+        "Sajad Ahmadzai": "6978bff0",
+        "Shaheryar Butt": "b6bad765",
+        "Sheraz Sheikh": "4aad6842",
+        "Usman Khan": "e8a552ef",
+        "Waqas Ali": "2fd4669a",
+        "Waseem Dar": "1a335960",
+        "Zaheer Zahiri": "62f6d8ce"
+      }
+    },
+    "season": "2024",
+    "team_type": "international",
+    "teams": [
+      "Belgium",
+      "France"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "Belgium"
+    },
+    "venue": "Dreux Sport Cricket Club"
+  },
+  "innings": [
+    {
+      "team": "Belgium",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Muhammad Muneeb",
+              "bowler": "Zaheer Zahiri",
+              "non_striker": "A Raza",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Muhammad Muneeb",
+              "bowler": "Zaheer Zahiri",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Raza",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Muneeb",
+              "bowler": "Zaheer Zahiri",
+              "non_striker": "A Raza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Muneeb",
+              "bowler": "Zaheer Zahiri",
+              "non_striker": "A Raza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Raza",
+              "bowler": "Zaheer Zahiri",
+              "non_striker": "Muhammad Muneeb",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "A Raza",
+              "bowler": "Zaheer Zahiri",
+              "non_striker": "Muhammad Muneeb",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Raza",
+              "bowler": "Zaheer Zahiri",
+              "non_striker": "Muhammad Muneeb",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "A Raza",
+              "bowler": "Kamran Ahmadzai",
+              "non_striker": "Muhammad Muneeb",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Muhammad Muneeb",
+                  "fielders": [
+                    {
+                      "name": "Kamran Ahmadzai"
+                    },
+                    {
+                      "name": "Zaheer Zahiri"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "A Raza",
+              "bowler": "Kamran Ahmadzai",
+              "non_striker": "F Khaliq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Raza",
+              "bowler": "Kamran Ahmadzai",
+              "non_striker": "F Khaliq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Raza",
+              "bowler": "Kamran Ahmadzai",
+              "non_striker": "F Khaliq",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "A Raza",
+              "bowler": "Kamran Ahmadzai",
+              "non_striker": "F Khaliq",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "A Raza",
+              "bowler": "Kamran Ahmadzai",
+              "non_striker": "F Khaliq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "F Khaliq",
+              "bowler": "Zaheer Zahiri",
+              "non_striker": "A Raza",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "F Khaliq",
+              "bowler": "Zaheer Zahiri",
+              "non_striker": "A Raza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "F Khaliq",
+              "bowler": "Zaheer Zahiri",
+              "non_striker": "A Raza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "F Khaliq",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Sheraz Sheikh",
+              "bowler": "Zaheer Zahiri",
+              "non_striker": "A Raza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sheraz Sheikh",
+              "bowler": "Zaheer Zahiri",
+              "non_striker": "A Raza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sheraz Sheikh",
+              "bowler": "Zaheer Zahiri",
+              "non_striker": "A Raza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "A Raza",
+              "bowler": "Kamran Ahmadzai",
+              "non_striker": "Sheraz Sheikh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Raza",
+              "bowler": "Kamran Ahmadzai",
+              "non_striker": "Sheraz Sheikh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Raza",
+              "bowler": "Kamran Ahmadzai",
+              "non_striker": "Sheraz Sheikh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Raza",
+              "bowler": "Kamran Ahmadzai",
+              "non_striker": "Sheraz Sheikh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "A Raza",
+              "bowler": "Kamran Ahmadzai",
+              "non_striker": "Sheraz Sheikh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "A Raza",
+              "bowler": "Kamran Ahmadzai",
+              "non_striker": "Sheraz Sheikh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "A Raza",
+                  "fielders": [
+                    {
+                      "name": "HA Jackson"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Sheraz Sheikh",
+              "bowler": "Zaheer Zahiri",
+              "non_striker": "D Dewald",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sheraz Sheikh",
+              "bowler": "Zaheer Zahiri",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "D Dewald",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sheraz Sheikh",
+              "bowler": "Zaheer Zahiri",
+              "non_striker": "D Dewald",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sheraz Sheikh",
+              "bowler": "Zaheer Zahiri",
+              "non_striker": "D Dewald",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Sheraz Sheikh",
+              "bowler": "Zaheer Zahiri",
+              "non_striker": "D Dewald",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Dewald",
+              "bowler": "Zaheer Zahiri",
+              "non_striker": "Sheraz Sheikh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Dewald",
+              "bowler": "Zaheer Zahiri",
+              "non_striker": "Sheraz Sheikh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Sheraz Sheikh",
+              "bowler": "Kamran Ahmadzai",
+              "non_striker": "D Dewald",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Sheraz Sheikh",
+              "bowler": "Kamran Ahmadzai",
+              "non_striker": "D Dewald",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sheraz Sheikh",
+              "bowler": "Kamran Ahmadzai",
+              "non_striker": "D Dewald",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Sheraz Sheikh",
+              "bowler": "Kamran Ahmadzai",
+              "non_striker": "D Dewald",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sheraz Sheikh",
+              "bowler": "Kamran Ahmadzai",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "D Dewald",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sheraz Sheikh",
+              "bowler": "Kamran Ahmadzai",
+              "non_striker": "D Dewald",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sheraz Sheikh",
+              "bowler": "Kamran Ahmadzai",
+              "non_striker": "D Dewald",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "D Dewald",
+              "bowler": "Noman Amjad",
+              "non_striker": "Sheraz Sheikh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sheraz Sheikh",
+              "bowler": "Noman Amjad",
+              "non_striker": "D Dewald",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sheraz Sheikh",
+              "bowler": "Noman Amjad",
+              "non_striker": "D Dewald",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Dewald",
+              "bowler": "Noman Amjad",
+              "non_striker": "Sheraz Sheikh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Dewald",
+              "bowler": "Noman Amjad",
+              "non_striker": "Sheraz Sheikh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Dewald",
+              "bowler": "Noman Amjad",
+              "non_striker": "Sheraz Sheikh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "D Dewald",
+              "bowler": "S Stanikzay",
+              "non_striker": "Sheraz Sheikh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sheraz Sheikh",
+              "bowler": "S Stanikzay",
+              "non_striker": "D Dewald",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Dewald",
+              "bowler": "S Stanikzay",
+              "non_striker": "Sheraz Sheikh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sheraz Sheikh",
+              "bowler": "S Stanikzay",
+              "non_striker": "D Dewald",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sheraz Sheikh",
+              "bowler": "S Stanikzay",
+              "non_striker": "D Dewald",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Dewald",
+              "bowler": "S Stanikzay",
+              "non_striker": "Sheraz Sheikh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "Sheraz Sheikh",
+              "bowler": "Noman Amjad",
+              "non_striker": "D Dewald",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Dewald",
+              "bowler": "Noman Amjad",
+              "non_striker": "Sheraz Sheikh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sheraz Sheikh",
+              "bowler": "Noman Amjad",
+              "non_striker": "D Dewald",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sheraz Sheikh",
+              "bowler": "Noman Amjad",
+              "non_striker": "D Dewald",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sheraz Sheikh",
+              "bowler": "Noman Amjad",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "D Dewald",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Dewald",
+              "bowler": "Noman Amjad",
+              "non_striker": "Sheraz Sheikh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "Sheraz Sheikh",
+              "bowler": "S Stanikzay",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "D Dewald",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Dewald",
+              "bowler": "S Stanikzay",
+              "non_striker": "Sheraz Sheikh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sheraz Sheikh",
+              "bowler": "S Stanikzay",
+              "non_striker": "D Dewald",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sheraz Sheikh",
+              "bowler": "S Stanikzay",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "D Dewald",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sheraz Sheikh",
+              "bowler": "S Stanikzay",
+              "non_striker": "D Dewald",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Dewald",
+              "bowler": "S Stanikzay",
+              "non_striker": "Sheraz Sheikh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sheraz Sheikh",
+              "bowler": "S Stanikzay",
+              "non_striker": "D Dewald",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "D Dewald",
+              "bowler": "Dawood Ahmadzai",
+              "non_striker": "Sheraz Sheikh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sheraz Sheikh",
+              "bowler": "Dawood Ahmadzai",
+              "non_striker": "D Dewald",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Dewald",
+              "bowler": "Dawood Ahmadzai",
+              "non_striker": "Sheraz Sheikh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Dewald",
+              "bowler": "Dawood Ahmadzai",
+              "non_striker": "Sheraz Sheikh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sheraz Sheikh",
+              "bowler": "Dawood Ahmadzai",
+              "non_striker": "D Dewald",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Sheraz Sheikh",
+                  "fielders": [
+                    {
+                      "name": "Usman Khan"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Shaheryar Butt",
+              "bowler": "Dawood Ahmadzai",
+              "non_striker": "D Dewald",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "D Dewald",
+              "bowler": "S Stanikzay",
+              "non_striker": "Shaheryar Butt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Dewald",
+              "bowler": "S Stanikzay",
+              "non_striker": "Shaheryar Butt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shaheryar Butt",
+              "bowler": "S Stanikzay",
+              "non_striker": "D Dewald",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shaheryar Butt",
+              "bowler": "S Stanikzay",
+              "non_striker": "D Dewald",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shaheryar Butt",
+              "bowler": "S Stanikzay",
+              "non_striker": "D Dewald",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shaheryar Butt",
+              "bowler": "S Stanikzay",
+              "non_striker": "D Dewald",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Shaheryar Butt",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "D Dewald",
+              "bowler": "Dawood Ahmadzai",
+              "non_striker": "Saber Zakhil",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Saber Zakhil",
+              "bowler": "Dawood Ahmadzai",
+              "non_striker": "D Dewald",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Dewald",
+              "bowler": "Dawood Ahmadzai",
+              "non_striker": "Saber Zakhil",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Saber Zakhil",
+              "bowler": "Dawood Ahmadzai",
+              "non_striker": "D Dewald",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Saber Zakhil",
+              "bowler": "Dawood Ahmadzai",
+              "non_striker": "D Dewald",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Saber Zakhil",
+              "bowler": "Dawood Ahmadzai",
+              "non_striker": "D Dewald",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "D Dewald",
+              "bowler": "S Stanikzay",
+              "non_striker": "Saber Zakhil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Dewald",
+              "bowler": "S Stanikzay",
+              "non_striker": "Saber Zakhil",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Saber Zakhil",
+              "bowler": "S Stanikzay",
+              "non_striker": "D Dewald",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Dewald",
+              "bowler": "S Stanikzay",
+              "non_striker": "Saber Zakhil",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "D Dewald",
+              "bowler": "S Stanikzay",
+              "non_striker": "Saber Zakhil",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Saber Zakhil",
+              "bowler": "S Stanikzay",
+              "non_striker": "D Dewald",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "D Dewald",
+              "bowler": "Dawood Ahmadzai",
+              "non_striker": "Saber Zakhil",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Saber Zakhil",
+              "bowler": "Dawood Ahmadzai",
+              "non_striker": "D Dewald",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Saber Zakhil",
+              "bowler": "Dawood Ahmadzai",
+              "non_striker": "D Dewald",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Saber Zakhil",
+              "bowler": "Dawood Ahmadzai",
+              "non_striker": "D Dewald",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "D Dewald",
+                  "fielders": [
+                    {
+                      "name": "G Mckeon"
+                    },
+                    {
+                      "name": "HA Jackson"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "Waqas Ali",
+              "bowler": "Dawood Ahmadzai",
+              "non_striker": "Saber Zakhil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Waqas Ali",
+              "bowler": "Dawood Ahmadzai",
+              "non_striker": "Saber Zakhil",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "Waqas Ali",
+              "bowler": "Usman Khan",
+              "non_striker": "Saber Zakhil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Waqas Ali",
+              "bowler": "Usman Khan",
+              "non_striker": "Saber Zakhil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Waqas Ali",
+              "bowler": "Usman Khan",
+              "non_striker": "Saber Zakhil",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Saber Zakhil",
+              "bowler": "Usman Khan",
+              "non_striker": "Waqas Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Saber Zakhil",
+              "bowler": "Usman Khan",
+              "non_striker": "Waqas Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Waqas Ali",
+              "bowler": "Usman Khan",
+              "non_striker": "Saber Zakhil",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "Saber Zakhil",
+              "bowler": "Zaheer Zahiri",
+              "non_striker": "Waqas Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Saber Zakhil",
+                  "fielders": [
+                    {
+                      "name": "C Roberts"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Khalid Ahmadi",
+              "bowler": "Zaheer Zahiri",
+              "non_striker": "Waqas Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Waqas Ali",
+              "bowler": "Zaheer Zahiri",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Khalid Ahmadi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Waqas Ali",
+              "bowler": "Zaheer Zahiri",
+              "non_striker": "Khalid Ahmadi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Waqas Ali",
+              "bowler": "Zaheer Zahiri",
+              "non_striker": "Khalid Ahmadi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Waqas Ali",
+              "bowler": "Zaheer Zahiri",
+              "non_striker": "Khalid Ahmadi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Waqas Ali",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Murid Ekrami",
+              "bowler": "Zaheer Zahiri",
+              "non_striker": "Khalid Ahmadi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "Murid Ekrami",
+              "bowler": "Usman Khan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Khalid Ahmadi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Murid Ekrami",
+              "bowler": "Usman Khan",
+              "non_striker": "Khalid Ahmadi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Murid Ekrami",
+              "bowler": "Usman Khan",
+              "non_striker": "Khalid Ahmadi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Khalid Ahmadi",
+              "bowler": "Usman Khan",
+              "non_striker": "Murid Ekrami",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Khalid Ahmadi",
+              "bowler": "Usman Khan",
+              "non_striker": "Murid Ekrami",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Khalid Ahmadi",
+              "bowler": "Usman Khan",
+              "non_striker": "Murid Ekrami",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Khalid Ahmadi",
+              "bowler": "Usman Khan",
+              "non_striker": "Murid Ekrami",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "Khalid Ahmadi",
+              "bowler": "Noman Amjad",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Murid Ekrami",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Khalid Ahmadi",
+              "bowler": "Noman Amjad",
+              "non_striker": "Murid Ekrami",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Khalid Ahmadi",
+              "bowler": "Noman Amjad",
+              "non_striker": "Murid Ekrami",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Khalid Ahmadi",
+              "bowler": "Noman Amjad",
+              "extras": {
+                "byes": 2
+              },
+              "non_striker": "Murid Ekrami",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Khalid Ahmadi",
+              "bowler": "Noman Amjad",
+              "non_striker": "Murid Ekrami",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Khalid Ahmadi",
+              "bowler": "Noman Amjad",
+              "non_striker": "Murid Ekrami",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Khalid Ahmadi",
+              "bowler": "Noman Amjad",
+              "non_striker": "Murid Ekrami",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "Murid Ekrami",
+              "bowler": "Kamran Ahmadzai",
+              "non_striker": "Khalid Ahmadi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Murid Ekrami",
+              "bowler": "Kamran Ahmadzai",
+              "non_striker": "Khalid Ahmadi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Khalid Ahmadi",
+              "bowler": "Kamran Ahmadzai",
+              "non_striker": "Murid Ekrami",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Khalid Ahmadi",
+              "bowler": "Kamran Ahmadzai",
+              "non_striker": "Murid Ekrami",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Khalid Ahmadi",
+              "bowler": "Kamran Ahmadzai",
+              "non_striker": "Murid Ekrami",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "Murid Ekrami",
+              "bowler": "Kamran Ahmadzai",
+              "non_striker": "Khalid Ahmadi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.7,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "France",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "G Mckeon",
+              "bowler": "Murid Ekrami",
+              "non_striker": "H Niaz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Niaz",
+              "bowler": "Murid Ekrami",
+              "non_striker": "G Mckeon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Niaz",
+              "bowler": "Murid Ekrami",
+              "non_striker": "G Mckeon",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "H Niaz",
+              "bowler": "Murid Ekrami",
+              "non_striker": "G Mckeon",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "H Niaz",
+              "bowler": "Murid Ekrami",
+              "non_striker": "G Mckeon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Niaz",
+              "bowler": "Murid Ekrami",
+              "non_striker": "G Mckeon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "G Mckeon",
+              "bowler": "Sajad Ahmadzai",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "H Niaz",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Mckeon",
+              "bowler": "Sajad Ahmadzai",
+              "non_striker": "H Niaz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Niaz",
+              "bowler": "Sajad Ahmadzai",
+              "non_striker": "G Mckeon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "H Niaz",
+                  "fielders": [
+                    {
+                      "name": "F Khaliq"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "C Roberts",
+              "bowler": "Sajad Ahmadzai",
+              "non_striker": "G Mckeon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Roberts",
+              "bowler": "Sajad Ahmadzai",
+              "non_striker": "G Mckeon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Roberts",
+              "bowler": "Sajad Ahmadzai",
+              "non_striker": "G Mckeon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Roberts",
+              "bowler": "Sajad Ahmadzai",
+              "non_striker": "G Mckeon",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "C Roberts",
+              "bowler": "Khalid Ahmadi",
+              "non_striker": "G Mckeon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Roberts",
+              "bowler": "Khalid Ahmadi",
+              "non_striker": "G Mckeon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "C Roberts",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "L Canessane",
+              "bowler": "Khalid Ahmadi",
+              "non_striker": "G Mckeon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Canessane",
+              "bowler": "Khalid Ahmadi",
+              "non_striker": "G Mckeon",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "L Canessane",
+              "bowler": "Khalid Ahmadi",
+              "non_striker": "G Mckeon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Canessane",
+              "bowler": "Khalid Ahmadi",
+              "non_striker": "G Mckeon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "G Mckeon",
+              "bowler": "Sajad Ahmadzai",
+              "non_striker": "L Canessane",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Canessane",
+              "bowler": "Sajad Ahmadzai",
+              "non_striker": "G Mckeon",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Mckeon",
+              "bowler": "Sajad Ahmadzai",
+              "non_striker": "L Canessane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Mckeon",
+              "bowler": "Sajad Ahmadzai",
+              "non_striker": "L Canessane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Mckeon",
+              "bowler": "Sajad Ahmadzai",
+              "non_striker": "L Canessane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Mckeon",
+              "bowler": "Sajad Ahmadzai",
+              "non_striker": "L Canessane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "L Canessane",
+              "bowler": "Khalid Ahmadi",
+              "non_striker": "G Mckeon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Canessane",
+              "bowler": "Khalid Ahmadi",
+              "non_striker": "G Mckeon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Canessane",
+              "bowler": "Khalid Ahmadi",
+              "non_striker": "G Mckeon",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "L Canessane",
+              "bowler": "Khalid Ahmadi",
+              "non_striker": "G Mckeon",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "L Canessane",
+              "bowler": "Khalid Ahmadi",
+              "non_striker": "G Mckeon",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "L Canessane",
+              "bowler": "Khalid Ahmadi",
+              "non_striker": "G Mckeon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "G Mckeon",
+              "bowler": "Sajad Ahmadzai",
+              "non_striker": "L Canessane",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "G Mckeon",
+              "bowler": "Sajad Ahmadzai",
+              "non_striker": "L Canessane",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Canessane",
+              "bowler": "Sajad Ahmadzai",
+              "non_striker": "G Mckeon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Canessane",
+              "bowler": "Sajad Ahmadzai",
+              "non_striker": "G Mckeon",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "L Canessane",
+              "bowler": "Sajad Ahmadzai",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "G Mckeon",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Canessane",
+              "bowler": "Sajad Ahmadzai",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "G Mckeon",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Mckeon",
+              "bowler": "Sajad Ahmadzai",
+              "non_striker": "L Canessane",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "L Canessane",
+              "bowler": "F Khaliq",
+              "non_striker": "G Mckeon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Canessane",
+              "bowler": "F Khaliq",
+              "non_striker": "G Mckeon",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Mckeon",
+              "bowler": "F Khaliq",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "L Canessane",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Canessane",
+              "bowler": "F Khaliq",
+              "non_striker": "G Mckeon",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "L Canessane",
+              "bowler": "F Khaliq",
+              "non_striker": "G Mckeon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "L Canessane",
+                  "fielders": [
+                    {
+                      "name": "A Raza"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "HA Jackson",
+              "bowler": "F Khaliq",
+              "non_striker": "G Mckeon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "G Mckeon",
+              "bowler": "D Dewald",
+              "non_striker": "HA Jackson",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "G Mckeon",
+              "bowler": "D Dewald",
+              "non_striker": "HA Jackson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HA Jackson",
+              "bowler": "D Dewald",
+              "non_striker": "G Mckeon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HA Jackson",
+              "bowler": "D Dewald",
+              "non_striker": "G Mckeon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HA Jackson",
+              "bowler": "D Dewald",
+              "non_striker": "G Mckeon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HA Jackson",
+              "bowler": "D Dewald",
+              "non_striker": "G Mckeon",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "G Mckeon",
+              "bowler": "F Khaliq",
+              "non_striker": "HA Jackson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HA Jackson",
+              "bowler": "F Khaliq",
+              "non_striker": "G Mckeon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HA Jackson",
+              "bowler": "F Khaliq",
+              "non_striker": "G Mckeon",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Mckeon",
+              "bowler": "F Khaliq",
+              "non_striker": "HA Jackson",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "G Mckeon",
+              "bowler": "F Khaliq",
+              "non_striker": "HA Jackson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HA Jackson",
+              "bowler": "F Khaliq",
+              "non_striker": "G Mckeon",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "HA Jackson",
+              "bowler": "D Dewald",
+              "non_striker": "G Mckeon",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Mckeon",
+              "bowler": "D Dewald",
+              "non_striker": "HA Jackson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "G Mckeon",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Usman Khan",
+              "bowler": "D Dewald",
+              "non_striker": "HA Jackson",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Usman Khan",
+              "bowler": "D Dewald",
+              "non_striker": "HA Jackson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Usman Khan",
+              "bowler": "D Dewald",
+              "non_striker": "HA Jackson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HA Jackson",
+              "bowler": "D Dewald",
+              "non_striker": "Usman Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "Usman Khan",
+              "bowler": "Murid Ekrami",
+              "non_striker": "HA Jackson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HA Jackson",
+              "bowler": "Murid Ekrami",
+              "non_striker": "Usman Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HA Jackson",
+              "bowler": "Murid Ekrami",
+              "non_striker": "Usman Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HA Jackson",
+              "bowler": "Murid Ekrami",
+              "non_striker": "Usman Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HA Jackson",
+              "bowler": "Murid Ekrami",
+              "non_striker": "Usman Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Usman Khan",
+              "bowler": "Murid Ekrami",
+              "non_striker": "HA Jackson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "Usman Khan",
+              "bowler": "D Dewald",
+              "non_striker": "HA Jackson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Usman Khan",
+              "bowler": "D Dewald",
+              "non_striker": "HA Jackson",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Usman Khan",
+              "bowler": "D Dewald",
+              "non_striker": "HA Jackson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Usman Khan",
+              "bowler": "D Dewald",
+              "non_striker": "HA Jackson",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Usman Khan",
+              "bowler": "D Dewald",
+              "non_striker": "HA Jackson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HA Jackson",
+              "bowler": "D Dewald",
+              "non_striker": "Usman Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "HA Jackson",
+              "bowler": "Murid Ekrami",
+              "non_striker": "Usman Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "HA Jackson",
+                  "kind": "caught and bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Kamran Ahmadzai",
+              "bowler": "Murid Ekrami",
+              "non_striker": "Usman Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Usman Khan",
+              "bowler": "Murid Ekrami",
+              "non_striker": "Kamran Ahmadzai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Kamran Ahmadzai",
+              "bowler": "Murid Ekrami",
+              "non_striker": "Usman Khan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Kamran Ahmadzai",
+              "bowler": "Murid Ekrami",
+              "non_striker": "Usman Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Kamran Ahmadzai",
+              "bowler": "Murid Ekrami",
+              "non_striker": "Usman Khan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "Usman Khan",
+              "bowler": "D Dewald",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "Kamran Ahmadzai",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Kamran Ahmadzai",
+              "bowler": "D Dewald",
+              "non_striker": "Usman Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Kamran Ahmadzai",
+                  "fielders": [
+                    {
+                      "name": "Khalid Ahmadi"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Noman Amjad",
+              "bowler": "D Dewald",
+              "non_striker": "Usman Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Usman Khan",
+              "bowler": "D Dewald",
+              "non_striker": "Noman Amjad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Usman Khan",
+              "bowler": "D Dewald",
+              "non_striker": "Noman Amjad",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Usman Khan",
+              "bowler": "D Dewald",
+              "non_striker": "Noman Amjad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Usman Khan",
+              "bowler": "D Dewald",
+              "non_striker": "Noman Amjad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "Noman Amjad",
+              "bowler": "Khalid Ahmadi",
+              "non_striker": "Usman Khan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Noman Amjad",
+              "bowler": "Khalid Ahmadi",
+              "non_striker": "Usman Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Noman Amjad",
+              "bowler": "Khalid Ahmadi",
+              "non_striker": "Usman Khan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Noman Amjad",
+              "bowler": "Khalid Ahmadi",
+              "non_striker": "Usman Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Noman Amjad",
+              "bowler": "Khalid Ahmadi",
+              "non_striker": "Usman Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Usman Khan",
+              "bowler": "Khalid Ahmadi",
+              "non_striker": "Noman Amjad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "Noman Amjad",
+              "bowler": "Waqas Ali",
+              "non_striker": "Usman Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Noman Amjad",
+              "bowler": "Waqas Ali",
+              "non_striker": "Usman Khan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Noman Amjad",
+              "bowler": "Waqas Ali",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Usman Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Usman Khan",
+              "bowler": "Waqas Ali",
+              "non_striker": "Noman Amjad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Noman Amjad",
+              "bowler": "Waqas Ali",
+              "non_striker": "Usman Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Noman Amjad",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Zaheer Zahiri",
+              "bowler": "Waqas Ali",
+              "non_striker": "Usman Khan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "Usman Khan",
+              "bowler": "Khalid Ahmadi",
+              "non_striker": "Zaheer Zahiri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Usman Khan",
+              "bowler": "Khalid Ahmadi",
+              "non_striker": "Zaheer Zahiri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Usman Khan",
+              "bowler": "Khalid Ahmadi",
+              "non_striker": "Zaheer Zahiri",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Usman Khan",
+              "bowler": "Khalid Ahmadi",
+              "non_striker": "Zaheer Zahiri",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zaheer Zahiri",
+              "bowler": "Khalid Ahmadi",
+              "non_striker": "Usman Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zaheer Zahiri",
+              "bowler": "Khalid Ahmadi",
+              "non_striker": "Usman Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "Usman Khan",
+              "bowler": "Waqas Ali",
+              "non_striker": "Zaheer Zahiri",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Usman Khan",
+              "bowler": "Waqas Ali",
+              "non_striker": "Zaheer Zahiri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Usman Khan",
+              "bowler": "Waqas Ali",
+              "non_striker": "Zaheer Zahiri",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Usman Khan",
+              "bowler": "Waqas Ali",
+              "non_striker": "Zaheer Zahiri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Usman Khan",
+                  "fielders": [
+                    {
+                      "name": "F Khaliq"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "S Stanikzay",
+              "bowler": "Waqas Ali",
+              "non_striker": "Zaheer Zahiri",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zaheer Zahiri",
+              "bowler": "Waqas Ali",
+              "non_striker": "S Stanikzay",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "Zaheer Zahiri",
+              "bowler": "F Khaliq",
+              "non_striker": "S Stanikzay",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Stanikzay",
+              "bowler": "F Khaliq",
+              "non_striker": "Zaheer Zahiri",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "player_out": "S Stanikzay",
+                  "fielders": [
+                    {
+                      "name": "S Jamil",
+                      "substitute": true
+                    },
+                    {
+                      "name": "F Khaliq"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "Zaheer Zahiri",
+              "bowler": "F Khaliq",
+              "non_striker": "Dawood Ahmadzai",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Zaheer Zahiri",
+              "bowler": "F Khaliq",
+              "non_striker": "Dawood Ahmadzai",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Zaheer Zahiri",
+              "bowler": "F Khaliq",
+              "non_striker": "Dawood Ahmadzai",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Zaheer Zahiri",
+              "bowler": "F Khaliq",
+              "non_striker": "Dawood Ahmadzai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "Zaheer Zahiri",
+              "bowler": "Waqas Ali",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "Dawood Ahmadzai",
+              "runs": {
+                "batter": 1,
+                "extras": 1,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Dawood Ahmadzai",
+              "bowler": "Waqas Ali",
+              "non_striker": "Zaheer Zahiri",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Dawood Ahmadzai",
+              "bowler": "Waqas Ali",
+              "non_striker": "Zaheer Zahiri",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Dawood Ahmadzai",
+              "bowler": "Waqas Ali",
+              "non_striker": "Zaheer Zahiri",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zaheer Zahiri",
+              "bowler": "Waqas Ali",
+              "non_striker": "Dawood Ahmadzai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Zaheer Zahiri",
+                  "fielders": [
+                    {
+                      "name": "Waqas Ali"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.7,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 143
+      }
+    },
+    {
+      "team": "France",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "G Mckeon",
+              "bowler": "Khalid Ahmadi",
+              "non_striker": "Kamran Ahmadzai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Kamran Ahmadzai",
+              "bowler": "Khalid Ahmadi",
+              "non_striker": "G Mckeon",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Kamran Ahmadzai",
+              "bowler": "Khalid Ahmadi",
+              "extras": {
+                "legbyes": 3
+              },
+              "non_striker": "G Mckeon",
+              "runs": {
+                "batter": 0,
+                "extras": 3,
+                "total": 3
+              }
+            },
+            {
+              "batter": "G Mckeon",
+              "bowler": "Khalid Ahmadi",
+              "non_striker": "Kamran Ahmadzai",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "G Mckeon",
+              "bowler": "Khalid Ahmadi",
+              "non_striker": "Kamran Ahmadzai",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "G Mckeon",
+              "bowler": "Khalid Ahmadi",
+              "non_striker": "Kamran Ahmadzai",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        }
+      ],
+      "super_over": true
+    },
+    {
+      "team": "Belgium",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Saber Zakhil",
+              "bowler": "Usman Khan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Raza",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Saber Zakhil",
+              "bowler": "Usman Khan",
+              "non_striker": "A Raza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Saber Zakhil",
+                  "fielders": [
+                    {
+                      "name": "G Mckeon"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Shaheryar Butt",
+              "bowler": "Usman Khan",
+              "non_striker": "A Raza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Raza",
+              "bowler": "Usman Khan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Shaheryar Butt",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Raza",
+              "bowler": "Usman Khan",
+              "non_striker": "Shaheryar Butt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shaheryar Butt",
+              "bowler": "Usman Khan",
+              "non_striker": "A Raza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Raza",
+              "bowler": "Usman Khan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Shaheryar Butt",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Raza",
+              "bowler": "Usman Khan",
+              "non_striker": "Shaheryar Butt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Raza",
+              "bowler": "Usman Khan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Shaheryar Butt",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Raza",
+              "bowler": "Usman Khan",
+              "non_striker": "Shaheryar Butt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "A Raza",
+                  "kind": "hit wicket"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "super_over": true
+    }
+  ]
+}

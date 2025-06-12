@@ -1,0 +1,158 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2023-12-28",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Christchurch",
+    "dates": [
+      "2023-12-26"
+    ],
+    "event": {
+      "name": "Super Smash",
+      "match_number": 5
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "officials": {
+      "match_referees": [
+        "TL Anderson"
+      ],
+      "reserve_umpires": [
+        "A Askari"
+      ],
+      "tv_umpires": [
+        "DJ Walker"
+      ],
+      "umpires": [
+        "C Black",
+        "KS Jagannathan"
+      ]
+    },
+    "outcome": {
+      "result": "no result"
+    },
+    "overs": 20,
+    "players": {
+      "Canterbury": [
+        "CJ Bowes",
+        "HM Nicholls",
+        "LJ Carter",
+        "CE McConchie",
+        "MJ Hay",
+        "MJG Rippon",
+        "BJ Jacobs",
+        "ZGF Foulkes",
+        "AW McKenzie",
+        "W O'Rourke",
+        "MD Rae"
+      ],
+      "Otago": [
+        "HD Rutherford",
+        "JM Gibson",
+        "D Foxcroft",
+        "DN Phillips",
+        "MW Chu",
+        "LC Johnson",
+        "OJ White",
+        "BNJ Lockrose",
+        "ATE Hazeldine",
+        "MB Bacon",
+        "T Muller"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Askari": "72448ed4",
+        "ATE Hazeldine": "33ad0ad9",
+        "AW McKenzie": "b53136ce",
+        "BJ Jacobs": "972f217b",
+        "BNJ Lockrose": "aa8914ad",
+        "C Black": "75b42f71",
+        "CE McConchie": "d285acaf",
+        "CJ Bowes": "45df0e72",
+        "D Foxcroft": "ed6894af",
+        "DJ Walker": "d4aea8ac",
+        "DN Phillips": "be0c9f5b",
+        "HD Rutherford": "0605de92",
+        "HM Nicholls": "03521fd3",
+        "JM Gibson": "e3aa97a2",
+        "KS Jagannathan": "9bc8dcec",
+        "LC Johnson": "a573ad7a",
+        "LJ Carter": "dfb51f40",
+        "MB Bacon": "90701232",
+        "MD Rae": "1c06d60a",
+        "MJ Hay": "732f711b",
+        "MJG Rippon": "b03db6fa",
+        "MW Chu": "ef9f75f8",
+        "OJ White": "a2e63eab",
+        "T Muller": "ebb1f8e8",
+        "TL Anderson": "f52ddf8d",
+        "W O'Rourke": "cb9b8664",
+        "ZGF Foulkes": "30f92334"
+      }
+    },
+    "season": "2023/24",
+    "team_type": "club",
+    "teams": [
+      "Canterbury",
+      "Otago"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Otago"
+    },
+    "venue": "Hagley Oval, Christchurch"
+  },
+  "innings": [
+    {
+      "team": "Canterbury",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "CJ Bowes",
+              "bowler": "MB Bacon",
+              "non_striker": "HM Nicholls",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CJ Bowes",
+              "bowler": "MB Bacon",
+              "non_striker": "HM Nicholls",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HM Nicholls",
+              "bowler": "MB Bacon",
+              "non_striker": "CJ Bowes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 0.3,
+          "type": "mandatory"
+        }
+      ]
+    }
+  ]
+}

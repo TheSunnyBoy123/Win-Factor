@@ -1,0 +1,2878 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2023-01-29",
+    "revision": 2
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Melbourne",
+    "dates": [
+      "2023-01-29"
+    ],
+    "event": {
+      "name": "Big Bash League",
+      "stage": "Knockout"
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "officials": {
+      "match_referees": [
+        "David Johnston"
+      ],
+      "reserve_umpires": [
+        "BC Treloar"
+      ],
+      "tv_umpires": [
+        "GA Abood"
+      ],
+      "umpires": [
+        "BNJ Oxenford",
+        "PJ Gillespie"
+      ]
+    },
+    "outcome": {
+      "winner": "Brisbane Heat",
+      "by": {
+        "wickets": 7
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "XC Bartlett"
+    ],
+    "players": {
+      "Melbourne Renegades": [
+        "SE Marsh",
+        "MJ Guptill",
+        "SB Harper",
+        "AJ Finch",
+        "MJJ Critchley",
+        "W Sutherland",
+        "JW Wells",
+        "TS Rogers",
+        "CJ Rocchiccioli",
+        "DJM Moody",
+        "Fawad Ahmed"
+      ],
+      "Brisbane Heat": [
+        "UT Khawaja",
+        "J Brown",
+        "M Labuschagne",
+        "MT Renshaw",
+        "SR Hain",
+        "JJ Peirson",
+        "MG Neser",
+        "JJ Bazley",
+        "XC Bartlett",
+        "SH Johnson",
+        "MP Kuhnemann"
+      ]
+    },
+    "registry": {
+      "people": {
+        "AJ Finch": "b8d490fd",
+        "BC Treloar": "f7e8ee52",
+        "BNJ Oxenford": "c1add349",
+        "CJ Rocchiccioli": "aa3c7a7a",
+        "DJM Moody": "e1a867df",
+        "David Johnston": "92cef862",
+        "Fawad Ahmed": "22ae3041",
+        "GA Abood": "a4af5528",
+        "J Brown": "647e7d44",
+        "JJ Bazley": "003d49e6",
+        "JJ Peirson": "2b55c3b4",
+        "JW Wells": "8bdac857",
+        "M Labuschagne": "fa433be6",
+        "MG Neser": "0164b064",
+        "MJ Guptill": "2be41edb",
+        "MJJ Critchley": "c5cc48bc",
+        "MP Kuhnemann": "7b953689",
+        "MT Renshaw": "218d4d78",
+        "PJ Gillespie": "3e253a50",
+        "SB Harper": "a756e61a",
+        "SE Marsh": "508a1ea7",
+        "SH Johnson": "83c3e8e3",
+        "SR Hain": "67b9536c",
+        "TS Rogers": "1b04e02b",
+        "UT Khawaja": "331ea488",
+        "W Sutherland": "bc2d4f2e",
+        "XC Bartlett": "3b53243a"
+      }
+    },
+    "season": "2022/23",
+    "team_type": "club",
+    "teams": [
+      "Melbourne Renegades",
+      "Brisbane Heat"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Brisbane Heat"
+    },
+    "venue": "Docklands Stadium, Melbourne"
+  },
+  "innings": [
+    {
+      "team": "Melbourne Renegades",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "SE Marsh",
+              "bowler": "MG Neser",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SE Marsh",
+              "bowler": "MG Neser",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "MG Neser",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SE Marsh",
+              "bowler": "MG Neser",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SE Marsh",
+              "bowler": "MG Neser",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SE Marsh",
+              "bowler": "MG Neser",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "SE Marsh",
+              "bowler": "XC Bartlett",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SE Marsh",
+              "bowler": "XC Bartlett",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SE Marsh",
+              "bowler": "XC Bartlett",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "XC Bartlett",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MJ Guptill",
+                  "fielders": [
+                    {
+                      "name": "MT Renshaw"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "SB Harper",
+              "bowler": "XC Bartlett",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SE Marsh",
+              "bowler": "XC Bartlett",
+              "non_striker": "SB Harper",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "SB Harper",
+              "bowler": "MG Neser",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SB Harper",
+              "bowler": "MG Neser",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SB Harper",
+              "bowler": "MG Neser",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SB Harper",
+              "bowler": "MG Neser",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SB Harper",
+              "bowler": "MG Neser",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SB Harper",
+              "bowler": "MG Neser",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "SE Marsh",
+              "bowler": "SH Johnson",
+              "non_striker": "SB Harper",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SE Marsh",
+              "bowler": "SH Johnson",
+              "non_striker": "SB Harper",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SE Marsh",
+              "bowler": "SH Johnson",
+              "non_striker": "SB Harper",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SE Marsh",
+              "bowler": "SH Johnson",
+              "non_striker": "SB Harper",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SE Marsh",
+              "bowler": "SH Johnson",
+              "non_striker": "SB Harper",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SE Marsh",
+              "bowler": "SH Johnson",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "SB Harper",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SE Marsh",
+              "bowler": "SH Johnson",
+              "non_striker": "SB Harper",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "SB Harper",
+              "bowler": "JJ Bazley",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SB Harper",
+              "bowler": "JJ Bazley",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SE Marsh",
+              "bowler": "JJ Bazley",
+              "non_striker": "SB Harper",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SB Harper",
+              "bowler": "JJ Bazley",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "SB Harper",
+              "bowler": "JJ Bazley",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SB Harper",
+              "bowler": "JJ Bazley",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "SE Marsh",
+              "bowler": "MP Kuhnemann",
+              "non_striker": "SB Harper",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SB Harper",
+              "bowler": "MP Kuhnemann",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SE Marsh",
+              "bowler": "MP Kuhnemann",
+              "non_striker": "SB Harper",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "SE Marsh",
+              "bowler": "MP Kuhnemann",
+              "non_striker": "SB Harper",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SB Harper",
+              "bowler": "MP Kuhnemann",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SE Marsh",
+              "bowler": "MP Kuhnemann",
+              "non_striker": "SB Harper",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "SB Harper",
+              "bowler": "XC Bartlett",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SE Marsh",
+              "bowler": "XC Bartlett",
+              "non_striker": "SB Harper",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SE Marsh",
+              "bowler": "XC Bartlett",
+              "non_striker": "SB Harper",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SB Harper",
+              "bowler": "XC Bartlett",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SB Harper",
+              "bowler": "XC Bartlett",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SE Marsh",
+              "bowler": "XC Bartlett",
+              "non_striker": "SB Harper",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "SE Marsh",
+              "bowler": "SH Johnson",
+              "non_striker": "SB Harper",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SB Harper",
+              "bowler": "SH Johnson",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SB Harper",
+              "bowler": "SH Johnson",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SB Harper",
+              "bowler": "SH Johnson",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SE Marsh",
+              "bowler": "SH Johnson",
+              "non_striker": "SB Harper",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SE Marsh",
+              "bowler": "SH Johnson",
+              "non_striker": "SB Harper",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "SE Marsh",
+              "bowler": "XC Bartlett",
+              "non_striker": "SB Harper",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SB Harper",
+              "bowler": "XC Bartlett",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SB Harper",
+                  "fielders": [
+                    {
+                      "name": "J Brown"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "XC Bartlett",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "XC Bartlett",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "XC Bartlett",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "XC Bartlett",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "SE Marsh",
+              "bowler": "MP Kuhnemann",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "MP Kuhnemann",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "MP Kuhnemann",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "MP Kuhnemann",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "MP Kuhnemann",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SE Marsh",
+              "bowler": "MP Kuhnemann",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "SE Marsh",
+              "bowler": "JJ Bazley",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "JJ Bazley",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "JJ Bazley",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "JJ Bazley",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SE Marsh",
+              "bowler": "JJ Bazley",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SE Marsh",
+              "bowler": "JJ Bazley",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "SE Marsh",
+              "bowler": "MG Neser",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "MG Neser",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "AJ Finch",
+                  "fielders": [
+                    {
+                      "name": "UT Khawaja"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "MJJ Critchley",
+              "bowler": "MG Neser",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MJJ Critchley",
+              "bowler": "MG Neser",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SE Marsh",
+              "bowler": "MG Neser",
+              "non_striker": "MJJ Critchley",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SE Marsh",
+              "bowler": "MG Neser",
+              "non_striker": "MJJ Critchley",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "MJJ Critchley",
+              "bowler": "SH Johnson",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MJJ Critchley",
+              "bowler": "SH Johnson",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MJJ Critchley",
+              "bowler": "SH Johnson",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MJJ Critchley",
+              "bowler": "SH Johnson",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MJJ Critchley",
+              "bowler": "SH Johnson",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MJJ Critchley",
+              "bowler": "SH Johnson",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "MJJ Critchley",
+              "bowler": "MP Kuhnemann",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SE Marsh",
+              "bowler": "MP Kuhnemann",
+              "non_striker": "MJJ Critchley",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SE Marsh",
+              "bowler": "MP Kuhnemann",
+              "non_striker": "MJJ Critchley",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MJJ Critchley",
+              "bowler": "MP Kuhnemann",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SE Marsh",
+              "bowler": "MP Kuhnemann",
+              "non_striker": "MJJ Critchley",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MJJ Critchley",
+              "bowler": "MP Kuhnemann",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "MJJ Critchley",
+              "bowler": "JJ Bazley",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "MJJ Critchley",
+              "bowler": "JJ Bazley",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "MJJ Critchley",
+              "bowler": "JJ Bazley",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MJJ Critchley",
+              "bowler": "JJ Bazley",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SE Marsh",
+              "bowler": "JJ Bazley",
+              "non_striker": "MJJ Critchley",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MJJ Critchley",
+              "bowler": "JJ Bazley",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "SE Marsh",
+              "bowler": "XC Bartlett",
+              "non_striker": "MJJ Critchley",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MJJ Critchley",
+              "bowler": "XC Bartlett",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MJJ Critchley",
+              "bowler": "XC Bartlett",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MJJ Critchley",
+                  "fielders": [
+                    {
+                      "name": "UT Khawaja"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "W Sutherland",
+              "bowler": "XC Bartlett",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SE Marsh",
+              "bowler": "XC Bartlett",
+              "non_striker": "W Sutherland",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "W Sutherland",
+              "bowler": "XC Bartlett",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "W Sutherland",
+              "bowler": "MT Renshaw",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SE Marsh",
+              "bowler": "MT Renshaw",
+              "non_striker": "W Sutherland",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "W Sutherland",
+              "bowler": "MT Renshaw",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "W Sutherland",
+              "bowler": "MT Renshaw",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "W Sutherland",
+              "bowler": "MT Renshaw",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SE Marsh",
+              "bowler": "MT Renshaw",
+              "non_striker": "W Sutherland",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SE Marsh",
+              "bowler": "MT Renshaw",
+              "non_striker": "W Sutherland",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "W Sutherland",
+              "bowler": "MP Kuhnemann",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SE Marsh",
+              "bowler": "MP Kuhnemann",
+              "non_striker": "W Sutherland",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SE Marsh",
+              "bowler": "MP Kuhnemann",
+              "non_striker": "W Sutherland",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SE Marsh",
+              "bowler": "MP Kuhnemann",
+              "non_striker": "W Sutherland",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SE Marsh",
+              "bowler": "MP Kuhnemann",
+              "non_striker": "W Sutherland",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SE Marsh",
+              "bowler": "MP Kuhnemann",
+              "non_striker": "W Sutherland",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "SE Marsh",
+              "bowler": "SH Johnson",
+              "non_striker": "W Sutherland",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SE Marsh",
+              "bowler": "SH Johnson",
+              "non_striker": "W Sutherland",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "W Sutherland",
+              "bowler": "SH Johnson",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SE Marsh",
+              "bowler": "SH Johnson",
+              "non_striker": "W Sutherland",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SE Marsh",
+              "bowler": "SH Johnson",
+              "non_striker": "W Sutherland",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "W Sutherland",
+              "bowler": "SH Johnson",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "W Sutherland",
+              "bowler": "MG Neser",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "W Sutherland",
+              "bowler": "MG Neser",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "W Sutherland",
+                  "kind": "caught and bowled"
+                }
+              ]
+            },
+            {
+              "batter": "JW Wells",
+              "bowler": "MG Neser",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "JW Wells",
+              "bowler": "MG Neser",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "JW Wells",
+              "bowler": "MG Neser",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "JW Wells",
+              "bowler": "MG Neser",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 3.7,
+          "type": "mandatory"
+        },
+        {
+          "from": 11.1,
+          "to": 12.6,
+          "type": "batting"
+        }
+      ]
+    },
+    {
+      "team": "Brisbane Heat",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "UT Khawaja",
+              "bowler": "TS Rogers",
+              "non_striker": "J Brown",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "UT Khawaja",
+              "bowler": "TS Rogers",
+              "non_striker": "J Brown",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "UT Khawaja",
+              "bowler": "TS Rogers",
+              "non_striker": "J Brown",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "UT Khawaja",
+              "bowler": "TS Rogers",
+              "non_striker": "J Brown",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "UT Khawaja",
+              "bowler": "TS Rogers",
+              "non_striker": "J Brown",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "UT Khawaja",
+              "bowler": "TS Rogers",
+              "non_striker": "J Brown",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "UT Khawaja",
+              "bowler": "DJM Moody",
+              "non_striker": "J Brown",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "UT Khawaja",
+              "bowler": "DJM Moody",
+              "non_striker": "J Brown",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "UT Khawaja",
+              "bowler": "DJM Moody",
+              "non_striker": "J Brown",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Brown",
+              "bowler": "DJM Moody",
+              "non_striker": "UT Khawaja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Brown",
+              "bowler": "DJM Moody",
+              "non_striker": "UT Khawaja",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "J Brown",
+              "bowler": "DJM Moody",
+              "non_striker": "UT Khawaja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "UT Khawaja",
+              "bowler": "TS Rogers",
+              "non_striker": "J Brown",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "UT Khawaja",
+              "bowler": "TS Rogers",
+              "non_striker": "J Brown",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Brown",
+              "bowler": "TS Rogers",
+              "non_striker": "UT Khawaja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Brown",
+              "bowler": "TS Rogers",
+              "non_striker": "UT Khawaja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Brown",
+              "bowler": "TS Rogers",
+              "non_striker": "UT Khawaja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Brown",
+              "bowler": "TS Rogers",
+              "non_striker": "UT Khawaja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "UT Khawaja",
+              "bowler": "DJM Moody",
+              "non_striker": "J Brown",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "UT Khawaja",
+              "bowler": "DJM Moody",
+              "non_striker": "J Brown",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "UT Khawaja",
+              "bowler": "DJM Moody",
+              "non_striker": "J Brown",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "UT Khawaja",
+              "bowler": "DJM Moody",
+              "non_striker": "J Brown",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "UT Khawaja",
+              "bowler": "DJM Moody",
+              "non_striker": "J Brown",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "UT Khawaja",
+              "bowler": "DJM Moody",
+              "non_striker": "J Brown",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "J Brown",
+              "bowler": "W Sutherland",
+              "non_striker": "UT Khawaja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Brown",
+              "bowler": "W Sutherland",
+              "non_striker": "UT Khawaja",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "J Brown",
+              "bowler": "W Sutherland",
+              "non_striker": "UT Khawaja",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "J Brown",
+              "bowler": "W Sutherland",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "UT Khawaja",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Brown",
+              "bowler": "W Sutherland",
+              "non_striker": "UT Khawaja",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "UT Khawaja",
+              "bowler": "W Sutherland",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "J Brown",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "UT Khawaja",
+              "bowler": "W Sutherland",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "J Brown",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Brown",
+              "bowler": "W Sutherland",
+              "non_striker": "UT Khawaja",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "J Brown",
+              "bowler": "Fawad Ahmed",
+              "non_striker": "UT Khawaja",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "UT Khawaja",
+              "bowler": "Fawad Ahmed",
+              "non_striker": "J Brown",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Brown",
+              "bowler": "Fawad Ahmed",
+              "non_striker": "UT Khawaja",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "UT Khawaja",
+              "bowler": "Fawad Ahmed",
+              "non_striker": "J Brown",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "UT Khawaja",
+              "bowler": "Fawad Ahmed",
+              "non_striker": "J Brown",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Brown",
+              "bowler": "Fawad Ahmed",
+              "non_striker": "UT Khawaja",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "J Brown",
+              "bowler": "CJ Rocchiccioli",
+              "non_striker": "UT Khawaja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Brown",
+              "bowler": "CJ Rocchiccioli",
+              "non_striker": "UT Khawaja",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "UT Khawaja",
+              "bowler": "CJ Rocchiccioli",
+              "non_striker": "J Brown",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "UT Khawaja",
+              "bowler": "CJ Rocchiccioli",
+              "non_striker": "J Brown",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Brown",
+              "bowler": "CJ Rocchiccioli",
+              "non_striker": "UT Khawaja",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "J Brown",
+              "bowler": "CJ Rocchiccioli",
+              "non_striker": "UT Khawaja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "UT Khawaja",
+              "bowler": "Fawad Ahmed",
+              "non_striker": "J Brown",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Brown",
+              "bowler": "Fawad Ahmed",
+              "non_striker": "UT Khawaja",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "J Brown",
+              "bowler": "Fawad Ahmed",
+              "non_striker": "UT Khawaja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Brown",
+              "bowler": "Fawad Ahmed",
+              "non_striker": "UT Khawaja",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "J Brown",
+              "bowler": "Fawad Ahmed",
+              "non_striker": "UT Khawaja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Brown",
+              "bowler": "Fawad Ahmed",
+              "non_striker": "UT Khawaja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "UT Khawaja",
+              "bowler": "DJM Moody",
+              "non_striker": "J Brown",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Brown",
+              "bowler": "DJM Moody",
+              "non_striker": "UT Khawaja",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "UT Khawaja",
+              "bowler": "DJM Moody",
+              "non_striker": "J Brown",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Brown",
+              "bowler": "DJM Moody",
+              "non_striker": "UT Khawaja",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "J Brown",
+              "bowler": "DJM Moody",
+              "non_striker": "UT Khawaja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "J Brown",
+                  "fielders": [
+                    {
+                      "name": "JW Wells"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "M Labuschagne",
+              "bowler": "DJM Moody",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "UT Khawaja",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Labuschagne",
+              "bowler": "DJM Moody",
+              "non_striker": "UT Khawaja",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "M Labuschagne",
+              "bowler": "MJJ Critchley",
+              "non_striker": "UT Khawaja",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "UT Khawaja",
+              "bowler": "MJJ Critchley",
+              "non_striker": "M Labuschagne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "UT Khawaja",
+              "bowler": "MJJ Critchley",
+              "non_striker": "M Labuschagne",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Labuschagne",
+              "bowler": "MJJ Critchley",
+              "non_striker": "UT Khawaja",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "UT Khawaja",
+              "bowler": "MJJ Critchley",
+              "non_striker": "M Labuschagne",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Labuschagne",
+              "bowler": "MJJ Critchley",
+              "non_striker": "UT Khawaja",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "M Labuschagne",
+              "bowler": "CJ Rocchiccioli",
+              "non_striker": "UT Khawaja",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "UT Khawaja",
+              "bowler": "CJ Rocchiccioli",
+              "non_striker": "M Labuschagne",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Labuschagne",
+              "bowler": "CJ Rocchiccioli",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "UT Khawaja",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "UT Khawaja",
+              "bowler": "CJ Rocchiccioli",
+              "non_striker": "M Labuschagne",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Labuschagne",
+              "bowler": "CJ Rocchiccioli",
+              "non_striker": "UT Khawaja",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "UT Khawaja",
+              "bowler": "CJ Rocchiccioli",
+              "non_striker": "M Labuschagne",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "UT Khawaja",
+              "bowler": "W Sutherland",
+              "non_striker": "M Labuschagne",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "UT Khawaja",
+              "bowler": "W Sutherland",
+              "non_striker": "M Labuschagne",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Labuschagne",
+              "bowler": "W Sutherland",
+              "non_striker": "UT Khawaja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Labuschagne",
+              "bowler": "W Sutherland",
+              "non_striker": "UT Khawaja",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "M Labuschagne",
+              "bowler": "W Sutherland",
+              "non_striker": "UT Khawaja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Labuschagne",
+              "bowler": "W Sutherland",
+              "non_striker": "UT Khawaja",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "M Labuschagne",
+              "bowler": "Fawad Ahmed",
+              "non_striker": "UT Khawaja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Labuschagne",
+              "bowler": "Fawad Ahmed",
+              "non_striker": "UT Khawaja",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "UT Khawaja",
+              "bowler": "Fawad Ahmed",
+              "non_striker": "M Labuschagne",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "UT Khawaja",
+              "bowler": "Fawad Ahmed",
+              "non_striker": "M Labuschagne",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Labuschagne",
+              "bowler": "Fawad Ahmed",
+              "non_striker": "UT Khawaja",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "UT Khawaja",
+              "bowler": "Fawad Ahmed",
+              "non_striker": "M Labuschagne",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "M Labuschagne",
+              "bowler": "CJ Rocchiccioli",
+              "non_striker": "UT Khawaja",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "UT Khawaja",
+              "bowler": "CJ Rocchiccioli",
+              "non_striker": "M Labuschagne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "UT Khawaja",
+              "bowler": "CJ Rocchiccioli",
+              "non_striker": "M Labuschagne",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Labuschagne",
+              "bowler": "CJ Rocchiccioli",
+              "non_striker": "UT Khawaja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Labuschagne",
+              "bowler": "CJ Rocchiccioli",
+              "non_striker": "UT Khawaja",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "UT Khawaja",
+              "bowler": "CJ Rocchiccioli",
+              "non_striker": "M Labuschagne",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "UT Khawaja",
+              "bowler": "W Sutherland",
+              "non_striker": "M Labuschagne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "UT Khawaja",
+              "bowler": "W Sutherland",
+              "non_striker": "M Labuschagne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "UT Khawaja",
+              "bowler": "W Sutherland",
+              "non_striker": "M Labuschagne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "UT Khawaja",
+              "bowler": "W Sutherland",
+              "non_striker": "M Labuschagne",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Labuschagne",
+              "bowler": "W Sutherland",
+              "non_striker": "UT Khawaja",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "M Labuschagne",
+              "bowler": "W Sutherland",
+              "non_striker": "UT Khawaja",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "UT Khawaja",
+              "bowler": "TS Rogers",
+              "non_striker": "M Labuschagne",
+              "review": {
+                "by": "Melbourne Renegades",
+                "umpire": "BNJ Oxenford",
+                "batter": "UT Khawaja",
+                "decision": "struck down"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "UT Khawaja",
+              "bowler": "TS Rogers",
+              "non_striker": "M Labuschagne",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "UT Khawaja",
+              "bowler": "TS Rogers",
+              "non_striker": "M Labuschagne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "UT Khawaja",
+                  "fielders": [
+                    {
+                      "name": "DJM Moody"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "MT Renshaw",
+              "bowler": "TS Rogers",
+              "non_striker": "M Labuschagne",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Labuschagne",
+              "bowler": "TS Rogers",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "MT Renshaw",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Labuschagne",
+              "bowler": "TS Rogers",
+              "non_striker": "MT Renshaw",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "M Labuschagne",
+              "bowler": "TS Rogers",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "MT Renshaw",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Labuschagne",
+              "bowler": "TS Rogers",
+              "non_striker": "MT Renshaw",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "M Labuschagne",
+                  "fielders": [
+                    {
+                      "name": "MJ Guptill"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "MT Renshaw",
+              "bowler": "W Sutherland",
+              "non_striker": "SR Hain",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MT Renshaw",
+              "bowler": "W Sutherland",
+              "non_striker": "SR Hain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SR Hain",
+              "bowler": "W Sutherland",
+              "non_striker": "MT Renshaw",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MT Renshaw",
+              "bowler": "W Sutherland",
+              "non_striker": "SR Hain",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MT Renshaw",
+              "bowler": "W Sutherland",
+              "non_striker": "SR Hain",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "MT Renshaw",
+              "bowler": "W Sutherland",
+              "non_striker": "SR Hain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "MT Renshaw",
+              "bowler": "Fawad Ahmed",
+              "non_striker": "SR Hain",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MT Renshaw",
+              "bowler": "Fawad Ahmed",
+              "non_striker": "SR Hain",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MT Renshaw",
+              "bowler": "Fawad Ahmed",
+              "non_striker": "SR Hain",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MT Renshaw",
+              "bowler": "Fawad Ahmed",
+              "non_striker": "SR Hain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SR Hain",
+              "bowler": "Fawad Ahmed",
+              "non_striker": "MT Renshaw",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SR Hain",
+              "bowler": "Fawad Ahmed",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "MT Renshaw",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "SR Hain",
+              "bowler": "TS Rogers",
+              "non_striker": "MT Renshaw",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MT Renshaw",
+              "bowler": "TS Rogers",
+              "non_striker": "SR Hain",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MT Renshaw",
+              "bowler": "TS Rogers",
+              "non_striker": "SR Hain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MT Renshaw",
+              "bowler": "TS Rogers",
+              "non_striker": "SR Hain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SR Hain",
+              "bowler": "TS Rogers",
+              "non_striker": "MT Renshaw",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 3.6,
+          "type": "mandatory"
+        },
+        {
+          "from": 15.1,
+          "to": 16.6,
+          "type": "batting"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 163
+      }
+    }
+  ]
+}

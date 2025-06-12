@@ -1,0 +1,844 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2024-08-19",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 5,
+    "city": "Birmingham",
+    "dates": [
+      "2024-08-15"
+    ],
+    "event": {
+      "name": "The Hundred Men's Competition",
+      "match_number": 32
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "officials": {
+      "match_referees": [
+        "SG Hinks"
+      ],
+      "reserve_umpires": [
+        "N Pratt"
+      ],
+      "tv_umpires": [
+        "PK Baldwin"
+      ],
+      "umpires": [
+        "ID Blackwell",
+        "M Burns"
+      ]
+    },
+    "outcome": {
+      "winner": "Birmingham Phoenix",
+      "by": {
+        "wickets": 9
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "AF Milne"
+    ],
+    "players": {
+      "Manchester Originals": [
+        "PD Salt",
+        "MF Hurst",
+        "MDE Holden",
+        "PI Walter",
+        "J Overton",
+        "Sikandar Raza",
+        "TW Hartley",
+        "WL Madsen",
+        "TH Aspinwall",
+        "SW Currie",
+        "Fazalhaq Farooqi"
+      ],
+      "Birmingham Phoenix": [
+        "JL Smith",
+        "BM Duckett",
+        "MM Ali",
+        "LS Livingstone",
+        "DR Mousley",
+        "JG Bethell",
+        "BAC Howell",
+        "SA Abbott",
+        "AF Milne",
+        "TG Southee",
+        "CP Wood"
+      ]
+    },
+    "registry": {
+      "people": {
+        "AF Milne": "350bb1b1",
+        "BAC Howell": "0bec3a6c",
+        "BM Duckett": "5f26f677",
+        "CP Wood": "1cfac535",
+        "DR Mousley": "876dbe2d",
+        "Fazalhaq Farooqi": "e9c7f0d0",
+        "ID Blackwell": "818e8bf2",
+        "J Overton": "59559bc2",
+        "JG Bethell": "3c55c703",
+        "JL Smith": "c834c290",
+        "LS Livingstone": "50c6bc2b",
+        "M Burns": "b3bd0666",
+        "MDE Holden": "d34a2268",
+        "MF Hurst": "40e4cf47",
+        "MM Ali": "bb351c23",
+        "N Pratt": "01f65cd3",
+        "PD Salt": "3d284ca3",
+        "PI Walter": "57590dbb",
+        "PK Baldwin": "6bb53c12",
+        "SA Abbott": "1a2676c5",
+        "SG Hinks": "0bb4dc0d",
+        "SW Currie": "c5f40e35",
+        "Sikandar Raza": "26d041c4",
+        "TG Southee": "13c35c9e",
+        "TH Aspinwall": "00b195ae",
+        "TW Hartley": "22b98d7c",
+        "WL Madsen": "86e0f3f0"
+      }
+    },
+    "season": "2024",
+    "team_type": "club",
+    "teams": [
+      "Manchester Originals",
+      "Birmingham Phoenix"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Birmingham Phoenix"
+    },
+    "venue": "Edgbaston, Birmingham"
+  },
+  "innings": [
+    {
+      "team": "Manchester Originals",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "PD Salt",
+              "bowler": "AF Milne",
+              "non_striker": "MF Hurst",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MF Hurst",
+              "bowler": "AF Milne",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "PD Salt",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MF Hurst",
+              "bowler": "AF Milne",
+              "non_striker": "PD Salt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MF Hurst",
+                  "fielders": [
+                    {
+                      "name": "LS Livingstone"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "MDE Holden",
+              "bowler": "AF Milne",
+              "non_striker": "PD Salt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MDE Holden",
+              "bowler": "AF Milne",
+              "non_striker": "PD Salt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MDE Holden",
+              "bowler": "AF Milne",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "PD Salt",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MDE Holden",
+              "bowler": "AF Milne",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "PD Salt",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "PD Salt",
+              "bowler": "TG Southee",
+              "non_striker": "MDE Holden",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "PD Salt",
+              "bowler": "TG Southee",
+              "non_striker": "MDE Holden",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MDE Holden",
+              "bowler": "TG Southee",
+              "non_striker": "PD Salt",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MDE Holden",
+              "bowler": "TG Southee",
+              "non_striker": "PD Salt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PD Salt",
+              "bowler": "TG Southee",
+              "non_striker": "MDE Holden",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "PD Salt",
+              "bowler": "AF Milne",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "MDE Holden",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PD Salt",
+              "bowler": "AF Milne",
+              "non_striker": "MDE Holden",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "PD Salt",
+              "bowler": "AF Milne",
+              "non_striker": "MDE Holden",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MDE Holden",
+              "bowler": "AF Milne",
+              "non_striker": "PD Salt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PD Salt",
+              "bowler": "AF Milne",
+              "non_striker": "MDE Holden",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PD Salt",
+              "bowler": "AF Milne",
+              "non_striker": "MDE Holden",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "PD Salt",
+                  "fielders": [
+                    {
+                      "name": "LS Livingstone"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "PI Walter",
+              "bowler": "SA Abbott",
+              "non_striker": "MDE Holden",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MDE Holden",
+              "bowler": "SA Abbott",
+              "non_striker": "PI Walter",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PI Walter",
+              "bowler": "SA Abbott",
+              "non_striker": "MDE Holden",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "PI Walter",
+                  "fielders": [
+                    {
+                      "name": "DR Mousley"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "J Overton",
+              "bowler": "SA Abbott",
+              "non_striker": "MDE Holden",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MDE Holden",
+              "bowler": "SA Abbott",
+              "non_striker": "J Overton",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "J Overton",
+              "bowler": "TG Southee",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "MDE Holden",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MDE Holden",
+              "bowler": "TG Southee",
+              "non_striker": "J Overton",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MDE Holden",
+              "bowler": "TG Southee",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "J Overton",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MDE Holden",
+              "bowler": "TG Southee",
+              "non_striker": "J Overton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MDE Holden",
+                  "fielders": [
+                    {
+                      "name": "LS Livingstone"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Sikandar Raza",
+              "bowler": "TG Southee",
+              "non_striker": "J Overton",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Sikandar Raza",
+              "bowler": "TG Southee",
+              "non_striker": "J Overton",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "J Overton",
+              "bowler": "CP Wood",
+              "non_striker": "Sikandar Raza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sikandar Raza",
+              "bowler": "CP Wood",
+              "non_striker": "J Overton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sikandar Raza",
+              "bowler": "CP Wood",
+              "non_striker": "J Overton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Sikandar Raza",
+                  "fielders": [
+                    {
+                      "name": "JG Bethell"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "TW Hartley",
+              "bowler": "CP Wood",
+              "non_striker": "J Overton",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Overton",
+              "bowler": "CP Wood",
+              "non_striker": "TW Hartley",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 1.3,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Birmingham Phoenix",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "JL Smith",
+              "bowler": "Fazalhaq Farooqi",
+              "non_striker": "BM Duckett",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JL Smith",
+              "bowler": "Fazalhaq Farooqi",
+              "non_striker": "BM Duckett",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "JL Smith",
+              "bowler": "Fazalhaq Farooqi",
+              "non_striker": "BM Duckett",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "JL Smith",
+              "bowler": "Fazalhaq Farooqi",
+              "non_striker": "BM Duckett",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JL Smith",
+              "bowler": "Fazalhaq Farooqi",
+              "non_striker": "BM Duckett",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "BM Duckett",
+              "bowler": "Fazalhaq Farooqi",
+              "non_striker": "JL Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BM Duckett",
+              "bowler": "Fazalhaq Farooqi",
+              "non_striker": "JL Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BM Duckett",
+              "bowler": "Fazalhaq Farooqi",
+              "non_striker": "JL Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JL Smith",
+              "bowler": "Fazalhaq Farooqi",
+              "non_striker": "BM Duckett",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BM Duckett",
+              "bowler": "Fazalhaq Farooqi",
+              "non_striker": "JL Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "BM Duckett",
+              "bowler": "TH Aspinwall",
+              "non_striker": "JL Smith",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "BM Duckett",
+              "bowler": "TH Aspinwall",
+              "non_striker": "JL Smith",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "BM Duckett",
+              "bowler": "TH Aspinwall",
+              "non_striker": "JL Smith",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "BM Duckett",
+              "bowler": "TH Aspinwall",
+              "non_striker": "JL Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BM Duckett",
+              "bowler": "TH Aspinwall",
+              "non_striker": "JL Smith",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "BM Duckett",
+              "bowler": "SW Currie",
+              "non_striker": "JL Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BM Duckett",
+              "bowler": "SW Currie",
+              "non_striker": "JL Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JL Smith",
+              "bowler": "SW Currie",
+              "non_striker": "BM Duckett",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "JL Smith",
+                  "fielders": [
+                    {
+                      "name": "Sikandar Raza"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "MM Ali",
+              "bowler": "SW Currie",
+              "non_striker": "BM Duckett",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MM Ali",
+              "bowler": "SW Currie",
+              "non_striker": "BM Duckett",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "BM Duckett",
+              "bowler": "SW Currie",
+              "non_striker": "MM Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MM Ali",
+              "bowler": "SW Currie",
+              "non_striker": "BM Duckett",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 1.3,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 6,
+        "runs": 42
+      }
+    }
+  ]
+}

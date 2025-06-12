@@ -1,0 +1,2921 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2025-01-30",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Johannesburg",
+    "dates": [
+      "2025-01-30"
+    ],
+    "event": {
+      "name": "SA20",
+      "match_number": 26
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "officials": {
+      "match_referees": [
+        "GH Pienaar"
+      ],
+      "reserve_umpires": [
+        "Siphelele Gasa"
+      ],
+      "tv_umpires": [
+        "A Paleker"
+      ],
+      "umpires": [
+        "AM Sodumo",
+        "Stephen Harris"
+      ]
+    },
+    "outcome": {
+      "winner": "Joburg Super Kings",
+      "by": {
+        "wickets": 7
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "F du Plessis"
+    ],
+    "players": {
+      "Paarl Royals": [
+        "SR Hain",
+        "LG Pretorius",
+        "RA Herman",
+        "M Van Buuren",
+        "KJ Dudgeon",
+        "KD Karthik",
+        "Dayyaan Galiem",
+        "BC Fortuin",
+        "Mujeeb Ur Rahman",
+        "KT Maphaka",
+        "L Ngidi"
+      ],
+      "Joburg Super Kings": [
+        "DP Conway",
+        "F du Plessis",
+        "JL du Plooy",
+        "D Ferreira",
+        "JM Bairstow",
+        "WJ Lubbe",
+        "E Jones",
+        "GC Viljoen",
+        "Imran Tahir",
+        "L Sipamla",
+        "M Pathirana"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Paleker": "634b11ac",
+        "AM Sodumo": "cc6850ec",
+        "BC Fortuin": "9a2fc964",
+        "D Ferreira": "f0af99a7",
+        "DP Conway": "df5a6881",
+        "Dayyaan Galiem": "47c449c5",
+        "E Jones": "fbfea9c2",
+        "F du Plessis": "3355b542",
+        "GC Viljoen": "a316d663",
+        "GH Pienaar": "3516e46b",
+        "Imran Tahir": "acee4cc4",
+        "JL du Plooy": "6e6fb538",
+        "JM Bairstow": "abb83e27",
+        "KD Karthik": "c03f1114",
+        "KJ Dudgeon": "b8828a1b",
+        "KT Maphaka": "107c26fb",
+        "L Ngidi": "f834dcfc",
+        "L Sipamla": "f892fcf9",
+        "LG Pretorius": "60aa2db3",
+        "M Pathirana": "64839cb3",
+        "M Van Buuren": "46e4a4e0",
+        "Mujeeb Ur Rahman": "7d92277a",
+        "RA Herman": "9c821d2e",
+        "SR Hain": "67b9536c",
+        "Siphelele Gasa": "e50baa87",
+        "Stephen Harris": "fdcfd4aa",
+        "WJ Lubbe": "10f42013"
+      }
+    },
+    "season": "2024/25",
+    "team_type": "club",
+    "teams": [
+      "Paarl Royals",
+      "Joburg Super Kings"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Joburg Super Kings"
+    },
+    "venue": "The Wanderers Stadium, Johannesburg"
+  },
+  "innings": [
+    {
+      "team": "Paarl Royals",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "SR Hain",
+              "bowler": "D Ferreira",
+              "non_striker": "LG Pretorius",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SR Hain",
+              "bowler": "D Ferreira",
+              "non_striker": "LG Pretorius",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SR Hain",
+                  "fielders": [
+                    {
+                      "name": "JL du Plooy"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "RA Herman",
+              "bowler": "D Ferreira",
+              "non_striker": "LG Pretorius",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LG Pretorius",
+              "bowler": "D Ferreira",
+              "non_striker": "RA Herman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RA Herman",
+              "bowler": "D Ferreira",
+              "non_striker": "LG Pretorius",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RA Herman",
+              "bowler": "D Ferreira",
+              "non_striker": "LG Pretorius",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "RA Herman",
+              "bowler": "L Sipamla",
+              "non_striker": "LG Pretorius",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RA Herman",
+              "bowler": "L Sipamla",
+              "non_striker": "LG Pretorius",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LG Pretorius",
+              "bowler": "L Sipamla",
+              "non_striker": "RA Herman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LG Pretorius",
+              "bowler": "L Sipamla",
+              "non_striker": "RA Herman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LG Pretorius",
+              "bowler": "L Sipamla",
+              "non_striker": "RA Herman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RA Herman",
+              "bowler": "L Sipamla",
+              "non_striker": "LG Pretorius",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "LG Pretorius",
+              "bowler": "D Ferreira",
+              "non_striker": "RA Herman",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "LG Pretorius",
+              "bowler": "D Ferreira",
+              "non_striker": "RA Herman",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "LG Pretorius",
+              "bowler": "D Ferreira",
+              "non_striker": "RA Herman",
+              "review": {
+                "by": "Joburg Super Kings",
+                "umpire": "Stephen Harris",
+                "batter": "LG Pretorius",
+                "decision": "struck down",
+                "type": "wicket"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LG Pretorius",
+              "bowler": "D Ferreira",
+              "non_striker": "RA Herman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LG Pretorius",
+              "bowler": "D Ferreira",
+              "non_striker": "RA Herman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RA Herman",
+              "bowler": "D Ferreira",
+              "non_striker": "LG Pretorius",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "LG Pretorius",
+              "bowler": "L Sipamla",
+              "non_striker": "RA Herman",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "LG Pretorius",
+              "bowler": "L Sipamla",
+              "non_striker": "RA Herman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "LG Pretorius",
+                  "fielders": [
+                    {
+                      "name": "E Jones"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "M Van Buuren",
+              "bowler": "L Sipamla",
+              "non_striker": "RA Herman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RA Herman",
+              "bowler": "L Sipamla",
+              "non_striker": "M Van Buuren",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RA Herman",
+              "bowler": "L Sipamla",
+              "non_striker": "M Van Buuren",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RA Herman",
+              "bowler": "L Sipamla",
+              "non_striker": "M Van Buuren",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "M Van Buuren",
+              "bowler": "GC Viljoen",
+              "non_striker": "RA Herman",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "M Van Buuren",
+              "bowler": "GC Viljoen",
+              "non_striker": "RA Herman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "M Van Buuren",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "KJ Dudgeon",
+              "bowler": "GC Viljoen",
+              "non_striker": "RA Herman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RA Herman",
+              "bowler": "GC Viljoen",
+              "non_striker": "KJ Dudgeon",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RA Herman",
+              "bowler": "GC Viljoen",
+              "non_striker": "KJ Dudgeon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RA Herman",
+              "bowler": "GC Viljoen",
+              "non_striker": "KJ Dudgeon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "KJ Dudgeon",
+              "bowler": "L Sipamla",
+              "non_striker": "RA Herman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "KJ Dudgeon",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "KD Karthik",
+              "bowler": "L Sipamla",
+              "non_striker": "RA Herman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KD Karthik",
+              "bowler": "L Sipamla",
+              "non_striker": "RA Herman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KD Karthik",
+              "bowler": "L Sipamla",
+              "non_striker": "RA Herman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KD Karthik",
+              "bowler": "L Sipamla",
+              "non_striker": "RA Herman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RA Herman",
+              "bowler": "L Sipamla",
+              "non_striker": "KD Karthik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "RA Herman",
+              "bowler": "GC Viljoen",
+              "non_striker": "KD Karthik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KD Karthik",
+              "bowler": "GC Viljoen",
+              "non_striker": "RA Herman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KD Karthik",
+              "bowler": "GC Viljoen",
+              "non_striker": "RA Herman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KD Karthik",
+              "bowler": "GC Viljoen",
+              "non_striker": "RA Herman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KD Karthik",
+              "bowler": "GC Viljoen",
+              "non_striker": "RA Herman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RA Herman",
+              "bowler": "GC Viljoen",
+              "non_striker": "KD Karthik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "KD Karthik",
+              "bowler": "E Jones",
+              "non_striker": "RA Herman",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "KD Karthik",
+              "bowler": "E Jones",
+              "non_striker": "RA Herman",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KD Karthik",
+              "bowler": "E Jones",
+              "non_striker": "RA Herman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RA Herman",
+              "bowler": "E Jones",
+              "non_striker": "KD Karthik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RA Herman",
+              "bowler": "E Jones",
+              "non_striker": "KD Karthik",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RA Herman",
+              "bowler": "E Jones",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "KD Karthik",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RA Herman",
+              "bowler": "E Jones",
+              "non_striker": "KD Karthik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "RA Herman",
+              "bowler": "Imran Tahir",
+              "non_striker": "KD Karthik",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RA Herman",
+              "bowler": "Imran Tahir",
+              "non_striker": "KD Karthik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KD Karthik",
+              "bowler": "Imran Tahir",
+              "non_striker": "RA Herman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RA Herman",
+              "bowler": "Imran Tahir",
+              "non_striker": "KD Karthik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KD Karthik",
+              "bowler": "Imran Tahir",
+              "non_striker": "RA Herman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RA Herman",
+              "bowler": "Imran Tahir",
+              "non_striker": "KD Karthik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "RA Herman",
+              "bowler": "D Ferreira",
+              "non_striker": "KD Karthik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KD Karthik",
+              "bowler": "D Ferreira",
+              "non_striker": "RA Herman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KD Karthik",
+              "bowler": "D Ferreira",
+              "non_striker": "RA Herman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RA Herman",
+              "bowler": "D Ferreira",
+              "non_striker": "KD Karthik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RA Herman",
+              "bowler": "D Ferreira",
+              "non_striker": "KD Karthik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "RA Herman",
+                  "fielders": [
+                    {
+                      "name": "JL du Plooy"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Dayyaan Galiem",
+              "bowler": "D Ferreira",
+              "non_striker": "KD Karthik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "Dayyaan Galiem",
+              "bowler": "M Pathirana",
+              "non_striker": "KD Karthik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KD Karthik",
+              "bowler": "M Pathirana",
+              "non_striker": "Dayyaan Galiem",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Dayyaan Galiem",
+              "bowler": "M Pathirana",
+              "non_striker": "KD Karthik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KD Karthik",
+              "bowler": "M Pathirana",
+              "non_striker": "Dayyaan Galiem",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Dayyaan Galiem",
+              "bowler": "M Pathirana",
+              "non_striker": "KD Karthik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Dayyaan Galiem",
+              "bowler": "M Pathirana",
+              "non_striker": "KD Karthik",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "KD Karthik",
+              "bowler": "D Ferreira",
+              "non_striker": "Dayyaan Galiem",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Dayyaan Galiem",
+              "bowler": "D Ferreira",
+              "non_striker": "KD Karthik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Dayyaan Galiem",
+              "bowler": "D Ferreira",
+              "non_striker": "KD Karthik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Dayyaan Galiem",
+                  "fielders": [
+                    {
+                      "name": "JM Bairstow"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "BC Fortuin",
+              "bowler": "D Ferreira",
+              "non_striker": "KD Karthik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BC Fortuin",
+              "bowler": "D Ferreira",
+              "non_striker": "KD Karthik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BC Fortuin",
+              "bowler": "D Ferreira",
+              "non_striker": "KD Karthik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "BC Fortuin",
+              "bowler": "WJ Lubbe",
+              "non_striker": "KD Karthik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KD Karthik",
+              "bowler": "WJ Lubbe",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "BC Fortuin",
+              "runs": {
+                "batter": 2,
+                "extras": 1,
+                "total": 3
+              }
+            },
+            {
+              "batter": "KD Karthik",
+              "bowler": "WJ Lubbe",
+              "non_striker": "BC Fortuin",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "KD Karthik",
+              "bowler": "WJ Lubbe",
+              "non_striker": "BC Fortuin",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "KD Karthik",
+              "bowler": "WJ Lubbe",
+              "non_striker": "BC Fortuin",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "KD Karthik",
+              "bowler": "WJ Lubbe",
+              "non_striker": "BC Fortuin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KD Karthik",
+              "bowler": "WJ Lubbe",
+              "non_striker": "BC Fortuin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "BC Fortuin",
+              "bowler": "Imran Tahir",
+              "non_striker": "KD Karthik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BC Fortuin",
+              "bowler": "Imran Tahir",
+              "non_striker": "KD Karthik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KD Karthik",
+              "bowler": "Imran Tahir",
+              "non_striker": "BC Fortuin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BC Fortuin",
+              "bowler": "Imran Tahir",
+              "non_striker": "KD Karthik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BC Fortuin",
+              "bowler": "Imran Tahir",
+              "non_striker": "KD Karthik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KD Karthik",
+              "bowler": "Imran Tahir",
+              "non_striker": "BC Fortuin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "KD Karthik",
+              "bowler": "M Pathirana",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "BC Fortuin",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KD Karthik",
+              "bowler": "M Pathirana",
+              "extras": {
+                "wides": 5
+              },
+              "non_striker": "BC Fortuin",
+              "runs": {
+                "batter": 0,
+                "extras": 5,
+                "total": 5
+              }
+            },
+            {
+              "batter": "KD Karthik",
+              "bowler": "M Pathirana",
+              "non_striker": "BC Fortuin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KD Karthik",
+              "bowler": "M Pathirana",
+              "non_striker": "BC Fortuin",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KD Karthik",
+              "bowler": "M Pathirana",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "BC Fortuin",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KD Karthik",
+              "bowler": "M Pathirana",
+              "non_striker": "BC Fortuin",
+              "review": {
+                "by": "Joburg Super Kings",
+                "umpire": "Stephen Harris",
+                "batter": "KD Karthik",
+                "decision": "struck down",
+                "type": "wicket"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KD Karthik",
+              "bowler": "M Pathirana",
+              "non_striker": "BC Fortuin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KD Karthik",
+              "bowler": "M Pathirana",
+              "non_striker": "BC Fortuin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BC Fortuin",
+              "bowler": "M Pathirana",
+              "non_striker": "KD Karthik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "BC Fortuin",
+              "bowler": "Imran Tahir",
+              "non_striker": "KD Karthik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KD Karthik",
+              "bowler": "Imran Tahir",
+              "non_striker": "BC Fortuin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BC Fortuin",
+              "bowler": "Imran Tahir",
+              "non_striker": "KD Karthik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BC Fortuin",
+              "bowler": "Imran Tahir",
+              "non_striker": "KD Karthik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KD Karthik",
+              "bowler": "Imran Tahir",
+              "non_striker": "BC Fortuin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KD Karthik",
+              "bowler": "Imran Tahir",
+              "non_striker": "BC Fortuin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "KD Karthik",
+              "bowler": "GC Viljoen",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "BC Fortuin",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BC Fortuin",
+              "bowler": "GC Viljoen",
+              "non_striker": "KD Karthik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KD Karthik",
+              "bowler": "GC Viljoen",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "BC Fortuin",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KD Karthik",
+              "bowler": "GC Viljoen",
+              "non_striker": "BC Fortuin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BC Fortuin",
+              "bowler": "GC Viljoen",
+              "non_striker": "KD Karthik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KD Karthik",
+              "bowler": "GC Viljoen",
+              "non_striker": "BC Fortuin",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KD Karthik",
+              "bowler": "GC Viljoen",
+              "non_striker": "BC Fortuin",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "BC Fortuin",
+              "bowler": "Imran Tahir",
+              "non_striker": "KD Karthik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BC Fortuin",
+              "bowler": "Imran Tahir",
+              "non_striker": "KD Karthik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KD Karthik",
+              "bowler": "Imran Tahir",
+              "non_striker": "BC Fortuin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "KD Karthik",
+                  "fielders": [
+                    {
+                      "name": "F du Plessis"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Mujeeb Ur Rahman",
+              "bowler": "Imran Tahir",
+              "non_striker": "BC Fortuin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BC Fortuin",
+              "bowler": "Imran Tahir",
+              "non_striker": "Mujeeb Ur Rahman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BC Fortuin",
+              "bowler": "Imran Tahir",
+              "non_striker": "Mujeeb Ur Rahman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "Mujeeb Ur Rahman",
+              "bowler": "L Sipamla",
+              "non_striker": "BC Fortuin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mujeeb Ur Rahman",
+              "bowler": "L Sipamla",
+              "non_striker": "BC Fortuin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BC Fortuin",
+              "bowler": "L Sipamla",
+              "non_striker": "Mujeeb Ur Rahman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BC Fortuin",
+              "bowler": "L Sipamla",
+              "non_striker": "Mujeeb Ur Rahman",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "BC Fortuin",
+              "bowler": "L Sipamla",
+              "non_striker": "Mujeeb Ur Rahman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "BC Fortuin",
+                  "fielders": [
+                    {
+                      "name": "F du Plessis"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "KT Maphaka",
+              "bowler": "L Sipamla",
+              "non_striker": "Mujeeb Ur Rahman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "KT Maphaka",
+              "bowler": "GC Viljoen",
+              "non_striker": "Mujeeb Ur Rahman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mujeeb Ur Rahman",
+              "bowler": "GC Viljoen",
+              "non_striker": "KT Maphaka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "player_out": "Mujeeb Ur Rahman",
+                  "fielders": [
+                    {
+                      "name": "D Ferreira"
+                    },
+                    {
+                      "name": "JM Bairstow"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "L Ngidi",
+              "bowler": "GC Viljoen",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "KT Maphaka",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KT Maphaka",
+              "bowler": "GC Viljoen",
+              "extras": {
+                "byes": 4
+              },
+              "non_striker": "L Ngidi",
+              "runs": {
+                "batter": 0,
+                "extras": 4,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KT Maphaka",
+              "bowler": "GC Viljoen",
+              "non_striker": "L Ngidi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KT Maphaka",
+              "bowler": "GC Viljoen",
+              "non_striker": "L Ngidi",
+              "review": {
+                "by": "Paarl Royals",
+                "umpire": "AM Sodumo",
+                "batter": "KT Maphaka",
+                "decision": "upheld",
+                "type": "wicket"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Joburg Super Kings",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "DP Conway",
+              "bowler": "BC Fortuin",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DP Conway",
+              "bowler": "BC Fortuin",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DP Conway",
+              "bowler": "BC Fortuin",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DP Conway",
+              "bowler": "BC Fortuin",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DP Conway",
+              "bowler": "BC Fortuin",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DP Conway",
+              "bowler": "BC Fortuin",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "F du Plessis",
+              "bowler": "BC Fortuin",
+              "non_striker": "DP Conway",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "F du Plessis",
+              "bowler": "L Ngidi",
+              "non_striker": "DP Conway",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "F du Plessis",
+              "bowler": "L Ngidi",
+              "non_striker": "DP Conway",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DP Conway",
+              "bowler": "L Ngidi",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DP Conway",
+              "bowler": "L Ngidi",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "DP Conway",
+              "bowler": "L Ngidi",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DP Conway",
+              "bowler": "L Ngidi",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "F du Plessis",
+              "bowler": "KT Maphaka",
+              "non_striker": "DP Conway",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DP Conway",
+              "bowler": "KT Maphaka",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DP Conway",
+              "bowler": "KT Maphaka",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DP Conway",
+              "bowler": "KT Maphaka",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "F du Plessis",
+              "bowler": "KT Maphaka",
+              "non_striker": "DP Conway",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "F du Plessis",
+              "bowler": "KT Maphaka",
+              "non_striker": "DP Conway",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "DP Conway",
+              "bowler": "Dayyaan Galiem",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DP Conway",
+              "bowler": "Dayyaan Galiem",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "F du Plessis",
+              "bowler": "Dayyaan Galiem",
+              "non_striker": "DP Conway",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "F du Plessis",
+              "bowler": "Dayyaan Galiem",
+              "non_striker": "DP Conway",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "F du Plessis",
+              "bowler": "Dayyaan Galiem",
+              "non_striker": "DP Conway",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "F du Plessis",
+              "bowler": "Dayyaan Galiem",
+              "non_striker": "DP Conway",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "DP Conway",
+              "bowler": "KT Maphaka",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DP Conway",
+              "bowler": "KT Maphaka",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "F du Plessis",
+              "bowler": "KT Maphaka",
+              "non_striker": "DP Conway",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "F du Plessis",
+              "bowler": "KT Maphaka",
+              "non_striker": "DP Conway",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "F du Plessis",
+              "bowler": "KT Maphaka",
+              "non_striker": "DP Conway",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "F du Plessis",
+              "bowler": "KT Maphaka",
+              "non_striker": "DP Conway",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "F du Plessis",
+              "bowler": "KT Maphaka",
+              "non_striker": "DP Conway",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "DP Conway",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "F du Plessis",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "DP Conway",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DP Conway",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DP Conway",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DP Conway",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DP Conway",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "F du Plessis",
+              "bowler": "KJ Dudgeon",
+              "non_striker": "DP Conway",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DP Conway",
+              "bowler": "KJ Dudgeon",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DP Conway",
+              "bowler": "KJ Dudgeon",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DP Conway",
+              "bowler": "KJ Dudgeon",
+              "extras": {
+                "byes": 2
+              },
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "DP Conway",
+              "bowler": "KJ Dudgeon",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 1,
+                "extras": 1,
+                "total": 2
+              }
+            },
+            {
+              "batter": "F du Plessis",
+              "bowler": "KJ Dudgeon",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "DP Conway",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "F du Plessis",
+              "bowler": "KJ Dudgeon",
+              "non_striker": "DP Conway",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "F du Plessis",
+              "bowler": "KJ Dudgeon",
+              "non_striker": "DP Conway",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DP Conway",
+              "bowler": "KJ Dudgeon",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "F du Plessis",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "DP Conway",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DP Conway",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "DP Conway",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "JL du Plooy",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "F du Plessis",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "JL du Plooy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "F du Plessis",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "JL du Plooy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JL du Plooy",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "F du Plessis",
+              "bowler": "KJ Dudgeon",
+              "non_striker": "JL du Plooy",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "F du Plessis",
+              "bowler": "KJ Dudgeon",
+              "non_striker": "JL du Plooy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JL du Plooy",
+              "bowler": "KJ Dudgeon",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "F du Plessis",
+              "bowler": "KJ Dudgeon",
+              "non_striker": "JL du Plooy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "F du Plessis",
+              "bowler": "KJ Dudgeon",
+              "non_striker": "JL du Plooy",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "F du Plessis",
+              "bowler": "KJ Dudgeon",
+              "non_striker": "JL du Plooy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "JL du Plooy",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "F du Plessis",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "JL du Plooy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "F du Plessis",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "JL du Plooy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "F du Plessis",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "JL du Plooy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "F du Plessis",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "JL du Plooy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "F du Plessis",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "JL du Plooy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "F du Plessis",
+              "bowler": "BC Fortuin",
+              "non_striker": "JL du Plooy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JL du Plooy",
+              "bowler": "BC Fortuin",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "F du Plessis",
+              "bowler": "BC Fortuin",
+              "non_striker": "JL du Plooy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "F du Plessis",
+              "bowler": "BC Fortuin",
+              "non_striker": "JL du Plooy",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "F du Plessis",
+              "bowler": "BC Fortuin",
+              "non_striker": "JL du Plooy",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "F du Plessis",
+              "bowler": "BC Fortuin",
+              "non_striker": "JL du Plooy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "F du Plessis",
+              "bowler": "L Ngidi",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "JL du Plooy",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "F du Plessis",
+              "bowler": "L Ngidi",
+              "non_striker": "JL du Plooy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "F du Plessis",
+              "bowler": "L Ngidi",
+              "non_striker": "JL du Plooy",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "F du Plessis",
+              "bowler": "L Ngidi",
+              "non_striker": "JL du Plooy",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "F du Plessis",
+              "bowler": "L Ngidi",
+              "non_striker": "JL du Plooy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JL du Plooy",
+              "bowler": "L Ngidi",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "F du Plessis",
+              "bowler": "L Ngidi",
+              "non_striker": "JL du Plooy",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "JL du Plooy",
+              "bowler": "BC Fortuin",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JL du Plooy",
+              "bowler": "BC Fortuin",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "JL du Plooy",
+              "bowler": "BC Fortuin",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JL du Plooy",
+              "bowler": "BC Fortuin",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "F du Plessis",
+              "bowler": "BC Fortuin",
+              "non_striker": "JL du Plooy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "F du Plessis",
+              "bowler": "BC Fortuin",
+              "non_striker": "JL du Plooy",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "JL du Plooy",
+              "bowler": "KT Maphaka",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "F du Plessis",
+              "bowler": "KT Maphaka",
+              "non_striker": "JL du Plooy",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "F du Plessis",
+              "bowler": "KT Maphaka",
+              "non_striker": "JL du Plooy",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "F du Plessis",
+              "bowler": "KT Maphaka",
+              "non_striker": "JL du Plooy",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "F du Plessis",
+              "bowler": "KT Maphaka",
+              "non_striker": "JL du Plooy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "F du Plessis",
+              "bowler": "KT Maphaka",
+              "non_striker": "JL du Plooy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "F du Plessis",
+              "bowler": "BC Fortuin",
+              "non_striker": "JL du Plooy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JL du Plooy",
+              "bowler": "BC Fortuin",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "F du Plessis",
+              "bowler": "BC Fortuin",
+              "non_striker": "JL du Plooy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "F du Plessis",
+              "bowler": "BC Fortuin",
+              "non_striker": "JL du Plooy",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "F du Plessis",
+              "bowler": "BC Fortuin",
+              "non_striker": "JL du Plooy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "F du Plessis",
+              "bowler": "BC Fortuin",
+              "non_striker": "JL du Plooy",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "JL du Plooy",
+              "bowler": "KJ Dudgeon",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JL du Plooy",
+              "bowler": "KJ Dudgeon",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "F du Plessis",
+              "bowler": "KJ Dudgeon",
+              "non_striker": "JL du Plooy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "F du Plessis",
+                  "fielders": [
+                    {
+                      "name": "LG Pretorius"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "D Ferreira",
+              "bowler": "KJ Dudgeon",
+              "non_striker": "JL du Plooy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Ferreira",
+              "bowler": "KJ Dudgeon",
+              "non_striker": "JL du Plooy",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "D Ferreira",
+              "bowler": "KJ Dudgeon",
+              "non_striker": "JL du Plooy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "JL du Plooy",
+              "bowler": "L Ngidi",
+              "non_striker": "D Ferreira",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Ferreira",
+              "bowler": "L Ngidi",
+              "non_striker": "JL du Plooy",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "D Ferreira",
+              "bowler": "L Ngidi",
+              "non_striker": "JL du Plooy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Ferreira",
+              "bowler": "L Ngidi",
+              "non_striker": "JL du Plooy",
+              "review": {
+                "by": "Paarl Royals",
+                "umpire": "Stephen Harris",
+                "batter": "D Ferreira",
+                "decision": "struck down",
+                "type": "wicket"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Ferreira",
+              "bowler": "L Ngidi",
+              "non_striker": "JL du Plooy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "D Ferreira",
+                  "fielders": [
+                    {
+                      "name": "LG Pretorius"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "JM Bairstow",
+              "bowler": "L Ngidi",
+              "non_striker": "JL du Plooy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "JM Bairstow",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "JL du Plooy",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "JM Bairstow",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "JL du Plooy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JM Bairstow",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "JL du Plooy",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JM Bairstow",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "JL du Plooy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JL du Plooy",
+              "bowler": "Mujeeb Ur Rahman",
+              "non_striker": "JM Bairstow",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 151
+      }
+    }
+  ]
+}

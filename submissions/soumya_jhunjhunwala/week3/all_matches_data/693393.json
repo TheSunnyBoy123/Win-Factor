@@ -1,0 +1,3523 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2022-03-17",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Swansea",
+    "dates": [
+      "2014-08-14"
+    ],
+    "event": {
+      "name": "Royal London One-Day Cup",
+      "group": "B"
+    },
+    "gender": "male",
+    "match_type": "ODM",
+    "missing": [
+      "player_of_match",
+      {
+        "powerplays": {
+          "1": [
+            "batting"
+          ],
+          "2": [
+            "batting"
+          ]
+        }
+      }
+    ],
+    "officials": {
+      "umpires": [
+        "M Burns",
+        "P Willey"
+      ]
+    },
+    "outcome": {
+      "winner": "Warwickshire",
+      "by": {
+        "wickets": 7
+      },
+      "method": "D/L"
+    },
+    "overs": 50,
+    "players": {
+      "Glamorgan": [
+        "JA Rudolph",
+        "J Allenby",
+        "GP Rees",
+        "MW Goodwin",
+        "CB Cooke",
+        "GG Wagg",
+        "DL Lloyd",
+        "MA Wallace",
+        "AG Salter",
+        "DA Cosker",
+        "MG Hogan"
+      ],
+      "Warwickshire": [
+        "V Chopra",
+        "WTS Porterfield",
+        "LJ Evans",
+        "R Clarke",
+        "A Javid",
+        "IJL Trott",
+        "TR Ambrose",
+        "JS Patel",
+        "RO Gordon",
+        "OJ Hannon-Dalby",
+        "RA Jones"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Javid": "8d1dad51",
+        "AG Salter": "1a45b864",
+        "CB Cooke": "6755cd5c",
+        "DA Cosker": "aac9f784",
+        "DL Lloyd": "0c7f11be",
+        "GG Wagg": "450f6fa6",
+        "GP Rees": "93b368d6",
+        "IJL Trott": "ac7fa28f",
+        "J Allenby": "7d5e0b78",
+        "JA Rudolph": "42537f07",
+        "JS Patel": "f5821615",
+        "LJ Evans": "1c513d54",
+        "M Burns": "b3bd0666",
+        "MA Wallace": "cabf72cc",
+        "MG Hogan": "5da34add",
+        "MW Goodwin": "03ae720f",
+        "OJ Hannon-Dalby": "e0ac7144",
+        "P Willey": "1b647f99",
+        "R Clarke": "8728a058",
+        "RA Jones": "561f3a34",
+        "RO Gordon": "151d88b3",
+        "TR Ambrose": "a15aaa7f",
+        "V Chopra": "54745c20",
+        "WTS Porterfield": "ec02b798"
+      }
+    },
+    "season": "2014",
+    "team_type": "club",
+    "teams": [
+      "Glamorgan",
+      "Warwickshire"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Warwickshire"
+    },
+    "venue": "St Helen's, Swansea"
+  },
+  "innings": [
+    {
+      "team": "Glamorgan",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "JA Rudolph",
+              "bowler": "R Clarke",
+              "non_striker": "J Allenby",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JA Rudolph",
+              "bowler": "R Clarke",
+              "non_striker": "J Allenby",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JA Rudolph",
+              "bowler": "R Clarke",
+              "non_striker": "J Allenby",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JA Rudolph",
+              "bowler": "R Clarke",
+              "non_striker": "J Allenby",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Allenby",
+              "bowler": "R Clarke",
+              "non_striker": "JA Rudolph",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Allenby",
+              "bowler": "R Clarke",
+              "non_striker": "JA Rudolph",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "JA Rudolph",
+              "bowler": "OJ Hannon-Dalby",
+              "non_striker": "J Allenby",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Allenby",
+              "bowler": "OJ Hannon-Dalby",
+              "non_striker": "JA Rudolph",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Allenby",
+              "bowler": "OJ Hannon-Dalby",
+              "non_striker": "JA Rudolph",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Allenby",
+              "bowler": "OJ Hannon-Dalby",
+              "non_striker": "JA Rudolph",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Allenby",
+              "bowler": "OJ Hannon-Dalby",
+              "non_striker": "JA Rudolph",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "J Allenby",
+              "bowler": "OJ Hannon-Dalby",
+              "non_striker": "JA Rudolph",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "JA Rudolph",
+              "bowler": "R Clarke",
+              "non_striker": "J Allenby",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JA Rudolph",
+              "bowler": "R Clarke",
+              "non_striker": "J Allenby",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JA Rudolph",
+              "bowler": "R Clarke",
+              "non_striker": "J Allenby",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JA Rudolph",
+              "bowler": "R Clarke",
+              "non_striker": "J Allenby",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JA Rudolph",
+              "bowler": "R Clarke",
+              "non_striker": "J Allenby",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JA Rudolph",
+              "bowler": "R Clarke",
+              "non_striker": "J Allenby",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "J Allenby",
+              "bowler": "OJ Hannon-Dalby",
+              "non_striker": "JA Rudolph",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JA Rudolph",
+              "bowler": "OJ Hannon-Dalby",
+              "non_striker": "J Allenby",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JA Rudolph",
+              "bowler": "OJ Hannon-Dalby",
+              "non_striker": "J Allenby",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JA Rudolph",
+              "bowler": "OJ Hannon-Dalby",
+              "non_striker": "J Allenby",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JA Rudolph",
+              "bowler": "OJ Hannon-Dalby",
+              "non_striker": "J Allenby",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JA Rudolph",
+              "bowler": "OJ Hannon-Dalby",
+              "non_striker": "J Allenby",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "J Allenby",
+              "bowler": "R Clarke",
+              "non_striker": "JA Rudolph",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "J Allenby",
+              "bowler": "R Clarke",
+              "non_striker": "JA Rudolph",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Allenby",
+              "bowler": "R Clarke",
+              "non_striker": "JA Rudolph",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "J Allenby",
+              "bowler": "R Clarke",
+              "non_striker": "JA Rudolph",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Allenby",
+              "bowler": "R Clarke",
+              "non_striker": "JA Rudolph",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JA Rudolph",
+              "bowler": "R Clarke",
+              "non_striker": "J Allenby",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "J Allenby",
+              "bowler": "OJ Hannon-Dalby",
+              "non_striker": "JA Rudolph",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Allenby",
+              "bowler": "OJ Hannon-Dalby",
+              "non_striker": "JA Rudolph",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "J Allenby",
+              "bowler": "OJ Hannon-Dalby",
+              "non_striker": "JA Rudolph",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "J Allenby",
+              "bowler": "OJ Hannon-Dalby",
+              "non_striker": "JA Rudolph",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Allenby",
+              "bowler": "OJ Hannon-Dalby",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "JA Rudolph",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Allenby",
+              "bowler": "OJ Hannon-Dalby",
+              "non_striker": "JA Rudolph",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Allenby",
+              "bowler": "OJ Hannon-Dalby",
+              "non_striker": "JA Rudolph",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "JA Rudolph",
+              "bowler": "R Clarke",
+              "non_striker": "J Allenby",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JA Rudolph",
+              "bowler": "R Clarke",
+              "non_striker": "J Allenby",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JA Rudolph",
+              "bowler": "R Clarke",
+              "non_striker": "J Allenby",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JA Rudolph",
+              "bowler": "R Clarke",
+              "non_striker": "J Allenby",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JA Rudolph",
+              "bowler": "R Clarke",
+              "non_striker": "J Allenby",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JA Rudolph",
+              "bowler": "R Clarke",
+              "non_striker": "J Allenby",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "J Allenby",
+              "bowler": "OJ Hannon-Dalby",
+              "non_striker": "JA Rudolph",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JA Rudolph",
+              "bowler": "OJ Hannon-Dalby",
+              "non_striker": "J Allenby",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Allenby",
+              "bowler": "OJ Hannon-Dalby",
+              "non_striker": "JA Rudolph",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Allenby",
+              "bowler": "OJ Hannon-Dalby",
+              "non_striker": "JA Rudolph",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "J Allenby",
+              "bowler": "OJ Hannon-Dalby",
+              "non_striker": "JA Rudolph",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Allenby",
+              "bowler": "OJ Hannon-Dalby",
+              "non_striker": "JA Rudolph",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "JA Rudolph",
+              "bowler": "R Clarke",
+              "non_striker": "J Allenby",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JA Rudolph",
+              "bowler": "R Clarke",
+              "non_striker": "J Allenby",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JA Rudolph",
+              "bowler": "R Clarke",
+              "non_striker": "J Allenby",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JA Rudolph",
+              "bowler": "R Clarke",
+              "non_striker": "J Allenby",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JA Rudolph",
+              "bowler": "R Clarke",
+              "non_striker": "J Allenby",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JA Rudolph",
+              "bowler": "R Clarke",
+              "non_striker": "J Allenby",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "J Allenby",
+              "bowler": "OJ Hannon-Dalby",
+              "non_striker": "JA Rudolph",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Allenby",
+              "bowler": "OJ Hannon-Dalby",
+              "non_striker": "JA Rudolph",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Allenby",
+              "bowler": "OJ Hannon-Dalby",
+              "non_striker": "JA Rudolph",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "J Allenby",
+              "bowler": "OJ Hannon-Dalby",
+              "non_striker": "JA Rudolph",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Allenby",
+              "bowler": "OJ Hannon-Dalby",
+              "non_striker": "JA Rudolph",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JA Rudolph",
+              "bowler": "OJ Hannon-Dalby",
+              "non_striker": "J Allenby",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "J Allenby",
+              "bowler": "R Clarke",
+              "non_striker": "JA Rudolph",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Allenby",
+              "bowler": "R Clarke",
+              "non_striker": "JA Rudolph",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Allenby",
+              "bowler": "R Clarke",
+              "non_striker": "JA Rudolph",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "J Allenby",
+              "bowler": "R Clarke",
+              "non_striker": "JA Rudolph",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Allenby",
+              "bowler": "R Clarke",
+              "non_striker": "JA Rudolph",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Allenby",
+              "bowler": "R Clarke",
+              "non_striker": "JA Rudolph",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "J Allenby",
+              "bowler": "RO Gordon",
+              "non_striker": "JA Rudolph",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Allenby",
+              "bowler": "RO Gordon",
+              "non_striker": "JA Rudolph",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "J Allenby",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "GP Rees",
+              "bowler": "RO Gordon",
+              "non_striker": "JA Rudolph",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GP Rees",
+              "bowler": "RO Gordon",
+              "non_striker": "JA Rudolph",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GP Rees",
+              "bowler": "RO Gordon",
+              "non_striker": "JA Rudolph",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JA Rudolph",
+              "bowler": "RO Gordon",
+              "non_striker": "GP Rees",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "JA Rudolph",
+              "bowler": "R Clarke",
+              "non_striker": "GP Rees",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GP Rees",
+              "bowler": "R Clarke",
+              "non_striker": "JA Rudolph",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GP Rees",
+              "bowler": "R Clarke",
+              "non_striker": "JA Rudolph",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GP Rees",
+              "bowler": "R Clarke",
+              "non_striker": "JA Rudolph",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JA Rudolph",
+              "bowler": "R Clarke",
+              "non_striker": "GP Rees",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GP Rees",
+              "bowler": "R Clarke",
+              "non_striker": "JA Rudolph",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "JA Rudolph",
+              "bowler": "RO Gordon",
+              "non_striker": "GP Rees",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JA Rudolph",
+              "bowler": "RO Gordon",
+              "non_striker": "GP Rees",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GP Rees",
+              "bowler": "RO Gordon",
+              "non_striker": "JA Rudolph",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JA Rudolph",
+              "bowler": "RO Gordon",
+              "non_striker": "GP Rees",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JA Rudolph",
+              "bowler": "RO Gordon",
+              "non_striker": "GP Rees",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JA Rudolph",
+              "bowler": "RO Gordon",
+              "non_striker": "GP Rees",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "GP Rees",
+              "bowler": "R Clarke",
+              "non_striker": "JA Rudolph",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JA Rudolph",
+              "bowler": "R Clarke",
+              "non_striker": "GP Rees",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JA Rudolph",
+              "bowler": "R Clarke",
+              "non_striker": "GP Rees",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JA Rudolph",
+              "bowler": "R Clarke",
+              "non_striker": "GP Rees",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JA Rudolph",
+              "bowler": "R Clarke",
+              "non_striker": "GP Rees",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GP Rees",
+              "bowler": "R Clarke",
+              "non_striker": "JA Rudolph",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "GP Rees",
+                  "fielders": [
+                    {
+                      "name": "TR Ambrose"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "JA Rudolph",
+              "bowler": "RO Gordon",
+              "non_striker": "MW Goodwin",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JA Rudolph",
+              "bowler": "RO Gordon",
+              "non_striker": "MW Goodwin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JA Rudolph",
+              "bowler": "RO Gordon",
+              "non_striker": "MW Goodwin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JA Rudolph",
+              "bowler": "RO Gordon",
+              "non_striker": "MW Goodwin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JA Rudolph",
+              "bowler": "RO Gordon",
+              "non_striker": "MW Goodwin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JA Rudolph",
+              "bowler": "RO Gordon",
+              "non_striker": "MW Goodwin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "MW Goodwin",
+              "bowler": "R Clarke",
+              "non_striker": "JA Rudolph",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MW Goodwin",
+              "bowler": "R Clarke",
+              "non_striker": "JA Rudolph",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JA Rudolph",
+              "bowler": "R Clarke",
+              "non_striker": "MW Goodwin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JA Rudolph",
+              "bowler": "R Clarke",
+              "non_striker": "MW Goodwin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MW Goodwin",
+              "bowler": "R Clarke",
+              "non_striker": "JA Rudolph",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JA Rudolph",
+              "bowler": "R Clarke",
+              "non_striker": "MW Goodwin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "JA Rudolph",
+              "bowler": "RO Gordon",
+              "non_striker": "MW Goodwin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MW Goodwin",
+              "bowler": "RO Gordon",
+              "non_striker": "JA Rudolph",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MW Goodwin",
+              "bowler": "RO Gordon",
+              "non_striker": "JA Rudolph",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MW Goodwin",
+              "bowler": "RO Gordon",
+              "non_striker": "JA Rudolph",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MW Goodwin",
+              "bowler": "RO Gordon",
+              "non_striker": "JA Rudolph",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MW Goodwin",
+              "bowler": "RO Gordon",
+              "non_striker": "JA Rudolph",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "JA Rudolph",
+              "bowler": "RA Jones",
+              "non_striker": "MW Goodwin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JA Rudolph",
+              "bowler": "RA Jones",
+              "non_striker": "MW Goodwin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MW Goodwin",
+              "bowler": "RA Jones",
+              "non_striker": "JA Rudolph",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JA Rudolph",
+              "bowler": "RA Jones",
+              "non_striker": "MW Goodwin",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "JA Rudolph",
+              "bowler": "RA Jones",
+              "non_striker": "MW Goodwin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JA Rudolph",
+              "bowler": "RA Jones",
+              "non_striker": "MW Goodwin",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "MW Goodwin",
+              "bowler": "RO Gordon",
+              "non_striker": "JA Rudolph",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MW Goodwin",
+              "bowler": "RO Gordon",
+              "non_striker": "JA Rudolph",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MW Goodwin",
+              "bowler": "RO Gordon",
+              "non_striker": "JA Rudolph",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MW Goodwin",
+              "bowler": "RO Gordon",
+              "non_striker": "JA Rudolph",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "JA Rudolph",
+              "bowler": "RO Gordon",
+              "non_striker": "MW Goodwin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JA Rudolph",
+              "bowler": "RO Gordon",
+              "non_striker": "MW Goodwin",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 20,
+          "deliveries": [
+            {
+              "batter": "MW Goodwin",
+              "bowler": "RA Jones",
+              "non_striker": "JA Rudolph",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MW Goodwin",
+              "bowler": "RA Jones",
+              "non_striker": "JA Rudolph",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JA Rudolph",
+              "bowler": "RA Jones",
+              "non_striker": "MW Goodwin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MW Goodwin",
+              "bowler": "RA Jones",
+              "non_striker": "JA Rudolph",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MW Goodwin",
+              "bowler": "RA Jones",
+              "non_striker": "JA Rudolph",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MW Goodwin",
+              "bowler": "RA Jones",
+              "non_striker": "JA Rudolph",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 21,
+          "deliveries": [
+            {
+              "batter": "MW Goodwin",
+              "bowler": "JS Patel",
+              "non_striker": "JA Rudolph",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MW Goodwin",
+              "bowler": "JS Patel",
+              "non_striker": "JA Rudolph",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MW Goodwin",
+              "bowler": "JS Patel",
+              "non_striker": "JA Rudolph",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MW Goodwin",
+              "bowler": "JS Patel",
+              "non_striker": "JA Rudolph",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JA Rudolph",
+              "bowler": "JS Patel",
+              "non_striker": "MW Goodwin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MW Goodwin",
+              "bowler": "JS Patel",
+              "non_striker": "JA Rudolph",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 22,
+          "deliveries": [
+            {
+              "batter": "JA Rudolph",
+              "bowler": "RA Jones",
+              "non_striker": "MW Goodwin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MW Goodwin",
+              "bowler": "RA Jones",
+              "non_striker": "JA Rudolph",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MW Goodwin",
+              "bowler": "RA Jones",
+              "non_striker": "JA Rudolph",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MW Goodwin",
+              "bowler": "RA Jones",
+              "non_striker": "JA Rudolph",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JA Rudolph",
+              "bowler": "RA Jones",
+              "non_striker": "MW Goodwin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MW Goodwin",
+              "bowler": "RA Jones",
+              "non_striker": "JA Rudolph",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 23,
+          "deliveries": [
+            {
+              "batter": "JA Rudolph",
+              "bowler": "JS Patel",
+              "non_striker": "MW Goodwin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JA Rudolph",
+              "bowler": "JS Patel",
+              "non_striker": "MW Goodwin",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JA Rudolph",
+              "bowler": "JS Patel",
+              "non_striker": "MW Goodwin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JA Rudolph",
+              "bowler": "JS Patel",
+              "non_striker": "MW Goodwin",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JA Rudolph",
+              "bowler": "JS Patel",
+              "non_striker": "MW Goodwin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MW Goodwin",
+              "bowler": "JS Patel",
+              "non_striker": "JA Rudolph",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 24,
+          "deliveries": [
+            {
+              "batter": "JA Rudolph",
+              "bowler": "RA Jones",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "MW Goodwin",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JA Rudolph",
+              "bowler": "RA Jones",
+              "non_striker": "MW Goodwin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JA Rudolph",
+              "bowler": "RA Jones",
+              "non_striker": "MW Goodwin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MW Goodwin",
+              "bowler": "RA Jones",
+              "non_striker": "JA Rudolph",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MW Goodwin",
+              "bowler": "RA Jones",
+              "non_striker": "JA Rudolph",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MW Goodwin",
+              "bowler": "RA Jones",
+              "non_striker": "JA Rudolph",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MW Goodwin",
+              "bowler": "RA Jones",
+              "non_striker": "JA Rudolph",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 25,
+          "deliveries": [
+            {
+              "batter": "JA Rudolph",
+              "bowler": "A Javid",
+              "non_striker": "MW Goodwin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JA Rudolph",
+              "bowler": "A Javid",
+              "non_striker": "MW Goodwin",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JA Rudolph",
+              "bowler": "A Javid",
+              "non_striker": "MW Goodwin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MW Goodwin",
+              "bowler": "A Javid",
+              "non_striker": "JA Rudolph",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MW Goodwin",
+              "bowler": "A Javid",
+              "non_striker": "JA Rudolph",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JA Rudolph",
+              "bowler": "A Javid",
+              "non_striker": "MW Goodwin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 26,
+          "deliveries": [
+            {
+              "batter": "JA Rudolph",
+              "bowler": "JS Patel",
+              "non_striker": "MW Goodwin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MW Goodwin",
+              "bowler": "JS Patel",
+              "non_striker": "JA Rudolph",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JA Rudolph",
+              "bowler": "JS Patel",
+              "non_striker": "MW Goodwin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "JA Rudolph",
+                  "fielders": [
+                    {
+                      "name": "TR Ambrose"
+                    }
+                  ],
+                  "kind": "stumped"
+                }
+              ]
+            },
+            {
+              "batter": "CB Cooke",
+              "bowler": "JS Patel",
+              "non_striker": "MW Goodwin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CB Cooke",
+              "bowler": "JS Patel",
+              "non_striker": "MW Goodwin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CB Cooke",
+              "bowler": "JS Patel",
+              "non_striker": "MW Goodwin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 27,
+          "deliveries": [
+            {
+              "batter": "CB Cooke",
+              "bowler": "A Javid",
+              "non_striker": "MW Goodwin",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "CB Cooke",
+              "bowler": "A Javid",
+              "non_striker": "MW Goodwin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CB Cooke",
+              "bowler": "A Javid",
+              "non_striker": "MW Goodwin",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "CB Cooke",
+              "bowler": "A Javid",
+              "non_striker": "MW Goodwin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CB Cooke",
+              "bowler": "A Javid",
+              "non_striker": "MW Goodwin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MW Goodwin",
+              "bowler": "A Javid",
+              "non_striker": "CB Cooke",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 28,
+          "deliveries": [
+            {
+              "batter": "MW Goodwin",
+              "bowler": "JS Patel",
+              "non_striker": "CB Cooke",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MW Goodwin",
+              "bowler": "JS Patel",
+              "non_striker": "CB Cooke",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CB Cooke",
+              "bowler": "JS Patel",
+              "non_striker": "MW Goodwin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MW Goodwin",
+              "bowler": "JS Patel",
+              "non_striker": "CB Cooke",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CB Cooke",
+              "bowler": "JS Patel",
+              "non_striker": "MW Goodwin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CB Cooke",
+              "bowler": "JS Patel",
+              "non_striker": "MW Goodwin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 29,
+          "deliveries": [
+            {
+              "batter": "MW Goodwin",
+              "bowler": "A Javid",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "CB Cooke",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MW Goodwin",
+              "bowler": "A Javid",
+              "non_striker": "CB Cooke",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "MW Goodwin",
+              "bowler": "A Javid",
+              "non_striker": "CB Cooke",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CB Cooke",
+              "bowler": "A Javid",
+              "non_striker": "MW Goodwin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MW Goodwin",
+              "bowler": "A Javid",
+              "non_striker": "CB Cooke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MW Goodwin",
+                  "fielders": [
+                    {
+                      "name": "RA Jones"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "CB Cooke",
+              "bowler": "A Javid",
+              "non_striker": "GG Wagg",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GG Wagg",
+              "bowler": "A Javid",
+              "non_striker": "CB Cooke",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 30,
+          "deliveries": [
+            {
+              "batter": "GG Wagg",
+              "bowler": "JS Patel",
+              "non_striker": "CB Cooke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GG Wagg",
+              "bowler": "JS Patel",
+              "non_striker": "CB Cooke",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CB Cooke",
+              "bowler": "JS Patel",
+              "non_striker": "GG Wagg",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GG Wagg",
+              "bowler": "JS Patel",
+              "non_striker": "CB Cooke",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CB Cooke",
+              "bowler": "JS Patel",
+              "non_striker": "GG Wagg",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GG Wagg",
+              "bowler": "JS Patel",
+              "non_striker": "CB Cooke",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 31,
+          "deliveries": [
+            {
+              "batter": "CB Cooke",
+              "bowler": "A Javid",
+              "non_striker": "GG Wagg",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CB Cooke",
+              "bowler": "A Javid",
+              "non_striker": "GG Wagg",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CB Cooke",
+              "bowler": "A Javid",
+              "non_striker": "GG Wagg",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CB Cooke",
+              "bowler": "A Javid",
+              "non_striker": "GG Wagg",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GG Wagg",
+              "bowler": "A Javid",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "CB Cooke",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GG Wagg",
+              "bowler": "A Javid",
+              "non_striker": "CB Cooke",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CB Cooke",
+              "bowler": "A Javid",
+              "non_striker": "GG Wagg",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 32,
+          "deliveries": [
+            {
+              "batter": "GG Wagg",
+              "bowler": "JS Patel",
+              "non_striker": "CB Cooke",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CB Cooke",
+              "bowler": "JS Patel",
+              "non_striker": "GG Wagg",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GG Wagg",
+              "bowler": "JS Patel",
+              "extras": {
+                "byes": 4
+              },
+              "non_striker": "CB Cooke",
+              "runs": {
+                "batter": 0,
+                "extras": 4,
+                "total": 4
+              }
+            },
+            {
+              "batter": "GG Wagg",
+              "bowler": "JS Patel",
+              "non_striker": "CB Cooke",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CB Cooke",
+              "bowler": "JS Patel",
+              "non_striker": "GG Wagg",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CB Cooke",
+              "bowler": "JS Patel",
+              "non_striker": "GG Wagg",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 33,
+          "deliveries": [
+            {
+              "batter": "GG Wagg",
+              "bowler": "A Javid",
+              "non_striker": "CB Cooke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "GG Wagg",
+                  "fielders": [
+                    {
+                      "name": "WTS Porterfield"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "DL Lloyd",
+              "bowler": "A Javid",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "CB Cooke",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CB Cooke",
+              "bowler": "A Javid",
+              "non_striker": "DL Lloyd",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DL Lloyd",
+              "bowler": "A Javid",
+              "non_striker": "CB Cooke",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CB Cooke",
+              "bowler": "A Javid",
+              "non_striker": "DL Lloyd",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DL Lloyd",
+              "bowler": "A Javid",
+              "non_striker": "CB Cooke",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 34,
+          "deliveries": [
+            {
+              "batter": "DL Lloyd",
+              "bowler": "JS Patel",
+              "non_striker": "CB Cooke",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CB Cooke",
+              "bowler": "JS Patel",
+              "non_striker": "DL Lloyd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CB Cooke",
+              "bowler": "JS Patel",
+              "non_striker": "DL Lloyd",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DL Lloyd",
+              "bowler": "JS Patel",
+              "non_striker": "CB Cooke",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CB Cooke",
+              "bowler": "JS Patel",
+              "non_striker": "DL Lloyd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CB Cooke",
+              "bowler": "JS Patel",
+              "non_striker": "DL Lloyd",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 35,
+          "deliveries": [
+            {
+              "batter": "CB Cooke",
+              "bowler": "A Javid",
+              "non_striker": "DL Lloyd",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "CB Cooke",
+              "bowler": "A Javid",
+              "non_striker": "DL Lloyd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CB Cooke",
+              "bowler": "A Javid",
+              "non_striker": "DL Lloyd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "CB Cooke",
+                  "fielders": [
+                    {
+                      "name": "TR Ambrose"
+                    }
+                  ],
+                  "kind": "stumped"
+                }
+              ]
+            },
+            {
+              "batter": "MA Wallace",
+              "bowler": "A Javid",
+              "non_striker": "DL Lloyd",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DL Lloyd",
+              "bowler": "A Javid",
+              "non_striker": "MA Wallace",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "DL Lloyd",
+              "bowler": "A Javid",
+              "non_striker": "MA Wallace",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 36,
+          "deliveries": [
+            {
+              "batter": "MA Wallace",
+              "bowler": "JS Patel",
+              "non_striker": "DL Lloyd",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DL Lloyd",
+              "bowler": "JS Patel",
+              "non_striker": "MA Wallace",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MA Wallace",
+              "bowler": "JS Patel",
+              "non_striker": "DL Lloyd",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DL Lloyd",
+              "bowler": "JS Patel",
+              "non_striker": "MA Wallace",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MA Wallace",
+              "bowler": "JS Patel",
+              "non_striker": "DL Lloyd",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DL Lloyd",
+              "bowler": "JS Patel",
+              "non_striker": "MA Wallace",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 37,
+          "deliveries": [
+            {
+              "batter": "DL Lloyd",
+              "bowler": "A Javid",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "MA Wallace",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MA Wallace",
+              "bowler": "A Javid",
+              "non_striker": "DL Lloyd",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DL Lloyd",
+              "bowler": "A Javid",
+              "non_striker": "MA Wallace",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MA Wallace",
+              "bowler": "A Javid",
+              "non_striker": "DL Lloyd",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MA Wallace",
+              "bowler": "A Javid",
+              "non_striker": "DL Lloyd",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DL Lloyd",
+              "bowler": "A Javid",
+              "non_striker": "MA Wallace",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 38,
+          "deliveries": [
+            {
+              "batter": "DL Lloyd",
+              "bowler": "OJ Hannon-Dalby",
+              "non_striker": "MA Wallace",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "DL Lloyd",
+                  "fielders": [
+                    {
+                      "name": "R Clarke"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "MA Wallace",
+              "bowler": "OJ Hannon-Dalby",
+              "non_striker": "AG Salter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MA Wallace",
+              "bowler": "OJ Hannon-Dalby",
+              "non_striker": "AG Salter",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MA Wallace",
+              "bowler": "OJ Hannon-Dalby",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AG Salter",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MA Wallace",
+              "bowler": "OJ Hannon-Dalby",
+              "non_striker": "AG Salter",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AG Salter",
+              "bowler": "OJ Hannon-Dalby",
+              "non_striker": "MA Wallace",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AG Salter",
+              "bowler": "OJ Hannon-Dalby",
+              "non_striker": "MA Wallace",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 9.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Warwickshire",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "V Chopra",
+              "bowler": "MG Hogan",
+              "non_striker": "WTS Porterfield",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Chopra",
+              "bowler": "MG Hogan",
+              "non_striker": "WTS Porterfield",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "WTS Porterfield",
+              "bowler": "MG Hogan",
+              "non_striker": "V Chopra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Chopra",
+              "bowler": "MG Hogan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "WTS Porterfield",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Chopra",
+              "bowler": "MG Hogan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "WTS Porterfield",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Chopra",
+              "bowler": "MG Hogan",
+              "non_striker": "WTS Porterfield",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "WTS Porterfield",
+              "bowler": "MG Hogan",
+              "non_striker": "V Chopra",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "WTS Porterfield",
+              "bowler": "MG Hogan",
+              "non_striker": "V Chopra",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "V Chopra",
+              "bowler": "J Allenby",
+              "non_striker": "WTS Porterfield",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "WTS Porterfield",
+              "bowler": "J Allenby",
+              "non_striker": "V Chopra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "WTS Porterfield",
+              "bowler": "J Allenby",
+              "non_striker": "V Chopra",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "WTS Porterfield",
+              "bowler": "J Allenby",
+              "non_striker": "V Chopra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Chopra",
+              "bowler": "J Allenby",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "WTS Porterfield",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "WTS Porterfield",
+              "bowler": "J Allenby",
+              "non_striker": "V Chopra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "WTS Porterfield",
+              "bowler": "DA Cosker",
+              "non_striker": "V Chopra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "WTS Porterfield",
+                  "fielders": [
+                    {
+                      "name": "AG Salter"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "V Chopra",
+              "bowler": "DA Cosker",
+              "non_striker": "LJ Evans",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "V Chopra",
+              "bowler": "DA Cosker",
+              "non_striker": "LJ Evans",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "V Chopra",
+              "bowler": "DA Cosker",
+              "non_striker": "LJ Evans",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LJ Evans",
+              "bowler": "DA Cosker",
+              "non_striker": "V Chopra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Chopra",
+              "bowler": "DA Cosker",
+              "non_striker": "LJ Evans",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "LJ Evans",
+              "bowler": "AG Salter",
+              "non_striker": "V Chopra",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "LJ Evans",
+              "bowler": "AG Salter",
+              "non_striker": "V Chopra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Chopra",
+              "bowler": "AG Salter",
+              "non_striker": "LJ Evans",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LJ Evans",
+              "bowler": "AG Salter",
+              "non_striker": "V Chopra",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "LJ Evans",
+              "bowler": "AG Salter",
+              "non_striker": "V Chopra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Chopra",
+              "bowler": "AG Salter",
+              "non_striker": "LJ Evans",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "V Chopra",
+              "bowler": "GG Wagg",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "LJ Evans",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Chopra",
+              "bowler": "GG Wagg",
+              "non_striker": "LJ Evans",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LJ Evans",
+              "bowler": "GG Wagg",
+              "non_striker": "V Chopra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Chopra",
+              "bowler": "GG Wagg",
+              "non_striker": "LJ Evans",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LJ Evans",
+              "bowler": "GG Wagg",
+              "non_striker": "V Chopra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LJ Evans",
+              "bowler": "GG Wagg",
+              "non_striker": "V Chopra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LJ Evans",
+              "bowler": "GG Wagg",
+              "extras": {
+                "byes": 2
+              },
+              "non_striker": "V Chopra",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "V Chopra",
+              "bowler": "DA Cosker",
+              "non_striker": "LJ Evans",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LJ Evans",
+              "bowler": "DA Cosker",
+              "non_striker": "V Chopra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "LJ Evans",
+                  "fielders": [
+                    {
+                      "name": "CB Cooke"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "V Chopra",
+              "bowler": "DA Cosker",
+              "non_striker": "R Clarke",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Clarke",
+              "bowler": "DA Cosker",
+              "non_striker": "V Chopra",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "R Clarke",
+              "bowler": "DA Cosker",
+              "non_striker": "V Chopra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Chopra",
+              "bowler": "DA Cosker",
+              "non_striker": "R Clarke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "R Clarke",
+              "bowler": "GG Wagg",
+              "non_striker": "V Chopra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Clarke",
+              "bowler": "GG Wagg",
+              "non_striker": "V Chopra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Chopra",
+              "bowler": "GG Wagg",
+              "non_striker": "R Clarke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "R Clarke",
+                  "fielders": [
+                    {
+                      "name": "DA Cosker"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "V Chopra",
+              "bowler": "GG Wagg",
+              "non_striker": "A Javid",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Javid",
+              "bowler": "GG Wagg",
+              "non_striker": "V Chopra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Chopra",
+              "bowler": "GG Wagg",
+              "non_striker": "A Javid",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "V Chopra",
+              "bowler": "DL Lloyd",
+              "non_striker": "A Javid",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Javid",
+              "bowler": "DL Lloyd",
+              "non_striker": "V Chopra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Chopra",
+              "bowler": "DL Lloyd",
+              "non_striker": "A Javid",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "V Chopra",
+              "bowler": "DL Lloyd",
+              "non_striker": "A Javid",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Javid",
+              "bowler": "DL Lloyd",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "V Chopra",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Javid",
+              "bowler": "DL Lloyd",
+              "non_striker": "V Chopra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Chopra",
+              "bowler": "DL Lloyd",
+              "extras": {
+                "wides": 3
+              },
+              "non_striker": "A Javid",
+              "runs": {
+                "batter": 0,
+                "extras": 3,
+                "total": 3
+              }
+            },
+            {
+              "batter": "V Chopra",
+              "bowler": "DL Lloyd",
+              "non_striker": "A Javid",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "V Chopra",
+              "bowler": "MG Hogan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Javid",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Chopra",
+              "bowler": "MG Hogan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Javid",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Chopra",
+              "bowler": "MG Hogan",
+              "non_striker": "A Javid",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Chopra",
+              "bowler": "MG Hogan",
+              "non_striker": "A Javid",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "V Chopra",
+              "bowler": "MG Hogan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Javid",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Chopra",
+              "bowler": "MG Hogan",
+              "non_striker": "A Javid",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 0.8,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 10,
+        "runs": 90
+      }
+    }
+  ]
+}

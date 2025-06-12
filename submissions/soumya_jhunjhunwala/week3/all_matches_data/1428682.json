@@ -1,0 +1,2883 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2024-09-03",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Basseterre",
+    "dates": [
+      "2024-09-01"
+    ],
+    "event": {
+      "name": "Caribbean Premier League",
+      "match_number": 5
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "officials": {
+      "match_referees": [
+        "Reon King"
+      ],
+      "reserve_umpires": [
+        "LS Reifer"
+      ],
+      "tv_umpires": [
+        "Zahid Bassarath"
+      ],
+      "umpires": [
+        "CM Tuckett",
+        "GO Brathwaite"
+      ]
+    },
+    "outcome": {
+      "winner": "St Lucia Kings",
+      "by": {
+        "wickets": 5
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "KR Mayers"
+    ],
+    "players": {
+      "St Kitts and Nevis Patriots": [
+        "E Lewis",
+        "ADS Fletcher",
+        "KR Mayers",
+        "SE Rutherford",
+        "T Stubbs",
+        "M Louis",
+        "OF Smith",
+        "RD John",
+        "AR Nedd",
+        "A Nortje",
+        "T Shamsi"
+      ],
+      "St Lucia Kings": [
+        "J Charles",
+        "F du Plessis",
+        "AWJ Auguste",
+        "PBB Rajapaksa",
+        "RL Chase",
+        "TL Seifert",
+        "D Wiese",
+        "M Govia",
+        "MW Forde",
+        "AS Joseph",
+        "Noor Ahmad"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Nortje": "acdc62f5",
+        "ADS Fletcher": "1bae756b",
+        "AR Nedd": "92b7602a",
+        "AS Joseph": "b0946605",
+        "AWJ Auguste": "4b167ede",
+        "CM Tuckett": "a67252f0",
+        "D Wiese": "aa8d28ae",
+        "E Lewis": "0ebfb1ad",
+        "F du Plessis": "3355b542",
+        "GO Brathwaite": "1ace56d4",
+        "J Charles": "09a9d073",
+        "KR Mayers": "73c18486",
+        "LS Reifer": "5dee559a",
+        "M Govia": "4ef73fb3",
+        "M Louis": "1d8c298b",
+        "MW Forde": "83d17bbc",
+        "Noor Ahmad": "efc04be7",
+        "OF Smith": "23cca426",
+        "PBB Rajapaksa": "6c882e9a",
+        "RD John": "393f2ae3",
+        "RL Chase": "3feda4fa",
+        "Reon King": "20fbf68c",
+        "SE Rutherford": "d014d5ac",
+        "T Shamsi": "a03bba42",
+        "T Stubbs": "85b3fab2",
+        "TL Seifert": "4663bd23",
+        "Zahid Bassarath": "ca6bf044"
+      }
+    },
+    "season": "2024",
+    "team_type": "club",
+    "teams": [
+      "St Kitts and Nevis Patriots",
+      "St Lucia Kings"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "St Lucia Kings"
+    },
+    "venue": "Warner Park, Basseterre, St Kitts"
+  },
+  "innings": [
+    {
+      "team": "St Kitts and Nevis Patriots",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "E Lewis",
+              "bowler": "MW Forde",
+              "non_striker": "ADS Fletcher",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ADS Fletcher",
+              "bowler": "MW Forde",
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ADS Fletcher",
+              "bowler": "MW Forde",
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "player_out": "ADS Fletcher",
+                  "fielders": [
+                    {
+                      "name": "AWJ Auguste"
+                    },
+                    {
+                      "name": "TL Seifert"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "KR Mayers",
+              "bowler": "MW Forde",
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Lewis",
+              "bowler": "MW Forde",
+              "non_striker": "KR Mayers",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Lewis",
+              "bowler": "MW Forde",
+              "non_striker": "KR Mayers",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "KR Mayers",
+              "bowler": "M Govia",
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KR Mayers",
+              "bowler": "M Govia",
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Lewis",
+              "bowler": "M Govia",
+              "non_striker": "KR Mayers",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "E Lewis",
+              "bowler": "M Govia",
+              "non_striker": "KR Mayers",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Lewis",
+              "bowler": "M Govia",
+              "non_striker": "KR Mayers",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Lewis",
+              "bowler": "M Govia",
+              "non_striker": "KR Mayers",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "KR Mayers",
+              "bowler": "MW Forde",
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KR Mayers",
+              "bowler": "MW Forde",
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KR Mayers",
+              "bowler": "MW Forde",
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KR Mayers",
+              "bowler": "MW Forde",
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KR Mayers",
+              "bowler": "MW Forde",
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KR Mayers",
+              "bowler": "MW Forde",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KR Mayers",
+              "bowler": "MW Forde",
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "E Lewis",
+              "bowler": "RL Chase",
+              "non_striker": "KR Mayers",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KR Mayers",
+              "bowler": "RL Chase",
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KR Mayers",
+              "bowler": "RL Chase",
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KR Mayers",
+              "bowler": "RL Chase",
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KR Mayers",
+              "bowler": "RL Chase",
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "KR Mayers",
+              "bowler": "RL Chase",
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "E Lewis",
+              "bowler": "MW Forde",
+              "non_striker": "KR Mayers",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "E Lewis",
+              "bowler": "MW Forde",
+              "non_striker": "KR Mayers",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KR Mayers",
+              "bowler": "MW Forde",
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Lewis",
+              "bowler": "MW Forde",
+              "non_striker": "KR Mayers",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Lewis",
+              "bowler": "MW Forde",
+              "non_striker": "KR Mayers",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Lewis",
+              "bowler": "MW Forde",
+              "non_striker": "KR Mayers",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "KR Mayers",
+              "bowler": "RL Chase",
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KR Mayers",
+              "bowler": "RL Chase",
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KR Mayers",
+              "bowler": "RL Chase",
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Lewis",
+              "bowler": "RL Chase",
+              "non_striker": "KR Mayers",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KR Mayers",
+              "bowler": "RL Chase",
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "KR Mayers",
+              "bowler": "RL Chase",
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "E Lewis",
+              "bowler": "AS Joseph",
+              "non_striker": "KR Mayers",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KR Mayers",
+              "bowler": "AS Joseph",
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KR Mayers",
+              "bowler": "AS Joseph",
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Lewis",
+              "bowler": "AS Joseph",
+              "non_striker": "KR Mayers",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KR Mayers",
+              "bowler": "AS Joseph",
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KR Mayers",
+              "bowler": "AS Joseph",
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "E Lewis",
+              "bowler": "M Govia",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "KR Mayers",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Lewis",
+              "bowler": "M Govia",
+              "non_striker": "KR Mayers",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Lewis",
+              "bowler": "M Govia",
+              "non_striker": "KR Mayers",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "E Lewis",
+              "bowler": "M Govia",
+              "non_striker": "KR Mayers",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "E Lewis",
+              "bowler": "M Govia",
+              "non_striker": "KR Mayers",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "E Lewis",
+              "bowler": "M Govia",
+              "non_striker": "KR Mayers",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KR Mayers",
+              "bowler": "M Govia",
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "E Lewis",
+              "bowler": "Noor Ahmad",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "KR Mayers",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Lewis",
+              "bowler": "Noor Ahmad",
+              "non_striker": "KR Mayers",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KR Mayers",
+              "bowler": "Noor Ahmad",
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KR Mayers",
+              "bowler": "Noor Ahmad",
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KR Mayers",
+              "bowler": "Noor Ahmad",
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KR Mayers",
+              "bowler": "Noor Ahmad",
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Lewis",
+              "bowler": "Noor Ahmad",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "KR Mayers",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Lewis",
+              "bowler": "Noor Ahmad",
+              "non_striker": "KR Mayers",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "KR Mayers",
+              "bowler": "AS Joseph",
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Lewis",
+              "bowler": "AS Joseph",
+              "non_striker": "KR Mayers",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "E Lewis",
+              "bowler": "AS Joseph",
+              "non_striker": "KR Mayers",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Lewis",
+              "bowler": "AS Joseph",
+              "non_striker": "KR Mayers",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "E Lewis",
+              "bowler": "AS Joseph",
+              "non_striker": "KR Mayers",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "E Lewis",
+              "bowler": "AS Joseph",
+              "non_striker": "KR Mayers",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "KR Mayers",
+              "bowler": "Noor Ahmad",
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Lewis",
+              "bowler": "Noor Ahmad",
+              "non_striker": "KR Mayers",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KR Mayers",
+              "bowler": "Noor Ahmad",
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KR Mayers",
+              "bowler": "Noor Ahmad",
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Lewis",
+              "bowler": "Noor Ahmad",
+              "non_striker": "KR Mayers",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Lewis",
+              "bowler": "Noor Ahmad",
+              "non_striker": "KR Mayers",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "KR Mayers",
+              "bowler": "D Wiese",
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KR Mayers",
+              "bowler": "D Wiese",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KR Mayers",
+              "bowler": "D Wiese",
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Lewis",
+              "bowler": "D Wiese",
+              "non_striker": "KR Mayers",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "E Lewis",
+              "bowler": "D Wiese",
+              "non_striker": "KR Mayers",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Lewis",
+              "bowler": "D Wiese",
+              "non_striker": "KR Mayers",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Lewis",
+              "bowler": "D Wiese",
+              "non_striker": "KR Mayers",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "E Lewis",
+              "bowler": "Noor Ahmad",
+              "non_striker": "KR Mayers",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Lewis",
+              "bowler": "Noor Ahmad",
+              "non_striker": "KR Mayers",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KR Mayers",
+              "bowler": "Noor Ahmad",
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Lewis",
+              "bowler": "Noor Ahmad",
+              "non_striker": "KR Mayers",
+              "review": {
+                "by": "St Lucia Kings",
+                "umpire": "GO Brathwaite",
+                "batter": "E Lewis",
+                "decision": "struck down",
+                "type": "wicket"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Lewis",
+              "bowler": "Noor Ahmad",
+              "non_striker": "KR Mayers",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Lewis",
+              "bowler": "Noor Ahmad",
+              "non_striker": "KR Mayers",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "KR Mayers",
+              "bowler": "RL Chase",
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "KR Mayers",
+              "bowler": "RL Chase",
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Lewis",
+              "bowler": "RL Chase",
+              "non_striker": "KR Mayers",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "E Lewis",
+              "bowler": "RL Chase",
+              "non_striker": "KR Mayers",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KR Mayers",
+              "bowler": "RL Chase",
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Lewis",
+              "bowler": "RL Chase",
+              "non_striker": "KR Mayers",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "KR Mayers",
+              "bowler": "Noor Ahmad",
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "KR Mayers",
+              "bowler": "Noor Ahmad",
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "KR Mayers",
+              "bowler": "Noor Ahmad",
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "KR Mayers",
+              "bowler": "Noor Ahmad",
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KR Mayers",
+              "bowler": "Noor Ahmad",
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Lewis",
+              "bowler": "Noor Ahmad",
+              "non_striker": "KR Mayers",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "KR Mayers",
+              "bowler": "D Wiese",
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Lewis",
+              "bowler": "D Wiese",
+              "non_striker": "KR Mayers",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Lewis",
+              "bowler": "D Wiese",
+              "non_striker": "KR Mayers",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KR Mayers",
+              "bowler": "D Wiese",
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "KR Mayers",
+              "bowler": "D Wiese",
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Lewis",
+              "bowler": "D Wiese",
+              "non_striker": "KR Mayers",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "KR Mayers",
+              "bowler": "AS Joseph",
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "KR Mayers",
+              "bowler": "AS Joseph",
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KR Mayers",
+              "bowler": "AS Joseph",
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KR Mayers",
+              "bowler": "AS Joseph",
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Lewis",
+              "bowler": "AS Joseph",
+              "non_striker": "KR Mayers",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "E Lewis",
+              "bowler": "AS Joseph",
+              "non_striker": "KR Mayers",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "E Lewis",
+              "bowler": "MW Forde",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "KR Mayers",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Lewis",
+              "bowler": "MW Forde",
+              "non_striker": "KR Mayers",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KR Mayers",
+              "bowler": "MW Forde",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KR Mayers",
+              "bowler": "MW Forde",
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KR Mayers",
+              "bowler": "MW Forde",
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Lewis",
+              "bowler": "MW Forde",
+              "non_striker": "KR Mayers",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "E Lewis",
+              "bowler": "MW Forde",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "KR Mayers",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Lewis",
+              "bowler": "MW Forde",
+              "non_striker": "KR Mayers",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KR Mayers",
+              "bowler": "MW Forde",
+              "non_striker": "E Lewis",
+              "review": {
+                "by": "St Lucia Kings",
+                "umpire": "CM Tuckett",
+                "batter": "KR Mayers",
+                "decision": "struck down",
+                "type": "wicket"
+              },
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "KR Mayers",
+              "bowler": "AS Joseph",
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KR Mayers",
+              "bowler": "AS Joseph",
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KR Mayers",
+              "bowler": "AS Joseph",
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KR Mayers",
+              "bowler": "AS Joseph",
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KR Mayers",
+              "bowler": "AS Joseph",
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "KR Mayers",
+              "bowler": "AS Joseph",
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "E Lewis",
+              "bowler": "D Wiese",
+              "non_striker": "KR Mayers",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KR Mayers",
+              "bowler": "D Wiese",
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Lewis",
+              "bowler": "D Wiese",
+              "non_striker": "KR Mayers",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KR Mayers",
+              "bowler": "D Wiese",
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "KR Mayers",
+                  "fielders": [
+                    {
+                      "name": "M Govia"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "SE Rutherford",
+              "bowler": "D Wiese",
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SE Rutherford",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "T Stubbs",
+              "bowler": "D Wiese",
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "St Lucia Kings",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "J Charles",
+              "bowler": "KR Mayers",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "KR Mayers",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "KR Mayers",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "KR Mayers",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "KR Mayers",
+              "non_striker": "F du Plessis",
+              "review": {
+                "by": "St Kitts and Nevis Patriots",
+                "umpire": "GO Brathwaite",
+                "batter": "J Charles",
+                "decision": "struck down",
+                "type": "wicket"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "KR Mayers",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "F du Plessis",
+              "bowler": "AR Nedd",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "AR Nedd",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "AR Nedd",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "AR Nedd",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "AR Nedd",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "AR Nedd",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "F du Plessis",
+              "bowler": "KR Mayers",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "KR Mayers",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "J Charles",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "AWJ Auguste",
+              "bowler": "KR Mayers",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AWJ Auguste",
+              "bowler": "KR Mayers",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AWJ Auguste",
+              "bowler": "KR Mayers",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AWJ Auguste",
+              "bowler": "KR Mayers",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "AWJ Auguste",
+                  "fielders": [
+                    {
+                      "name": "A Nortje"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "F du Plessis",
+              "bowler": "A Nortje",
+              "non_striker": "PBB Rajapaksa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "F du Plessis",
+              "bowler": "A Nortje",
+              "non_striker": "PBB Rajapaksa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "F du Plessis",
+                  "fielders": [
+                    {
+                      "name": "KR Mayers"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "RL Chase",
+              "bowler": "A Nortje",
+              "non_striker": "PBB Rajapaksa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RL Chase",
+              "bowler": "A Nortje",
+              "non_striker": "PBB Rajapaksa",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RL Chase",
+              "bowler": "A Nortje",
+              "non_striker": "PBB Rajapaksa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "RL Chase",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "TL Seifert",
+              "bowler": "A Nortje",
+              "non_striker": "PBB Rajapaksa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "PBB Rajapaksa",
+              "bowler": "KR Mayers",
+              "non_striker": "TL Seifert",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "PBB Rajapaksa",
+              "bowler": "KR Mayers",
+              "non_striker": "TL Seifert",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TL Seifert",
+              "bowler": "KR Mayers",
+              "non_striker": "PBB Rajapaksa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TL Seifert",
+              "bowler": "KR Mayers",
+              "non_striker": "PBB Rajapaksa",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "TL Seifert",
+              "bowler": "KR Mayers",
+              "non_striker": "PBB Rajapaksa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TL Seifert",
+              "bowler": "KR Mayers",
+              "non_striker": "PBB Rajapaksa",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "PBB Rajapaksa",
+              "bowler": "A Nortje",
+              "non_striker": "TL Seifert",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TL Seifert",
+              "bowler": "A Nortje",
+              "non_striker": "PBB Rajapaksa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TL Seifert",
+              "bowler": "A Nortje",
+              "extras": {
+                "byes": 4
+              },
+              "non_striker": "PBB Rajapaksa",
+              "runs": {
+                "batter": 0,
+                "extras": 4,
+                "total": 4
+              }
+            },
+            {
+              "batter": "TL Seifert",
+              "bowler": "A Nortje",
+              "non_striker": "PBB Rajapaksa",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "TL Seifert",
+              "bowler": "A Nortje",
+              "non_striker": "PBB Rajapaksa",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "TL Seifert",
+              "bowler": "A Nortje",
+              "non_striker": "PBB Rajapaksa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "PBB Rajapaksa",
+              "bowler": "AR Nedd",
+              "non_striker": "TL Seifert",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PBB Rajapaksa",
+              "bowler": "AR Nedd",
+              "non_striker": "TL Seifert",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TL Seifert",
+              "bowler": "AR Nedd",
+              "non_striker": "PBB Rajapaksa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PBB Rajapaksa",
+              "bowler": "AR Nedd",
+              "non_striker": "TL Seifert",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "PBB Rajapaksa",
+              "bowler": "AR Nedd",
+              "non_striker": "TL Seifert",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TL Seifert",
+              "bowler": "AR Nedd",
+              "non_striker": "PBB Rajapaksa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "TL Seifert",
+              "bowler": "T Shamsi",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "PBB Rajapaksa",
+              "runs": {
+                "batter": 6,
+                "extras": 1,
+                "total": 7
+              }
+            },
+            {
+              "batter": "TL Seifert",
+              "bowler": "T Shamsi",
+              "non_striker": "PBB Rajapaksa",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "TL Seifert",
+              "bowler": "T Shamsi",
+              "non_striker": "PBB Rajapaksa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PBB Rajapaksa",
+              "bowler": "T Shamsi",
+              "non_striker": "TL Seifert",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TL Seifert",
+              "bowler": "T Shamsi",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "PBB Rajapaksa",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TL Seifert",
+              "bowler": "T Shamsi",
+              "non_striker": "PBB Rajapaksa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TL Seifert",
+              "bowler": "T Shamsi",
+              "non_striker": "PBB Rajapaksa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PBB Rajapaksa",
+              "bowler": "T Shamsi",
+              "non_striker": "TL Seifert",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "PBB Rajapaksa",
+              "bowler": "AR Nedd",
+              "non_striker": "TL Seifert",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "PBB Rajapaksa",
+              "bowler": "AR Nedd",
+              "non_striker": "TL Seifert",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TL Seifert",
+              "bowler": "AR Nedd",
+              "non_striker": "PBB Rajapaksa",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "TL Seifert",
+              "bowler": "AR Nedd",
+              "non_striker": "PBB Rajapaksa",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "TL Seifert",
+              "bowler": "AR Nedd",
+              "non_striker": "PBB Rajapaksa",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "TL Seifert",
+              "bowler": "AR Nedd",
+              "non_striker": "PBB Rajapaksa",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "PBB Rajapaksa",
+              "bowler": "RD John",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "TL Seifert",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PBB Rajapaksa",
+              "bowler": "RD John",
+              "non_striker": "TL Seifert",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PBB Rajapaksa",
+              "bowler": "RD John",
+              "non_striker": "TL Seifert",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TL Seifert",
+              "bowler": "RD John",
+              "non_striker": "PBB Rajapaksa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PBB Rajapaksa",
+              "bowler": "RD John",
+              "non_striker": "TL Seifert",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "PBB Rajapaksa",
+              "bowler": "RD John",
+              "non_striker": "TL Seifert",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "PBB Rajapaksa",
+              "bowler": "RD John",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "TL Seifert",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PBB Rajapaksa",
+              "bowler": "RD John",
+              "non_striker": "TL Seifert",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "TL Seifert",
+              "bowler": "OF Smith",
+              "non_striker": "PBB Rajapaksa",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "TL Seifert",
+              "bowler": "OF Smith",
+              "non_striker": "PBB Rajapaksa",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "TL Seifert",
+              "bowler": "OF Smith",
+              "non_striker": "PBB Rajapaksa",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "TL Seifert",
+              "bowler": "OF Smith",
+              "non_striker": "PBB Rajapaksa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PBB Rajapaksa",
+              "bowler": "OF Smith",
+              "non_striker": "TL Seifert",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TL Seifert",
+              "bowler": "OF Smith",
+              "non_striker": "PBB Rajapaksa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "TL Seifert",
+                  "fielders": [
+                    {
+                      "name": "KR Mayers"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "PBB Rajapaksa",
+              "bowler": "RD John",
+              "non_striker": "D Wiese",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "PBB Rajapaksa",
+              "bowler": "RD John",
+              "non_striker": "D Wiese",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Wiese",
+              "bowler": "RD John",
+              "non_striker": "PBB Rajapaksa",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "D Wiese",
+              "bowler": "RD John",
+              "non_striker": "PBB Rajapaksa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PBB Rajapaksa",
+              "bowler": "RD John",
+              "non_striker": "D Wiese",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Wiese",
+              "bowler": "RD John",
+              "non_striker": "PBB Rajapaksa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "PBB Rajapaksa",
+              "bowler": "OF Smith",
+              "non_striker": "D Wiese",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PBB Rajapaksa",
+              "bowler": "OF Smith",
+              "non_striker": "D Wiese",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Wiese",
+              "bowler": "OF Smith",
+              "non_striker": "PBB Rajapaksa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PBB Rajapaksa",
+              "bowler": "OF Smith",
+              "non_striker": "D Wiese",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Wiese",
+              "bowler": "OF Smith",
+              "non_striker": "PBB Rajapaksa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Wiese",
+              "bowler": "OF Smith",
+              "non_striker": "PBB Rajapaksa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "D Wiese",
+              "bowler": "T Shamsi",
+              "non_striker": "PBB Rajapaksa",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "D Wiese",
+              "bowler": "T Shamsi",
+              "non_striker": "PBB Rajapaksa",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "D Wiese",
+              "bowler": "T Shamsi",
+              "non_striker": "PBB Rajapaksa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PBB Rajapaksa",
+              "bowler": "T Shamsi",
+              "non_striker": "D Wiese",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "PBB Rajapaksa",
+              "bowler": "T Shamsi",
+              "non_striker": "D Wiese",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "PBB Rajapaksa",
+              "bowler": "T Shamsi",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "D Wiese",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PBB Rajapaksa",
+              "bowler": "T Shamsi",
+              "non_striker": "D Wiese",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "PBB Rajapaksa",
+              "bowler": "A Nortje",
+              "non_striker": "D Wiese",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "PBB Rajapaksa",
+              "bowler": "A Nortje",
+              "non_striker": "D Wiese",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Wiese",
+              "bowler": "A Nortje",
+              "non_striker": "PBB Rajapaksa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PBB Rajapaksa",
+              "bowler": "A Nortje",
+              "non_striker": "D Wiese",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Wiese",
+              "bowler": "A Nortje",
+              "non_striker": "PBB Rajapaksa",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "D Wiese",
+              "bowler": "A Nortje",
+              "non_striker": "PBB Rajapaksa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "D Wiese",
+              "bowler": "KR Mayers",
+              "non_striker": "PBB Rajapaksa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Wiese",
+              "bowler": "KR Mayers",
+              "non_striker": "PBB Rajapaksa",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "D Wiese",
+              "bowler": "KR Mayers",
+              "non_striker": "PBB Rajapaksa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PBB Rajapaksa",
+              "bowler": "KR Mayers",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "D Wiese",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PBB Rajapaksa",
+              "bowler": "KR Mayers",
+              "non_striker": "D Wiese",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Wiese",
+              "bowler": "KR Mayers",
+              "non_striker": "PBB Rajapaksa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PBB Rajapaksa",
+              "bowler": "KR Mayers",
+              "non_striker": "D Wiese",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "D Wiese",
+              "bowler": "A Nortje",
+              "non_striker": "PBB Rajapaksa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PBB Rajapaksa",
+              "bowler": "A Nortje",
+              "non_striker": "D Wiese",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PBB Rajapaksa",
+              "bowler": "A Nortje",
+              "non_striker": "D Wiese",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Wiese",
+              "bowler": "A Nortje",
+              "non_striker": "PBB Rajapaksa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Wiese",
+              "bowler": "A Nortje",
+              "non_striker": "PBB Rajapaksa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PBB Rajapaksa",
+              "bowler": "A Nortje",
+              "non_striker": "D Wiese",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "PBB Rajapaksa",
+              "bowler": "OF Smith",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "D Wiese",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PBB Rajapaksa",
+              "bowler": "OF Smith",
+              "non_striker": "D Wiese",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Wiese",
+              "bowler": "OF Smith",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "PBB Rajapaksa",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Wiese",
+              "bowler": "OF Smith",
+              "non_striker": "PBB Rajapaksa",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 202
+      }
+    }
+  ]
+}

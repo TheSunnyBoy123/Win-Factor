@@ -1,0 +1,2744 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2025-01-30",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Dhaka",
+    "dates": [
+      "2025-01-30"
+    ],
+    "event": {
+      "name": "Bangladesh Premier League",
+      "match_number": 40
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "officials": {
+      "match_referees": [
+        "Ehsanul Haque"
+      ],
+      "reserve_umpires": [
+        "Kamruzzaman Limon"
+      ],
+      "tv_umpires": [
+        "Ali Arman"
+      ],
+      "umpires": [
+        "Gazi Sohel",
+        "Morshed Ali Khan"
+      ]
+    },
+    "outcome": {
+      "winner": "Chittagong Kings",
+      "by": {
+        "runs": 96
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "Shoriful Islam"
+    ],
+    "players": {
+      "Chittagong Kings": [
+        "Khawaja Nafay",
+        "Parvez Hossain Emon",
+        "G Clark",
+        "Mohammad Mithun",
+        "Haider Ali",
+        "Shamim Hossain",
+        "Rahatul Ferdous",
+        "Khaled Ahmed",
+        "Shoriful Islam",
+        "B Fernando",
+        "Al Islam"
+      ],
+      "Sylhet Strikers": [
+        "Zawad Abrar",
+        "Rony Talukdar",
+        "Zakir Hasan",
+        "Aaron Jones",
+        "Jaker Ali",
+        "Nahidul Islam",
+        "Ariful Haque",
+        "Tanzim Hasan Sakib",
+        "Samiullah Shenwari",
+        "Ruyel Miah",
+        "Sumon Khan"
+      ]
+    },
+    "registry": {
+      "people": {
+        "Aaron Jones": "17aa4f1d",
+        "Al Islam": "45d38a84",
+        "Ali Arman": "1342d8d8",
+        "Ariful Haque": "ad1730bc",
+        "B Fernando": "dabbd0ae",
+        "Ehsanul Haque": "688b2d58",
+        "G Clark": "4fd09cfc",
+        "Gazi Sohel": "f0df3ed7",
+        "Haider Ali": "c13e34f4",
+        "Jaker Ali": "cd56a813",
+        "Kamruzzaman Limon": "2ae7a044",
+        "Khaled Ahmed": "5dbdecf1",
+        "Khawaja Nafay": "3cf54e77",
+        "Mohammad Mithun": "77191792",
+        "Morshed Ali Khan": "a7c3cf5f",
+        "Nahidul Islam": "8c7b16c8",
+        "Parvez Hossain Emon": "489aaf0a",
+        "Rahatul Ferdous": "8cf89dea",
+        "Rony Talukdar": "8bd614b2",
+        "Ruyel Miah": "fa41edde",
+        "Sajjadul Haque": "fedeb203",
+        "Samiullah Shenwari": "61646132",
+        "Shamim Hossain": "711249d1",
+        "Shoriful Islam": "bb34fd31",
+        "Sumon Khan": "a84ccd7d",
+        "Tanzim Hasan Sakib": "0b0cc297",
+        "Zakir Hasan": "e3e09091",
+        "Zawad Abrar": "385ea9d4"
+      }
+    },
+    "season": "2024/25",
+    "team_type": "club",
+    "teams": [
+      "Chittagong Kings",
+      "Sylhet Strikers"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Sylhet Strikers"
+    },
+    "venue": "Shere Bangla National Stadium, Mirpur"
+  },
+  "innings": [
+    {
+      "team": "Chittagong Kings",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Khawaja Nafay",
+              "bowler": "Tanzim Hasan Sakib",
+              "non_striker": "Parvez Hossain Emon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Khawaja Nafay",
+              "bowler": "Tanzim Hasan Sakib",
+              "non_striker": "Parvez Hossain Emon",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Parvez Hossain Emon",
+              "bowler": "Tanzim Hasan Sakib",
+              "non_striker": "Khawaja Nafay",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Parvez Hossain Emon",
+              "bowler": "Tanzim Hasan Sakib",
+              "non_striker": "Khawaja Nafay",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Khawaja Nafay",
+              "bowler": "Tanzim Hasan Sakib",
+              "non_striker": "Parvez Hossain Emon",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Parvez Hossain Emon",
+              "bowler": "Tanzim Hasan Sakib",
+              "non_striker": "Khawaja Nafay",
+              "review": {
+                "by": "Chittagong Kings",
+                "umpire": "Morshed Ali Khan",
+                "batter": "Parvez Hossain Emon",
+                "decision": "struck down",
+                "type": "wicket"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Parvez Hossain Emon",
+                  "kind": "lbw"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Khawaja Nafay",
+              "bowler": "Ruyel Miah",
+              "extras": {
+                "legbyes": 5
+              },
+              "non_striker": "G Clark",
+              "review": {
+                "by": "Sylhet Strikers",
+                "umpire": "Gazi Sohel",
+                "batter": "Khawaja Nafay",
+                "decision": "struck down",
+                "type": "wicket",
+                "umpires_call": true
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 5,
+                "total": 5
+              }
+            },
+            {
+              "batter": "G Clark",
+              "bowler": "Ruyel Miah",
+              "non_striker": "Khawaja Nafay",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Clark",
+              "bowler": "Ruyel Miah",
+              "non_striker": "Khawaja Nafay",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Khawaja Nafay",
+              "bowler": "Ruyel Miah",
+              "non_striker": "G Clark",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Khawaja Nafay",
+              "bowler": "Ruyel Miah",
+              "non_striker": "G Clark",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Khawaja Nafay",
+              "bowler": "Ruyel Miah",
+              "non_striker": "G Clark",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "G Clark",
+              "bowler": "Tanzim Hasan Sakib",
+              "non_striker": "Khawaja Nafay",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Clark",
+              "bowler": "Tanzim Hasan Sakib",
+              "non_striker": "Khawaja Nafay",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Clark",
+              "bowler": "Tanzim Hasan Sakib",
+              "non_striker": "Khawaja Nafay",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "G Clark",
+                  "fielders": [
+                    {
+                      "name": "Aaron Jones"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Mohammad Mithun",
+              "bowler": "Tanzim Hasan Sakib",
+              "non_striker": "Khawaja Nafay",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Khawaja Nafay",
+              "bowler": "Tanzim Hasan Sakib",
+              "non_striker": "Mohammad Mithun",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Khawaja Nafay",
+              "bowler": "Tanzim Hasan Sakib",
+              "non_striker": "Mohammad Mithun",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Mohammad Mithun",
+              "bowler": "Sumon Khan",
+              "non_striker": "Khawaja Nafay",
+              "review": {
+                "by": "Sylhet Strikers",
+                "umpire": "Gazi Sohel",
+                "batter": "Mohammad Mithun",
+                "decision": "struck down",
+                "type": "wicket"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Mithun",
+              "bowler": "Sumon Khan",
+              "non_striker": "Khawaja Nafay",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Mithun",
+              "bowler": "Sumon Khan",
+              "non_striker": "Khawaja Nafay",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Khawaja Nafay",
+              "bowler": "Sumon Khan",
+              "non_striker": "Mohammad Mithun",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Khawaja Nafay",
+              "bowler": "Sumon Khan",
+              "non_striker": "Mohammad Mithun",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Khawaja Nafay",
+              "bowler": "Sumon Khan",
+              "non_striker": "Mohammad Mithun",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Mohammad Mithun",
+              "bowler": "Nahidul Islam",
+              "non_striker": "Khawaja Nafay",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Mohammad Mithun",
+              "bowler": "Nahidul Islam",
+              "non_striker": "Khawaja Nafay",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Khawaja Nafay",
+              "bowler": "Nahidul Islam",
+              "non_striker": "Mohammad Mithun",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Khawaja Nafay",
+              "bowler": "Nahidul Islam",
+              "non_striker": "Mohammad Mithun",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Khawaja Nafay",
+              "bowler": "Nahidul Islam",
+              "non_striker": "Mohammad Mithun",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Mithun",
+              "bowler": "Nahidul Islam",
+              "non_striker": "Khawaja Nafay",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Khawaja Nafay",
+              "bowler": "Sumon Khan",
+              "non_striker": "Mohammad Mithun",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Mithun",
+              "bowler": "Sumon Khan",
+              "non_striker": "Khawaja Nafay",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Khawaja Nafay",
+              "bowler": "Sumon Khan",
+              "non_striker": "Mohammad Mithun",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Mithun",
+              "bowler": "Sumon Khan",
+              "non_striker": "Khawaja Nafay",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Mithun",
+              "bowler": "Sumon Khan",
+              "non_striker": "Khawaja Nafay",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Khawaja Nafay",
+              "bowler": "Sumon Khan",
+              "non_striker": "Mohammad Mithun",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Khawaja Nafay",
+              "bowler": "Nahidul Islam",
+              "non_striker": "Mohammad Mithun",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Mithun",
+              "bowler": "Nahidul Islam",
+              "non_striker": "Khawaja Nafay",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Mohammad Mithun",
+              "bowler": "Nahidul Islam",
+              "non_striker": "Khawaja Nafay",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Khawaja Nafay",
+              "bowler": "Nahidul Islam",
+              "non_striker": "Mohammad Mithun",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Khawaja Nafay",
+              "bowler": "Nahidul Islam",
+              "non_striker": "Mohammad Mithun",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Mithun",
+              "bowler": "Nahidul Islam",
+              "non_striker": "Khawaja Nafay",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Mohammad Mithun",
+              "bowler": "Samiullah Shenwari",
+              "non_striker": "Khawaja Nafay",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Khawaja Nafay",
+              "bowler": "Samiullah Shenwari",
+              "non_striker": "Mohammad Mithun",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Khawaja Nafay",
+              "bowler": "Samiullah Shenwari",
+              "non_striker": "Mohammad Mithun",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Mithun",
+              "bowler": "Samiullah Shenwari",
+              "non_striker": "Khawaja Nafay",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Mohammad Mithun",
+              "bowler": "Samiullah Shenwari",
+              "non_striker": "Khawaja Nafay",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Mithun",
+              "bowler": "Samiullah Shenwari",
+              "non_striker": "Khawaja Nafay",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "Khawaja Nafay",
+              "bowler": "Ruyel Miah",
+              "non_striker": "Mohammad Mithun",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Mithun",
+              "bowler": "Ruyel Miah",
+              "non_striker": "Khawaja Nafay",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Mithun",
+              "bowler": "Ruyel Miah",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "Khawaja Nafay",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Mithun",
+              "bowler": "Ruyel Miah",
+              "non_striker": "Khawaja Nafay",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Khawaja Nafay",
+              "bowler": "Ruyel Miah",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Mohammad Mithun",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Khawaja Nafay",
+              "bowler": "Ruyel Miah",
+              "non_striker": "Mohammad Mithun",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Khawaja Nafay",
+              "bowler": "Ruyel Miah",
+              "non_striker": "Mohammad Mithun",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Mithun",
+              "bowler": "Ruyel Miah",
+              "extras": {
+                "byes": 4,
+                "noballs": 1
+              },
+              "non_striker": "Khawaja Nafay",
+              "runs": {
+                "batter": 0,
+                "extras": 5,
+                "total": 5
+              }
+            },
+            {
+              "batter": "Mohammad Mithun",
+              "bowler": "Ruyel Miah",
+              "non_striker": "Khawaja Nafay",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "Khawaja Nafay",
+              "bowler": "Nahidul Islam",
+              "non_striker": "Mohammad Mithun",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Mithun",
+              "bowler": "Nahidul Islam",
+              "non_striker": "Khawaja Nafay",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Mohammad Mithun",
+              "bowler": "Nahidul Islam",
+              "non_striker": "Khawaja Nafay",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Mohammad Mithun",
+              "bowler": "Nahidul Islam",
+              "non_striker": "Khawaja Nafay",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Khawaja Nafay",
+              "bowler": "Nahidul Islam",
+              "non_striker": "Mohammad Mithun",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Mithun",
+              "bowler": "Nahidul Islam",
+              "non_striker": "Khawaja Nafay",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "Mohammad Mithun",
+              "bowler": "Samiullah Shenwari",
+              "non_striker": "Khawaja Nafay",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Khawaja Nafay",
+              "bowler": "Samiullah Shenwari",
+              "non_striker": "Mohammad Mithun",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Mithun",
+              "bowler": "Samiullah Shenwari",
+              "non_striker": "Khawaja Nafay",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Khawaja Nafay",
+              "bowler": "Samiullah Shenwari",
+              "non_striker": "Mohammad Mithun",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Khawaja Nafay",
+                  "fielders": [
+                    {
+                      "name": "Sajjadul Haque",
+                      "substitute": true
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Haider Ali",
+              "bowler": "Samiullah Shenwari",
+              "non_striker": "Mohammad Mithun",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Mithun",
+              "bowler": "Samiullah Shenwari",
+              "non_striker": "Haider Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "Mohammad Mithun",
+              "bowler": "Nahidul Islam",
+              "non_striker": "Haider Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Haider Ali",
+              "bowler": "Nahidul Islam",
+              "non_striker": "Mohammad Mithun",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Mithun",
+              "bowler": "Nahidul Islam",
+              "non_striker": "Haider Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Mithun",
+              "bowler": "Nahidul Islam",
+              "non_striker": "Haider Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Haider Ali",
+              "bowler": "Nahidul Islam",
+              "non_striker": "Mohammad Mithun",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Mithun",
+              "bowler": "Nahidul Islam",
+              "non_striker": "Haider Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "Haider Ali",
+              "bowler": "Samiullah Shenwari",
+              "non_striker": "Mohammad Mithun",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Haider Ali",
+              "bowler": "Samiullah Shenwari",
+              "non_striker": "Mohammad Mithun",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Mithun",
+              "bowler": "Samiullah Shenwari",
+              "non_striker": "Haider Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Haider Ali",
+              "bowler": "Samiullah Shenwari",
+              "non_striker": "Mohammad Mithun",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Mithun",
+              "bowler": "Samiullah Shenwari",
+              "non_striker": "Haider Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Haider Ali",
+              "bowler": "Samiullah Shenwari",
+              "non_striker": "Mohammad Mithun",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Haider Ali",
+                  "fielders": [
+                    {
+                      "name": "Zawad Abrar"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "Mohammad Mithun",
+              "bowler": "Tanzim Hasan Sakib",
+              "non_striker": "Shamim Hossain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shamim Hossain",
+              "bowler": "Tanzim Hasan Sakib",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Mohammad Mithun",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shamim Hossain",
+              "bowler": "Tanzim Hasan Sakib",
+              "non_striker": "Mohammad Mithun",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Mithun",
+              "bowler": "Tanzim Hasan Sakib",
+              "non_striker": "Shamim Hossain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shamim Hossain",
+              "bowler": "Tanzim Hasan Sakib",
+              "non_striker": "Mohammad Mithun",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Mithun",
+              "bowler": "Tanzim Hasan Sakib",
+              "non_striker": "Shamim Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Mohammad Mithun",
+                  "fielders": [
+                    {
+                      "name": "Aaron Jones"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Rahatul Ferdous",
+              "bowler": "Tanzim Hasan Sakib",
+              "non_striker": "Shamim Hossain",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "Shamim Hossain",
+              "bowler": "Sumon Khan",
+              "non_striker": "Rahatul Ferdous",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shamim Hossain",
+              "bowler": "Sumon Khan",
+              "non_striker": "Rahatul Ferdous",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shamim Hossain",
+              "bowler": "Sumon Khan",
+              "non_striker": "Rahatul Ferdous",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shamim Hossain",
+              "bowler": "Sumon Khan",
+              "non_striker": "Rahatul Ferdous",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rahatul Ferdous",
+              "bowler": "Sumon Khan",
+              "non_striker": "Shamim Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Rahatul Ferdous",
+                  "fielders": [
+                    {
+                      "name": "Aaron Jones"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Khaled Ahmed",
+              "bowler": "Sumon Khan",
+              "non_striker": "Shamim Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "Shamim Hossain",
+              "bowler": "Samiullah Shenwari",
+              "non_striker": "Khaled Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Khaled Ahmed",
+              "bowler": "Samiullah Shenwari",
+              "non_striker": "Shamim Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Khaled Ahmed",
+              "bowler": "Samiullah Shenwari",
+              "non_striker": "Shamim Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Khaled Ahmed",
+              "bowler": "Samiullah Shenwari",
+              "non_striker": "Shamim Hossain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shamim Hossain",
+              "bowler": "Samiullah Shenwari",
+              "non_striker": "Khaled Ahmed",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Shamim Hossain",
+              "bowler": "Samiullah Shenwari",
+              "non_striker": "Khaled Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "Shamim Hossain",
+              "bowler": "Ruyel Miah",
+              "non_striker": "Khaled Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Khaled Ahmed",
+              "bowler": "Ruyel Miah",
+              "non_striker": "Shamim Hossain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shamim Hossain",
+              "bowler": "Ruyel Miah",
+              "non_striker": "Khaled Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Khaled Ahmed",
+              "bowler": "Ruyel Miah",
+              "non_striker": "Shamim Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Khaled Ahmed",
+              "bowler": "Ruyel Miah",
+              "non_striker": "Shamim Hossain",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Khaled Ahmed",
+              "bowler": "Ruyel Miah",
+              "non_striker": "Shamim Hossain",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "Shamim Hossain",
+              "bowler": "Tanzim Hasan Sakib",
+              "non_striker": "Khaled Ahmed",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Shamim Hossain",
+              "bowler": "Tanzim Hasan Sakib",
+              "non_striker": "Khaled Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Khaled Ahmed",
+              "bowler": "Tanzim Hasan Sakib",
+              "non_striker": "Shamim Hossain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shamim Hossain",
+              "bowler": "Tanzim Hasan Sakib",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Khaled Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shamim Hossain",
+              "bowler": "Tanzim Hasan Sakib",
+              "non_striker": "Khaled Ahmed",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Shamim Hossain",
+              "bowler": "Tanzim Hasan Sakib",
+              "non_striker": "Khaled Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shamim Hossain",
+              "bowler": "Tanzim Hasan Sakib",
+              "non_striker": "Khaled Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "Shamim Hossain",
+              "bowler": "Sumon Khan",
+              "non_striker": "Khaled Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shamim Hossain",
+              "bowler": "Sumon Khan",
+              "non_striker": "Khaled Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Khaled Ahmed",
+              "bowler": "Sumon Khan",
+              "non_striker": "Shamim Hossain",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Khaled Ahmed",
+              "bowler": "Sumon Khan",
+              "non_striker": "Shamim Hossain",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Khaled Ahmed",
+              "bowler": "Sumon Khan",
+              "non_striker": "Shamim Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Khaled Ahmed",
+              "bowler": "Sumon Khan",
+              "non_striker": "Shamim Hossain",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "Shamim Hossain",
+              "bowler": "Ruyel Miah",
+              "non_striker": "Khaled Ahmed",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Shamim Hossain",
+              "bowler": "Ruyel Miah",
+              "non_striker": "Khaled Ahmed",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Shamim Hossain",
+              "bowler": "Ruyel Miah",
+              "non_striker": "Khaled Ahmed",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Shamim Hossain",
+              "bowler": "Ruyel Miah",
+              "non_striker": "Khaled Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shamim Hossain",
+              "bowler": "Ruyel Miah",
+              "non_striker": "Khaled Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Shamim Hossain",
+                  "fielders": [
+                    {
+                      "name": "Samiullah Shenwari"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Shoriful Islam",
+              "bowler": "Ruyel Miah",
+              "non_striker": "Khaled Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Shoriful Islam",
+                  "fielders": [
+                    {
+                      "name": "Zawad Abrar"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Sylhet Strikers",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Zawad Abrar",
+              "bowler": "B Fernando",
+              "non_striker": "Rony Talukdar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zawad Abrar",
+              "bowler": "B Fernando",
+              "non_striker": "Rony Talukdar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rony Talukdar",
+              "bowler": "B Fernando",
+              "non_striker": "Zawad Abrar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zawad Abrar",
+              "bowler": "B Fernando",
+              "non_striker": "Rony Talukdar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zawad Abrar",
+              "bowler": "B Fernando",
+              "non_striker": "Rony Talukdar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rony Talukdar",
+              "bowler": "B Fernando",
+              "non_striker": "Zawad Abrar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Zawad Abrar",
+              "bowler": "Shoriful Islam",
+              "non_striker": "Rony Talukdar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zawad Abrar",
+              "bowler": "Shoriful Islam",
+              "non_striker": "Rony Talukdar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zawad Abrar",
+              "bowler": "Shoriful Islam",
+              "non_striker": "Rony Talukdar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Zawad Abrar",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Zakir Hasan",
+              "bowler": "Shoriful Islam",
+              "non_striker": "Rony Talukdar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zakir Hasan",
+              "bowler": "Shoriful Islam",
+              "non_striker": "Rony Talukdar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zakir Hasan",
+              "bowler": "Shoriful Islam",
+              "non_striker": "Rony Talukdar",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Rony Talukdar",
+              "bowler": "B Fernando",
+              "non_striker": "Zakir Hasan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Rony Talukdar",
+              "bowler": "B Fernando",
+              "non_striker": "Zakir Hasan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zakir Hasan",
+              "bowler": "B Fernando",
+              "non_striker": "Rony Talukdar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zakir Hasan",
+              "bowler": "B Fernando",
+              "non_striker": "Rony Talukdar",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Zakir Hasan",
+              "bowler": "B Fernando",
+              "non_striker": "Rony Talukdar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rony Talukdar",
+              "bowler": "B Fernando",
+              "non_striker": "Zakir Hasan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Rony Talukdar",
+              "bowler": "Al Islam",
+              "non_striker": "Zakir Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rony Talukdar",
+              "bowler": "Al Islam",
+              "non_striker": "Zakir Hasan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Rony Talukdar",
+              "bowler": "Al Islam",
+              "non_striker": "Zakir Hasan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Rony Talukdar",
+              "bowler": "Al Islam",
+              "non_striker": "Zakir Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rony Talukdar",
+              "bowler": "Al Islam",
+              "non_striker": "Zakir Hasan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Rony Talukdar",
+              "bowler": "Al Islam",
+              "non_striker": "Zakir Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Zakir Hasan",
+              "bowler": "Khaled Ahmed",
+              "non_striker": "Rony Talukdar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zakir Hasan",
+              "bowler": "Khaled Ahmed",
+              "non_striker": "Rony Talukdar",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Zakir Hasan",
+              "bowler": "Khaled Ahmed",
+              "non_striker": "Rony Talukdar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zakir Hasan",
+              "bowler": "Khaled Ahmed",
+              "non_striker": "Rony Talukdar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zakir Hasan",
+              "bowler": "Khaled Ahmed",
+              "non_striker": "Rony Talukdar",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Zakir Hasan",
+              "bowler": "Khaled Ahmed",
+              "non_striker": "Rony Talukdar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Zakir Hasan",
+                  "kind": "caught and bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Rony Talukdar",
+              "bowler": "Shoriful Islam",
+              "non_striker": "Aaron Jones",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Rony Talukdar",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Jaker Ali",
+              "bowler": "Shoriful Islam",
+              "non_striker": "Aaron Jones",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Jaker Ali",
+              "bowler": "Shoriful Islam",
+              "non_striker": "Aaron Jones",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Jaker Ali",
+              "bowler": "Shoriful Islam",
+              "non_striker": "Aaron Jones",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Jaker Ali",
+              "bowler": "Shoriful Islam",
+              "non_striker": "Aaron Jones",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Jaker Ali",
+              "bowler": "Shoriful Islam",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Aaron Jones",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Jaker Ali",
+              "bowler": "Rahatul Ferdous",
+              "non_striker": "Aaron Jones",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Aaron Jones",
+              "bowler": "Rahatul Ferdous",
+              "non_striker": "Jaker Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Jaker Ali",
+              "bowler": "Rahatul Ferdous",
+              "non_striker": "Aaron Jones",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Aaron Jones",
+              "bowler": "Rahatul Ferdous",
+              "non_striker": "Jaker Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Jaker Ali",
+              "bowler": "Rahatul Ferdous",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Aaron Jones",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Aaron Jones",
+              "bowler": "Rahatul Ferdous",
+              "non_striker": "Jaker Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Jaker Ali",
+              "bowler": "Al Islam",
+              "non_striker": "Aaron Jones",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Aaron Jones",
+              "bowler": "Al Islam",
+              "non_striker": "Jaker Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Aaron Jones",
+              "bowler": "Al Islam",
+              "non_striker": "Jaker Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Jaker Ali",
+              "bowler": "Al Islam",
+              "non_striker": "Aaron Jones",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Jaker Ali",
+              "bowler": "Al Islam",
+              "non_striker": "Aaron Jones",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Jaker Ali",
+              "bowler": "Al Islam",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "Aaron Jones",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Aaron Jones",
+              "bowler": "Al Islam",
+              "non_striker": "Jaker Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "Jaker Ali",
+              "bowler": "Rahatul Ferdous",
+              "non_striker": "Aaron Jones",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Aaron Jones",
+              "bowler": "Rahatul Ferdous",
+              "non_striker": "Jaker Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Aaron Jones",
+                  "fielders": [
+                    {
+                      "name": "Shamim Hossain"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Nahidul Islam",
+              "bowler": "Rahatul Ferdous",
+              "non_striker": "Jaker Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Jaker Ali",
+              "bowler": "Rahatul Ferdous",
+              "non_striker": "Nahidul Islam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nahidul Islam",
+              "bowler": "Rahatul Ferdous",
+              "non_striker": "Jaker Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Jaker Ali",
+              "bowler": "Rahatul Ferdous",
+              "non_striker": "Nahidul Islam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "Nahidul Islam",
+              "bowler": "Al Islam",
+              "non_striker": "Jaker Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nahidul Islam",
+              "bowler": "Al Islam",
+              "extras": {
+                "byes": 2
+              },
+              "non_striker": "Jaker Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Nahidul Islam",
+              "bowler": "Al Islam",
+              "non_striker": "Jaker Ali",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Nahidul Islam",
+              "bowler": "Al Islam",
+              "non_striker": "Jaker Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nahidul Islam",
+              "bowler": "Al Islam",
+              "non_striker": "Jaker Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Jaker Ali",
+              "bowler": "Al Islam",
+              "non_striker": "Nahidul Islam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "Jaker Ali",
+              "bowler": "Khaled Ahmed",
+              "non_striker": "Nahidul Islam",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Jaker Ali",
+              "bowler": "Khaled Ahmed",
+              "non_striker": "Nahidul Islam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nahidul Islam",
+              "bowler": "Khaled Ahmed",
+              "non_striker": "Jaker Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Jaker Ali",
+              "bowler": "Khaled Ahmed",
+              "non_striker": "Nahidul Islam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nahidul Islam",
+              "bowler": "Khaled Ahmed",
+              "non_striker": "Jaker Ali",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Nahidul Islam",
+              "bowler": "Khaled Ahmed",
+              "non_striker": "Jaker Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Nahidul Islam",
+                  "fielders": [
+                    {
+                      "name": "Shoriful Islam"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "Jaker Ali",
+              "bowler": "Rahatul Ferdous",
+              "non_striker": "Ariful Haque",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ariful Haque",
+              "bowler": "Rahatul Ferdous",
+              "non_striker": "Jaker Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Jaker Ali",
+              "bowler": "Rahatul Ferdous",
+              "non_striker": "Ariful Haque",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ariful Haque",
+              "bowler": "Rahatul Ferdous",
+              "non_striker": "Jaker Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Jaker Ali",
+              "bowler": "Rahatul Ferdous",
+              "non_striker": "Ariful Haque",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ariful Haque",
+              "bowler": "Rahatul Ferdous",
+              "extras": {
+                "legbyes": 4
+              },
+              "non_striker": "Jaker Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 4,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "Jaker Ali",
+              "bowler": "Shoriful Islam",
+              "non_striker": "Ariful Haque",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Jaker Ali",
+              "bowler": "Shoriful Islam",
+              "non_striker": "Ariful Haque",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Jaker Ali",
+                  "fielders": [
+                    {
+                      "name": "Khawaja Nafay"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Tanzim Hasan Sakib",
+              "bowler": "Shoriful Islam",
+              "non_striker": "Ariful Haque",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Tanzim Hasan Sakib",
+              "bowler": "Shoriful Islam",
+              "non_striker": "Ariful Haque",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Tanzim Hasan Sakib",
+                  "fielders": [
+                    {
+                      "name": "Mohammad Mithun"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Samiullah Shenwari",
+              "bowler": "Shoriful Islam",
+              "non_striker": "Ariful Haque",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ariful Haque",
+              "bowler": "Shoriful Islam",
+              "non_striker": "Samiullah Shenwari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "Samiullah Shenwari",
+              "bowler": "Rahatul Ferdous",
+              "non_striker": "Ariful Haque",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ariful Haque",
+              "bowler": "Rahatul Ferdous",
+              "non_striker": "Samiullah Shenwari",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Samiullah Shenwari",
+              "bowler": "Rahatul Ferdous",
+              "non_striker": "Ariful Haque",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ariful Haque",
+              "bowler": "Rahatul Ferdous",
+              "non_striker": "Samiullah Shenwari",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Samiullah Shenwari",
+              "bowler": "Rahatul Ferdous",
+              "non_striker": "Ariful Haque",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ariful Haque",
+              "bowler": "Rahatul Ferdous",
+              "non_striker": "Samiullah Shenwari",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "Ariful Haque",
+              "bowler": "Khaled Ahmed",
+              "non_striker": "Samiullah Shenwari",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Ariful Haque",
+              "bowler": "Khaled Ahmed",
+              "non_striker": "Samiullah Shenwari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Ariful Haque",
+                  "fielders": [
+                    {
+                      "name": "Haider Ali"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Ruyel Miah",
+              "bowler": "Khaled Ahmed",
+              "non_striker": "Samiullah Shenwari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Ruyel Miah",
+                  "fielders": [
+                    {
+                      "name": "Rahatul Ferdous"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Sumon Khan",
+              "bowler": "Khaled Ahmed",
+              "non_striker": "Samiullah Shenwari",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Samiullah Shenwari",
+              "bowler": "Khaled Ahmed",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Sumon Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sumon Khan",
+              "bowler": "Khaled Ahmed",
+              "non_striker": "Samiullah Shenwari",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "Sumon Khan",
+              "bowler": "Shoriful Islam",
+              "non_striker": "Samiullah Shenwari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sumon Khan",
+              "bowler": "Shoriful Islam",
+              "non_striker": "Samiullah Shenwari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Sumon Khan",
+                  "fielders": [
+                    {
+                      "name": "Shoriful Islam"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 197
+      }
+    }
+  ]
+}

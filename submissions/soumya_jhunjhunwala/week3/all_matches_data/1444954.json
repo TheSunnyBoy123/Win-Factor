@@ -1,0 +1,2555 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2024-08-20",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Apia",
+    "dates": [
+      "2024-08-19"
+    ],
+    "event": {
+      "name": "ICC Men's T20 World Cup East Asia-Pacific Region Qualifier A",
+      "match_number": 3
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 2777,
+    "officials": {
+      "match_referees": [
+        "Kent Hannam"
+      ],
+      "reserve_umpires": [
+        "L Oala"
+      ],
+      "umpires": [
+        "M Kenni",
+        "PJ Gillespie"
+      ]
+    },
+    "outcome": {
+      "winner": "Cook Islands",
+      "by": {
+        "wickets": 7
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "C Dickson"
+    ],
+    "players": {
+      "Samoa": [
+        "S Cotter",
+        "SM Nash",
+        "D Visser",
+        "SF Tiai",
+        "CK Jasmat",
+        "F Suluoto",
+        "DE Burgess",
+        "A Ilaoa",
+        "Noah Mead",
+        "D Finau",
+        "P Sua"
+      ],
+      "Cook Islands": [
+        "HB Dickson",
+        "T Parima",
+        "MTMMJ Ave",
+        "A Parima",
+        "C Dickson",
+        "L Denny",
+        "T Ritawa",
+        "AJA Samuels",
+        "JL Tutty",
+        "MJM Kavana",
+        "OE Taylor"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Ilaoa": "4d733a54",
+        "A Parima": "866d3ac8",
+        "AJA Samuels": "9a28e6e1",
+        "C Dickson": "26b59073",
+        "CK Jasmat": "5299063a",
+        "D Finau": "63772ee4",
+        "D Visser": "bb4da4d3",
+        "DE Burgess": "7bf39e5c",
+        "F Suluoto": "ae380321",
+        "HB Dickson": "e8c95491",
+        "JL Tutty": "11b37b2a",
+        "Kent Hannam": "8cc171e7",
+        "L Denny": "e112732d",
+        "L Oala": "48a506ab",
+        "M Kenni": "1feb0d3c",
+        "MJM Kavana": "10eef955",
+        "MTMMJ Ave": "00863408",
+        "Noah Mead": "0095a0e3",
+        "OE Taylor": "24a93558",
+        "P Sua": "f6657f66",
+        "PJ Gillespie": "3e253a50",
+        "S Cotter": "e6127436",
+        "SF Tiai": "bf19d427",
+        "SM Nash": "4f3a89ae",
+        "T Parima": "ecd51f8e",
+        "T Ritawa": "1c8ada57"
+      }
+    },
+    "season": "2024",
+    "team_type": "international",
+    "teams": [
+      "Samoa",
+      "Cook Islands"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Cook Islands"
+    },
+    "venue": "Faleata Oval No 2, Apia"
+  },
+  "innings": [
+    {
+      "team": "Samoa",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "S Cotter",
+              "bowler": "MJM Kavana",
+              "non_striker": "SM Nash",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Cotter",
+              "bowler": "MJM Kavana",
+              "non_striker": "SM Nash",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Cotter",
+                  "fielders": [
+                    {
+                      "name": "A Parima"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "D Visser",
+              "bowler": "MJM Kavana",
+              "non_striker": "SM Nash",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SM Nash",
+              "bowler": "MJM Kavana",
+              "non_striker": "D Visser",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SM Nash",
+              "bowler": "T Parima",
+              "non_striker": "D Visser",
+              "replacements": {
+                "role": [
+                  {
+                    "in": "T Parima",
+                    "out": "MJM Kavana",
+                    "reason": "unknown",
+                    "role": "bowler"
+                  }
+                ]
+              },
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Visser",
+              "bowler": "T Parima",
+              "non_striker": "SM Nash",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "SM Nash",
+              "bowler": "JL Tutty",
+              "non_striker": "D Visser",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SM Nash",
+              "bowler": "JL Tutty",
+              "non_striker": "D Visser",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SM Nash",
+              "bowler": "JL Tutty",
+              "non_striker": "D Visser",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SM Nash",
+              "bowler": "JL Tutty",
+              "non_striker": "D Visser",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SM Nash",
+              "bowler": "JL Tutty",
+              "non_striker": "D Visser",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SM Nash",
+              "bowler": "JL Tutty",
+              "non_striker": "D Visser",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "D Visser",
+              "bowler": "OE Taylor",
+              "non_striker": "SM Nash",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Visser",
+              "bowler": "OE Taylor",
+              "non_striker": "SM Nash",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "D Visser",
+              "bowler": "OE Taylor",
+              "non_striker": "SM Nash",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "D Visser",
+              "bowler": "OE Taylor",
+              "non_striker": "SM Nash",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "D Visser",
+              "bowler": "OE Taylor",
+              "non_striker": "SM Nash",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Visser",
+              "bowler": "OE Taylor",
+              "non_striker": "SM Nash",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "SM Nash",
+              "bowler": "JL Tutty",
+              "non_striker": "D Visser",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SM Nash",
+              "bowler": "JL Tutty",
+              "non_striker": "D Visser",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SM Nash",
+              "bowler": "JL Tutty",
+              "non_striker": "D Visser",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SM Nash",
+              "bowler": "JL Tutty",
+              "non_striker": "D Visser",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SM Nash",
+              "bowler": "JL Tutty",
+              "non_striker": "D Visser",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Visser",
+              "bowler": "JL Tutty",
+              "non_striker": "SM Nash",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "SM Nash",
+              "bowler": "OE Taylor",
+              "non_striker": "D Visser",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SM Nash",
+              "bowler": "OE Taylor",
+              "non_striker": "D Visser",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Visser",
+              "bowler": "OE Taylor",
+              "non_striker": "SM Nash",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "D Visser",
+              "bowler": "OE Taylor",
+              "non_striker": "SM Nash",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "D Visser",
+                  "fielders": [
+                    {
+                      "name": "L Denny"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "SF Tiai",
+              "bowler": "OE Taylor",
+              "non_striker": "SM Nash",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SF Tiai",
+              "bowler": "OE Taylor",
+              "non_striker": "SM Nash",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "SM Nash",
+              "bowler": "JL Tutty",
+              "non_striker": "SF Tiai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SF Tiai",
+              "bowler": "JL Tutty",
+              "non_striker": "SM Nash",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SF Tiai",
+              "bowler": "JL Tutty",
+              "non_striker": "SM Nash",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SF Tiai",
+              "bowler": "JL Tutty",
+              "non_striker": "SM Nash",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SF Tiai",
+              "bowler": "JL Tutty",
+              "non_striker": "SM Nash",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SM Nash",
+              "bowler": "JL Tutty",
+              "non_striker": "SF Tiai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SM Nash",
+                  "fielders": [
+                    {
+                      "name": "T Parima"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "SF Tiai",
+              "bowler": "L Denny",
+              "non_striker": "CK Jasmat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CK Jasmat",
+              "bowler": "L Denny",
+              "non_striker": "SF Tiai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SF Tiai",
+              "bowler": "L Denny",
+              "non_striker": "CK Jasmat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CK Jasmat",
+              "bowler": "L Denny",
+              "non_striker": "SF Tiai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CK Jasmat",
+              "bowler": "L Denny",
+              "non_striker": "SF Tiai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CK Jasmat",
+              "bowler": "L Denny",
+              "non_striker": "SF Tiai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "CK Jasmat",
+              "bowler": "C Dickson",
+              "non_striker": "SF Tiai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CK Jasmat",
+              "bowler": "C Dickson",
+              "non_striker": "SF Tiai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SF Tiai",
+              "bowler": "C Dickson",
+              "non_striker": "CK Jasmat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SF Tiai",
+              "bowler": "C Dickson",
+              "non_striker": "CK Jasmat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SF Tiai",
+              "bowler": "C Dickson",
+              "non_striker": "CK Jasmat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CK Jasmat",
+              "bowler": "C Dickson",
+              "non_striker": "SF Tiai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "SF Tiai",
+              "bowler": "L Denny",
+              "non_striker": "CK Jasmat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CK Jasmat",
+              "bowler": "L Denny",
+              "non_striker": "SF Tiai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SF Tiai",
+              "bowler": "L Denny",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "CK Jasmat",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SF Tiai",
+              "bowler": "L Denny",
+              "non_striker": "CK Jasmat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SF Tiai",
+              "bowler": "L Denny",
+              "non_striker": "CK Jasmat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SF Tiai",
+              "bowler": "L Denny",
+              "non_striker": "CK Jasmat",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SF Tiai",
+              "bowler": "L Denny",
+              "non_striker": "CK Jasmat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "CK Jasmat",
+              "bowler": "C Dickson",
+              "non_striker": "SF Tiai",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "CK Jasmat",
+              "bowler": "C Dickson",
+              "non_striker": "SF Tiai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SF Tiai",
+              "bowler": "C Dickson",
+              "non_striker": "CK Jasmat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CK Jasmat",
+              "bowler": "C Dickson",
+              "non_striker": "SF Tiai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CK Jasmat",
+              "bowler": "C Dickson",
+              "non_striker": "SF Tiai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SF Tiai",
+              "bowler": "C Dickson",
+              "non_striker": "CK Jasmat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "SF Tiai",
+              "bowler": "AJA Samuels",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "CK Jasmat",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SF Tiai",
+              "bowler": "AJA Samuels",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "CK Jasmat",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SF Tiai",
+              "bowler": "AJA Samuels",
+              "non_striker": "CK Jasmat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SF Tiai",
+              "bowler": "AJA Samuels",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "CK Jasmat",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SF Tiai",
+              "bowler": "AJA Samuels",
+              "non_striker": "CK Jasmat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SF Tiai",
+              "bowler": "AJA Samuels",
+              "non_striker": "CK Jasmat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SF Tiai",
+              "bowler": "AJA Samuels",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "CK Jasmat",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SF Tiai",
+              "bowler": "AJA Samuels",
+              "non_striker": "CK Jasmat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SF Tiai",
+              "bowler": "AJA Samuels",
+              "non_striker": "CK Jasmat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SF Tiai",
+              "bowler": "AJA Samuels",
+              "non_striker": "CK Jasmat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "CK Jasmat",
+              "bowler": "T Ritawa",
+              "non_striker": "SF Tiai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SF Tiai",
+              "bowler": "T Ritawa",
+              "non_striker": "CK Jasmat",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SF Tiai",
+              "bowler": "T Ritawa",
+              "non_striker": "CK Jasmat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SF Tiai",
+              "bowler": "T Ritawa",
+              "non_striker": "CK Jasmat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SF Tiai",
+                  "fielders": [
+                    {
+                      "name": "JL Tutty"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "F Suluoto",
+              "bowler": "T Ritawa",
+              "non_striker": "CK Jasmat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CK Jasmat",
+              "bowler": "T Ritawa",
+              "non_striker": "F Suluoto",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "CK Jasmat",
+              "bowler": "L Denny",
+              "non_striker": "F Suluoto",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "CK Jasmat",
+              "bowler": "L Denny",
+              "non_striker": "F Suluoto",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "F Suluoto",
+              "bowler": "L Denny",
+              "non_striker": "CK Jasmat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "F Suluoto",
+              "bowler": "L Denny",
+              "non_striker": "CK Jasmat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "F Suluoto",
+                  "kind": "caught and bowled"
+                }
+              ]
+            },
+            {
+              "batter": "DE Burgess",
+              "bowler": "L Denny",
+              "non_striker": "CK Jasmat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DE Burgess",
+              "bowler": "L Denny",
+              "non_striker": "CK Jasmat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "DE Burgess",
+              "bowler": "C Dickson",
+              "non_striker": "CK Jasmat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DE Burgess",
+              "bowler": "C Dickson",
+              "non_striker": "CK Jasmat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CK Jasmat",
+              "bowler": "C Dickson",
+              "non_striker": "DE Burgess",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DE Burgess",
+              "bowler": "C Dickson",
+              "non_striker": "CK Jasmat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DE Burgess",
+              "bowler": "C Dickson",
+              "non_striker": "CK Jasmat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DE Burgess",
+              "bowler": "C Dickson",
+              "non_striker": "CK Jasmat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "CK Jasmat",
+              "bowler": "OE Taylor",
+              "non_striker": "DE Burgess",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DE Burgess",
+              "bowler": "OE Taylor",
+              "non_striker": "CK Jasmat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CK Jasmat",
+              "bowler": "OE Taylor",
+              "non_striker": "DE Burgess",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DE Burgess",
+              "bowler": "OE Taylor",
+              "non_striker": "CK Jasmat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DE Burgess",
+              "bowler": "OE Taylor",
+              "non_striker": "CK Jasmat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "DE Burgess",
+                  "fielders": [
+                    {
+                      "name": "L Denny"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "A Ilaoa",
+              "bowler": "OE Taylor",
+              "non_striker": "CK Jasmat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "A Ilaoa",
+              "bowler": "C Dickson",
+              "non_striker": "CK Jasmat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Ilaoa",
+              "bowler": "C Dickson",
+              "non_striker": "CK Jasmat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Ilaoa",
+              "bowler": "C Dickson",
+              "non_striker": "CK Jasmat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CK Jasmat",
+              "bowler": "C Dickson",
+              "non_striker": "A Ilaoa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Ilaoa",
+              "bowler": "C Dickson",
+              "non_striker": "CK Jasmat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "A Ilaoa",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Noah Mead",
+              "bowler": "C Dickson",
+              "non_striker": "CK Jasmat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "CK Jasmat",
+              "bowler": "L Denny",
+              "non_striker": "Noah Mead",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "CK Jasmat",
+              "bowler": "L Denny",
+              "non_striker": "Noah Mead",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "CK Jasmat",
+              "bowler": "L Denny",
+              "non_striker": "Noah Mead",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CK Jasmat",
+              "bowler": "L Denny",
+              "non_striker": "Noah Mead",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "CK Jasmat",
+              "bowler": "L Denny",
+              "non_striker": "Noah Mead",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Noah Mead",
+              "bowler": "L Denny",
+              "non_striker": "CK Jasmat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Noah Mead",
+                  "fielders": [
+                    {
+                      "name": "MTMMJ Ave"
+                    }
+                  ],
+                  "kind": "stumped"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "CK Jasmat",
+              "bowler": "JL Tutty",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "D Finau",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CK Jasmat",
+              "bowler": "JL Tutty",
+              "non_striker": "D Finau",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "CK Jasmat",
+              "bowler": "JL Tutty",
+              "non_striker": "D Finau",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CK Jasmat",
+              "bowler": "JL Tutty",
+              "non_striker": "D Finau",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "CK Jasmat",
+              "bowler": "JL Tutty",
+              "non_striker": "D Finau",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Finau",
+              "bowler": "JL Tutty",
+              "non_striker": "CK Jasmat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "D Finau",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "P Sua",
+              "bowler": "JL Tutty",
+              "non_striker": "CK Jasmat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "CK Jasmat",
+              "bowler": "OE Taylor",
+              "non_striker": "P Sua",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "CK Jasmat",
+              "bowler": "OE Taylor",
+              "non_striker": "P Sua",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Sua",
+              "bowler": "OE Taylor",
+              "non_striker": "CK Jasmat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "P Sua",
+                  "fielders": [
+                    {
+                      "name": "MTMMJ Ave"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Cook Islands",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "HB Dickson",
+              "bowler": "CK Jasmat",
+              "non_striker": "T Parima",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "HB Dickson",
+              "bowler": "CK Jasmat",
+              "non_striker": "T Parima",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "HB Dickson",
+              "bowler": "CK Jasmat",
+              "non_striker": "T Parima",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Parima",
+              "bowler": "CK Jasmat",
+              "non_striker": "HB Dickson",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "T Parima",
+              "bowler": "CK Jasmat",
+              "non_striker": "HB Dickson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Parima",
+              "bowler": "CK Jasmat",
+              "non_striker": "HB Dickson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "HB Dickson",
+              "bowler": "Noah Mead",
+              "non_striker": "T Parima",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "HB Dickson",
+              "bowler": "Noah Mead",
+              "non_striker": "T Parima",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Parima",
+              "bowler": "Noah Mead",
+              "non_striker": "HB Dickson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Parima",
+              "bowler": "Noah Mead",
+              "non_striker": "HB Dickson",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "T Parima",
+              "bowler": "Noah Mead",
+              "non_striker": "HB Dickson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HB Dickson",
+              "bowler": "Noah Mead",
+              "non_striker": "T Parima",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "T Parima",
+              "bowler": "SM Nash",
+              "non_striker": "HB Dickson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HB Dickson",
+              "bowler": "SM Nash",
+              "non_striker": "T Parima",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HB Dickson",
+              "bowler": "SM Nash",
+              "non_striker": "T Parima",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "HB Dickson",
+              "bowler": "SM Nash",
+              "non_striker": "T Parima",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Parima",
+              "bowler": "SM Nash",
+              "non_striker": "HB Dickson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HB Dickson",
+              "bowler": "SM Nash",
+              "non_striker": "T Parima",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "T Parima",
+              "bowler": "SF Tiai",
+              "non_striker": "HB Dickson",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "T Parima",
+              "bowler": "SF Tiai",
+              "non_striker": "HB Dickson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Parima",
+              "bowler": "SF Tiai",
+              "non_striker": "HB Dickson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Parima",
+              "bowler": "SF Tiai",
+              "non_striker": "HB Dickson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Parima",
+              "bowler": "SF Tiai",
+              "non_striker": "HB Dickson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "T Parima",
+                  "fielders": [
+                    {
+                      "name": "Noah Mead"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "MTMMJ Ave",
+              "bowler": "SF Tiai",
+              "non_striker": "HB Dickson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "HB Dickson",
+              "bowler": "CK Jasmat",
+              "non_striker": "MTMMJ Ave",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "HB Dickson",
+              "bowler": "CK Jasmat",
+              "non_striker": "MTMMJ Ave",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HB Dickson",
+              "bowler": "CK Jasmat",
+              "non_striker": "MTMMJ Ave",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HB Dickson",
+              "bowler": "CK Jasmat",
+              "non_striker": "MTMMJ Ave",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HB Dickson",
+              "bowler": "CK Jasmat",
+              "non_striker": "MTMMJ Ave",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HB Dickson",
+              "bowler": "CK Jasmat",
+              "non_striker": "MTMMJ Ave",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "MTMMJ Ave",
+              "bowler": "SF Tiai",
+              "non_striker": "HB Dickson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MTMMJ Ave",
+              "bowler": "SF Tiai",
+              "non_striker": "HB Dickson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HB Dickson",
+              "bowler": "SF Tiai",
+              "non_striker": "MTMMJ Ave",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HB Dickson",
+              "bowler": "SF Tiai",
+              "non_striker": "MTMMJ Ave",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MTMMJ Ave",
+              "bowler": "SF Tiai",
+              "non_striker": "HB Dickson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HB Dickson",
+              "bowler": "SF Tiai",
+              "non_striker": "MTMMJ Ave",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "HB Dickson",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "MTMMJ Ave",
+              "bowler": "D Visser",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "A Parima",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Parima",
+              "bowler": "D Visser",
+              "non_striker": "MTMMJ Ave",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MTMMJ Ave",
+              "bowler": "D Visser",
+              "non_striker": "A Parima",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MTMMJ Ave",
+              "bowler": "D Visser",
+              "non_striker": "A Parima",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MTMMJ Ave",
+              "bowler": "D Visser",
+              "non_striker": "A Parima",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MTMMJ Ave",
+                  "fielders": [
+                    {
+                      "name": "DE Burgess"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "C Dickson",
+              "bowler": "D Visser",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Parima",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Dickson",
+              "bowler": "D Visser",
+              "non_striker": "A Parima",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "A Parima",
+              "bowler": "SF Tiai",
+              "non_striker": "C Dickson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Parima",
+              "bowler": "SF Tiai",
+              "non_striker": "C Dickson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Dickson",
+              "bowler": "SF Tiai",
+              "non_striker": "A Parima",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Parima",
+              "bowler": "SF Tiai",
+              "non_striker": "C Dickson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Parima",
+              "bowler": "SF Tiai",
+              "non_striker": "C Dickson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Parima",
+              "bowler": "SF Tiai",
+              "non_striker": "C Dickson",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "C Dickson",
+              "bowler": "D Visser",
+              "non_striker": "A Parima",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Dickson",
+              "bowler": "D Visser",
+              "non_striker": "A Parima",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Dickson",
+              "bowler": "D Visser",
+              "non_striker": "A Parima",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Parima",
+              "bowler": "D Visser",
+              "non_striker": "C Dickson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Dickson",
+              "bowler": "D Visser",
+              "non_striker": "A Parima",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Parima",
+              "bowler": "D Visser",
+              "non_striker": "C Dickson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "C Dickson",
+              "bowler": "SF Tiai",
+              "non_striker": "A Parima",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Dickson",
+              "bowler": "SF Tiai",
+              "non_striker": "A Parima",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Parima",
+              "bowler": "SF Tiai",
+              "non_striker": "C Dickson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Parima",
+              "bowler": "SF Tiai",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "C Dickson",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Dickson",
+              "bowler": "SF Tiai",
+              "non_striker": "A Parima",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Dickson",
+              "bowler": "SF Tiai",
+              "non_striker": "A Parima",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "C Dickson",
+              "bowler": "D Visser",
+              "non_striker": "A Parima",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Dickson",
+              "bowler": "D Visser",
+              "non_striker": "A Parima",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Parima",
+              "bowler": "D Visser",
+              "non_striker": "C Dickson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Dickson",
+              "bowler": "D Visser",
+              "non_striker": "A Parima",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "C Dickson",
+              "bowler": "D Visser",
+              "non_striker": "A Parima",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "C Dickson",
+              "bowler": "D Visser",
+              "non_striker": "A Parima",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "C Dickson",
+              "bowler": "D Finau",
+              "non_striker": "A Parima",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Dickson",
+              "bowler": "D Finau",
+              "non_striker": "A Parima",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Dickson",
+              "bowler": "D Finau",
+              "non_striker": "A Parima",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "C Dickson",
+              "bowler": "D Finau",
+              "non_striker": "A Parima",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Parima",
+              "bowler": "D Finau",
+              "non_striker": "C Dickson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Parima",
+              "bowler": "D Finau",
+              "non_striker": "C Dickson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "A Parima",
+              "bowler": "DE Burgess",
+              "non_striker": "C Dickson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Dickson",
+              "bowler": "DE Burgess",
+              "non_striker": "A Parima",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Dickson",
+              "bowler": "DE Burgess",
+              "non_striker": "A Parima",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Dickson",
+              "bowler": "DE Burgess",
+              "non_striker": "A Parima",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "C Dickson",
+              "bowler": "DE Burgess",
+              "non_striker": "A Parima",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "C Dickson",
+              "bowler": "DE Burgess",
+              "non_striker": "A Parima",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "A Parima",
+              "bowler": "Noah Mead",
+              "non_striker": "C Dickson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Parima",
+              "bowler": "Noah Mead",
+              "non_striker": "C Dickson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Parima",
+              "bowler": "Noah Mead",
+              "non_striker": "C Dickson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Dickson",
+              "bowler": "Noah Mead",
+              "non_striker": "A Parima",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Parima",
+              "bowler": "Noah Mead",
+              "non_striker": "C Dickson",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "A Parima",
+              "bowler": "Noah Mead",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "C Dickson",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "C Dickson",
+              "bowler": "Noah Mead",
+              "non_striker": "A Parima",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "A Parima",
+              "bowler": "DE Burgess",
+              "non_striker": "C Dickson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Dickson",
+              "bowler": "DE Burgess",
+              "non_striker": "A Parima",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Parima",
+              "bowler": "DE Burgess",
+              "non_striker": "C Dickson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Parima",
+              "bowler": "DE Burgess",
+              "non_striker": "C Dickson",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "A Parima",
+              "bowler": "DE Burgess",
+              "non_striker": "C Dickson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 105
+      }
+    }
+  ]
+}
