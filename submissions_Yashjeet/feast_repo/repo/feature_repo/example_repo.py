@@ -15,6 +15,8 @@ from feast.on_demand_feature_view import on_demand_feature_view
 from feast.types import String, Int64
 from datetime import timedelta
 
+from feast import ValueType
+
 from feast.feature_logging import LoggingConfig
 from feast.infra.offline_stores.file_source import FileLoggingDestination
 
@@ -24,13 +26,13 @@ project = Project(name="Winfactor_ys", description="Sattaontop")
 
 #file source
 cricinfo = FileSource(
-    path="/content/repo/feature_repo/data/cricinfo.parquet",
+    path="/content/Win-Factor_yashjeet/submissions_Yashjeet/feast_repo/repo/feature_repo/data/cricinfo.parquet",
     event_timestamp_column="start_date"
 )
 
 #entity
 player = Entity(
-    name="player_id",
+    name="player_id_ent",
     value_type=ValueType.STRING,
     description="player_id"
 )
@@ -41,6 +43,7 @@ player_features = FeatureView(
     entities=[player],
     ttl=timedelta(days=1),
     schema=[
+        Field(name="player_id", dtype=String),
         Field(name="match_id", dtype=String),
         Field(name="gender", dtype=String),
         Field(name="balls_per_over", dtype=Int64),
@@ -105,6 +108,7 @@ player_features = FeatureView(
         Field(name="runs_scored_wma", dtype=Int64),
         Field(name="runs_conceded_wma", dtype=Int64),
         Field(name="wickets_taken_wma", dtype=Int64),
+        Field(name="player_role", dtype=String),
         Field(name="rolling_fantasy_batting", dtype=Int64),
         Field(name="rolling_fantasy_bowling", dtype=Int64),
         Field(name="rolling_fantasy_total", dtype=Int64),
@@ -201,11 +205,11 @@ def transf_new(cricinfo):
 player_features = FeatureService(
     name="player_features",
     features=[
-        player_features[["balls_bowled"]],  # Sub-selects a feature from a feature view
+        player_features[["player_id","balls_bowled"]],  # Sub-selects a feature from a feature view
         transf_new,  # Selects all features from the feature view
     ],
     logging_config=LoggingConfig(
-        destination=FileLoggingDestination(path="data")
+        destination=FileLoggingDestination(path="/content/Win-Factor_yashjeet/submissions_Yashjeet/feast_repo/repo/feature_repo/data/logs")
     ),
 )
 
