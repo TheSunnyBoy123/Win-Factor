@@ -226,11 +226,11 @@ def transf_new(cricinfo):
 
 #Feature Service
 
-player_features = FeatureService(
-    name="player_features",
+fetch_features = FeatureService(
+    name="fetch_features",
     features=[
-        player_features[["player_id","balls_bowled"]],  # Sub-selects a feature from a feature view
-        transf_new,  # Selects all features from the feature view
+        player_features, # Sub-selects a feature from a feature view
+        transf_new  # Selects all features from the feature view
     ],
     logging_config=LoggingConfig(
         destination=FileLoggingDestination(path="/content/Win-Factor_yashjeet/submissions_Yashjeet/feast_repo/repo/feature_repo/data/logs")
