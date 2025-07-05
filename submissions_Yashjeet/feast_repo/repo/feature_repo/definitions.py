@@ -79,22 +79,8 @@ player_features = FeatureView(
 
 
 
+###
 
-#####################
-
-# Define a request data source which encodes features / information only
-# available at request time (e.g. part of the user initiated HTTP request)
-# input_request = RequestSource(
-#     name="vals_to_add",
-#     schema=[
-#         Field(name="val_to_add", dtype=Int64),
-#         Field(name="val_to_add_2", dtype=Int64),
-#     ],
-# )
-
-
-# Define an on demand feature view which can generate new features based on
-# existing feature views and RequestSource features
 @on_demand_feature_view(
     sources=[player_features],
     schema=[
@@ -108,7 +94,7 @@ player_features = FeatureView(
         Field(name="runs_scored_wma", dtype=Int64),
         Field(name="runs_conceded_wma", dtype=Int64),
         Field(name="wickets_taken_wma", dtype=Int64),
-        Field(name="player_role", dtype=String),
+        Field(name="player_role", dtype=Int64),
         Field(name="rolling_fantasy_batting", dtype=Int64),
         Field(name="rolling_fantasy_bowling", dtype=Int64),
         Field(name="rolling_fantasy_total", dtype=Int64),
@@ -116,6 +102,13 @@ player_features = FeatureView(
 )
 def transf_new(cricinfo):
     df = pd.DataFrame(cricinfo)
+    
+    obj_cols = ["player_id", "match_id", "gender", "match_type", "player_team", "opposition_team", "unique_name"]
+    for col in obj_cols:
+        if col in df.columns:
+            df[col] = df[col].dropna().astype(str)
+    
+    
     df["boundaries"] = df["sixes_scored"] + df["fours_scored"]
     df["fielding"] = df["run_out_direct"] + df["run_out_throw"] + df["stumpings_done"] + df["catches_taken"]
     df["dots"] = df["dot_balls_as_bowler"] + df["maidens"]*9
@@ -141,17 +134,26 @@ def transf_new(cricinfo):
 
         if bowling_percentage >= 0.70:
             if batting_percentage >= 0.60 and average_order_seen > 6.5: # Using 6.5 as the threshold for order seen
-                return 'All-Rounder'
+                return 3
             else:
-                return 'Bowler'
+                return 2
         else:
-            return 'Batsman'
+            return 1
+    
+    # 3 - allrounder
+    # 2 - bowler
+    # 1 - batsman
     ###
+    
+    
 
 
     player_roles = df.groupby('player_id').apply(identify_player_role).reset_index(name='player_role')
 
     df = df.merge(player_roles, on='player_id', how='right')
+    
+    df["player_role"] = df["player_role"].fillna(0).astype("int64")  # make 100% sure it's int
+#    df["player_role"] = df["player_role"].fillna("Unknown").astype(str)
     df.drop('order_seen', axis=1, inplace=True)
     
     ###
@@ -191,8 +193,30 @@ def transf_new(cricinfo):
             )
     
     ###
+
+    columns_to_cast = [
+        "boundaries_wma", "fielding_wma", "dots_wma",
+        "dot_balls_as_batsman_percentage_wma", "batting_aggression_wma",
+        "strike_rate_wma", "economy_wma", "runs_scored_wma",
+        "runs_conceded_wma", "wickets_taken_wma",
+        "rolling_fantasy_batting", "rolling_fantasy_bowling", "rolling_fantasy_total"
+    ]
     
-    return df_wma
+
+    
+    for col in columns_to_cast:
+        if col in df_wma.columns:
+            df_wma[col] = df_wma[col].fillna(0).round().astype("int64")
+    if "player_role" in df_wma.columns:
+        df_wma["player_role"] = df_wma["player_role"].astype("int64")
+        
+    return df_wma[[
+    "boundaries_wma", "fielding_wma", "dots_wma",
+    "dot_balls_as_batsman_percentage_wma", "batting_aggression_wma",
+    "strike_rate_wma", "economy_wma", "runs_scored_wma",
+    "runs_conceded_wma", "wickets_taken_wma", "player_role",
+    "rolling_fantasy_batting", "rolling_fantasy_bowling", "rolling_fantasy_total"
+]]
 
 
 #########
@@ -215,52 +239,3 @@ player_features = FeatureService(
 
 
 
-
-
-
-
-#
-## Defines a way to push data (to be available offline, online or both) into Feast.
-#driver_stats_push_source = PushSource(
-#    name="driver_stats_push_source",
-#    batch_source=driver_stats_source,
-#)
-#
-## Defines a slightly modified version of the feature view from above, where the source
-## has been changed to the push source. This allows fresh features to be directly pushed
-## to the online store for this feature view.
-#driver_stats_fresh_fv = FeatureView(
-#    name="driver_hourly_stats_fresh",
-#    entities=[driver],
-#    ttl=timedelta(days=1),
-#    schema=[
-#        Field(name="conv_rate", dtype=Float32),
-#        Field(name="acc_rate", dtype=Float32),
-#        Field(name="avg_daily_trips", dtype=Int64),
-#    ],
-#    online=True,
-#    source=driver_stats_push_source,  # Changed from above
-#    tags={"team": "driver_performance"},
-#)
-#
-#
-## Define an on demand feature view which can generate new features based on
-## existing feature views and RequestSource features
-#@on_demand_feature_view(
-#    sources=[driver_stats_fresh_fv, input_request],  # relies on fresh version of FV
-#    schema=[
-#        Field(name="conv_rate_plus_val1", dtype=Float64),
-#        Field(name="conv_rate_plus_val2", dtype=Float64),
-#    ],
-#)
-#def transformed_conv_rate_fresh(inputs: pd.DataFrame) -> pd.DataFrame:
-#    df = pd.DataFrame()
-#    df["conv_rate_plus_val1"] = inputs["conv_rate"] + inputs["val_to_add"]
-#    df["conv_rate_plus_val2"] = inputs["conv_rate"] + inputs["val_to_add_2"]
-#    return df
-#
-#
-#driver_activity_v3 = FeatureService(
-#    name="driver_activity_v3",
-#    features=[driver_stats_fresh_fv, transformed_conv_rate_fresh],
-#)
