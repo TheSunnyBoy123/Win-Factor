@@ -53,7 +53,7 @@ Welcome to this week’s focus on **Gradio**—a powerful, beginner-friendly Pyt
 
 ## Submission Checklist
 
-- [ . ] Working Python script with a Gradio interface for team selection
+- [ ] Working Python script with a Gradio interface for team selection
 - [ ] Screenshot(s) of your running application
 - [ ] Brief documentation explaining your interface and usage
 - [ ] (Bonus) Player name selection and mapping
