@@ -1,0 +1,5217 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2022-12-12",
+    "revision": 3
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Bangi",
+    "dates": [
+      "2022-12-12"
+    ],
+    "event": {
+      "name": "CWC Challenge League",
+      "match_number": 43
+    },
+    "gender": "male",
+    "match_type": "ODM",
+    "missing": [
+      "player_of_match",
+      {
+        "powerplays": {
+          "2": [
+            "mandatory",
+            "mandatory",
+            "mandatory"
+          ]
+        }
+      }
+    ],
+    "officials": {
+      "match_referees": [
+        "V Narayan Kutty"
+      ],
+      "reserve_umpires": [
+        "L Poobalan"
+      ],
+      "umpires": [
+        "Rahul Asher",
+        "V Kalidas"
+      ]
+    },
+    "outcome": {
+      "winner": "Qatar",
+      "by": {
+        "runs": 17
+      },
+      "method": "D/L"
+    },
+    "overs": 50,
+    "players": {
+      "Qatar": [
+        "Kamran Khan",
+        "Akash Babu",
+        "I Liyanage",
+        "Mohammad Rizlan",
+        "Syed Tameem",
+        "Assad Borham",
+        "VN Veetil",
+        "Dharmang Patel",
+        "Ikramullah Khan",
+        "Gayan Munaweera",
+        "Mohammed Nadeem"
+      ],
+      "Singapore": [
+        "Aritra Dutta",
+        "Avi Dixit",
+        "Aman Desai",
+        "Manpreet Singh",
+        "A Kaul",
+        "IP Swaney",
+        "Janak Prakash",
+        "U Aryaman Sunil",
+        "J Santhanam",
+        "V Baskaran",
+        "AR Puri"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Kaul": "53d0b0dc",
+        "AR Puri": "1f490b28",
+        "Akash Babu": "fb59e5bc",
+        "Aman Desai": "c10fd8f9",
+        "Aritra Dutta": "f3a5c378",
+        "Assad Borham": "219a417a",
+        "Avi Dixit": "cf17c429",
+        "Dharmang Patel": "643f2e6a",
+        "Gayan Munaweera": "62141a22",
+        "I Liyanage": "826e1017",
+        "IP Swaney": "430b7399",
+        "Ikramullah Khan": "c6e1354c",
+        "J Santhanam": "4f1d3f68",
+        "Janak Prakash": "f092b4c7",
+        "Kamran Khan": "922e3dcc",
+        "L Poobalan": "93cc9718",
+        "Manpreet Singh": "e9d6a2ce",
+        "Mohammad Rizlan": "82afc034",
+        "Mohammed Nadeem": "856cbb1e",
+        "Rahul Asher": "4956b0bf",
+        "Syed Tameem": "50955fee",
+        "U Aryaman Sunil": "13bc54a8",
+        "V Baskaran": "dd5a9067",
+        "V Kalidas": "42d76418",
+        "V Narayan Kutty": "4bacee3d",
+        "VN Veetil": "3cf5a041"
+      }
+    },
+    "season": "2022/23",
+    "team_type": "international",
+    "teams": [
+      "Qatar",
+      "Singapore"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Singapore"
+    },
+    "venue": "UKM-YSD Cricket Oval, Bangi"
+  },
+  "innings": [
+    {
+      "team": "Qatar",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Kamran Khan",
+              "bowler": "U Aryaman Sunil",
+              "non_striker": "Akash Babu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Kamran Khan",
+                  "fielders": [
+                    {
+                      "name": "V Baskaran"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "I Liyanage",
+              "bowler": "U Aryaman Sunil",
+              "non_striker": "Akash Babu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Liyanage",
+              "bowler": "U Aryaman Sunil",
+              "non_striker": "Akash Babu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Liyanage",
+              "bowler": "U Aryaman Sunil",
+              "non_striker": "Akash Babu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Liyanage",
+              "bowler": "U Aryaman Sunil",
+              "non_striker": "Akash Babu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Akash Babu",
+              "bowler": "U Aryaman Sunil",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Akash Babu",
+              "bowler": "V Baskaran",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Akash Babu",
+              "bowler": "V Baskaran",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Akash Babu",
+              "bowler": "V Baskaran",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Akash Babu",
+              "bowler": "V Baskaran",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Akash Babu",
+              "bowler": "V Baskaran",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Liyanage",
+              "bowler": "V Baskaran",
+              "non_striker": "Akash Babu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Akash Babu",
+              "bowler": "U Aryaman Sunil",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Akash Babu",
+              "bowler": "U Aryaman Sunil",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Akash Babu",
+              "bowler": "U Aryaman Sunil",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Akash Babu",
+              "bowler": "U Aryaman Sunil",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Liyanage",
+              "bowler": "U Aryaman Sunil",
+              "non_striker": "Akash Babu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Liyanage",
+              "bowler": "U Aryaman Sunil",
+              "non_striker": "Akash Babu",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Akash Babu",
+              "bowler": "V Baskaran",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Akash Babu",
+              "bowler": "V Baskaran",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Akash Babu",
+              "bowler": "V Baskaran",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Akash Babu",
+              "bowler": "V Baskaran",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Akash Babu",
+              "bowler": "V Baskaran",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Akash Babu",
+              "bowler": "V Baskaran",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "I Liyanage",
+              "bowler": "U Aryaman Sunil",
+              "non_striker": "Akash Babu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Liyanage",
+              "bowler": "U Aryaman Sunil",
+              "non_striker": "Akash Babu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Liyanage",
+              "bowler": "U Aryaman Sunil",
+              "non_striker": "Akash Babu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Liyanage",
+              "bowler": "U Aryaman Sunil",
+              "non_striker": "Akash Babu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Liyanage",
+              "bowler": "U Aryaman Sunil",
+              "non_striker": "Akash Babu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Liyanage",
+              "bowler": "U Aryaman Sunil",
+              "non_striker": "Akash Babu",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Akash Babu",
+              "bowler": "V Baskaran",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Akash Babu",
+              "bowler": "V Baskaran",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Akash Babu",
+              "bowler": "V Baskaran",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Liyanage",
+              "bowler": "V Baskaran",
+              "non_striker": "Akash Babu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Liyanage",
+              "bowler": "V Baskaran",
+              "non_striker": "Akash Babu",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "I Liyanage",
+              "bowler": "V Baskaran",
+              "non_striker": "Akash Babu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Akash Babu",
+              "bowler": "U Aryaman Sunil",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Akash Babu",
+              "bowler": "U Aryaman Sunil",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Akash Babu",
+              "bowler": "U Aryaman Sunil",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Liyanage",
+              "bowler": "U Aryaman Sunil",
+              "non_striker": "Akash Babu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Liyanage",
+              "bowler": "U Aryaman Sunil",
+              "non_striker": "Akash Babu",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "I Liyanage",
+              "bowler": "U Aryaman Sunil",
+              "non_striker": "Akash Babu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Akash Babu",
+              "bowler": "J Santhanam",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Akash Babu",
+              "bowler": "J Santhanam",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 6,
+                "extras": 1,
+                "total": 7
+              }
+            },
+            {
+              "batter": "Akash Babu",
+              "bowler": "J Santhanam",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Akash Babu",
+              "bowler": "J Santhanam",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Akash Babu",
+              "bowler": "J Santhanam",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Akash Babu",
+              "bowler": "J Santhanam",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Akash Babu",
+              "bowler": "J Santhanam",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "I Liyanage",
+              "bowler": "Janak Prakash",
+              "non_striker": "Akash Babu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Liyanage",
+              "bowler": "Janak Prakash",
+              "non_striker": "Akash Babu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Liyanage",
+              "bowler": "Janak Prakash",
+              "non_striker": "Akash Babu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Liyanage",
+              "bowler": "Janak Prakash",
+              "non_striker": "Akash Babu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Liyanage",
+              "bowler": "Janak Prakash",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Akash Babu",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Liyanage",
+              "bowler": "Janak Prakash",
+              "non_striker": "Akash Babu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Liyanage",
+              "bowler": "Janak Prakash",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Akash Babu",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Liyanage",
+              "bowler": "Janak Prakash",
+              "non_striker": "Akash Babu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "Akash Babu",
+              "bowler": "J Santhanam",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Akash Babu",
+              "bowler": "J Santhanam",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Akash Babu",
+              "bowler": "J Santhanam",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Liyanage",
+              "bowler": "J Santhanam",
+              "non_striker": "Akash Babu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Liyanage",
+              "bowler": "J Santhanam",
+              "non_striker": "Akash Babu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Liyanage",
+              "bowler": "J Santhanam",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Akash Babu",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Liyanage",
+              "bowler": "J Santhanam",
+              "non_striker": "Akash Babu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "Akash Babu",
+              "bowler": "Janak Prakash",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Akash Babu",
+              "bowler": "Janak Prakash",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Akash Babu",
+              "bowler": "Janak Prakash",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Akash Babu",
+              "bowler": "Janak Prakash",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Akash Babu",
+              "bowler": "Janak Prakash",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Akash Babu",
+              "bowler": "Janak Prakash",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Akash Babu",
+              "bowler": "Janak Prakash",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "I Liyanage",
+              "bowler": "J Santhanam",
+              "non_striker": "Akash Babu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Akash Babu",
+              "bowler": "J Santhanam",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Akash Babu",
+              "bowler": "J Santhanam",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Liyanage",
+              "bowler": "J Santhanam",
+              "non_striker": "Akash Babu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Liyanage",
+              "bowler": "J Santhanam",
+              "non_striker": "Akash Babu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Liyanage",
+              "bowler": "J Santhanam",
+              "non_striker": "Akash Babu",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "Akash Babu",
+              "bowler": "Janak Prakash",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Akash Babu",
+              "bowler": "Janak Prakash",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Liyanage",
+              "bowler": "Janak Prakash",
+              "non_striker": "Akash Babu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Liyanage",
+              "bowler": "Janak Prakash",
+              "non_striker": "Akash Babu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Akash Babu",
+              "bowler": "Janak Prakash",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Akash Babu",
+              "bowler": "Janak Prakash",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "I Liyanage",
+              "bowler": "AR Puri",
+              "non_striker": "Akash Babu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Liyanage",
+              "bowler": "AR Puri",
+              "non_striker": "Akash Babu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Liyanage",
+              "bowler": "AR Puri",
+              "non_striker": "Akash Babu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Liyanage",
+              "bowler": "AR Puri",
+              "non_striker": "Akash Babu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Liyanage",
+              "bowler": "AR Puri",
+              "non_striker": "Akash Babu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Liyanage",
+              "bowler": "AR Puri",
+              "non_striker": "Akash Babu",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "Akash Babu",
+              "bowler": "Janak Prakash",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Liyanage",
+              "bowler": "Janak Prakash",
+              "non_striker": "Akash Babu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Liyanage",
+              "bowler": "Janak Prakash",
+              "non_striker": "Akash Babu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Liyanage",
+              "bowler": "Janak Prakash",
+              "non_striker": "Akash Babu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Liyanage",
+              "bowler": "Janak Prakash",
+              "non_striker": "Akash Babu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Akash Babu",
+              "bowler": "Janak Prakash",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "I Liyanage",
+              "bowler": "AR Puri",
+              "non_striker": "Akash Babu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Liyanage",
+              "bowler": "AR Puri",
+              "non_striker": "Akash Babu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Liyanage",
+              "bowler": "AR Puri",
+              "non_striker": "Akash Babu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Akash Babu",
+              "bowler": "AR Puri",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Akash Babu",
+              "bowler": "AR Puri",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Liyanage",
+              "bowler": "AR Puri",
+              "non_striker": "Akash Babu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "Akash Babu",
+              "bowler": "Janak Prakash",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Akash Babu",
+              "bowler": "Janak Prakash",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Akash Babu",
+              "bowler": "Janak Prakash",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Akash Babu",
+              "bowler": "Janak Prakash",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Liyanage",
+              "bowler": "Janak Prakash",
+              "non_striker": "Akash Babu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Liyanage",
+              "bowler": "Janak Prakash",
+              "non_striker": "Akash Babu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Akash Babu",
+              "bowler": "Janak Prakash",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "I Liyanage",
+              "bowler": "AR Puri",
+              "non_striker": "Akash Babu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Liyanage",
+              "bowler": "AR Puri",
+              "non_striker": "Akash Babu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Akash Babu",
+              "bowler": "AR Puri",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Liyanage",
+              "bowler": "AR Puri",
+              "non_striker": "Akash Babu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Akash Babu",
+              "bowler": "AR Puri",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Liyanage",
+              "bowler": "AR Puri",
+              "non_striker": "Akash Babu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "I Liyanage",
+              "bowler": "Janak Prakash",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Akash Babu",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Liyanage",
+              "bowler": "Janak Prakash",
+              "non_striker": "Akash Babu",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "I Liyanage",
+              "bowler": "Janak Prakash",
+              "non_striker": "Akash Babu",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "I Liyanage",
+              "bowler": "Janak Prakash",
+              "non_striker": "Akash Babu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Liyanage",
+              "bowler": "Janak Prakash",
+              "non_striker": "Akash Babu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Liyanage",
+              "bowler": "Janak Prakash",
+              "non_striker": "Akash Babu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Liyanage",
+              "bowler": "Janak Prakash",
+              "non_striker": "Akash Babu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "Akash Babu",
+              "bowler": "AR Puri",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Liyanage",
+              "bowler": "AR Puri",
+              "non_striker": "Akash Babu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Akash Babu",
+              "bowler": "AR Puri",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Akash Babu",
+              "bowler": "AR Puri",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Akash Babu",
+              "bowler": "AR Puri",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Akash Babu",
+              "bowler": "AR Puri",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 20,
+          "deliveries": [
+            {
+              "batter": "Akash Babu",
+              "bowler": "IP Swaney",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Liyanage",
+              "bowler": "IP Swaney",
+              "non_striker": "Akash Babu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "I Liyanage",
+                  "fielders": [
+                    {
+                      "name": "Aman Desai"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Mohammad Rizlan",
+              "bowler": "IP Swaney",
+              "non_striker": "Akash Babu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Rizlan",
+              "bowler": "IP Swaney",
+              "non_striker": "Akash Babu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Mohammad Rizlan",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "Syed Tameem",
+              "bowler": "IP Swaney",
+              "non_striker": "Akash Babu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Syed Tameem",
+              "bowler": "IP Swaney",
+              "non_striker": "Akash Babu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 21,
+          "deliveries": [
+            {
+              "batter": "Akash Babu",
+              "bowler": "AR Puri",
+              "non_striker": "Syed Tameem",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Syed Tameem",
+              "bowler": "AR Puri",
+              "non_striker": "Akash Babu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Akash Babu",
+              "bowler": "AR Puri",
+              "non_striker": "Syed Tameem",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Akash Babu",
+              "bowler": "AR Puri",
+              "non_striker": "Syed Tameem",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Akash Babu",
+              "bowler": "AR Puri",
+              "non_striker": "Syed Tameem",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Akash Babu",
+              "bowler": "AR Puri",
+              "non_striker": "Syed Tameem",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 22,
+          "deliveries": [
+            {
+              "batter": "Akash Babu",
+              "bowler": "IP Swaney",
+              "non_striker": "Syed Tameem",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Syed Tameem",
+              "bowler": "IP Swaney",
+              "non_striker": "Akash Babu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Syed Tameem",
+              "bowler": "IP Swaney",
+              "non_striker": "Akash Babu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Syed Tameem",
+              "bowler": "IP Swaney",
+              "non_striker": "Akash Babu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Syed Tameem",
+                  "fielders": [
+                    {
+                      "name": "Manpreet Singh"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "Assad Borham",
+              "bowler": "IP Swaney",
+              "non_striker": "Akash Babu",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Assad Borham",
+              "bowler": "IP Swaney",
+              "non_striker": "Akash Babu",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 23,
+          "deliveries": [
+            {
+              "batter": "Akash Babu",
+              "bowler": "J Santhanam",
+              "non_striker": "Assad Borham",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Akash Babu",
+              "bowler": "J Santhanam",
+              "non_striker": "Assad Borham",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Assad Borham",
+              "bowler": "J Santhanam",
+              "non_striker": "Akash Babu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Assad Borham",
+              "bowler": "J Santhanam",
+              "non_striker": "Akash Babu",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Assad Borham",
+              "bowler": "J Santhanam",
+              "non_striker": "Akash Babu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Akash Babu",
+              "bowler": "J Santhanam",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Assad Borham",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Akash Babu",
+              "bowler": "J Santhanam",
+              "non_striker": "Assad Borham",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 24,
+          "deliveries": [
+            {
+              "batter": "Assad Borham",
+              "bowler": "IP Swaney",
+              "non_striker": "Akash Babu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Assad Borham",
+              "bowler": "IP Swaney",
+              "non_striker": "Akash Babu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Assad Borham",
+              "bowler": "IP Swaney",
+              "non_striker": "Akash Babu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Assad Borham",
+              "bowler": "IP Swaney",
+              "non_striker": "Akash Babu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Akash Babu",
+              "bowler": "IP Swaney",
+              "non_striker": "Assad Borham",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Akash Babu",
+              "bowler": "IP Swaney",
+              "non_striker": "Assad Borham",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 25,
+          "deliveries": [
+            {
+              "batter": "Assad Borham",
+              "bowler": "V Baskaran",
+              "non_striker": "Akash Babu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Assad Borham",
+              "bowler": "V Baskaran",
+              "non_striker": "Akash Babu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Akash Babu",
+              "bowler": "V Baskaran",
+              "non_striker": "Assad Borham",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Akash Babu",
+              "bowler": "V Baskaran",
+              "non_striker": "Assad Borham",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Assad Borham",
+              "bowler": "V Baskaran",
+              "non_striker": "Akash Babu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Assad Borham",
+              "bowler": "V Baskaran",
+              "non_striker": "Akash Babu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 26,
+          "deliveries": [
+            {
+              "batter": "Akash Babu",
+              "bowler": "IP Swaney",
+              "non_striker": "Assad Borham",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Akash Babu",
+              "bowler": "IP Swaney",
+              "non_striker": "Assad Borham",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Assad Borham",
+              "bowler": "IP Swaney",
+              "non_striker": "Akash Babu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Assad Borham",
+              "bowler": "IP Swaney",
+              "non_striker": "Akash Babu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Assad Borham",
+                  "fielders": [
+                    {
+                      "name": "V Baskaran"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "VN Veetil",
+              "bowler": "IP Swaney",
+              "non_striker": "Akash Babu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "VN Veetil",
+              "bowler": "IP Swaney",
+              "non_striker": "Akash Babu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 27,
+          "deliveries": [
+            {
+              "batter": "VN Veetil",
+              "bowler": "V Baskaran",
+              "non_striker": "Akash Babu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "VN Veetil",
+              "bowler": "V Baskaran",
+              "non_striker": "Akash Babu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "VN Veetil",
+              "bowler": "V Baskaran",
+              "non_striker": "Akash Babu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "VN Veetil",
+              "bowler": "V Baskaran",
+              "non_striker": "Akash Babu",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "VN Veetil",
+              "bowler": "V Baskaran",
+              "non_striker": "Akash Babu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "VN Veetil",
+              "bowler": "V Baskaran",
+              "non_striker": "Akash Babu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 28,
+          "deliveries": [
+            {
+              "batter": "VN Veetil",
+              "bowler": "IP Swaney",
+              "non_striker": "Akash Babu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Akash Babu",
+              "bowler": "IP Swaney",
+              "non_striker": "VN Veetil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Akash Babu",
+              "bowler": "IP Swaney",
+              "non_striker": "VN Veetil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Akash Babu",
+              "bowler": "IP Swaney",
+              "non_striker": "VN Veetil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Akash Babu",
+              "bowler": "IP Swaney",
+              "non_striker": "VN Veetil",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "VN Veetil",
+              "bowler": "IP Swaney",
+              "non_striker": "Akash Babu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 29,
+          "deliveries": [
+            {
+              "batter": "VN Veetil",
+              "bowler": "V Baskaran",
+              "non_striker": "Akash Babu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Akash Babu",
+              "bowler": "V Baskaran",
+              "non_striker": "VN Veetil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Akash Babu",
+              "bowler": "V Baskaran",
+              "non_striker": "VN Veetil",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Akash Babu",
+              "bowler": "V Baskaran",
+              "non_striker": "VN Veetil",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "VN Veetil",
+              "bowler": "V Baskaran",
+              "non_striker": "Akash Babu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "VN Veetil",
+              "bowler": "V Baskaran",
+              "non_striker": "Akash Babu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 30,
+          "deliveries": [
+            {
+              "batter": "VN Veetil",
+              "bowler": "IP Swaney",
+              "non_striker": "Akash Babu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "VN Veetil",
+              "bowler": "IP Swaney",
+              "non_striker": "Akash Babu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "VN Veetil",
+              "bowler": "IP Swaney",
+              "non_striker": "Akash Babu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "VN Veetil",
+              "bowler": "IP Swaney",
+              "non_striker": "Akash Babu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "VN Veetil",
+              "bowler": "IP Swaney",
+              "non_striker": "Akash Babu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Akash Babu",
+              "bowler": "IP Swaney",
+              "non_striker": "VN Veetil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 31,
+          "deliveries": [
+            {
+              "batter": "VN Veetil",
+              "bowler": "U Aryaman Sunil",
+              "non_striker": "Akash Babu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "VN Veetil",
+              "bowler": "U Aryaman Sunil",
+              "non_striker": "Akash Babu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "VN Veetil",
+              "bowler": "U Aryaman Sunil",
+              "non_striker": "Akash Babu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "VN Veetil",
+              "bowler": "U Aryaman Sunil",
+              "non_striker": "Akash Babu",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "VN Veetil",
+              "bowler": "U Aryaman Sunil",
+              "non_striker": "Akash Babu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Akash Babu",
+              "bowler": "U Aryaman Sunil",
+              "non_striker": "VN Veetil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 32,
+          "deliveries": [
+            {
+              "batter": "VN Veetil",
+              "bowler": "IP Swaney",
+              "non_striker": "Akash Babu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "VN Veetil",
+              "bowler": "IP Swaney",
+              "non_striker": "Akash Babu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "VN Veetil",
+              "bowler": "IP Swaney",
+              "non_striker": "Akash Babu",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "VN Veetil",
+              "bowler": "IP Swaney",
+              "non_striker": "Akash Babu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "VN Veetil",
+              "bowler": "IP Swaney",
+              "non_striker": "Akash Babu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Akash Babu",
+              "bowler": "IP Swaney",
+              "non_striker": "VN Veetil",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 33,
+          "deliveries": [
+            {
+              "batter": "VN Veetil",
+              "bowler": "U Aryaman Sunil",
+              "non_striker": "Akash Babu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Akash Babu",
+              "bowler": "U Aryaman Sunil",
+              "non_striker": "VN Veetil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Akash Babu",
+              "bowler": "U Aryaman Sunil",
+              "non_striker": "VN Veetil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Akash Babu",
+              "bowler": "U Aryaman Sunil",
+              "non_striker": "VN Veetil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Akash Babu",
+              "bowler": "U Aryaman Sunil",
+              "non_striker": "VN Veetil",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "VN Veetil",
+              "bowler": "U Aryaman Sunil",
+              "non_striker": "Akash Babu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 34,
+          "deliveries": [
+            {
+              "batter": "VN Veetil",
+              "bowler": "Manpreet Singh",
+              "non_striker": "Akash Babu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Akash Babu",
+              "bowler": "Manpreet Singh",
+              "non_striker": "VN Veetil",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "VN Veetil",
+              "bowler": "Manpreet Singh",
+              "non_striker": "Akash Babu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "VN Veetil",
+              "bowler": "Manpreet Singh",
+              "non_striker": "Akash Babu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "VN Veetil",
+              "bowler": "Manpreet Singh",
+              "non_striker": "Akash Babu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Akash Babu",
+              "bowler": "Manpreet Singh",
+              "non_striker": "VN Veetil",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 35,
+          "deliveries": [
+            {
+              "batter": "Akash Babu",
+              "bowler": "U Aryaman Sunil",
+              "non_striker": "VN Veetil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Akash Babu",
+              "bowler": "U Aryaman Sunil",
+              "non_striker": "VN Veetil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Akash Babu",
+              "bowler": "U Aryaman Sunil",
+              "non_striker": "VN Veetil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Akash Babu",
+                  "fielders": [
+                    {
+                      "name": "Janak Prakash"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Dharmang Patel",
+              "bowler": "U Aryaman Sunil",
+              "non_striker": "VN Veetil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Dharmang Patel",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "Ikramullah Khan",
+              "bowler": "U Aryaman Sunil",
+              "non_striker": "VN Veetil",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Ikramullah Khan",
+              "bowler": "U Aryaman Sunil",
+              "non_striker": "VN Veetil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 36,
+          "deliveries": [
+            {
+              "batter": "VN Veetil",
+              "bowler": "Manpreet Singh",
+              "non_striker": "Ikramullah Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ikramullah Khan",
+              "bowler": "Manpreet Singh",
+              "non_striker": "VN Veetil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ikramullah Khan",
+              "bowler": "Manpreet Singh",
+              "non_striker": "VN Veetil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ikramullah Khan",
+              "bowler": "Manpreet Singh",
+              "non_striker": "VN Veetil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ikramullah Khan",
+              "bowler": "Manpreet Singh",
+              "non_striker": "VN Veetil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ikramullah Khan",
+              "bowler": "Manpreet Singh",
+              "non_striker": "VN Veetil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 37,
+          "deliveries": [
+            {
+              "batter": "VN Veetil",
+              "bowler": "U Aryaman Sunil",
+              "non_striker": "Ikramullah Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "VN Veetil",
+              "bowler": "U Aryaman Sunil",
+              "non_striker": "Ikramullah Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "VN Veetil",
+              "bowler": "U Aryaman Sunil",
+              "non_striker": "Ikramullah Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ikramullah Khan",
+              "bowler": "U Aryaman Sunil",
+              "non_striker": "VN Veetil",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "VN Veetil",
+              "bowler": "U Aryaman Sunil",
+              "non_striker": "Ikramullah Khan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "VN Veetil",
+              "bowler": "U Aryaman Sunil",
+              "non_striker": "Ikramullah Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 38,
+          "deliveries": [
+            {
+              "batter": "VN Veetil",
+              "bowler": "Manpreet Singh",
+              "non_striker": "Ikramullah Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ikramullah Khan",
+              "bowler": "Manpreet Singh",
+              "non_striker": "VN Veetil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ikramullah Khan",
+              "bowler": "Manpreet Singh",
+              "non_striker": "VN Veetil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ikramullah Khan",
+              "bowler": "Manpreet Singh",
+              "non_striker": "VN Veetil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ikramullah Khan",
+              "bowler": "Manpreet Singh",
+              "non_striker": "VN Veetil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ikramullah Khan",
+              "bowler": "Manpreet Singh",
+              "non_striker": "VN Veetil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 39,
+          "deliveries": [
+            {
+              "batter": "VN Veetil",
+              "bowler": "Janak Prakash",
+              "non_striker": "Ikramullah Khan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "VN Veetil",
+              "bowler": "Janak Prakash",
+              "non_striker": "Ikramullah Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "VN Veetil",
+              "bowler": "Janak Prakash",
+              "non_striker": "Ikramullah Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "VN Veetil",
+              "bowler": "Janak Prakash",
+              "non_striker": "Ikramullah Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "VN Veetil",
+              "bowler": "Janak Prakash",
+              "non_striker": "Ikramullah Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ikramullah Khan",
+              "bowler": "Janak Prakash",
+              "non_striker": "VN Veetil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 40,
+          "deliveries": [
+            {
+              "batter": "VN Veetil",
+              "bowler": "Manpreet Singh",
+              "non_striker": "Ikramullah Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ikramullah Khan",
+              "bowler": "Manpreet Singh",
+              "non_striker": "VN Veetil",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "VN Veetil",
+              "bowler": "Manpreet Singh",
+              "non_striker": "Ikramullah Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "VN Veetil",
+              "bowler": "Manpreet Singh",
+              "non_striker": "Ikramullah Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ikramullah Khan",
+              "bowler": "Manpreet Singh",
+              "non_striker": "VN Veetil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ikramullah Khan",
+              "bowler": "Manpreet Singh",
+              "non_striker": "VN Veetil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 41,
+          "deliveries": [
+            {
+              "batter": "VN Veetil",
+              "bowler": "Janak Prakash",
+              "non_striker": "Ikramullah Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ikramullah Khan",
+              "bowler": "Janak Prakash",
+              "non_striker": "VN Veetil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ikramullah Khan",
+              "bowler": "Janak Prakash",
+              "non_striker": "VN Veetil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ikramullah Khan",
+              "bowler": "Janak Prakash",
+              "extras": {
+                "wides": 3
+              },
+              "non_striker": "VN Veetil",
+              "runs": {
+                "batter": 0,
+                "extras": 3,
+                "total": 3
+              }
+            },
+            {
+              "batter": "Ikramullah Khan",
+              "bowler": "Janak Prakash",
+              "non_striker": "VN Veetil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ikramullah Khan",
+              "bowler": "Janak Prakash",
+              "non_striker": "VN Veetil",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Ikramullah Khan",
+              "bowler": "Janak Prakash",
+              "non_striker": "VN Veetil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 42,
+          "deliveries": [
+            {
+              "batter": "VN Veetil",
+              "bowler": "Manpreet Singh",
+              "non_striker": "Ikramullah Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "VN Veetil",
+              "bowler": "Manpreet Singh",
+              "non_striker": "Ikramullah Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "VN Veetil",
+              "bowler": "Manpreet Singh",
+              "non_striker": "Ikramullah Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "VN Veetil",
+              "bowler": "Manpreet Singh",
+              "non_striker": "Ikramullah Khan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "VN Veetil",
+              "bowler": "Manpreet Singh",
+              "non_striker": "Ikramullah Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ikramullah Khan",
+              "bowler": "Manpreet Singh",
+              "non_striker": "VN Veetil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 43,
+          "deliveries": [
+            {
+              "batter": "VN Veetil",
+              "bowler": "AR Puri",
+              "non_striker": "Ikramullah Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "VN Veetil",
+              "bowler": "AR Puri",
+              "non_striker": "Ikramullah Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "VN Veetil",
+              "bowler": "AR Puri",
+              "non_striker": "Ikramullah Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ikramullah Khan",
+              "bowler": "AR Puri",
+              "non_striker": "VN Veetil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ikramullah Khan",
+              "bowler": "AR Puri",
+              "non_striker": "VN Veetil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ikramullah Khan",
+              "bowler": "AR Puri",
+              "non_striker": "VN Veetil",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 44,
+          "deliveries": [
+            {
+              "batter": "Ikramullah Khan",
+              "bowler": "Manpreet Singh",
+              "non_striker": "VN Veetil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ikramullah Khan",
+              "bowler": "Manpreet Singh",
+              "non_striker": "VN Veetil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ikramullah Khan",
+              "bowler": "Manpreet Singh",
+              "non_striker": "VN Veetil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ikramullah Khan",
+              "bowler": "Manpreet Singh",
+              "non_striker": "VN Veetil",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "VN Veetil",
+              "bowler": "Manpreet Singh",
+              "non_striker": "Ikramullah Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ikramullah Khan",
+              "bowler": "Manpreet Singh",
+              "non_striker": "VN Veetil",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 45,
+          "deliveries": [
+            {
+              "batter": "VN Veetil",
+              "bowler": "AR Puri",
+              "non_striker": "Ikramullah Khan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "VN Veetil",
+              "bowler": "AR Puri",
+              "non_striker": "Ikramullah Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ikramullah Khan",
+              "bowler": "AR Puri",
+              "non_striker": "VN Veetil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ikramullah Khan",
+              "bowler": "AR Puri",
+              "non_striker": "VN Veetil",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Ikramullah Khan",
+              "bowler": "AR Puri",
+              "non_striker": "VN Veetil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ikramullah Khan",
+              "bowler": "AR Puri",
+              "non_striker": "VN Veetil",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 46,
+          "deliveries": [
+            {
+              "batter": "Ikramullah Khan",
+              "bowler": "U Aryaman Sunil",
+              "non_striker": "VN Veetil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ikramullah Khan",
+              "bowler": "U Aryaman Sunil",
+              "non_striker": "VN Veetil",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "VN Veetil",
+              "bowler": "U Aryaman Sunil",
+              "non_striker": "Ikramullah Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ikramullah Khan",
+              "bowler": "U Aryaman Sunil",
+              "non_striker": "VN Veetil",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "VN Veetil",
+              "bowler": "U Aryaman Sunil",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Ikramullah Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "VN Veetil",
+              "bowler": "U Aryaman Sunil",
+              "non_striker": "Ikramullah Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "VN Veetil",
+                  "fielders": [
+                    {
+                      "name": "Avi Dixit"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Gayan Munaweera",
+              "bowler": "U Aryaman Sunil",
+              "non_striker": "Ikramullah Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 47,
+          "deliveries": [
+            {
+              "batter": "Ikramullah Khan",
+              "bowler": "Janak Prakash",
+              "non_striker": "Gayan Munaweera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Gayan Munaweera",
+              "bowler": "Janak Prakash",
+              "non_striker": "Ikramullah Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ikramullah Khan",
+              "bowler": "Janak Prakash",
+              "non_striker": "Gayan Munaweera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ikramullah Khan",
+              "bowler": "Janak Prakash",
+              "non_striker": "Gayan Munaweera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ikramullah Khan",
+              "bowler": "Janak Prakash",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Gayan Munaweera",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Gayan Munaweera",
+              "bowler": "Janak Prakash",
+              "non_striker": "Ikramullah Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 48,
+          "deliveries": [
+            {
+              "batter": "Ikramullah Khan",
+              "bowler": "U Aryaman Sunil",
+              "non_striker": "Gayan Munaweera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Gayan Munaweera",
+              "bowler": "U Aryaman Sunil",
+              "non_striker": "Ikramullah Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ikramullah Khan",
+              "bowler": "U Aryaman Sunil",
+              "non_striker": "Gayan Munaweera",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Ikramullah Khan",
+              "bowler": "U Aryaman Sunil",
+              "non_striker": "Gayan Munaweera",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Ikramullah Khan",
+              "bowler": "U Aryaman Sunil",
+              "non_striker": "Gayan Munaweera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Gayan Munaweera",
+              "bowler": "U Aryaman Sunil",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Ikramullah Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Gayan Munaweera",
+              "bowler": "U Aryaman Sunil",
+              "non_striker": "Ikramullah Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 49,
+          "deliveries": [
+            {
+              "batter": "Gayan Munaweera",
+              "bowler": "Janak Prakash",
+              "non_striker": "Ikramullah Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ikramullah Khan",
+              "bowler": "Janak Prakash",
+              "non_striker": "Gayan Munaweera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Gayan Munaweera",
+              "bowler": "Janak Prakash",
+              "non_striker": "Ikramullah Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ikramullah Khan",
+              "bowler": "Janak Prakash",
+              "non_striker": "Gayan Munaweera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Gayan Munaweera",
+              "bowler": "Janak Prakash",
+              "non_striker": "Ikramullah Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Gayan Munaweera",
+                  "kind": "caught and bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Mohammed Nadeem",
+              "bowler": "Janak Prakash",
+              "non_striker": "Ikramullah Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Mohammed Nadeem",
+                  "fielders": [
+                    {
+                      "name": "AR Puri"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 9.7,
+          "type": "mandatory"
+        },
+        {
+          "from": 10.1,
+          "to": 39.6,
+          "type": "mandatory"
+        },
+        {
+          "from": 40.1,
+          "to": 49.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Singapore",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Aritra Dutta",
+              "bowler": "Ikramullah Khan",
+              "non_striker": "Avi Dixit",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Aritra Dutta",
+              "bowler": "Ikramullah Khan",
+              "non_striker": "Avi Dixit",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Aritra Dutta",
+              "bowler": "Ikramullah Khan",
+              "non_striker": "Avi Dixit",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Avi Dixit",
+              "bowler": "Ikramullah Khan",
+              "non_striker": "Aritra Dutta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Avi Dixit",
+              "bowler": "Ikramullah Khan",
+              "non_striker": "Aritra Dutta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Avi Dixit",
+              "bowler": "Ikramullah Khan",
+              "non_striker": "Aritra Dutta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Aritra Dutta",
+              "bowler": "Gayan Munaweera",
+              "non_striker": "Avi Dixit",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Aritra Dutta",
+              "bowler": "Gayan Munaweera",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Avi Dixit",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Avi Dixit",
+              "bowler": "Gayan Munaweera",
+              "non_striker": "Aritra Dutta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Avi Dixit",
+              "bowler": "Gayan Munaweera",
+              "non_striker": "Aritra Dutta",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Aritra Dutta",
+              "bowler": "Gayan Munaweera",
+              "non_striker": "Avi Dixit",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Aritra Dutta",
+              "bowler": "Gayan Munaweera",
+              "non_striker": "Avi Dixit",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Avi Dixit",
+              "bowler": "Ikramullah Khan",
+              "non_striker": "Aritra Dutta",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Avi Dixit",
+              "bowler": "Ikramullah Khan",
+              "non_striker": "Aritra Dutta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Avi Dixit",
+              "bowler": "Ikramullah Khan",
+              "non_striker": "Aritra Dutta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Avi Dixit",
+              "bowler": "Ikramullah Khan",
+              "non_striker": "Aritra Dutta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Avi Dixit",
+              "bowler": "Ikramullah Khan",
+              "non_striker": "Aritra Dutta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Avi Dixit",
+              "bowler": "Ikramullah Khan",
+              "non_striker": "Aritra Dutta",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Avi Dixit",
+              "bowler": "Gayan Munaweera",
+              "non_striker": "Aritra Dutta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Avi Dixit",
+              "bowler": "Gayan Munaweera",
+              "non_striker": "Aritra Dutta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Avi Dixit",
+              "bowler": "Gayan Munaweera",
+              "non_striker": "Aritra Dutta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Avi Dixit",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Aman Desai",
+              "bowler": "Gayan Munaweera",
+              "non_striker": "Aritra Dutta",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Aritra Dutta",
+              "bowler": "Gayan Munaweera",
+              "non_striker": "Aman Desai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Aman Desai",
+              "bowler": "Gayan Munaweera",
+              "non_striker": "Aritra Dutta",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Aman Desai",
+              "bowler": "Ikramullah Khan",
+              "non_striker": "Aritra Dutta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Aman Desai",
+              "bowler": "Ikramullah Khan",
+              "non_striker": "Aritra Dutta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Aman Desai",
+              "bowler": "Ikramullah Khan",
+              "non_striker": "Aritra Dutta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Aman Desai",
+              "bowler": "Ikramullah Khan",
+              "non_striker": "Aritra Dutta",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Aman Desai",
+              "bowler": "Ikramullah Khan",
+              "non_striker": "Aritra Dutta",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Aritra Dutta",
+              "bowler": "Ikramullah Khan",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "Aman Desai",
+              "runs": {
+                "batter": 4,
+                "extras": 1,
+                "total": 5
+              }
+            },
+            {
+              "batter": "Aritra Dutta",
+              "bowler": "Ikramullah Khan",
+              "non_striker": "Aman Desai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Aman Desai",
+              "bowler": "Gayan Munaweera",
+              "non_striker": "Aritra Dutta",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Aman Desai",
+              "bowler": "Gayan Munaweera",
+              "non_striker": "Aritra Dutta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Aman Desai",
+              "bowler": "Gayan Munaweera",
+              "non_striker": "Aritra Dutta",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Aritra Dutta",
+              "bowler": "Gayan Munaweera",
+              "non_striker": "Aman Desai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Aritra Dutta",
+              "bowler": "Gayan Munaweera",
+              "non_striker": "Aman Desai",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Aritra Dutta",
+              "bowler": "Gayan Munaweera",
+              "non_striker": "Aman Desai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Aman Desai",
+              "bowler": "Ikramullah Khan",
+              "non_striker": "Aritra Dutta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Aman Desai",
+                  "fielders": [
+                    {
+                      "name": "Assad Borham"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Manpreet Singh",
+              "bowler": "Ikramullah Khan",
+              "non_striker": "Aritra Dutta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Manpreet Singh",
+              "bowler": "Ikramullah Khan",
+              "non_striker": "Aritra Dutta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Manpreet Singh",
+              "bowler": "Ikramullah Khan",
+              "non_striker": "Aritra Dutta",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Aritra Dutta",
+              "bowler": "Ikramullah Khan",
+              "non_striker": "Manpreet Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Aritra Dutta",
+              "bowler": "Ikramullah Khan",
+              "non_striker": "Manpreet Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Manpreet Singh",
+              "bowler": "Gayan Munaweera",
+              "non_striker": "Aritra Dutta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Manpreet Singh",
+              "bowler": "Gayan Munaweera",
+              "non_striker": "Aritra Dutta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Manpreet Singh",
+              "bowler": "Gayan Munaweera",
+              "non_striker": "Aritra Dutta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Manpreet Singh",
+              "bowler": "Gayan Munaweera",
+              "non_striker": "Aritra Dutta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Manpreet Singh",
+              "bowler": "Gayan Munaweera",
+              "non_striker": "Aritra Dutta",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Manpreet Singh",
+              "bowler": "Gayan Munaweera",
+              "non_striker": "Aritra Dutta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "Aritra Dutta",
+              "bowler": "Mohammed Nadeem",
+              "non_striker": "Manpreet Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Manpreet Singh",
+              "bowler": "Mohammed Nadeem",
+              "non_striker": "Aritra Dutta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Manpreet Singh",
+              "bowler": "Mohammed Nadeem",
+              "non_striker": "Aritra Dutta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Manpreet Singh",
+              "bowler": "Mohammed Nadeem",
+              "non_striker": "Aritra Dutta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Manpreet Singh",
+              "bowler": "Mohammed Nadeem",
+              "non_striker": "Aritra Dutta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Manpreet Singh",
+              "bowler": "Mohammed Nadeem",
+              "non_striker": "Aritra Dutta",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "Manpreet Singh",
+              "bowler": "Assad Borham",
+              "non_striker": "Aritra Dutta",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Manpreet Singh",
+              "bowler": "Assad Borham",
+              "non_striker": "Aritra Dutta",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Aritra Dutta",
+              "bowler": "Assad Borham",
+              "non_striker": "Manpreet Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Aritra Dutta",
+              "bowler": "Assad Borham",
+              "non_striker": "Manpreet Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Aritra Dutta",
+              "bowler": "Assad Borham",
+              "non_striker": "Manpreet Singh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Aritra Dutta",
+              "bowler": "Assad Borham",
+              "non_striker": "Manpreet Singh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "Manpreet Singh",
+              "bowler": "Mohammed Nadeem",
+              "non_striker": "Aritra Dutta",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Aritra Dutta",
+              "bowler": "Mohammed Nadeem",
+              "non_striker": "Manpreet Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Manpreet Singh",
+              "bowler": "Mohammed Nadeem",
+              "non_striker": "Aritra Dutta",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Aritra Dutta",
+              "bowler": "Mohammed Nadeem",
+              "non_striker": "Manpreet Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Manpreet Singh",
+              "bowler": "Mohammed Nadeem",
+              "non_striker": "Aritra Dutta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Manpreet Singh",
+              "bowler": "Mohammed Nadeem",
+              "non_striker": "Aritra Dutta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "Aritra Dutta",
+              "bowler": "Assad Borham",
+              "non_striker": "Manpreet Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Aritra Dutta",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "A Kaul",
+              "bowler": "Assad Borham",
+              "non_striker": "Manpreet Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Kaul",
+              "bowler": "Assad Borham",
+              "non_striker": "Manpreet Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Manpreet Singh",
+              "bowler": "Assad Borham",
+              "non_striker": "A Kaul",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Manpreet Singh",
+              "bowler": "Assad Borham",
+              "non_striker": "A Kaul",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Manpreet Singh",
+              "bowler": "Assad Borham",
+              "non_striker": "A Kaul",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "Manpreet Singh",
+              "bowler": "Mohammed Nadeem",
+              "non_striker": "A Kaul",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Manpreet Singh",
+              "bowler": "Mohammed Nadeem",
+              "non_striker": "A Kaul",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Manpreet Singh",
+              "bowler": "Mohammed Nadeem",
+              "non_striker": "A Kaul",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Kaul",
+              "bowler": "Mohammed Nadeem",
+              "non_striker": "Manpreet Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Kaul",
+              "bowler": "Mohammed Nadeem",
+              "non_striker": "Manpreet Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Kaul",
+              "bowler": "Mohammed Nadeem",
+              "non_striker": "Manpreet Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "A Kaul",
+                  "kind": "lbw"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "Manpreet Singh",
+              "bowler": "Assad Borham",
+              "non_striker": "IP Swaney",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Manpreet Singh",
+              "bowler": "Assad Borham",
+              "non_striker": "IP Swaney",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "IP Swaney",
+              "bowler": "Assad Borham",
+              "non_striker": "Manpreet Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Manpreet Singh",
+              "bowler": "Assad Borham",
+              "non_striker": "IP Swaney",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Manpreet Singh",
+              "bowler": "Assad Borham",
+              "non_striker": "IP Swaney",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "IP Swaney",
+              "bowler": "Assad Borham",
+              "non_striker": "Manpreet Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "Manpreet Singh",
+              "bowler": "Mohammed Nadeem",
+              "non_striker": "IP Swaney",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "IP Swaney",
+              "bowler": "Mohammed Nadeem",
+              "non_striker": "Manpreet Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IP Swaney",
+              "bowler": "Mohammed Nadeem",
+              "non_striker": "Manpreet Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Manpreet Singh",
+              "bowler": "Mohammed Nadeem",
+              "non_striker": "IP Swaney",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "IP Swaney",
+              "bowler": "Mohammed Nadeem",
+              "non_striker": "Manpreet Singh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "IP Swaney",
+              "bowler": "Mohammed Nadeem",
+              "non_striker": "Manpreet Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "IP Swaney",
+              "bowler": "Assad Borham",
+              "non_striker": "Manpreet Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Manpreet Singh",
+              "bowler": "Assad Borham",
+              "non_striker": "IP Swaney",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Manpreet Singh",
+              "bowler": "Assad Borham",
+              "non_striker": "IP Swaney",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Manpreet Singh",
+              "bowler": "Assad Borham",
+              "non_striker": "IP Swaney",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Manpreet Singh",
+              "bowler": "Assad Borham",
+              "non_striker": "IP Swaney",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Manpreet Singh",
+              "bowler": "Assad Borham",
+              "non_striker": "IP Swaney",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "IP Swaney",
+              "bowler": "Akash Babu",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Manpreet Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "IP Swaney",
+              "bowler": "Akash Babu",
+              "non_striker": "Manpreet Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Manpreet Singh",
+              "bowler": "Akash Babu",
+              "non_striker": "IP Swaney",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Manpreet Singh",
+                  "fielders": [
+                    {
+                      "name": "Mohammad Rizlan"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Janak Prakash",
+              "bowler": "Akash Babu",
+              "non_striker": "IP Swaney",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Janak Prakash",
+              "bowler": "Akash Babu",
+              "non_striker": "IP Swaney",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "IP Swaney",
+              "bowler": "Akash Babu",
+              "non_striker": "Janak Prakash",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Janak Prakash",
+              "bowler": "Akash Babu",
+              "non_striker": "IP Swaney",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "IP Swaney",
+              "bowler": "VN Veetil",
+              "non_striker": "Janak Prakash",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "IP Swaney",
+              "bowler": "VN Veetil",
+              "non_striker": "Janak Prakash",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "IP Swaney",
+                  "fielders": [
+                    {
+                      "name": "Kamran Khan"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "U Aryaman Sunil",
+              "bowler": "VN Veetil",
+              "non_striker": "Janak Prakash",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "U Aryaman Sunil",
+              "bowler": "VN Veetil",
+              "non_striker": "Janak Prakash",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Janak Prakash",
+              "bowler": "VN Veetil",
+              "non_striker": "U Aryaman Sunil",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Janak Prakash",
+              "bowler": "VN Veetil",
+              "non_striker": "U Aryaman Sunil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "U Aryaman Sunil",
+              "bowler": "Mohammed Nadeem",
+              "non_striker": "Janak Prakash",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Janak Prakash",
+              "bowler": "Mohammed Nadeem",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "U Aryaman Sunil",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Janak Prakash",
+              "bowler": "Mohammed Nadeem",
+              "non_striker": "U Aryaman Sunil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Janak Prakash",
+                  "fielders": [
+                    {
+                      "name": "Ikramullah Khan"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "J Santhanam",
+              "bowler": "Mohammed Nadeem",
+              "non_striker": "U Aryaman Sunil",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "U Aryaman Sunil",
+              "bowler": "Mohammed Nadeem",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "J Santhanam",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "U Aryaman Sunil",
+              "bowler": "Mohammed Nadeem",
+              "non_striker": "J Santhanam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Santhanam",
+              "bowler": "Mohammed Nadeem",
+              "non_striker": "U Aryaman Sunil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Santhanam",
+              "bowler": "Mohammed Nadeem",
+              "non_striker": "U Aryaman Sunil",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "J Santhanam",
+              "bowler": "VN Veetil",
+              "non_striker": "U Aryaman Sunil",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "U Aryaman Sunil",
+              "bowler": "VN Veetil",
+              "non_striker": "J Santhanam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "U Aryaman Sunil",
+              "bowler": "VN Veetil",
+              "non_striker": "J Santhanam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Santhanam",
+              "bowler": "VN Veetil",
+              "non_striker": "U Aryaman Sunil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Santhanam",
+              "bowler": "VN Veetil",
+              "non_striker": "U Aryaman Sunil",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "J Santhanam",
+              "bowler": "VN Veetil",
+              "non_striker": "U Aryaman Sunil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 20,
+          "deliveries": [
+            {
+              "batter": "U Aryaman Sunil",
+              "bowler": "Ikramullah Khan",
+              "non_striker": "J Santhanam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "J Santhanam",
+                  "fielders": [
+                    {
+                      "name": "I Liyanage"
+                    },
+                    {
+                      "name": "Ikramullah Khan"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "U Aryaman Sunil",
+              "bowler": "Ikramullah Khan",
+              "non_striker": "V Baskaran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Baskaran",
+              "bowler": "Ikramullah Khan",
+              "non_striker": "U Aryaman Sunil",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "V Baskaran",
+              "bowler": "Ikramullah Khan",
+              "non_striker": "U Aryaman Sunil",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "U Aryaman Sunil",
+              "bowler": "Ikramullah Khan",
+              "non_striker": "V Baskaran",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "U Aryaman Sunil",
+              "bowler": "Ikramullah Khan",
+              "non_striker": "V Baskaran",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 21,
+          "deliveries": [
+            {
+              "batter": "V Baskaran",
+              "bowler": "VN Veetil",
+              "non_striker": "U Aryaman Sunil",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              },
+              "wickets": [
+                {
+                  "player_out": "V Baskaran",
+                  "fielders": [
+                    {
+                      "name": "I Liyanage"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "U Aryaman Sunil",
+              "bowler": "VN Veetil",
+              "non_striker": "AR Puri",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "U Aryaman Sunil",
+              "bowler": "VN Veetil",
+              "non_striker": "AR Puri",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AR Puri",
+              "bowler": "VN Veetil",
+              "non_striker": "U Aryaman Sunil",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "U Aryaman Sunil",
+              "bowler": "VN Veetil",
+              "non_striker": "AR Puri",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AR Puri",
+              "bowler": "VN Veetil",
+              "non_striker": "U Aryaman Sunil",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "target": {
+        "overs": 22,
+        "runs": 146
+      }
+    }
+  ]
+}

@@ -1,0 +1,3102 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2023-01-02",
+    "revision": 2
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Brisbane",
+    "dates": [
+      "2023-01-01"
+    ],
+    "event": {
+      "name": "Big Bash League",
+      "match_number": 25
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "officials": {
+      "match_referees": [
+        "Kepler Wessels"
+      ],
+      "reserve_umpires": [
+        "SE Dionysius"
+      ],
+      "tv_umpires": [
+        "Troy Penman"
+      ],
+      "umpires": [
+        "DM Koch",
+        "NR Johnstone"
+      ]
+    },
+    "outcome": {
+      "winner": "Brisbane Heat",
+      "by": {
+        "runs": 15
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "J Brown"
+    ],
+    "players": {
+      "Brisbane Heat": [
+        "C Munro",
+        "J Brown",
+        "NA McSweeney",
+        "SW Billings",
+        "JJ Peirson",
+        "JJ Bazley",
+        "RA Whiteley",
+        "MG Neser",
+        "MT Steketee",
+        "MP Kuhnemann",
+        "MJ Swepson"
+      ],
+      "Sydney Sixers": [
+        "JR Philippe",
+        "JM Vince",
+        "DP Hughes",
+        "MC Henriques",
+        "JC Silk",
+        "DT Christian",
+        "H Kerr",
+        "BJ Dwarshuis",
+        "SA Abbott",
+        "JM Bird",
+        "Izharulhaq Naveed"
+      ]
+    },
+    "registry": {
+      "people": {
+        "BJ Dwarshuis": "e1b9f3a9",
+        "C Munro": "af2c687b",
+        "DM Koch": "6d10c034",
+        "DP Hughes": "f3982af9",
+        "DT Christian": "2a2e6343",
+        "H Kerr": "f422728b",
+        "Izharulhaq Naveed": "2cbdd22f",
+        "J Brown": "647e7d44",
+        "JC Silk": "7a6dc294",
+        "JJ Bazley": "003d49e6",
+        "JJ Peirson": "2b55c3b4",
+        "JM Bird": "bc773eeb",
+        "JM Vince": "a15618fe",
+        "JR Philippe": "39086549",
+        "Kepler Wessels": "3bedaff0",
+        "M Bryant": "f32012f4",
+        "MC Henriques": "32198ae0",
+        "MG Neser": "0164b064",
+        "MJ Swepson": "86b4bf88",
+        "MP Kuhnemann": "7b953689",
+        "MT Steketee": "903560ed",
+        "NA McSweeney": "e94d2d50",
+        "NR Johnstone": "ce274b6a",
+        "RA Whiteley": "d346d939",
+        "SA Abbott": "1a2676c5",
+        "SE Dionysius": "ac886e6f",
+        "SW Billings": "c16d4035",
+        "Troy Penman": "0aa42c26"
+      }
+    },
+    "season": "2022/23",
+    "team_type": "club",
+    "teams": [
+      "Brisbane Heat",
+      "Sydney Sixers"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "Brisbane Heat"
+    },
+    "venue": "Brisbane Cricket Ground, Woolloongabba, Brisbane"
+  },
+  "innings": [
+    {
+      "team": "Brisbane Heat",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "C Munro",
+              "bowler": "BJ Dwarshuis",
+              "non_striker": "J Brown",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "C Munro",
+              "bowler": "BJ Dwarshuis",
+              "non_striker": "J Brown",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "C Munro",
+              "bowler": "BJ Dwarshuis",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "J Brown",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Munro",
+              "bowler": "BJ Dwarshuis",
+              "non_striker": "J Brown",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Munro",
+              "bowler": "BJ Dwarshuis",
+              "non_striker": "J Brown",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "C Munro",
+              "bowler": "BJ Dwarshuis",
+              "non_striker": "J Brown",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Munro",
+              "bowler": "BJ Dwarshuis",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "J Brown",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Munro",
+              "bowler": "BJ Dwarshuis",
+              "non_striker": "J Brown",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "C Munro",
+                  "fielders": [
+                    {
+                      "name": "JC Silk"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "J Brown",
+              "bowler": "JM Bird",
+              "non_striker": "NA McSweeney",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NA McSweeney",
+              "bowler": "JM Bird",
+              "non_striker": "J Brown",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NA McSweeney",
+              "bowler": "JM Bird",
+              "non_striker": "J Brown",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NA McSweeney",
+              "bowler": "JM Bird",
+              "non_striker": "J Brown",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "NA McSweeney",
+              "bowler": "JM Bird",
+              "non_striker": "J Brown",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NA McSweeney",
+              "bowler": "JM Bird",
+              "non_striker": "J Brown",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "J Brown",
+              "bowler": "BJ Dwarshuis",
+              "non_striker": "NA McSweeney",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Brown",
+              "bowler": "BJ Dwarshuis",
+              "non_striker": "NA McSweeney",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Brown",
+              "bowler": "BJ Dwarshuis",
+              "non_striker": "NA McSweeney",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "J Brown",
+              "bowler": "BJ Dwarshuis",
+              "non_striker": "NA McSweeney",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "J Brown",
+              "bowler": "BJ Dwarshuis",
+              "non_striker": "NA McSweeney",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "J Brown",
+              "bowler": "BJ Dwarshuis",
+              "non_striker": "NA McSweeney",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "NA McSweeney",
+              "bowler": "JM Bird",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "J Brown",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Brown",
+              "bowler": "JM Bird",
+              "non_striker": "NA McSweeney",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "J Brown",
+              "bowler": "JM Bird",
+              "non_striker": "NA McSweeney",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NA McSweeney",
+              "bowler": "JM Bird",
+              "non_striker": "J Brown",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Brown",
+              "bowler": "JM Bird",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "NA McSweeney",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Brown",
+              "bowler": "JM Bird",
+              "non_striker": "NA McSweeney",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "J Brown",
+              "bowler": "JM Bird",
+              "non_striker": "NA McSweeney",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "NA McSweeney",
+              "bowler": "H Kerr",
+              "non_striker": "J Brown",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Brown",
+              "bowler": "H Kerr",
+              "non_striker": "NA McSweeney",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "J Brown",
+              "bowler": "H Kerr",
+              "non_striker": "NA McSweeney",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "J Brown",
+              "bowler": "H Kerr",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "NA McSweeney",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Brown",
+              "bowler": "H Kerr",
+              "non_striker": "NA McSweeney",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "J Brown",
+              "bowler": "H Kerr",
+              "non_striker": "NA McSweeney",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Brown",
+              "bowler": "H Kerr",
+              "non_striker": "NA McSweeney",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "NA McSweeney",
+              "bowler": "Izharulhaq Naveed",
+              "non_striker": "J Brown",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Brown",
+              "bowler": "Izharulhaq Naveed",
+              "non_striker": "NA McSweeney",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Brown",
+              "bowler": "Izharulhaq Naveed",
+              "non_striker": "NA McSweeney",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NA McSweeney",
+              "bowler": "Izharulhaq Naveed",
+              "non_striker": "J Brown",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Brown",
+              "bowler": "Izharulhaq Naveed",
+              "non_striker": "NA McSweeney",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "J Brown",
+              "bowler": "Izharulhaq Naveed",
+              "non_striker": "NA McSweeney",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "J Brown",
+              "bowler": "SA Abbott",
+              "non_striker": "NA McSweeney",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "J Brown",
+              "bowler": "SA Abbott",
+              "non_striker": "NA McSweeney",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "J Brown",
+              "bowler": "SA Abbott",
+              "non_striker": "NA McSweeney",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "J Brown",
+                  "fielders": [
+                    {
+                      "name": "BJ Dwarshuis"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "SW Billings",
+              "bowler": "SA Abbott",
+              "non_striker": "NA McSweeney",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SW Billings",
+              "bowler": "SA Abbott",
+              "non_striker": "NA McSweeney",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NA McSweeney",
+              "bowler": "SA Abbott",
+              "non_striker": "SW Billings",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "SW Billings",
+              "bowler": "Izharulhaq Naveed",
+              "non_striker": "NA McSweeney",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NA McSweeney",
+              "bowler": "Izharulhaq Naveed",
+              "non_striker": "SW Billings",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SW Billings",
+              "bowler": "Izharulhaq Naveed",
+              "non_striker": "NA McSweeney",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NA McSweeney",
+              "bowler": "Izharulhaq Naveed",
+              "non_striker": "SW Billings",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "NA McSweeney",
+              "bowler": "Izharulhaq Naveed",
+              "non_striker": "SW Billings",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SW Billings",
+              "bowler": "Izharulhaq Naveed",
+              "non_striker": "NA McSweeney",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "SW Billings",
+              "bowler": "H Kerr",
+              "non_striker": "NA McSweeney",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NA McSweeney",
+              "bowler": "H Kerr",
+              "non_striker": "SW Billings",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SW Billings",
+              "bowler": "H Kerr",
+              "non_striker": "NA McSweeney",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NA McSweeney",
+              "bowler": "H Kerr",
+              "non_striker": "SW Billings",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SW Billings",
+              "bowler": "H Kerr",
+              "non_striker": "NA McSweeney",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SW Billings",
+              "bowler": "H Kerr",
+              "non_striker": "NA McSweeney",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "SW Billings",
+              "bowler": "SA Abbott",
+              "non_striker": "NA McSweeney",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SW Billings",
+              "bowler": "SA Abbott",
+              "non_striker": "NA McSweeney",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NA McSweeney",
+              "bowler": "SA Abbott",
+              "non_striker": "SW Billings",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SW Billings",
+              "bowler": "SA Abbott",
+              "non_striker": "NA McSweeney",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NA McSweeney",
+              "bowler": "SA Abbott",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "SW Billings",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NA McSweeney",
+              "bowler": "SA Abbott",
+              "non_striker": "SW Billings",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "NA McSweeney",
+              "bowler": "SA Abbott",
+              "non_striker": "SW Billings",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "NA McSweeney",
+              "bowler": "JM Bird",
+              "non_striker": "SW Billings",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SW Billings",
+              "bowler": "JM Bird",
+              "non_striker": "NA McSweeney",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "SW Billings",
+              "bowler": "JM Bird",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "NA McSweeney",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SW Billings",
+              "bowler": "JM Bird",
+              "non_striker": "NA McSweeney",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NA McSweeney",
+              "bowler": "JM Bird",
+              "non_striker": "SW Billings",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "NA McSweeney",
+              "bowler": "JM Bird",
+              "non_striker": "SW Billings",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "NA McSweeney",
+              "bowler": "JM Bird",
+              "non_striker": "SW Billings",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "SW Billings",
+              "bowler": "Izharulhaq Naveed",
+              "non_striker": "NA McSweeney",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NA McSweeney",
+              "bowler": "Izharulhaq Naveed",
+              "non_striker": "SW Billings",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SW Billings",
+              "bowler": "Izharulhaq Naveed",
+              "non_striker": "NA McSweeney",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SW Billings",
+              "bowler": "Izharulhaq Naveed",
+              "non_striker": "NA McSweeney",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SW Billings",
+              "bowler": "Izharulhaq Naveed",
+              "non_striker": "NA McSweeney",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NA McSweeney",
+              "bowler": "Izharulhaq Naveed",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "SW Billings",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "NA McSweeney",
+              "bowler": "BJ Dwarshuis",
+              "non_striker": "SW Billings",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "NA McSweeney",
+              "bowler": "BJ Dwarshuis",
+              "non_striker": "SW Billings",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NA McSweeney",
+              "bowler": "BJ Dwarshuis",
+              "non_striker": "SW Billings",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NA McSweeney",
+              "bowler": "BJ Dwarshuis",
+              "non_striker": "SW Billings",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "NA McSweeney",
+              "bowler": "BJ Dwarshuis",
+              "non_striker": "SW Billings",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SW Billings",
+              "bowler": "BJ Dwarshuis",
+              "non_striker": "NA McSweeney",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "SW Billings",
+              "bowler": "DT Christian",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "NA McSweeney",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SW Billings",
+              "bowler": "DT Christian",
+              "non_striker": "NA McSweeney",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NA McSweeney",
+              "bowler": "DT Christian",
+              "non_striker": "SW Billings",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NA McSweeney",
+              "bowler": "DT Christian",
+              "non_striker": "SW Billings",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SW Billings",
+              "bowler": "DT Christian",
+              "non_striker": "NA McSweeney",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SW Billings",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "JJ Peirson",
+              "bowler": "DT Christian",
+              "non_striker": "NA McSweeney",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NA McSweeney",
+              "bowler": "DT Christian",
+              "non_striker": "JJ Peirson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "NA McSweeney",
+              "bowler": "JM Bird",
+              "non_striker": "JJ Peirson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JJ Peirson",
+              "bowler": "JM Bird",
+              "non_striker": "NA McSweeney",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JJ Peirson",
+              "bowler": "JM Bird",
+              "non_striker": "NA McSweeney",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JJ Peirson",
+              "bowler": "JM Bird",
+              "non_striker": "NA McSweeney",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NA McSweeney",
+              "bowler": "JM Bird",
+              "non_striker": "JJ Peirson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NA McSweeney",
+              "bowler": "JM Bird",
+              "non_striker": "JJ Peirson",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "JJ Peirson",
+              "bowler": "Izharulhaq Naveed",
+              "non_striker": "NA McSweeney",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NA McSweeney",
+              "bowler": "Izharulhaq Naveed",
+              "non_striker": "JJ Peirson",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "NA McSweeney",
+              "bowler": "Izharulhaq Naveed",
+              "non_striker": "JJ Peirson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JJ Peirson",
+              "bowler": "Izharulhaq Naveed",
+              "non_striker": "NA McSweeney",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NA McSweeney",
+              "bowler": "Izharulhaq Naveed",
+              "non_striker": "JJ Peirson",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "NA McSweeney",
+              "bowler": "Izharulhaq Naveed",
+              "non_striker": "JJ Peirson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "NA McSweeney",
+              "bowler": "BJ Dwarshuis",
+              "non_striker": "JJ Peirson",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "NA McSweeney",
+              "bowler": "BJ Dwarshuis",
+              "non_striker": "JJ Peirson",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "NA McSweeney",
+              "bowler": "BJ Dwarshuis",
+              "non_striker": "JJ Peirson",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "NA McSweeney",
+              "bowler": "BJ Dwarshuis",
+              "non_striker": "JJ Peirson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JJ Peirson",
+              "bowler": "BJ Dwarshuis",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "NA McSweeney",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NA McSweeney",
+              "bowler": "BJ Dwarshuis",
+              "non_striker": "JJ Peirson",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "JJ Peirson",
+              "bowler": "SA Abbott",
+              "non_striker": "NA McSweeney",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "JJ Peirson",
+              "bowler": "SA Abbott",
+              "non_striker": "NA McSweeney",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JJ Peirson",
+              "bowler": "SA Abbott",
+              "non_striker": "NA McSweeney",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "NA McSweeney",
+              "bowler": "SA Abbott",
+              "non_striker": "JJ Peirson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JJ Peirson",
+              "bowler": "SA Abbott",
+              "non_striker": "NA McSweeney",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JJ Peirson",
+              "bowler": "SA Abbott",
+              "non_striker": "NA McSweeney",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "NA McSweeney",
+              "bowler": "H Kerr",
+              "non_striker": "JJ Peirson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JJ Peirson",
+              "bowler": "H Kerr",
+              "non_striker": "NA McSweeney",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "JJ Peirson",
+                  "fielders": [
+                    {
+                      "name": "DT Christian"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "JJ Bazley",
+              "bowler": "H Kerr",
+              "non_striker": "NA McSweeney",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NA McSweeney",
+              "bowler": "H Kerr",
+              "non_striker": "JJ Bazley",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JJ Bazley",
+              "bowler": "H Kerr",
+              "non_striker": "NA McSweeney",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NA McSweeney",
+              "bowler": "H Kerr",
+              "non_striker": "JJ Bazley",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "NA McSweeney",
+              "bowler": "SA Abbott",
+              "non_striker": "JJ Bazley",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "NA McSweeney",
+              "bowler": "SA Abbott",
+              "non_striker": "JJ Bazley",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JJ Bazley",
+              "bowler": "SA Abbott",
+              "non_striker": "NA McSweeney",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "JJ Bazley",
+              "bowler": "SA Abbott",
+              "non_striker": "NA McSweeney",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "player_out": "NA McSweeney",
+                  "fielders": [
+                    {
+                      "name": "JR Philippe"
+                    },
+                    {
+                      "name": "JC Silk"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "RA Whiteley",
+              "bowler": "SA Abbott",
+              "non_striker": "JJ Bazley",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RA Whiteley",
+              "bowler": "SA Abbott",
+              "non_striker": "JJ Bazley",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 3.7,
+          "type": "mandatory"
+        },
+        {
+          "from": 16.1,
+          "to": 17.6,
+          "type": "batting"
+        }
+      ]
+    },
+    {
+      "team": "Sydney Sixers",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "JR Philippe",
+              "bowler": "MG Neser",
+              "non_striker": "JM Vince",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "JR Philippe",
+              "bowler": "MG Neser",
+              "non_striker": "JM Vince",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JM Vince",
+              "bowler": "MG Neser",
+              "non_striker": "JR Philippe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JM Vince",
+              "bowler": "MG Neser",
+              "non_striker": "JR Philippe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JM Vince",
+              "bowler": "MG Neser",
+              "non_striker": "JR Philippe",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "JM Vince",
+              "bowler": "MG Neser",
+              "non_striker": "JR Philippe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "JM Vince",
+              "bowler": "MT Steketee",
+              "non_striker": "JR Philippe",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JM Vince",
+              "bowler": "MT Steketee",
+              "non_striker": "JR Philippe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JM Vince",
+              "bowler": "MT Steketee",
+              "non_striker": "JR Philippe",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JM Vince",
+              "bowler": "MT Steketee",
+              "non_striker": "JR Philippe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JM Vince",
+              "bowler": "MT Steketee",
+              "non_striker": "JR Philippe",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JM Vince",
+              "bowler": "MT Steketee",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "JR Philippe",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JM Vince",
+              "bowler": "MT Steketee",
+              "non_striker": "JR Philippe",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "JR Philippe",
+              "bowler": "JJ Bazley",
+              "non_striker": "JM Vince",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JR Philippe",
+              "bowler": "JJ Bazley",
+              "non_striker": "JM Vince",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "JR Philippe",
+              "bowler": "JJ Bazley",
+              "non_striker": "JM Vince",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JM Vince",
+              "bowler": "JJ Bazley",
+              "non_striker": "JR Philippe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JR Philippe",
+              "bowler": "JJ Bazley",
+              "non_striker": "JM Vince",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JR Philippe",
+              "bowler": "JJ Bazley",
+              "non_striker": "JM Vince",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "JR Philippe",
+              "bowler": "MP Kuhnemann",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "JM Vince",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JR Philippe",
+              "bowler": "MP Kuhnemann",
+              "non_striker": "JM Vince",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "JR Philippe",
+              "bowler": "MP Kuhnemann",
+              "non_striker": "JM Vince",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "JR Philippe",
+              "bowler": "MP Kuhnemann",
+              "non_striker": "JM Vince",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "JR Philippe",
+              "bowler": "MP Kuhnemann",
+              "non_striker": "JM Vince",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JM Vince",
+              "bowler": "MP Kuhnemann",
+              "non_striker": "JR Philippe",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "JM Vince",
+              "bowler": "MP Kuhnemann",
+              "non_striker": "JR Philippe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "JR Philippe",
+              "bowler": "MG Neser",
+              "non_striker": "JM Vince",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JM Vince",
+              "bowler": "MG Neser",
+              "non_striker": "JR Philippe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JR Philippe",
+              "bowler": "MG Neser",
+              "non_striker": "JM Vince",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "JR Philippe",
+                  "fielders": [
+                    {
+                      "name": "JJ Peirson"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "DP Hughes",
+              "bowler": "MG Neser",
+              "non_striker": "JM Vince",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "DP Hughes",
+              "bowler": "MG Neser",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "JM Vince",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DP Hughes",
+              "bowler": "MG Neser",
+              "non_striker": "JM Vince",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "DP Hughes",
+              "bowler": "MG Neser",
+              "non_striker": "JM Vince",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "DP Hughes",
+              "bowler": "MJ Swepson",
+              "non_striker": "JM Vince",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "DP Hughes",
+              "bowler": "MJ Swepson",
+              "non_striker": "JM Vince",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JM Vince",
+              "bowler": "MJ Swepson",
+              "non_striker": "DP Hughes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DP Hughes",
+              "bowler": "MJ Swepson",
+              "non_striker": "JM Vince",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JM Vince",
+              "bowler": "MJ Swepson",
+              "non_striker": "DP Hughes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DP Hughes",
+              "bowler": "MJ Swepson",
+              "non_striker": "JM Vince",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "JM Vince",
+              "bowler": "JJ Bazley",
+              "non_striker": "DP Hughes",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "JM Vince",
+              "bowler": "JJ Bazley",
+              "non_striker": "DP Hughes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JM Vince",
+              "bowler": "JJ Bazley",
+              "non_striker": "DP Hughes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DP Hughes",
+              "bowler": "JJ Bazley",
+              "non_striker": "JM Vince",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DP Hughes",
+              "bowler": "JJ Bazley",
+              "non_striker": "JM Vince",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DP Hughes",
+              "bowler": "JJ Bazley",
+              "non_striker": "JM Vince",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "DP Hughes",
+                  "fielders": [
+                    {
+                      "name": "MG Neser"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "JM Vince",
+              "bowler": "MJ Swepson",
+              "non_striker": "MC Henriques",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MC Henriques",
+              "bowler": "MJ Swepson",
+              "non_striker": "JM Vince",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MC Henriques",
+              "bowler": "MJ Swepson",
+              "non_striker": "JM Vince",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JM Vince",
+              "bowler": "MJ Swepson",
+              "non_striker": "MC Henriques",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JM Vince",
+              "bowler": "MJ Swepson",
+              "non_striker": "MC Henriques",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JM Vince",
+              "bowler": "MJ Swepson",
+              "non_striker": "MC Henriques",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "MC Henriques",
+              "bowler": "MT Steketee",
+              "non_striker": "JM Vince",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MC Henriques",
+              "bowler": "MT Steketee",
+              "non_striker": "JM Vince",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "MC Henriques",
+              "bowler": "MT Steketee",
+              "non_striker": "JM Vince",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JM Vince",
+              "bowler": "MT Steketee",
+              "non_striker": "MC Henriques",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "JM Vince",
+                  "fielders": [
+                    {
+                      "name": "JJ Peirson"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "JC Silk",
+              "bowler": "MT Steketee",
+              "non_striker": "MC Henriques",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MC Henriques",
+              "bowler": "MT Steketee",
+              "non_striker": "JC Silk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "MC Henriques",
+              "bowler": "MP Kuhnemann",
+              "non_striker": "JC Silk",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MC Henriques",
+              "bowler": "MP Kuhnemann",
+              "non_striker": "JC Silk",
+              "review": {
+                "by": "Brisbane Heat",
+                "umpire": "DM Koch",
+                "batter": "JC Silk",
+                "decision": "upheld"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MC Henriques",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "DT Christian",
+              "bowler": "MP Kuhnemann",
+              "non_striker": "JC Silk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DT Christian",
+              "bowler": "MP Kuhnemann",
+              "non_striker": "JC Silk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JC Silk",
+              "bowler": "MP Kuhnemann",
+              "non_striker": "DT Christian",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DT Christian",
+              "bowler": "MP Kuhnemann",
+              "non_striker": "JC Silk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "JC Silk",
+              "bowler": "MG Neser",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "DT Christian",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DT Christian",
+              "bowler": "MG Neser",
+              "non_striker": "JC Silk",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DT Christian",
+              "bowler": "MG Neser",
+              "non_striker": "JC Silk",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "DT Christian",
+              "bowler": "MG Neser",
+              "non_striker": "JC Silk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DT Christian",
+              "bowler": "MG Neser",
+              "non_striker": "JC Silk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "DT Christian",
+                  "fielders": [
+                    {
+                      "name": "NA McSweeney"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "H Kerr",
+              "bowler": "MG Neser",
+              "non_striker": "JC Silk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "H Kerr",
+              "bowler": "JJ Bazley",
+              "non_striker": "JC Silk",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "H Kerr",
+              "bowler": "JJ Bazley",
+              "non_striker": "JC Silk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Kerr",
+              "bowler": "JJ Bazley",
+              "non_striker": "JC Silk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JC Silk",
+              "bowler": "JJ Bazley",
+              "non_striker": "H Kerr",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Kerr",
+              "bowler": "JJ Bazley",
+              "non_striker": "JC Silk",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "H Kerr",
+              "bowler": "JJ Bazley",
+              "non_striker": "JC Silk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "JC Silk",
+              "bowler": "MT Steketee",
+              "non_striker": "H Kerr",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Kerr",
+              "bowler": "MT Steketee",
+              "non_striker": "JC Silk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JC Silk",
+              "bowler": "MT Steketee",
+              "non_striker": "H Kerr",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JC Silk",
+              "bowler": "MT Steketee",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "H Kerr",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JC Silk",
+              "bowler": "MT Steketee",
+              "non_striker": "H Kerr",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Kerr",
+              "bowler": "MT Steketee",
+              "non_striker": "JC Silk",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "H Kerr",
+              "bowler": "MT Steketee",
+              "non_striker": "JC Silk",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "JC Silk",
+              "bowler": "MJ Swepson",
+              "non_striker": "H Kerr",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Kerr",
+              "bowler": "MJ Swepson",
+              "non_striker": "JC Silk",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "H Kerr",
+              "bowler": "MJ Swepson",
+              "non_striker": "JC Silk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JC Silk",
+              "bowler": "MJ Swepson",
+              "non_striker": "H Kerr",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Kerr",
+              "bowler": "MJ Swepson",
+              "non_striker": "JC Silk",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "H Kerr",
+              "bowler": "MJ Swepson",
+              "non_striker": "JC Silk",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "JC Silk",
+              "bowler": "JJ Bazley",
+              "non_striker": "H Kerr",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "JC Silk",
+              "bowler": "JJ Bazley",
+              "non_striker": "H Kerr",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JC Silk",
+              "bowler": "JJ Bazley",
+              "non_striker": "H Kerr",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JC Silk",
+              "bowler": "JJ Bazley",
+              "non_striker": "H Kerr",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "JC Silk",
+              "bowler": "JJ Bazley",
+              "non_striker": "H Kerr",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Kerr",
+              "bowler": "JJ Bazley",
+              "non_striker": "JC Silk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "H Kerr",
+              "bowler": "MP Kuhnemann",
+              "non_striker": "JC Silk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "H Kerr",
+                  "fielders": [
+                    {
+                      "name": "JJ Peirson"
+                    }
+                  ],
+                  "kind": "stumped"
+                }
+              ]
+            },
+            {
+              "batter": "BJ Dwarshuis",
+              "bowler": "MP Kuhnemann",
+              "non_striker": "JC Silk",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "BJ Dwarshuis",
+              "bowler": "MP Kuhnemann",
+              "non_striker": "JC Silk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JC Silk",
+              "bowler": "MP Kuhnemann",
+              "non_striker": "BJ Dwarshuis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BJ Dwarshuis",
+              "bowler": "MP Kuhnemann",
+              "non_striker": "JC Silk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BJ Dwarshuis",
+              "bowler": "MP Kuhnemann",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "JC Silk",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BJ Dwarshuis",
+              "bowler": "MP Kuhnemann",
+              "non_striker": "JC Silk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "BJ Dwarshuis",
+              "bowler": "MG Neser",
+              "non_striker": "JC Silk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "BJ Dwarshuis",
+                  "fielders": [
+                    {
+                      "name": "SW Billings"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "SA Abbott",
+              "bowler": "MG Neser",
+              "non_striker": "JC Silk",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SA Abbott",
+              "bowler": "MG Neser",
+              "non_striker": "JC Silk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JC Silk",
+              "bowler": "MG Neser",
+              "non_striker": "SA Abbott",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "JC Silk",
+              "bowler": "MG Neser",
+              "non_striker": "SA Abbott",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Abbott",
+              "bowler": "MG Neser",
+              "non_striker": "JC Silk",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "JC Silk",
+              "bowler": "MP Kuhnemann",
+              "non_striker": "SA Abbott",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Abbott",
+              "bowler": "MP Kuhnemann",
+              "non_striker": "JC Silk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JC Silk",
+              "bowler": "MP Kuhnemann",
+              "non_striker": "SA Abbott",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Abbott",
+              "bowler": "MP Kuhnemann",
+              "non_striker": "JC Silk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JC Silk",
+              "bowler": "MP Kuhnemann",
+              "non_striker": "SA Abbott",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Abbott",
+              "bowler": "MP Kuhnemann",
+              "non_striker": "JC Silk",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "JC Silk",
+              "bowler": "MT Steketee",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "SA Abbott",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JC Silk",
+              "bowler": "MT Steketee",
+              "non_striker": "SA Abbott",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "JC Silk",
+              "bowler": "MT Steketee",
+              "non_striker": "SA Abbott",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "JC Silk",
+                  "fielders": [
+                    {
+                      "name": "MG Neser"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "JM Bird",
+              "bowler": "MT Steketee",
+              "non_striker": "SA Abbott",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Abbott",
+              "bowler": "MT Steketee",
+              "non_striker": "JM Bird",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JM Bird",
+              "bowler": "MT Steketee",
+              "non_striker": "SA Abbott",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "JM Bird",
+              "bowler": "MT Steketee",
+              "non_striker": "SA Abbott",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "SA Abbott",
+              "bowler": "RA Whiteley",
+              "non_striker": "JM Bird",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Abbott",
+              "bowler": "RA Whiteley",
+              "non_striker": "JM Bird",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SA Abbott",
+                  "fielders": [
+                    {
+                      "name": "M Bryant",
+                      "substitute": true
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Izharulhaq Naveed",
+              "bowler": "RA Whiteley",
+              "non_striker": "JM Bird",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JM Bird",
+              "bowler": "RA Whiteley",
+              "non_striker": "Izharulhaq Naveed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JM Bird",
+              "bowler": "RA Whiteley",
+              "non_striker": "Izharulhaq Naveed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Izharulhaq Naveed",
+              "bowler": "RA Whiteley",
+              "non_striker": "JM Bird",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Izharulhaq Naveed",
+                  "fielders": [
+                    {
+                      "name": "MG Neser"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 3.7,
+          "type": "mandatory"
+        },
+        {
+          "from": 10.1,
+          "to": 11.6,
+          "type": "batting"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 225
+      }
+    }
+  ]
+}

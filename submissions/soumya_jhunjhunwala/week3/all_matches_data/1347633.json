@@ -1,0 +1,2778 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2023-06-11",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Brighton",
+    "dates": [
+      "2023-06-09"
+    ],
+    "event": {
+      "name": "Vitality Blast",
+      "group": "South"
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "missing": [
+      "player_of_match"
+    ],
+    "officials": {
+      "match_referees": [
+        "SJ Davis"
+      ],
+      "umpires": [
+        "Mark Newell",
+        "M Burns"
+      ]
+    },
+    "outcome": {
+      "winner": "Surrey",
+      "by": {
+        "runs": 124
+      }
+    },
+    "overs": 20,
+    "players": {
+      "Surrey": [
+        "WG Jacks",
+        "LJ Evans",
+        "SM Curran",
+        "J Overton",
+        "TK Curran",
+        "SA Abbott",
+        "JL Smith",
+        "SP Narine",
+        "CJ Jordan",
+        "CT Steel",
+        "TE Lawes"
+      ],
+      "Sussex": [
+        "TGR Clark",
+        "JM Coles",
+        "TP Alsop",
+        "RS Bopara",
+        "Shadab Khan",
+        "MGK Burgess",
+        "D Ibrahim",
+        "FJ Hudson-Prentice",
+        "N McAndrew",
+        "TS Mills",
+        "HT Crocombe"
+      ]
+    },
+    "registry": {
+      "people": {
+        "CJ Jordan": "ffe699c0",
+        "CT Steel": "5899dceb",
+        "D Ibrahim": "457cab44",
+        "FJ Hudson-Prentice": "932d3cc9",
+        "HT Crocombe": "27fc5808",
+        "J Overton": "59559bc2",
+        "JL Smith": "c834c290",
+        "JM Coles": "9c643d7b",
+        "LJ Evans": "1c513d54",
+        "M Burns": "b3bd0666",
+        "MGK Burgess": "715941c3",
+        "Mark Newell": "b33f0fa1",
+        "N McAndrew": "38c276e1",
+        "RS Bopara": "7ca5e05d",
+        "SA Abbott": "1a2676c5",
+        "SJ Davis": "bc71b0b2",
+        "SM Curran": "e94915e6",
+        "SP Narine": "9d430b40",
+        "Shadab Khan": "9de62878",
+        "TE Lawes": "fe2ac1a8",
+        "TGR Clark": "ed8faea2",
+        "TK Curran": "e86754b2",
+        "TP Alsop": "961b8ff1",
+        "TS Mills": "245c97cb",
+        "WG Jacks": "9caf69a1"
+      }
+    },
+    "season": "2023",
+    "team_type": "club",
+    "teams": [
+      "Surrey",
+      "Sussex"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Sussex"
+    },
+    "venue": "County Ground, Hove"
+  },
+  "innings": [
+    {
+      "team": "Surrey",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "WG Jacks",
+              "bowler": "N McAndrew",
+              "non_striker": "LJ Evans",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "WG Jacks",
+              "bowler": "N McAndrew",
+              "non_striker": "LJ Evans",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LJ Evans",
+              "bowler": "N McAndrew",
+              "non_striker": "WG Jacks",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LJ Evans",
+              "bowler": "N McAndrew",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "WG Jacks",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "WG Jacks",
+              "bowler": "N McAndrew",
+              "non_striker": "LJ Evans",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "WG Jacks",
+              "bowler": "N McAndrew",
+              "non_striker": "LJ Evans",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "WG Jacks",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "LJ Evans",
+              "bowler": "FJ Hudson-Prentice",
+              "non_striker": "SM Curran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SM Curran",
+              "bowler": "FJ Hudson-Prentice",
+              "non_striker": "LJ Evans",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SM Curran",
+              "bowler": "FJ Hudson-Prentice",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "LJ Evans",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SM Curran",
+              "bowler": "FJ Hudson-Prentice",
+              "non_striker": "LJ Evans",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SM Curran",
+              "bowler": "FJ Hudson-Prentice",
+              "non_striker": "LJ Evans",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LJ Evans",
+              "bowler": "FJ Hudson-Prentice",
+              "non_striker": "SM Curran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LJ Evans",
+              "bowler": "FJ Hudson-Prentice",
+              "non_striker": "SM Curran",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "SM Curran",
+              "bowler": "N McAndrew",
+              "non_striker": "LJ Evans",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SM Curran",
+              "bowler": "N McAndrew",
+              "non_striker": "LJ Evans",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LJ Evans",
+              "bowler": "N McAndrew",
+              "non_striker": "SM Curran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LJ Evans",
+              "bowler": "N McAndrew",
+              "non_striker": "SM Curran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LJ Evans",
+              "bowler": "N McAndrew",
+              "non_striker": "SM Curran",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "LJ Evans",
+              "bowler": "N McAndrew",
+              "non_striker": "SM Curran",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "SM Curran",
+              "bowler": "TS Mills",
+              "non_striker": "LJ Evans",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SM Curran",
+              "bowler": "TS Mills",
+              "non_striker": "LJ Evans",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LJ Evans",
+              "bowler": "TS Mills",
+              "non_striker": "SM Curran",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "LJ Evans",
+              "bowler": "TS Mills",
+              "non_striker": "SM Curran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LJ Evans",
+              "bowler": "TS Mills",
+              "non_striker": "SM Curran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LJ Evans",
+              "bowler": "TS Mills",
+              "non_striker": "SM Curran",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "SM Curran",
+              "bowler": "HT Crocombe",
+              "non_striker": "LJ Evans",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LJ Evans",
+              "bowler": "HT Crocombe",
+              "non_striker": "SM Curran",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "LJ Evans",
+              "bowler": "HT Crocombe",
+              "non_striker": "SM Curran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LJ Evans",
+              "bowler": "HT Crocombe",
+              "non_striker": "SM Curran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SM Curran",
+              "bowler": "HT Crocombe",
+              "non_striker": "LJ Evans",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SM Curran",
+              "bowler": "HT Crocombe",
+              "non_striker": "LJ Evans",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "LJ Evans",
+              "bowler": "FJ Hudson-Prentice",
+              "non_striker": "SM Curran",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "LJ Evans",
+              "bowler": "FJ Hudson-Prentice",
+              "non_striker": "SM Curran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LJ Evans",
+              "bowler": "FJ Hudson-Prentice",
+              "non_striker": "SM Curran",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "LJ Evans",
+              "bowler": "FJ Hudson-Prentice",
+              "non_striker": "SM Curran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LJ Evans",
+              "bowler": "FJ Hudson-Prentice",
+              "non_striker": "SM Curran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SM Curran",
+              "bowler": "FJ Hudson-Prentice",
+              "non_striker": "LJ Evans",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "LJ Evans",
+              "bowler": "Shadab Khan",
+              "non_striker": "SM Curran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SM Curran",
+              "bowler": "Shadab Khan",
+              "non_striker": "LJ Evans",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LJ Evans",
+              "bowler": "Shadab Khan",
+              "non_striker": "SM Curran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SM Curran",
+              "bowler": "Shadab Khan",
+              "non_striker": "LJ Evans",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SM Curran",
+              "bowler": "Shadab Khan",
+              "non_striker": "LJ Evans",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SM Curran",
+              "bowler": "Shadab Khan",
+              "non_striker": "LJ Evans",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "LJ Evans",
+              "bowler": "RS Bopara",
+              "non_striker": "SM Curran",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "LJ Evans",
+              "bowler": "RS Bopara",
+              "non_striker": "SM Curran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SM Curran",
+              "bowler": "RS Bopara",
+              "non_striker": "LJ Evans",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LJ Evans",
+              "bowler": "RS Bopara",
+              "non_striker": "SM Curran",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "LJ Evans",
+              "bowler": "RS Bopara",
+              "non_striker": "SM Curran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SM Curran",
+              "bowler": "RS Bopara",
+              "non_striker": "LJ Evans",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "SM Curran",
+              "bowler": "HT Crocombe",
+              "non_striker": "LJ Evans",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SM Curran",
+              "bowler": "HT Crocombe",
+              "non_striker": "LJ Evans",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SM Curran",
+              "bowler": "HT Crocombe",
+              "non_striker": "LJ Evans",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LJ Evans",
+              "bowler": "HT Crocombe",
+              "non_striker": "SM Curran",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "LJ Evans",
+              "bowler": "HT Crocombe",
+              "non_striker": "SM Curran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SM Curran",
+              "bowler": "HT Crocombe",
+              "extras": {
+                "noballs": 2
+              },
+              "non_striker": "LJ Evans",
+              "runs": {
+                "batter": 2,
+                "extras": 2,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SM Curran",
+              "bowler": "HT Crocombe",
+              "non_striker": "LJ Evans",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "LJ Evans",
+              "bowler": "RS Bopara",
+              "non_striker": "SM Curran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SM Curran",
+              "bowler": "RS Bopara",
+              "non_striker": "LJ Evans",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SM Curran",
+              "bowler": "RS Bopara",
+              "non_striker": "LJ Evans",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LJ Evans",
+              "bowler": "RS Bopara",
+              "non_striker": "SM Curran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SM Curran",
+              "bowler": "RS Bopara",
+              "non_striker": "LJ Evans",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LJ Evans",
+              "bowler": "RS Bopara",
+              "non_striker": "SM Curran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "SM Curran",
+              "bowler": "TS Mills",
+              "non_striker": "LJ Evans",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LJ Evans",
+              "bowler": "TS Mills",
+              "non_striker": "SM Curran",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "LJ Evans",
+              "bowler": "TS Mills",
+              "non_striker": "SM Curran",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "LJ Evans",
+              "bowler": "TS Mills",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "SM Curran",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LJ Evans",
+              "bowler": "TS Mills",
+              "non_striker": "SM Curran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SM Curran",
+              "bowler": "TS Mills",
+              "non_striker": "LJ Evans",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LJ Evans",
+              "bowler": "TS Mills",
+              "non_striker": "SM Curran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "LJ Evans",
+              "bowler": "Shadab Khan",
+              "non_striker": "SM Curran",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "LJ Evans",
+              "bowler": "Shadab Khan",
+              "non_striker": "SM Curran",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "LJ Evans",
+              "bowler": "Shadab Khan",
+              "non_striker": "SM Curran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SM Curran",
+              "bowler": "Shadab Khan",
+              "non_striker": "LJ Evans",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LJ Evans",
+              "bowler": "Shadab Khan",
+              "non_striker": "SM Curran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LJ Evans",
+              "bowler": "Shadab Khan",
+              "non_striker": "SM Curran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "LJ Evans",
+              "bowler": "N McAndrew",
+              "non_striker": "SM Curran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LJ Evans",
+              "bowler": "N McAndrew",
+              "extras": {
+                "noballs": 2
+              },
+              "non_striker": "SM Curran",
+              "runs": {
+                "batter": 1,
+                "extras": 2,
+                "total": 3
+              }
+            },
+            {
+              "batter": "SM Curran",
+              "bowler": "N McAndrew",
+              "non_striker": "LJ Evans",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "SM Curran",
+              "bowler": "N McAndrew",
+              "non_striker": "LJ Evans",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "SM Curran",
+              "bowler": "N McAndrew",
+              "non_striker": "LJ Evans",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SM Curran",
+              "bowler": "N McAndrew",
+              "non_striker": "LJ Evans",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LJ Evans",
+              "bowler": "N McAndrew",
+              "non_striker": "SM Curran",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "SM Curran",
+              "bowler": "Shadab Khan",
+              "non_striker": "LJ Evans",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SM Curran",
+              "bowler": "Shadab Khan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "LJ Evans",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SM Curran",
+              "bowler": "Shadab Khan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "LJ Evans",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SM Curran",
+              "bowler": "Shadab Khan",
+              "non_striker": "LJ Evans",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "SM Curran",
+              "bowler": "Shadab Khan",
+              "non_striker": "LJ Evans",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SM Curran",
+                  "fielders": [
+                    {
+                      "name": "TS Mills"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "J Overton",
+              "bowler": "Shadab Khan",
+              "non_striker": "LJ Evans",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "J Overton",
+              "bowler": "Shadab Khan",
+              "non_striker": "LJ Evans",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LJ Evans",
+              "bowler": "Shadab Khan",
+              "non_striker": "J Overton",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "J Overton",
+              "bowler": "TS Mills",
+              "non_striker": "LJ Evans",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Overton",
+              "bowler": "TS Mills",
+              "non_striker": "LJ Evans",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LJ Evans",
+              "bowler": "TS Mills",
+              "non_striker": "J Overton",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Overton",
+              "bowler": "TS Mills",
+              "non_striker": "LJ Evans",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LJ Evans",
+              "bowler": "TS Mills",
+              "extras": {
+                "noballs": 2
+              },
+              "non_striker": "J Overton",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "LJ Evans",
+              "bowler": "TS Mills",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "J Overton",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LJ Evans",
+              "bowler": "TS Mills",
+              "non_striker": "J Overton",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "LJ Evans",
+              "bowler": "TS Mills",
+              "non_striker": "J Overton",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "J Overton",
+              "bowler": "FJ Hudson-Prentice",
+              "non_striker": "LJ Evans",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LJ Evans",
+              "bowler": "FJ Hudson-Prentice",
+              "non_striker": "J Overton",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Overton",
+              "bowler": "FJ Hudson-Prentice",
+              "non_striker": "LJ Evans",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "J Overton",
+              "bowler": "FJ Hudson-Prentice",
+              "non_striker": "LJ Evans",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "J Overton",
+              "bowler": "FJ Hudson-Prentice",
+              "non_striker": "LJ Evans",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "J Overton",
+              "bowler": "FJ Hudson-Prentice",
+              "non_striker": "LJ Evans",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "LJ Evans",
+              "bowler": "HT Crocombe",
+              "non_striker": "J Overton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "LJ Evans",
+                  "fielders": [
+                    {
+                      "name": "JM Coles"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "TK Curran",
+              "bowler": "HT Crocombe",
+              "non_striker": "J Overton",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "TK Curran",
+              "bowler": "HT Crocombe",
+              "non_striker": "J Overton",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "TK Curran",
+              "bowler": "HT Crocombe",
+              "non_striker": "J Overton",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Overton",
+              "bowler": "HT Crocombe",
+              "non_striker": "TK Curran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "J Overton",
+                  "fielders": [
+                    {
+                      "name": "TGR Clark"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "SA Abbott",
+              "bowler": "HT Crocombe",
+              "non_striker": "TK Curran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "SA Abbott",
+              "bowler": "N McAndrew",
+              "non_striker": "TK Curran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TK Curran",
+              "bowler": "N McAndrew",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "SA Abbott",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TK Curran",
+              "bowler": "N McAndrew",
+              "non_striker": "SA Abbott",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Abbott",
+              "bowler": "N McAndrew",
+              "non_striker": "TK Curran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TK Curran",
+              "bowler": "N McAndrew",
+              "non_striker": "SA Abbott",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "TK Curran",
+              "bowler": "N McAndrew",
+              "non_striker": "SA Abbott",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Abbott",
+              "bowler": "N McAndrew",
+              "non_striker": "TK Curran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "TK Curran",
+              "bowler": "TS Mills",
+              "non_striker": "SA Abbott",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "TK Curran",
+              "bowler": "TS Mills",
+              "non_striker": "SA Abbott",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "TK Curran",
+              "bowler": "TS Mills",
+              "non_striker": "SA Abbott",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "TK Curran",
+                  "fielders": [
+                    {
+                      "name": "TGR Clark"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "JL Smith",
+              "bowler": "TS Mills",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "SA Abbott",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JL Smith",
+              "bowler": "TS Mills",
+              "non_striker": "SA Abbott",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "JL Smith",
+                  "fielders": [
+                    {
+                      "name": "HT Crocombe"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "SP Narine",
+              "bowler": "TS Mills",
+              "non_striker": "SA Abbott",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Abbott",
+              "bowler": "TS Mills",
+              "non_striker": "SP Narine",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "SP Narine",
+              "bowler": "HT Crocombe",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "SA Abbott",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SP Narine",
+              "bowler": "HT Crocombe",
+              "non_striker": "SA Abbott",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SP Narine",
+              "bowler": "HT Crocombe",
+              "non_striker": "SA Abbott",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SP Narine",
+              "bowler": "HT Crocombe",
+              "non_striker": "SA Abbott",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Abbott",
+              "bowler": "HT Crocombe",
+              "non_striker": "SP Narine",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SA Abbott",
+              "bowler": "HT Crocombe",
+              "non_striker": "SP Narine",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SA Abbott",
+              "bowler": "HT Crocombe",
+              "non_striker": "SP Narine",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Sussex",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "TGR Clark",
+              "bowler": "SA Abbott",
+              "non_striker": "JM Coles",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "TGR Clark",
+              "bowler": "SA Abbott",
+              "non_striker": "JM Coles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TGR Clark",
+              "bowler": "SA Abbott",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "JM Coles",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JM Coles",
+              "bowler": "SA Abbott",
+              "non_striker": "TGR Clark",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JM Coles",
+              "bowler": "SA Abbott",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "TGR Clark",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TGR Clark",
+              "bowler": "SA Abbott",
+              "non_striker": "JM Coles",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "TGR Clark",
+              "bowler": "WG Jacks",
+              "non_striker": "JM Coles",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JM Coles",
+              "bowler": "WG Jacks",
+              "non_striker": "TGR Clark",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "JM Coles",
+                  "fielders": [
+                    {
+                      "name": "SM Curran"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "TP Alsop",
+              "bowler": "WG Jacks",
+              "non_striker": "TGR Clark",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TP Alsop",
+              "bowler": "WG Jacks",
+              "non_striker": "TGR Clark",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TGR Clark",
+              "bowler": "WG Jacks",
+              "non_striker": "TP Alsop",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "TGR Clark",
+              "bowler": "WG Jacks",
+              "non_striker": "TP Alsop",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "TGR Clark",
+              "bowler": "SM Curran",
+              "non_striker": "TP Alsop",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TGR Clark",
+              "bowler": "SM Curran",
+              "non_striker": "TP Alsop",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "TGR Clark",
+              "bowler": "SM Curran",
+              "non_striker": "TP Alsop",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "TGR Clark",
+              "bowler": "SM Curran",
+              "non_striker": "TP Alsop",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "TGR Clark",
+              "bowler": "SM Curran",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "TP Alsop",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TGR Clark",
+              "bowler": "SM Curran",
+              "non_striker": "TP Alsop",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TGR Clark",
+              "bowler": "SM Curran",
+              "non_striker": "TP Alsop",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "TGR Clark",
+              "bowler": "WG Jacks",
+              "non_striker": "TP Alsop",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "TGR Clark",
+              "bowler": "WG Jacks",
+              "non_striker": "TP Alsop",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "TGR Clark",
+              "bowler": "WG Jacks",
+              "non_striker": "TP Alsop",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TP Alsop",
+              "bowler": "WG Jacks",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "TGR Clark",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TP Alsop",
+              "bowler": "WG Jacks",
+              "non_striker": "TGR Clark",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TP Alsop",
+              "bowler": "WG Jacks",
+              "non_striker": "TGR Clark",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TGR Clark",
+              "bowler": "WG Jacks",
+              "non_striker": "TP Alsop",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "TGR Clark",
+              "bowler": "CJ Jordan",
+              "non_striker": "TP Alsop",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "TGR Clark",
+              "bowler": "CJ Jordan",
+              "non_striker": "TP Alsop",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "TGR Clark",
+              "bowler": "CJ Jordan",
+              "non_striker": "TP Alsop",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TP Alsop",
+              "bowler": "CJ Jordan",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "TGR Clark",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TGR Clark",
+              "bowler": "CJ Jordan",
+              "non_striker": "TP Alsop",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "TGR Clark",
+              "bowler": "CJ Jordan",
+              "non_striker": "TP Alsop",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "TP Alsop",
+              "bowler": "WG Jacks",
+              "non_striker": "TGR Clark",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "TP Alsop",
+              "bowler": "WG Jacks",
+              "non_striker": "TGR Clark",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TGR Clark",
+              "bowler": "WG Jacks",
+              "non_striker": "TP Alsop",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "TGR Clark",
+                  "fielders": [
+                    {
+                      "name": "JL Smith"
+                    }
+                  ],
+                  "kind": "stumped"
+                }
+              ]
+            },
+            {
+              "batter": "RS Bopara",
+              "bowler": "WG Jacks",
+              "non_striker": "TP Alsop",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RS Bopara",
+              "bowler": "WG Jacks",
+              "non_striker": "TP Alsop",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TP Alsop",
+              "bowler": "WG Jacks",
+              "non_striker": "RS Bopara",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "RS Bopara",
+              "bowler": "SP Narine",
+              "non_striker": "TP Alsop",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RS Bopara",
+              "bowler": "SP Narine",
+              "non_striker": "TP Alsop",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RS Bopara",
+              "bowler": "SP Narine",
+              "non_striker": "TP Alsop",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "RS Bopara",
+                  "fielders": [
+                    {
+                      "name": "JL Smith"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Shadab Khan",
+              "bowler": "SP Narine",
+              "non_striker": "TP Alsop",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shadab Khan",
+              "bowler": "SP Narine",
+              "non_striker": "TP Alsop",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Shadab Khan",
+              "bowler": "SP Narine",
+              "non_striker": "TP Alsop",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Shadab Khan",
+              "bowler": "CT Steel",
+              "non_striker": "TP Alsop",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TP Alsop",
+              "bowler": "CT Steel",
+              "non_striker": "Shadab Khan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "TP Alsop",
+              "bowler": "CT Steel",
+              "non_striker": "Shadab Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shadab Khan",
+              "bowler": "CT Steel",
+              "non_striker": "TP Alsop",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TP Alsop",
+              "bowler": "CT Steel",
+              "non_striker": "Shadab Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shadab Khan",
+              "bowler": "CT Steel",
+              "non_striker": "TP Alsop",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "TP Alsop",
+              "bowler": "TE Lawes",
+              "non_striker": "Shadab Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "TP Alsop",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "MGK Burgess",
+              "bowler": "TE Lawes",
+              "non_striker": "Shadab Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MGK Burgess",
+              "bowler": "TE Lawes",
+              "non_striker": "Shadab Khan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MGK Burgess",
+              "bowler": "TE Lawes",
+              "non_striker": "Shadab Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shadab Khan",
+              "bowler": "TE Lawes",
+              "non_striker": "MGK Burgess",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Shadab Khan",
+                  "fielders": [
+                    {
+                      "name": "WG Jacks"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "D Ibrahim",
+              "bowler": "TE Lawes",
+              "non_striker": "MGK Burgess",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "MGK Burgess",
+              "bowler": "CT Steel",
+              "non_striker": "D Ibrahim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Ibrahim",
+              "bowler": "CT Steel",
+              "non_striker": "MGK Burgess",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MGK Burgess",
+              "bowler": "CT Steel",
+              "non_striker": "D Ibrahim",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MGK Burgess",
+              "bowler": "CT Steel",
+              "non_striker": "D Ibrahim",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MGK Burgess",
+              "bowler": "CT Steel",
+              "non_striker": "D Ibrahim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MGK Burgess",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "FJ Hudson-Prentice",
+              "bowler": "CT Steel",
+              "non_striker": "D Ibrahim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "D Ibrahim",
+              "bowler": "TE Lawes",
+              "non_striker": "FJ Hudson-Prentice",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Ibrahim",
+              "bowler": "TE Lawes",
+              "non_striker": "FJ Hudson-Prentice",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "D Ibrahim",
+              "bowler": "TE Lawes",
+              "non_striker": "FJ Hudson-Prentice",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "FJ Hudson-Prentice",
+              "bowler": "TE Lawes",
+              "non_striker": "D Ibrahim",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "FJ Hudson-Prentice",
+              "bowler": "TE Lawes",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "D Ibrahim",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "FJ Hudson-Prentice",
+              "bowler": "TE Lawes",
+              "non_striker": "D Ibrahim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Ibrahim",
+              "bowler": "TE Lawes",
+              "non_striker": "FJ Hudson-Prentice",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "D Ibrahim",
+              "bowler": "CT Steel",
+              "non_striker": "FJ Hudson-Prentice",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "FJ Hudson-Prentice",
+              "bowler": "CT Steel",
+              "non_striker": "D Ibrahim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Ibrahim",
+              "bowler": "CT Steel",
+              "non_striker": "FJ Hudson-Prentice",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "FJ Hudson-Prentice",
+              "bowler": "CT Steel",
+              "non_striker": "D Ibrahim",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "FJ Hudson-Prentice",
+              "bowler": "CT Steel",
+              "non_striker": "D Ibrahim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Ibrahim",
+              "bowler": "CT Steel",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "FJ Hudson-Prentice",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Ibrahim",
+              "bowler": "CT Steel",
+              "non_striker": "FJ Hudson-Prentice",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "D Ibrahim",
+              "bowler": "SP Narine",
+              "non_striker": "FJ Hudson-Prentice",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "FJ Hudson-Prentice",
+              "bowler": "SP Narine",
+              "non_striker": "D Ibrahim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "FJ Hudson-Prentice",
+                  "kind": "caught and bowled"
+                }
+              ]
+            },
+            {
+              "batter": "N McAndrew",
+              "bowler": "SP Narine",
+              "non_striker": "D Ibrahim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N McAndrew",
+              "bowler": "SP Narine",
+              "non_striker": "D Ibrahim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N McAndrew",
+              "bowler": "SP Narine",
+              "non_striker": "D Ibrahim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N McAndrew",
+              "bowler": "SP Narine",
+              "non_striker": "D Ibrahim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "N McAndrew",
+              "bowler": "CT Steel",
+              "non_striker": "D Ibrahim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Ibrahim",
+              "bowler": "CT Steel",
+              "non_striker": "N McAndrew",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "D Ibrahim",
+              "bowler": "CT Steel",
+              "non_striker": "N McAndrew",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "D Ibrahim",
+              "bowler": "CT Steel",
+              "non_striker": "N McAndrew",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "D Ibrahim",
+                  "fielders": [
+                    {
+                      "name": "SM Curran"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "TS Mills",
+              "bowler": "CT Steel",
+              "non_striker": "N McAndrew",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "TS Mills",
+              "bowler": "CT Steel",
+              "non_striker": "N McAndrew",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "TS Mills",
+                  "fielders": [
+                    {
+                      "name": "JL Smith"
+                    }
+                  ],
+                  "kind": "stumped"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "N McAndrew",
+              "bowler": "SP Narine",
+              "non_striker": "HT Crocombe",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "N McAndrew",
+              "bowler": "SP Narine",
+              "non_striker": "HT Crocombe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HT Crocombe",
+              "bowler": "SP Narine",
+              "non_striker": "N McAndrew",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N McAndrew",
+              "bowler": "SP Narine",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "HT Crocombe",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N McAndrew",
+              "bowler": "SP Narine",
+              "non_striker": "HT Crocombe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N McAndrew",
+              "bowler": "SP Narine",
+              "non_striker": "HT Crocombe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "N McAndrew",
+                  "fielders": [
+                    {
+                      "name": "CJ Jordan"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 259
+      }
+    }
+  ]
+}

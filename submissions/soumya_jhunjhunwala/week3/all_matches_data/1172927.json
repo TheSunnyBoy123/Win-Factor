@@ -1,0 +1,1439 @@
+{
+  "meta": {
+    "data_version": "1.0.0",
+    "created": "2020-01-06",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Bangkok",
+    "dates": [
+      "2019-02-25"
+    ],
+    "event": {
+      "name": "ICC Women's T20 World Cup Asia Region Qualifier",
+      "match_number": 18
+    },
+    "gender": "female",
+    "match_type": "T20",
+    "match_type_number": 595,
+    "officials": {
+      "match_referees": [
+        "Neeyamur Rashid"
+      ],
+      "reserve_umpires": [
+        "Tabarak Dar"
+      ],
+      "umpires": [
+        "Akbar Ali",
+        "VK Jha"
+      ]
+    },
+    "outcome": {
+      "winner": "Hong Kong",
+      "by": {
+        "wickets": 9
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "M Yousaf"
+    ],
+    "players": {
+      "Kuwait": [
+        "Sabreen Zaki",
+        "Maryam Omar",
+        "Priyada Murali",
+        "Amna Tariq",
+        "Mariamma Hyder",
+        "Maria Jasvi",
+        "SL Gomez",
+        "Iqra Ishaq",
+        "Khadija Khalil",
+        "Mahnoor Mahmood",
+        "Maryyam Ashraf"
+      ],
+      "Hong Kong": [
+        "Y Daswani",
+        "M Hill",
+        "YS To",
+        "JM Davies",
+        "KY Chan",
+        "Chan Ka Man",
+        "JE Titmuss",
+        "MBA Lamplough",
+        "M Yousaf",
+        "M Wai Siu",
+        "M Bibi"
+      ]
+    },
+    "registry": {
+      "people": {
+        "Akbar Ali": "e753931d",
+        "Amna Tariq": "44b53fba",
+        "Chan Ka Man": "c4022bff",
+        "Iqra Ishaq": "59c770e7",
+        "JE Titmuss": "4a6c0fbb",
+        "JM Davies": "18016785",
+        "KY Chan": "6348c6e9",
+        "Khadija Khalil": "7c61a686",
+        "M Bibi": "34f86a2d",
+        "M Hill": "bf5e7711",
+        "M Wai Siu": "74eecff4",
+        "M Yousaf": "e2e5b178",
+        "MBA Lamplough": "997fffbe",
+        "Mahnoor Mahmood": "e38aef0d",
+        "Maria Jasvi": "4bed6af7",
+        "Mariamma Hyder": "c8ae2573",
+        "Maryam Omar": "b4d08794",
+        "Maryyam Ashraf": "1b9d3eb3",
+        "Neeyamur Rashid": "bd81a027",
+        "Priyada Murali": "f4b942ae",
+        "SL Gomez": "02264be0",
+        "Sabreen Zaki": "d13e5a0d",
+        "Tabarak Dar": "2259c12d",
+        "VK Jha": "5d46eb72",
+        "Y Daswani": "2038a273",
+        "YS To": "73db1940"
+      }
+    },
+    "season": "2018/19",
+    "team_type": "international",
+    "teams": [
+      "Hong Kong",
+      "Kuwait"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Hong Kong"
+    },
+    "venue": "Asian Institute of Technology Ground"
+  },
+  "innings": [
+    {
+      "team": "Kuwait",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Sabreen Zaki",
+              "bowler": "M Hill",
+              "non_striker": "Maryam Omar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Maryam Omar",
+              "bowler": "M Hill",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Sabreen Zaki",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Maryam Omar",
+              "bowler": "M Hill",
+              "non_striker": "Sabreen Zaki",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Maryam Omar",
+              "bowler": "M Hill",
+              "non_striker": "Sabreen Zaki",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Maryam Omar",
+                  "fielders": [
+                    {
+                      "name": "MBA Lamplough"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "Priyada Murali",
+              "bowler": "M Hill",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Sabreen Zaki",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Priyada Murali",
+              "bowler": "M Hill",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Sabreen Zaki",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Priyada Murali",
+              "bowler": "M Hill",
+              "non_striker": "Sabreen Zaki",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Priyada Murali",
+              "bowler": "M Hill",
+              "non_striker": "Sabreen Zaki",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Priyada Murali",
+              "bowler": "M Hill",
+              "non_striker": "Sabreen Zaki",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Sabreen Zaki",
+              "bowler": "Chan Ka Man",
+              "non_striker": "Priyada Murali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sabreen Zaki",
+              "bowler": "Chan Ka Man",
+              "non_striker": "Priyada Murali",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Sabreen Zaki",
+              "bowler": "Chan Ka Man",
+              "non_striker": "Priyada Murali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sabreen Zaki",
+              "bowler": "Chan Ka Man",
+              "non_striker": "Priyada Murali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sabreen Zaki",
+              "bowler": "Chan Ka Man",
+              "non_striker": "Priyada Murali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sabreen Zaki",
+              "bowler": "Chan Ka Man",
+              "non_striker": "Priyada Murali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Priyada Murali",
+              "bowler": "M Hill",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Sabreen Zaki",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Priyada Murali",
+              "bowler": "M Hill",
+              "non_striker": "Sabreen Zaki",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Priyada Murali",
+              "bowler": "M Hill",
+              "non_striker": "Sabreen Zaki",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sabreen Zaki",
+              "bowler": "M Hill",
+              "non_striker": "Priyada Murali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sabreen Zaki",
+              "bowler": "M Hill",
+              "non_striker": "Priyada Murali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sabreen Zaki",
+              "bowler": "M Hill",
+              "non_striker": "Priyada Murali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sabreen Zaki",
+              "bowler": "M Hill",
+              "non_striker": "Priyada Murali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Priyada Murali",
+              "bowler": "Chan Ka Man",
+              "non_striker": "Sabreen Zaki",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Priyada Murali",
+              "bowler": "Chan Ka Man",
+              "non_striker": "Sabreen Zaki",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sabreen Zaki",
+              "bowler": "Chan Ka Man",
+              "non_striker": "Priyada Murali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sabreen Zaki",
+              "bowler": "Chan Ka Man",
+              "non_striker": "Priyada Murali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sabreen Zaki",
+              "bowler": "Chan Ka Man",
+              "non_striker": "Priyada Murali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sabreen Zaki",
+              "bowler": "Chan Ka Man",
+              "non_striker": "Priyada Murali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Sabreen Zaki",
+                  "fielders": [
+                    {
+                      "name": "Y Daswani"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Priyada Murali",
+              "bowler": "M Wai Siu",
+              "non_striker": "Amna Tariq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Priyada Murali",
+              "bowler": "M Wai Siu",
+              "non_striker": "Amna Tariq",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Priyada Murali",
+              "bowler": "M Wai Siu",
+              "non_striker": "Amna Tariq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Priyada Murali",
+              "bowler": "M Wai Siu",
+              "non_striker": "Amna Tariq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Priyada Murali",
+              "bowler": "M Wai Siu",
+              "non_striker": "Amna Tariq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Amna Tariq",
+              "bowler": "M Wai Siu",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Priyada Murali",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Amna Tariq",
+              "bowler": "M Wai Siu",
+              "non_striker": "Priyada Murali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Priyada Murali",
+              "bowler": "KY Chan",
+              "non_striker": "Amna Tariq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Amna Tariq",
+              "bowler": "KY Chan",
+              "non_striker": "Priyada Murali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "run out",
+                  "player_out": "Amna Tariq"
+                }
+              ]
+            },
+            {
+              "batter": "Mariamma Hyder",
+              "bowler": "KY Chan",
+              "non_striker": "Priyada Murali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mariamma Hyder",
+              "bowler": "KY Chan",
+              "non_striker": "Priyada Murali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Mariamma Hyder",
+                  "fielders": [
+                    {
+                      "name": "M Hill"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "Maria Jasvi",
+              "bowler": "KY Chan",
+              "non_striker": "Priyada Murali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Maria Jasvi",
+              "bowler": "KY Chan",
+              "non_striker": "Priyada Murali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Priyada Murali",
+              "bowler": "M Wai Siu",
+              "non_striker": "Maria Jasvi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Maria Jasvi",
+              "bowler": "M Wai Siu",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Priyada Murali",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Priyada Murali",
+              "bowler": "M Wai Siu",
+              "non_striker": "Maria Jasvi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Priyada Murali",
+              "bowler": "M Wai Siu",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Maria Jasvi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Priyada Murali",
+              "bowler": "M Wai Siu",
+              "non_striker": "Maria Jasvi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Maria Jasvi",
+              "bowler": "M Wai Siu",
+              "non_striker": "Priyada Murali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Maria Jasvi",
+                  "fielders": [
+                    {
+                      "name": "M Bibi"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "SL Gomez",
+              "bowler": "M Wai Siu",
+              "non_striker": "Priyada Murali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Priyada Murali",
+              "bowler": "KY Chan",
+              "non_striker": "SL Gomez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Priyada Murali",
+              "bowler": "KY Chan",
+              "non_striker": "SL Gomez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "lbw",
+                  "player_out": "Priyada Murali"
+                }
+              ]
+            },
+            {
+              "batter": "Iqra Ishaq",
+              "bowler": "KY Chan",
+              "non_striker": "SL Gomez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Iqra Ishaq",
+              "bowler": "KY Chan",
+              "non_striker": "SL Gomez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Iqra Ishaq",
+              "bowler": "KY Chan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "SL Gomez",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Iqra Ishaq",
+              "bowler": "KY Chan",
+              "non_striker": "SL Gomez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Iqra Ishaq",
+              "bowler": "KY Chan",
+              "non_striker": "SL Gomez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "SL Gomez",
+              "bowler": "M Yousaf",
+              "non_striker": "Iqra Ishaq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "SL Gomez",
+                  "fielders": [
+                    {
+                      "name": "M Bibi"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "Khadija Khalil",
+              "bowler": "M Yousaf",
+              "non_striker": "Iqra Ishaq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Khadija Khalil",
+              "bowler": "M Yousaf",
+              "non_striker": "Iqra Ishaq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "Khadija Khalil"
+                }
+              ]
+            },
+            {
+              "batter": "Mahnoor Mahmood",
+              "bowler": "M Yousaf",
+              "non_striker": "Iqra Ishaq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mahnoor Mahmood",
+              "bowler": "M Yousaf",
+              "non_striker": "Iqra Ishaq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mahnoor Mahmood",
+              "bowler": "M Yousaf",
+              "non_striker": "Iqra Ishaq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Mahnoor Mahmood",
+                  "fielders": [
+                    {
+                      "name": "YS To"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "Iqra Ishaq",
+              "bowler": "KY Chan",
+              "non_striker": "Maryyam Ashraf",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Iqra Ishaq",
+              "bowler": "KY Chan",
+              "non_striker": "Maryyam Ashraf",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Iqra Ishaq",
+              "bowler": "KY Chan",
+              "non_striker": "Maryyam Ashraf",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Iqra Ishaq",
+              "bowler": "KY Chan",
+              "non_striker": "Maryyam Ashraf",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Iqra Ishaq",
+              "bowler": "KY Chan",
+              "non_striker": "Maryyam Ashraf",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Iqra Ishaq",
+              "bowler": "KY Chan",
+              "non_striker": "Maryyam Ashraf",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "Iqra Ishaq"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Hong Kong",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Y Daswani",
+              "bowler": "Maria Jasvi",
+              "non_striker": "M Hill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Y Daswani",
+              "bowler": "Maria Jasvi",
+              "non_striker": "M Hill",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Y Daswani",
+              "bowler": "Maria Jasvi",
+              "non_striker": "M Hill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Y Daswani",
+              "bowler": "Maria Jasvi",
+              "non_striker": "M Hill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Y Daswani",
+              "bowler": "Maria Jasvi",
+              "non_striker": "M Hill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Y Daswani",
+              "bowler": "Maria Jasvi",
+              "non_striker": "M Hill",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "M Hill",
+              "bowler": "Mariamma Hyder",
+              "non_striker": "Y Daswani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Hill",
+              "bowler": "Mariamma Hyder",
+              "non_striker": "Y Daswani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Hill",
+              "bowler": "Mariamma Hyder",
+              "non_striker": "Y Daswani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Hill",
+              "bowler": "Mariamma Hyder",
+              "non_striker": "Y Daswani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Hill",
+              "bowler": "Mariamma Hyder",
+              "non_striker": "Y Daswani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Y Daswani",
+              "bowler": "Mariamma Hyder",
+              "non_striker": "M Hill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "M Hill",
+              "bowler": "Amna Tariq",
+              "non_striker": "Y Daswani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Hill",
+              "bowler": "Amna Tariq",
+              "non_striker": "Y Daswani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Hill",
+              "bowler": "Amna Tariq",
+              "non_striker": "Y Daswani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Hill",
+              "bowler": "Amna Tariq",
+              "non_striker": "Y Daswani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Hill",
+              "bowler": "Amna Tariq",
+              "non_striker": "Y Daswani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Y Daswani",
+              "bowler": "Amna Tariq",
+              "non_striker": "M Hill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Y Daswani",
+              "bowler": "Mariamma Hyder",
+              "non_striker": "M Hill",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Y Daswani",
+              "bowler": "Mariamma Hyder",
+              "non_striker": "M Hill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Hill",
+              "bowler": "Mariamma Hyder",
+              "non_striker": "Y Daswani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Y Daswani",
+              "bowler": "Mariamma Hyder",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Hill",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Y Daswani",
+              "bowler": "Mariamma Hyder",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Hill",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Y Daswani",
+              "bowler": "Mariamma Hyder",
+              "non_striker": "M Hill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Y Daswani",
+              "bowler": "Mariamma Hyder",
+              "non_striker": "M Hill",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Y Daswani",
+              "bowler": "Mariamma Hyder",
+              "non_striker": "M Hill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "M Hill",
+              "bowler": "Amna Tariq",
+              "non_striker": "Y Daswani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Hill",
+              "bowler": "Amna Tariq",
+              "non_striker": "Y Daswani",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "M Hill",
+              "bowler": "Amna Tariq",
+              "non_striker": "Y Daswani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Y Daswani",
+              "bowler": "Amna Tariq",
+              "non_striker": "M Hill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Y Daswani",
+              "bowler": "Amna Tariq",
+              "non_striker": "M Hill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Hill",
+              "bowler": "Amna Tariq",
+              "non_striker": "Y Daswani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "M Hill",
+              "bowler": "Priyada Murali",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Y Daswani",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Hill",
+              "bowler": "Priyada Murali",
+              "non_striker": "Y Daswani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Hill",
+              "bowler": "Priyada Murali",
+              "non_striker": "Y Daswani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "M Hill"
+                }
+              ]
+            },
+            {
+              "batter": "YS To",
+              "bowler": "Priyada Murali",
+              "non_striker": "Y Daswani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "YS To",
+              "bowler": "Priyada Murali",
+              "non_striker": "Y Daswani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Y Daswani",
+              "bowler": "Priyada Murali",
+              "non_striker": "YS To",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Y Daswani",
+              "bowler": "Priyada Murali",
+              "non_striker": "YS To",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "YS To",
+              "bowler": "Amna Tariq",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Y Daswani",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "YS To",
+              "bowler": "Amna Tariq",
+              "non_striker": "Y Daswani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.7,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 26
+      }
+    }
+  ]
+}

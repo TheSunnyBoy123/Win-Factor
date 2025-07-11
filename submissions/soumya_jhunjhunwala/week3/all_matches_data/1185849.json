@@ -1,0 +1,2748 @@
+{
+  "meta": {
+    "data_version": "1.0.0",
+    "created": "2020-08-19",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "St Kitts",
+    "dates": [
+      "2019-09-15"
+    ],
+    "event": {
+      "name": "Caribbean Premier League",
+      "match_number": 13
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "officials": {
+      "match_referees": [
+        "SJA Taufel"
+      ],
+      "reserve_umpires": [
+        "CM Tuckett"
+      ],
+      "tv_umpires": [
+        "S George"
+      ],
+      "umpires": [
+        "LS Reifer",
+        "Zahid Bassarath"
+      ]
+    },
+    "outcome": {
+      "winner": "St Kitts and Nevis Patriots",
+      "by": {
+        "wickets": 6
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "Akeem Jordan"
+    ],
+    "players": {
+      "St Lucia Zouks": [
+        "ADS Fletcher",
+        "RRS Cornwall",
+        "RO Cato",
+        "KAR Hodge",
+        "C de Grandhomme",
+        "NLTC Perera",
+        "DJG Sammy",
+        "GC Viljoen",
+        "KOK Williams",
+        "OC McCoy",
+        "Fawad Ahmed"
+      ],
+      "St Kitts and Nevis Patriots": [
+        "DC Thomas",
+        "E Lewis",
+        "LJ Evans",
+        "Mohammad Hafeez",
+        "CR Brathwaite",
+        "FA Allen",
+        "KY Ottley",
+        "RR Emrit",
+        "Usama Mir",
+        "Akeem Jordan",
+        "SS Cottrell"
+      ]
+    },
+    "registry": {
+      "people": {
+        "ADS Fletcher": "1bae756b",
+        "Akeem Jordan": "77bf0483",
+        "C de Grandhomme": "94d7f855",
+        "CM Tuckett": "a67252f0",
+        "CR Brathwaite": "e342e5fb",
+        "DC Thomas": "08a4f9ad",
+        "DJG Sammy": "c03c6200",
+        "E Lewis": "0ebfb1ad",
+        "FA Allen": "b52ffbbd",
+        "Fawad Ahmed": "22ae3041",
+        "GC Viljoen": "a316d663",
+        "KAR Hodge": "49dc9cb4",
+        "KOK Williams": "78cb83f3",
+        "KY Ottley": "50a92895",
+        "LJ Evans": "1c513d54",
+        "LS Reifer": "5dee559a",
+        "Mohammad Hafeez": "9ab63e7b",
+        "NLTC Perera": "0f12f9df",
+        "OC McCoy": "529eb9e0",
+        "RO Cato": "2834ae2d",
+        "RR Emrit": "e7de4f6b",
+        "RRS Cornwall": "c4d9634c",
+        "S George": "6d9e5a54",
+        "SJA Taufel": "4b43d5ac",
+        "SS Cottrell": "a1d053dd",
+        "Usama Mir": "6dd8b88c",
+        "Zahid Bassarath": "ca6bf044"
+      }
+    },
+    "season": "2019",
+    "team_type": "club",
+    "teams": [
+      "St Lucia Zouks",
+      "St Kitts and Nevis Patriots"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "St Kitts and Nevis Patriots"
+    },
+    "venue": "Warner Park, Basseterre"
+  },
+  "innings": [
+    {
+      "team": "St Lucia Zouks",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "ADS Fletcher",
+              "bowler": "Akeem Jordan",
+              "non_striker": "RRS Cornwall",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RRS Cornwall",
+              "bowler": "Akeem Jordan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "ADS Fletcher",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RRS Cornwall",
+              "bowler": "Akeem Jordan",
+              "non_striker": "ADS Fletcher",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ADS Fletcher",
+              "bowler": "Akeem Jordan",
+              "non_striker": "RRS Cornwall",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "ADS Fletcher",
+                  "fielders": [
+                    {
+                      "name": "FA Allen"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "RO Cato",
+              "bowler": "Akeem Jordan",
+              "non_striker": "RRS Cornwall",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RRS Cornwall",
+              "bowler": "Akeem Jordan",
+              "non_striker": "RO Cato",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RRS Cornwall",
+              "bowler": "Akeem Jordan",
+              "non_striker": "RO Cato",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "RO Cato",
+              "bowler": "SS Cottrell",
+              "non_striker": "RRS Cornwall",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RO Cato",
+              "bowler": "SS Cottrell",
+              "non_striker": "RRS Cornwall",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RO Cato",
+              "bowler": "SS Cottrell",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "RRS Cornwall",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RO Cato",
+              "bowler": "SS Cottrell",
+              "non_striker": "RRS Cornwall",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RO Cato",
+              "bowler": "SS Cottrell",
+              "non_striker": "RRS Cornwall",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RO Cato",
+              "bowler": "SS Cottrell",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "RRS Cornwall",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RO Cato",
+              "bowler": "SS Cottrell",
+              "non_striker": "RRS Cornwall",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RO Cato",
+              "bowler": "SS Cottrell",
+              "non_striker": "RRS Cornwall",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "RRS Cornwall",
+              "bowler": "Akeem Jordan",
+              "non_striker": "RO Cato",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RRS Cornwall",
+              "bowler": "Akeem Jordan",
+              "non_striker": "RO Cato",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "RRS Cornwall",
+                  "fielders": [
+                    {
+                      "name": "SS Cottrell"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "KAR Hodge",
+              "bowler": "Akeem Jordan",
+              "non_striker": "RO Cato",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KAR Hodge",
+              "bowler": "Akeem Jordan",
+              "non_striker": "RO Cato",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RO Cato",
+              "bowler": "Akeem Jordan",
+              "non_striker": "KAR Hodge",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RO Cato",
+              "bowler": "Akeem Jordan",
+              "non_striker": "KAR Hodge",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "KAR Hodge",
+              "bowler": "SS Cottrell",
+              "non_striker": "RO Cato",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KAR Hodge",
+              "bowler": "SS Cottrell",
+              "non_striker": "RO Cato",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KAR Hodge",
+              "bowler": "SS Cottrell",
+              "non_striker": "RO Cato",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "RO Cato",
+              "bowler": "SS Cottrell",
+              "non_striker": "KAR Hodge",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KAR Hodge",
+              "bowler": "SS Cottrell",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "RO Cato",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KAR Hodge",
+              "bowler": "SS Cottrell",
+              "non_striker": "RO Cato",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RO Cato",
+              "bowler": "SS Cottrell",
+              "non_striker": "KAR Hodge",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "KAR Hodge",
+              "bowler": "Akeem Jordan",
+              "non_striker": "RO Cato",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KAR Hodge",
+              "bowler": "Akeem Jordan",
+              "non_striker": "RO Cato",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KAR Hodge",
+              "bowler": "Akeem Jordan",
+              "non_striker": "RO Cato",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KAR Hodge",
+              "bowler": "Akeem Jordan",
+              "non_striker": "RO Cato",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "KAR Hodge",
+                  "fielders": [
+                    {
+                      "name": "KY Ottley"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "C de Grandhomme",
+              "bowler": "Akeem Jordan",
+              "non_striker": "RO Cato",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "C de Grandhomme",
+              "bowler": "Akeem Jordan",
+              "non_striker": "RO Cato",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "RO Cato",
+              "bowler": "Usama Mir",
+              "non_striker": "C de Grandhomme",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "RO Cato",
+                  "fielders": [
+                    {
+                      "name": "RR Emrit"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "NLTC Perera",
+              "bowler": "Usama Mir",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "C de Grandhomme",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C de Grandhomme",
+              "bowler": "Usama Mir",
+              "non_striker": "NLTC Perera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C de Grandhomme",
+              "bowler": "Usama Mir",
+              "non_striker": "NLTC Perera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C de Grandhomme",
+              "bowler": "Usama Mir",
+              "non_striker": "NLTC Perera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NLTC Perera",
+              "bowler": "Usama Mir",
+              "non_striker": "C de Grandhomme",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "C de Grandhomme",
+              "bowler": "RR Emrit",
+              "non_striker": "NLTC Perera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C de Grandhomme",
+              "bowler": "RR Emrit",
+              "non_striker": "NLTC Perera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NLTC Perera",
+              "bowler": "RR Emrit",
+              "non_striker": "C de Grandhomme",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NLTC Perera",
+              "bowler": "RR Emrit",
+              "non_striker": "C de Grandhomme",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NLTC Perera",
+              "bowler": "RR Emrit",
+              "non_striker": "C de Grandhomme",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NLTC Perera",
+              "bowler": "RR Emrit",
+              "non_striker": "C de Grandhomme",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "NLTC Perera",
+              "bowler": "Usama Mir",
+              "non_striker": "C de Grandhomme",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C de Grandhomme",
+              "bowler": "Usama Mir",
+              "non_striker": "NLTC Perera",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "C de Grandhomme",
+              "bowler": "Usama Mir",
+              "non_striker": "NLTC Perera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NLTC Perera",
+              "bowler": "Usama Mir",
+              "non_striker": "C de Grandhomme",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NLTC Perera",
+              "bowler": "Usama Mir",
+              "non_striker": "C de Grandhomme",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C de Grandhomme",
+              "bowler": "Usama Mir",
+              "non_striker": "NLTC Perera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "NLTC Perera",
+              "bowler": "RR Emrit",
+              "non_striker": "C de Grandhomme",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "NLTC Perera",
+                  "fielders": [
+                    {
+                      "name": "LJ Evans"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "C de Grandhomme",
+              "bowler": "RR Emrit",
+              "non_striker": "DJG Sammy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C de Grandhomme",
+              "bowler": "RR Emrit",
+              "non_striker": "DJG Sammy",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "C de Grandhomme",
+              "bowler": "RR Emrit",
+              "non_striker": "DJG Sammy",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "C de Grandhomme",
+              "bowler": "RR Emrit",
+              "non_striker": "DJG Sammy",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "C de Grandhomme",
+              "bowler": "RR Emrit",
+              "non_striker": "DJG Sammy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "C de Grandhomme",
+              "bowler": "Usama Mir",
+              "non_striker": "DJG Sammy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJG Sammy",
+              "bowler": "Usama Mir",
+              "non_striker": "C de Grandhomme",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJG Sammy",
+              "bowler": "Usama Mir",
+              "non_striker": "C de Grandhomme",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "DJG Sammy",
+              "bowler": "Usama Mir",
+              "non_striker": "C de Grandhomme",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJG Sammy",
+              "bowler": "Usama Mir",
+              "non_striker": "C de Grandhomme",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJG Sammy",
+              "bowler": "Usama Mir",
+              "non_striker": "C de Grandhomme",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "C de Grandhomme",
+              "bowler": "CR Brathwaite",
+              "non_striker": "DJG Sammy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJG Sammy",
+              "bowler": "CR Brathwaite",
+              "non_striker": "C de Grandhomme",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJG Sammy",
+              "bowler": "CR Brathwaite",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "C de Grandhomme",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJG Sammy",
+              "bowler": "CR Brathwaite",
+              "non_striker": "C de Grandhomme",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJG Sammy",
+              "bowler": "CR Brathwaite",
+              "extras": {
+                "byes": 4
+              },
+              "non_striker": "C de Grandhomme",
+              "runs": {
+                "batter": 0,
+                "extras": 4,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DJG Sammy",
+              "bowler": "CR Brathwaite",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "C de Grandhomme",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJG Sammy",
+              "bowler": "CR Brathwaite",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "C de Grandhomme",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJG Sammy",
+              "bowler": "CR Brathwaite",
+              "non_striker": "C de Grandhomme",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJG Sammy",
+              "bowler": "CR Brathwaite",
+              "non_striker": "C de Grandhomme",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "C de Grandhomme",
+              "bowler": "Usama Mir",
+              "non_striker": "DJG Sammy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C de Grandhomme",
+              "bowler": "Usama Mir",
+              "non_striker": "DJG Sammy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C de Grandhomme",
+              "bowler": "Usama Mir",
+              "non_striker": "DJG Sammy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C de Grandhomme",
+              "bowler": "Usama Mir",
+              "non_striker": "DJG Sammy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C de Grandhomme",
+              "bowler": "Usama Mir",
+              "non_striker": "DJG Sammy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "C de Grandhomme",
+                  "fielders": [
+                    {
+                      "name": "KY Ottley"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "DJG Sammy",
+              "bowler": "Usama Mir",
+              "non_striker": "GC Viljoen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "GC Viljoen",
+              "bowler": "CR Brathwaite",
+              "non_striker": "DJG Sammy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GC Viljoen",
+              "bowler": "CR Brathwaite",
+              "non_striker": "DJG Sammy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJG Sammy",
+              "bowler": "CR Brathwaite",
+              "non_striker": "GC Viljoen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJG Sammy",
+              "bowler": "CR Brathwaite",
+              "non_striker": "GC Viljoen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GC Viljoen",
+              "bowler": "CR Brathwaite",
+              "non_striker": "DJG Sammy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJG Sammy",
+              "bowler": "CR Brathwaite",
+              "non_striker": "GC Viljoen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "DJG Sammy",
+              "bowler": "FA Allen",
+              "non_striker": "GC Viljoen",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "DJG Sammy",
+              "bowler": "FA Allen",
+              "non_striker": "GC Viljoen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GC Viljoen",
+              "bowler": "FA Allen",
+              "non_striker": "DJG Sammy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GC Viljoen",
+              "bowler": "FA Allen",
+              "non_striker": "DJG Sammy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GC Viljoen",
+              "bowler": "FA Allen",
+              "non_striker": "DJG Sammy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GC Viljoen",
+              "bowler": "FA Allen",
+              "non_striker": "DJG Sammy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "GC Viljoen",
+              "bowler": "SS Cottrell",
+              "non_striker": "DJG Sammy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJG Sammy",
+              "bowler": "SS Cottrell",
+              "non_striker": "GC Viljoen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJG Sammy",
+              "bowler": "SS Cottrell",
+              "non_striker": "GC Viljoen",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "DJG Sammy",
+              "bowler": "SS Cottrell",
+              "non_striker": "GC Viljoen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GC Viljoen",
+              "bowler": "SS Cottrell",
+              "non_striker": "DJG Sammy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJG Sammy",
+              "bowler": "SS Cottrell",
+              "non_striker": "GC Viljoen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "DJG Sammy",
+                  "fielders": [
+                    {
+                      "name": "DC Thomas"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "GC Viljoen",
+              "bowler": "Akeem Jordan",
+              "non_striker": "KOK Williams",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KOK Williams",
+              "bowler": "Akeem Jordan",
+              "non_striker": "GC Viljoen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "KOK Williams",
+                  "fielders": [
+                    {
+                      "name": "DC Thomas"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "OC McCoy",
+              "bowler": "Akeem Jordan",
+              "non_striker": "GC Viljoen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "OC McCoy",
+              "bowler": "Akeem Jordan",
+              "non_striker": "GC Viljoen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "OC McCoy",
+              "bowler": "Akeem Jordan",
+              "non_striker": "GC Viljoen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GC Viljoen",
+              "bowler": "Akeem Jordan",
+              "non_striker": "OC McCoy",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "OC McCoy",
+              "bowler": "CR Brathwaite",
+              "non_striker": "GC Viljoen",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "OC McCoy",
+              "bowler": "CR Brathwaite",
+              "non_striker": "GC Viljoen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "OC McCoy",
+              "bowler": "CR Brathwaite",
+              "non_striker": "GC Viljoen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GC Viljoen",
+              "bowler": "CR Brathwaite",
+              "non_striker": "OC McCoy",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "GC Viljoen",
+              "bowler": "CR Brathwaite",
+              "non_striker": "OC McCoy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "OC McCoy",
+              "bowler": "CR Brathwaite",
+              "non_striker": "GC Viljoen",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "GC Viljoen",
+              "bowler": "RR Emrit",
+              "non_striker": "OC McCoy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "OC McCoy",
+              "bowler": "RR Emrit",
+              "non_striker": "GC Viljoen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "OC McCoy",
+              "bowler": "RR Emrit",
+              "non_striker": "GC Viljoen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "OC McCoy",
+              "bowler": "RR Emrit",
+              "non_striker": "GC Viljoen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "OC McCoy",
+              "bowler": "RR Emrit",
+              "non_striker": "GC Viljoen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GC Viljoen",
+              "bowler": "RR Emrit",
+              "non_striker": "OC McCoy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "GC Viljoen",
+              "bowler": "SS Cottrell",
+              "non_striker": "OC McCoy",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "GC Viljoen",
+              "bowler": "SS Cottrell",
+              "non_striker": "OC McCoy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GC Viljoen",
+              "bowler": "SS Cottrell",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "OC McCoy",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "OC McCoy",
+              "bowler": "SS Cottrell",
+              "non_striker": "GC Viljoen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GC Viljoen",
+              "bowler": "SS Cottrell",
+              "non_striker": "OC McCoy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GC Viljoen",
+              "bowler": "SS Cottrell",
+              "non_striker": "OC McCoy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "GC Viljoen",
+              "bowler": "RR Emrit",
+              "non_striker": "OC McCoy",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "GC Viljoen",
+              "bowler": "RR Emrit",
+              "non_striker": "OC McCoy",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "GC Viljoen",
+              "bowler": "RR Emrit",
+              "non_striker": "OC McCoy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "GC Viljoen",
+                  "fielders": [
+                    {
+                      "name": "Usama Mir"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Fawad Ahmed",
+              "bowler": "RR Emrit",
+              "non_striker": "OC McCoy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "OC McCoy",
+              "bowler": "RR Emrit",
+              "non_striker": "Fawad Ahmed",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "OC McCoy",
+              "bowler": "RR Emrit",
+              "non_striker": "Fawad Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "St Kitts and Nevis Patriots",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "DC Thomas",
+              "bowler": "OC McCoy",
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DC Thomas",
+              "bowler": "OC McCoy",
+              "extras": {
+                "wides": 5
+              },
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 5,
+                "total": 5
+              }
+            },
+            {
+              "batter": "DC Thomas",
+              "bowler": "OC McCoy",
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Lewis",
+              "bowler": "OC McCoy",
+              "non_striker": "DC Thomas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Lewis",
+              "bowler": "OC McCoy",
+              "non_striker": "DC Thomas",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "E Lewis",
+              "bowler": "OC McCoy",
+              "non_striker": "DC Thomas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Lewis",
+              "bowler": "OC McCoy",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "DC Thomas",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Lewis",
+              "bowler": "OC McCoy",
+              "non_striker": "DC Thomas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "DC Thomas",
+              "bowler": "KOK Williams",
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DC Thomas",
+              "bowler": "KOK Williams",
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "DC Thomas",
+                  "fielders": [
+                    {
+                      "name": "Fawad Ahmed"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "LJ Evans",
+              "bowler": "KOK Williams",
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LJ Evans",
+              "bowler": "KOK Williams",
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Lewis",
+              "bowler": "KOK Williams",
+              "non_striker": "LJ Evans",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "E Lewis",
+              "bowler": "KOK Williams",
+              "non_striker": "LJ Evans",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "LJ Evans",
+              "bowler": "OC McCoy",
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Lewis",
+              "bowler": "OC McCoy",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "LJ Evans",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Lewis",
+              "bowler": "OC McCoy",
+              "non_striker": "LJ Evans",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "E Lewis",
+              "bowler": "OC McCoy",
+              "non_striker": "LJ Evans",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LJ Evans",
+              "bowler": "OC McCoy",
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LJ Evans",
+              "bowler": "OC McCoy",
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "LJ Evans",
+              "bowler": "OC McCoy",
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "E Lewis",
+              "bowler": "Fawad Ahmed",
+              "non_striker": "LJ Evans",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LJ Evans",
+              "bowler": "Fawad Ahmed",
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LJ Evans",
+              "bowler": "Fawad Ahmed",
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LJ Evans",
+              "bowler": "Fawad Ahmed",
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LJ Evans",
+              "bowler": "Fawad Ahmed",
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LJ Evans",
+              "bowler": "Fawad Ahmed",
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "E Lewis",
+              "bowler": "GC Viljoen",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "LJ Evans",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Lewis",
+              "bowler": "GC Viljoen",
+              "non_striker": "LJ Evans",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LJ Evans",
+              "bowler": "GC Viljoen",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LJ Evans",
+              "bowler": "GC Viljoen",
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "LJ Evans",
+              "bowler": "GC Viljoen",
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LJ Evans",
+              "bowler": "GC Viljoen",
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "LJ Evans",
+              "bowler": "GC Viljoen",
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Lewis",
+              "bowler": "GC Viljoen",
+              "non_striker": "LJ Evans",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "LJ Evans",
+              "bowler": "Fawad Ahmed",
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LJ Evans",
+              "bowler": "Fawad Ahmed",
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LJ Evans",
+              "bowler": "Fawad Ahmed",
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "LJ Evans",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Mohammad Hafeez",
+              "bowler": "Fawad Ahmed",
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Lewis",
+              "bowler": "Fawad Ahmed",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Mohammad Hafeez",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Lewis",
+              "bowler": "Fawad Ahmed",
+              "extras": {
+                "byes": 4
+              },
+              "non_striker": "Mohammad Hafeez",
+              "runs": {
+                "batter": 0,
+                "extras": 4,
+                "total": 4
+              }
+            },
+            {
+              "batter": "E Lewis",
+              "bowler": "Fawad Ahmed",
+              "non_striker": "Mohammad Hafeez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Mohammad Hafeez",
+              "bowler": "KOK Williams",
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Hafeez",
+              "bowler": "KOK Williams",
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Mohammad Hafeez",
+              "bowler": "KOK Williams",
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Mohammad Hafeez",
+              "bowler": "KOK Williams",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Lewis",
+              "bowler": "KOK Williams",
+              "non_striker": "Mohammad Hafeez",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "E Lewis",
+              "bowler": "KOK Williams",
+              "non_striker": "Mohammad Hafeez",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Mohammad Hafeez",
+              "bowler": "Fawad Ahmed",
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Lewis",
+              "bowler": "Fawad Ahmed",
+              "non_striker": "Mohammad Hafeez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Lewis",
+              "bowler": "Fawad Ahmed",
+              "non_striker": "Mohammad Hafeez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Lewis",
+              "bowler": "Fawad Ahmed",
+              "non_striker": "Mohammad Hafeez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Lewis",
+              "bowler": "Fawad Ahmed",
+              "non_striker": "Mohammad Hafeez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Lewis",
+              "bowler": "Fawad Ahmed",
+              "non_striker": "Mohammad Hafeez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "Mohammad Hafeez",
+              "bowler": "KAR Hodge",
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Lewis",
+              "bowler": "KAR Hodge",
+              "non_striker": "Mohammad Hafeez",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "E Lewis",
+              "bowler": "KAR Hodge",
+              "non_striker": "Mohammad Hafeez",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Hafeez",
+              "bowler": "KAR Hodge",
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Lewis",
+              "bowler": "KAR Hodge",
+              "non_striker": "Mohammad Hafeez",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "E Lewis",
+              "bowler": "KAR Hodge",
+              "non_striker": "Mohammad Hafeez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "Mohammad Hafeez",
+              "bowler": "RRS Cornwall",
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Hafeez",
+              "bowler": "RRS Cornwall",
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Mohammad Hafeez",
+              "bowler": "RRS Cornwall",
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Lewis",
+              "bowler": "RRS Cornwall",
+              "non_striker": "Mohammad Hafeez",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Hafeez",
+              "bowler": "RRS Cornwall",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Hafeez",
+              "bowler": "RRS Cornwall",
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Hafeez",
+              "bowler": "RRS Cornwall",
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "Mohammad Hafeez",
+              "bowler": "KAR Hodge",
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Lewis",
+              "bowler": "KAR Hodge",
+              "non_striker": "Mohammad Hafeez",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "E Lewis",
+              "bowler": "KAR Hodge",
+              "non_striker": "Mohammad Hafeez",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "E Lewis",
+              "bowler": "KAR Hodge",
+              "non_striker": "Mohammad Hafeez",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "E Lewis",
+              "bowler": "KAR Hodge",
+              "non_striker": "Mohammad Hafeez",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "E Lewis",
+              "bowler": "KAR Hodge",
+              "non_striker": "Mohammad Hafeez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "E Lewis",
+                  "fielders": [
+                    {
+                      "name": "RO Cato"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "CR Brathwaite",
+              "bowler": "Fawad Ahmed",
+              "non_striker": "Mohammad Hafeez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CR Brathwaite",
+              "bowler": "Fawad Ahmed",
+              "non_striker": "Mohammad Hafeez",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Hafeez",
+              "bowler": "Fawad Ahmed",
+              "non_striker": "CR Brathwaite",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CR Brathwaite",
+              "bowler": "Fawad Ahmed",
+              "non_striker": "Mohammad Hafeez",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Hafeez",
+              "bowler": "Fawad Ahmed",
+              "non_striker": "CR Brathwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Hafeez",
+              "bowler": "Fawad Ahmed",
+              "non_striker": "CR Brathwaite",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "CR Brathwaite",
+              "bowler": "OC McCoy",
+              "non_striker": "Mohammad Hafeez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CR Brathwaite",
+              "bowler": "OC McCoy",
+              "non_striker": "Mohammad Hafeez",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "CR Brathwaite",
+              "bowler": "OC McCoy",
+              "non_striker": "Mohammad Hafeez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CR Brathwaite",
+              "bowler": "OC McCoy",
+              "non_striker": "Mohammad Hafeez",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Hafeez",
+              "bowler": "OC McCoy",
+              "non_striker": "CR Brathwaite",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CR Brathwaite",
+              "bowler": "OC McCoy",
+              "non_striker": "Mohammad Hafeez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "Mohammad Hafeez",
+              "bowler": "RRS Cornwall",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "CR Brathwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CR Brathwaite",
+              "bowler": "RRS Cornwall",
+              "non_striker": "Mohammad Hafeez",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Hafeez",
+              "bowler": "RRS Cornwall",
+              "non_striker": "CR Brathwaite",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Mohammad Hafeez",
+              "bowler": "RRS Cornwall",
+              "non_striker": "CR Brathwaite",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CR Brathwaite",
+              "bowler": "RRS Cornwall",
+              "non_striker": "Mohammad Hafeez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CR Brathwaite",
+              "bowler": "RRS Cornwall",
+              "non_striker": "Mohammad Hafeez",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "CR Brathwaite",
+              "bowler": "OC McCoy",
+              "non_striker": "Mohammad Hafeez",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Hafeez",
+              "bowler": "OC McCoy",
+              "non_striker": "CR Brathwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Mohammad Hafeez",
+                  "fielders": [
+                    {
+                      "name": "DJG Sammy"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "FA Allen",
+              "bowler": "OC McCoy",
+              "non_striker": "CR Brathwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "FA Allen",
+              "bowler": "OC McCoy",
+              "non_striker": "CR Brathwaite",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CR Brathwaite",
+              "bowler": "OC McCoy",
+              "non_striker": "FA Allen",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.7,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 139
+      }
+    }
+  ]
+}

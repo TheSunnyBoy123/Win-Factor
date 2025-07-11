@@ -1,0 +1,2927 @@
+{
+  "meta": {
+    "data_version": "1.0.0",
+    "created": "2017-04-23",
+    "revision": 2
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Hobart",
+    "dates": [
+      "2012-01-01"
+    ],
+    "event": {
+      "name": "Big Bash League"
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "officials": {
+      "match_referees": [
+        "D Levens"
+      ],
+      "tv_umpires": [
+        "SJ Nogajski"
+      ],
+      "umpires": [
+        "IH Lock",
+        "RL Parry"
+      ]
+    },
+    "outcome": {
+      "by": {
+        "wickets": 5
+      },
+      "winner": "Hobart Hurricanes"
+    },
+    "overs": 20,
+    "player_of_match": [
+      "Naved-ul-Hasan"
+    ],
+    "players": {
+      "Hobart Hurricanes": [
+        "JW Wells",
+        "PA Jaques",
+        "TR Birt",
+        "OA Shah",
+        "TIF Triffitt",
+        "RJG Lockyear",
+        "MJ Johnston",
+        "JJ Krejza",
+        "Naved-ul-Hasan",
+        "XJ Doherty",
+        "B Laughlin"
+      ],
+      "Sydney Thunder": [
+        "DLR Smith",
+        "CH Gayle",
+        "SA Abbott",
+        "UT Khawaja",
+        "BR Dunk",
+        "JS Floros",
+        "TD Cruickshank",
+        "SJ Coyte",
+        "LR Butterworth",
+        "FH Edwards",
+        "LA Doran"
+      ]
+    },
+    "registry": {
+      "people": {
+        "B Laughlin": "b2a79f17",
+        "BR Dunk": "272d796e",
+        "CH Gayle": "db584dad",
+        "D Levens": "8fc718ea",
+        "DLR Smith": "0c5c3a87",
+        "FH Edwards": "a7c226e1",
+        "IH Lock": "a1b1e3c2",
+        "JJ Krejza": "047d9032",
+        "JS Floros": "79765f6f",
+        "JW Wells": "8bdac857",
+        "LA Doran": "f201593c",
+        "LR Butterworth": "ff6707cc",
+        "MJ Johnston": "db2114f1",
+        "Naved-ul-Hasan": "33f28243",
+        "OA Shah": "7bf96684",
+        "PA Jaques": "03252e44",
+        "RJG Lockyear": "c8e7c983",
+        "RL Parry": "86d151dc",
+        "SA Abbott": "1a2676c5",
+        "SJ Coyte": "36769c31",
+        "SJ Nogajski": "9b3f9323",
+        "TD Cruickshank": "c8d0314b",
+        "TIF Triffitt": "593513d5",
+        "TR Birt": "d2d4bb0a",
+        "UT Khawaja": "331ea488",
+        "XJ Doherty": "502b2c81"
+      }
+    },
+    "season": "2011/12",
+    "team_type": "club",
+    "teams": [
+      "Hobart Hurricanes",
+      "Sydney Thunder"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "Sydney Thunder"
+    },
+    "venue": "Bellerive Oval"
+  },
+  "innings": [
+    {
+      "team": "Sydney Thunder",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "DLR Smith",
+              "bowler": "MJ Johnston",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DLR Smith",
+              "bowler": "MJ Johnston",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DLR Smith",
+              "bowler": "MJ Johnston",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DLR Smith",
+              "bowler": "MJ Johnston",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "MJ Johnston",
+              "non_striker": "DLR Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "MJ Johnston",
+              "non_striker": "DLR Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "MJ Johnston",
+              "non_striker": "DLR Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "CH Gayle",
+              "bowler": "JJ Krejza",
+              "non_striker": "DLR Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DLR Smith",
+              "bowler": "JJ Krejza",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "JJ Krejza",
+              "non_striker": "DLR Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DLR Smith",
+              "bowler": "JJ Krejza",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DLR Smith",
+              "bowler": "JJ Krejza",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DLR Smith",
+              "bowler": "JJ Krejza",
+              "extras": {
+                "wides": 3
+              },
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 0,
+                "extras": 3,
+                "total": 3
+              }
+            },
+            {
+              "batter": "DLR Smith",
+              "bowler": "JJ Krejza",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "CH Gayle",
+              "bowler": "MJ Johnston",
+              "non_striker": "DLR Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "MJ Johnston",
+              "non_striker": "DLR Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "MJ Johnston",
+              "non_striker": "DLR Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "MJ Johnston",
+              "non_striker": "DLR Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "MJ Johnston",
+              "non_striker": "DLR Smith",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "MJ Johnston",
+              "non_striker": "DLR Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "DLR Smith",
+              "bowler": "JJ Krejza",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "JJ Krejza",
+              "non_striker": "DLR Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "JJ Krejza",
+              "non_striker": "DLR Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DLR Smith",
+              "bowler": "JJ Krejza",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DLR Smith",
+              "bowler": "JJ Krejza",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "JJ Krejza",
+              "non_striker": "DLR Smith",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "DLR Smith",
+              "bowler": "XJ Doherty",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "XJ Doherty",
+              "non_striker": "DLR Smith",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "XJ Doherty",
+              "non_striker": "DLR Smith",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "XJ Doherty",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "DLR Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "XJ Doherty",
+              "non_striker": "DLR Smith",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "XJ Doherty",
+              "non_striker": "DLR Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DLR Smith",
+              "bowler": "XJ Doherty",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "DLR Smith",
+              "bowler": "MJ Johnston",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DLR Smith",
+              "bowler": "MJ Johnston",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "DLR Smith",
+                  "fielders": [
+                    {
+                      "name": "XJ Doherty"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "SA Abbott",
+              "bowler": "MJ Johnston",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Abbott",
+              "bowler": "MJ Johnston",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Abbott",
+              "bowler": "MJ Johnston",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Abbott",
+              "bowler": "MJ Johnston",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "SA Abbott",
+              "bowler": "B Laughlin",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "SA Abbott",
+              "bowler": "B Laughlin",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "B Laughlin",
+              "non_striker": "SA Abbott",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Abbott",
+              "bowler": "B Laughlin",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "B Laughlin",
+              "non_striker": "SA Abbott",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "B Laughlin",
+              "non_striker": "SA Abbott",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "SA Abbott",
+              "bowler": "MJ Johnston",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "MJ Johnston",
+              "non_striker": "SA Abbott",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Abbott",
+              "bowler": "MJ Johnston",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "MJ Johnston",
+              "non_striker": "SA Abbott",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "MJ Johnston",
+              "non_striker": "SA Abbott",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "MJ Johnston",
+              "non_striker": "SA Abbott",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "CH Gayle",
+              "bowler": "B Laughlin",
+              "non_striker": "SA Abbott",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Abbott",
+              "bowler": "B Laughlin",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "B Laughlin",
+              "non_striker": "SA Abbott",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "B Laughlin",
+              "non_striker": "SA Abbott",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Abbott",
+              "bowler": "B Laughlin",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Abbott",
+              "bowler": "B Laughlin",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "SA Abbott",
+              "bowler": "Naved-ul-Hasan",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Abbott",
+              "bowler": "Naved-ul-Hasan",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Abbott",
+              "bowler": "Naved-ul-Hasan",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "SA Abbott",
+              "bowler": "Naved-ul-Hasan",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Abbott",
+              "bowler": "Naved-ul-Hasan",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SA Abbott",
+              "bowler": "Naved-ul-Hasan",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "SA Abbott",
+              "bowler": "XJ Doherty",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "XJ Doherty",
+              "non_striker": "SA Abbott",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "XJ Doherty",
+              "non_striker": "SA Abbott",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "XJ Doherty",
+              "non_striker": "SA Abbott",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Abbott",
+              "bowler": "XJ Doherty",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "XJ Doherty",
+              "non_striker": "SA Abbott",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "SA Abbott",
+              "bowler": "Naved-ul-Hasan",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Abbott",
+              "bowler": "Naved-ul-Hasan",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Abbott",
+              "bowler": "Naved-ul-Hasan",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Abbott",
+              "bowler": "Naved-ul-Hasan",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Abbott",
+              "bowler": "Naved-ul-Hasan",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Abbott",
+              "bowler": "Naved-ul-Hasan",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "SA Abbott",
+              "bowler": "B Laughlin",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Abbott",
+              "bowler": "B Laughlin",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Abbott",
+              "bowler": "B Laughlin",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Abbott",
+              "bowler": "B Laughlin",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Abbott",
+              "bowler": "B Laughlin",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Abbott",
+              "bowler": "B Laughlin",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "CH Gayle",
+              "bowler": "JJ Krejza",
+              "non_striker": "SA Abbott",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "CH Gayle",
+                  "fielders": [
+                    {
+                      "name": "Naved-ul-Hasan"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "UT Khawaja",
+              "bowler": "JJ Krejza",
+              "non_striker": "SA Abbott",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "UT Khawaja",
+              "bowler": "JJ Krejza",
+              "non_striker": "SA Abbott",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "UT Khawaja",
+              "bowler": "JJ Krejza",
+              "non_striker": "SA Abbott",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Abbott",
+              "bowler": "JJ Krejza",
+              "non_striker": "UT Khawaja",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SA Abbott",
+              "bowler": "JJ Krejza",
+              "non_striker": "UT Khawaja",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "UT Khawaja",
+              "bowler": "XJ Doherty",
+              "non_striker": "SA Abbott",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "UT Khawaja",
+              "bowler": "XJ Doherty",
+              "non_striker": "SA Abbott",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Abbott",
+              "bowler": "XJ Doherty",
+              "non_striker": "UT Khawaja",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "UT Khawaja",
+              "bowler": "XJ Doherty",
+              "non_striker": "SA Abbott",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "UT Khawaja",
+              "bowler": "XJ Doherty",
+              "non_striker": "SA Abbott",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "UT Khawaja",
+              "bowler": "XJ Doherty",
+              "non_striker": "SA Abbott",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "UT Khawaja",
+              "bowler": "JJ Krejza",
+              "non_striker": "SA Abbott",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Abbott",
+              "bowler": "JJ Krejza",
+              "non_striker": "UT Khawaja",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SA Abbott",
+              "bowler": "JJ Krejza",
+              "non_striker": "UT Khawaja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Abbott",
+              "bowler": "JJ Krejza",
+              "non_striker": "UT Khawaja",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "UT Khawaja",
+              "bowler": "JJ Krejza",
+              "non_striker": "SA Abbott",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Abbott",
+              "bowler": "JJ Krejza",
+              "non_striker": "UT Khawaja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "SA Abbott",
+                  "fielders": [
+                    {
+                      "name": "TIF Triffitt"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "UT Khawaja",
+              "bowler": "Naved-ul-Hasan",
+              "non_striker": "BR Dunk",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "UT Khawaja",
+              "bowler": "Naved-ul-Hasan",
+              "non_striker": "BR Dunk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BR Dunk",
+              "bowler": "Naved-ul-Hasan",
+              "non_striker": "UT Khawaja",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "UT Khawaja",
+              "bowler": "Naved-ul-Hasan",
+              "non_striker": "BR Dunk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "UT Khawaja",
+              "bowler": "Naved-ul-Hasan",
+              "non_striker": "BR Dunk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BR Dunk",
+              "bowler": "Naved-ul-Hasan",
+              "non_striker": "UT Khawaja",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "UT Khawaja",
+              "bowler": "B Laughlin",
+              "non_striker": "BR Dunk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "UT Khawaja",
+                  "fielders": [
+                    {
+                      "name": "TIF Triffitt"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "BR Dunk",
+              "bowler": "B Laughlin",
+              "non_striker": "JS Floros",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "BR Dunk",
+              "bowler": "B Laughlin",
+              "non_striker": "JS Floros",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "BR Dunk",
+              "bowler": "B Laughlin",
+              "non_striker": "JS Floros",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JS Floros",
+              "bowler": "B Laughlin",
+              "non_striker": "BR Dunk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JS Floros",
+              "bowler": "B Laughlin",
+              "non_striker": "BR Dunk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "JS Floros",
+              "bowler": "XJ Doherty",
+              "non_striker": "BR Dunk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BR Dunk",
+              "bowler": "XJ Doherty",
+              "non_striker": "JS Floros",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "BR Dunk",
+              "bowler": "XJ Doherty",
+              "non_striker": "JS Floros",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "BR Dunk",
+                  "fielders": [
+                    {
+                      "name": "TR Birt"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "JS Floros",
+              "bowler": "XJ Doherty",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "TD Cruickshank",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "TD Cruickshank",
+              "bowler": "XJ Doherty",
+              "non_striker": "JS Floros",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TD Cruickshank",
+              "bowler": "XJ Doherty",
+              "non_striker": "JS Floros",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "TD Cruickshank",
+              "bowler": "XJ Doherty",
+              "non_striker": "JS Floros",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "JS Floros",
+              "bowler": "Naved-ul-Hasan",
+              "non_striker": "TD Cruickshank",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "lbw",
+                  "player_out": "JS Floros"
+                }
+              ]
+            },
+            {
+              "batter": "SJ Coyte",
+              "bowler": "Naved-ul-Hasan",
+              "non_striker": "TD Cruickshank",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TD Cruickshank",
+              "bowler": "Naved-ul-Hasan",
+              "non_striker": "SJ Coyte",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught and bowled",
+                  "player_out": "TD Cruickshank"
+                }
+              ]
+            },
+            {
+              "batter": "SJ Coyte",
+              "bowler": "Naved-ul-Hasan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "LR Butterworth",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SJ Coyte",
+              "bowler": "Naved-ul-Hasan",
+              "non_striker": "LR Butterworth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "SJ Coyte",
+                  "fielders": [
+                    {
+                      "name": "JJ Krejza"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "LR Butterworth",
+              "bowler": "Naved-ul-Hasan",
+              "non_striker": "FH Edwards",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "FH Edwards",
+              "bowler": "Naved-ul-Hasan",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "LR Butterworth",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Hobart Hurricanes",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "JW Wells",
+              "bowler": "FH Edwards",
+              "non_striker": "PA Jaques",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JW Wells",
+              "bowler": "FH Edwards",
+              "non_striker": "PA Jaques",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PA Jaques",
+              "bowler": "FH Edwards",
+              "non_striker": "JW Wells",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "PA Jaques"
+                }
+              ]
+            },
+            {
+              "batter": "TR Birt",
+              "bowler": "FH Edwards",
+              "non_striker": "JW Wells",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TR Birt",
+              "bowler": "FH Edwards",
+              "non_striker": "JW Wells",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "TR Birt",
+              "bowler": "FH Edwards",
+              "non_striker": "JW Wells",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "JW Wells",
+              "bowler": "LA Doran",
+              "non_striker": "TR Birt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JW Wells",
+              "bowler": "LA Doran",
+              "non_striker": "TR Birt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JW Wells",
+              "bowler": "LA Doran",
+              "non_striker": "TR Birt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JW Wells",
+              "bowler": "LA Doran",
+              "non_striker": "TR Birt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JW Wells",
+              "bowler": "LA Doran",
+              "non_striker": "TR Birt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TR Birt",
+              "bowler": "LA Doran",
+              "non_striker": "JW Wells",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "JW Wells",
+              "bowler": "FH Edwards",
+              "non_striker": "TR Birt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JW Wells",
+              "bowler": "FH Edwards",
+              "non_striker": "TR Birt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TR Birt",
+              "bowler": "FH Edwards",
+              "non_striker": "JW Wells",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "TR Birt",
+              "bowler": "FH Edwards",
+              "non_striker": "JW Wells",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JW Wells",
+              "bowler": "FH Edwards",
+              "non_striker": "TR Birt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TR Birt",
+              "bowler": "FH Edwards",
+              "non_striker": "JW Wells",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "JW Wells",
+              "bowler": "LA Doran",
+              "non_striker": "TR Birt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TR Birt",
+              "bowler": "LA Doran",
+              "non_striker": "JW Wells",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TR Birt",
+              "bowler": "LA Doran",
+              "non_striker": "JW Wells",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "TR Birt",
+              "bowler": "LA Doran",
+              "non_striker": "JW Wells",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JW Wells",
+              "bowler": "LA Doran",
+              "non_striker": "TR Birt",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JW Wells",
+              "bowler": "LA Doran",
+              "non_striker": "TR Birt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "TR Birt",
+              "bowler": "LR Butterworth",
+              "non_striker": "JW Wells",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JW Wells",
+              "bowler": "LR Butterworth",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "TR Birt",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JW Wells",
+              "bowler": "LR Butterworth",
+              "non_striker": "TR Birt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JW Wells",
+              "bowler": "LR Butterworth",
+              "non_striker": "TR Birt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JW Wells",
+              "bowler": "LR Butterworth",
+              "non_striker": "TR Birt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JW Wells",
+              "bowler": "LR Butterworth",
+              "non_striker": "TR Birt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TR Birt",
+              "bowler": "LR Butterworth",
+              "non_striker": "JW Wells",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "TR Birt",
+              "bowler": "CH Gayle",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "JW Wells",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TR Birt",
+              "bowler": "CH Gayle",
+              "non_striker": "JW Wells",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TR Birt",
+              "bowler": "CH Gayle",
+              "non_striker": "JW Wells",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "TR Birt",
+              "bowler": "CH Gayle",
+              "non_striker": "JW Wells",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "TR Birt",
+              "bowler": "CH Gayle",
+              "non_striker": "JW Wells",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JW Wells",
+              "bowler": "CH Gayle",
+              "non_striker": "TR Birt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TR Birt",
+              "bowler": "CH Gayle",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "JW Wells",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TR Birt",
+              "bowler": "CH Gayle",
+              "non_striker": "JW Wells",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "JW Wells",
+              "bowler": "SJ Coyte",
+              "non_striker": "TR Birt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JW Wells",
+              "bowler": "SJ Coyte",
+              "non_striker": "TR Birt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TR Birt",
+              "bowler": "SJ Coyte",
+              "non_striker": "JW Wells",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "lbw",
+                  "player_out": "TR Birt"
+                }
+              ]
+            },
+            {
+              "batter": "OA Shah",
+              "bowler": "SJ Coyte",
+              "non_striker": "JW Wells",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "OA Shah",
+              "bowler": "SJ Coyte",
+              "non_striker": "JW Wells",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "OA Shah",
+              "bowler": "SJ Coyte",
+              "non_striker": "JW Wells",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "OA Shah",
+              "bowler": "SA Abbott",
+              "non_striker": "JW Wells",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "OA Shah",
+              "bowler": "SA Abbott",
+              "non_striker": "JW Wells",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "OA Shah",
+              "bowler": "SA Abbott",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "JW Wells",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "OA Shah",
+              "bowler": "SA Abbott",
+              "non_striker": "JW Wells",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "OA Shah",
+              "bowler": "SA Abbott",
+              "non_striker": "JW Wells",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "OA Shah",
+              "bowler": "SA Abbott",
+              "non_striker": "JW Wells",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "OA Shah",
+              "bowler": "SA Abbott",
+              "non_striker": "JW Wells",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "JW Wells",
+              "bowler": "SJ Coyte",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "OA Shah",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "OA Shah",
+              "bowler": "SJ Coyte",
+              "non_striker": "JW Wells",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "OA Shah",
+              "bowler": "SJ Coyte",
+              "non_striker": "JW Wells",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "OA Shah",
+              "bowler": "SJ Coyte",
+              "non_striker": "JW Wells",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JW Wells",
+              "bowler": "SJ Coyte",
+              "non_striker": "OA Shah",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JW Wells",
+              "bowler": "SJ Coyte",
+              "non_striker": "OA Shah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "OA Shah",
+              "bowler": "SA Abbott",
+              "non_striker": "JW Wells",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JW Wells",
+              "bowler": "SA Abbott",
+              "non_striker": "OA Shah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "OA Shah",
+              "bowler": "SA Abbott",
+              "non_striker": "JW Wells",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "OA Shah",
+              "bowler": "SA Abbott",
+              "non_striker": "JW Wells",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JW Wells",
+              "bowler": "SA Abbott",
+              "non_striker": "OA Shah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JW Wells",
+              "bowler": "SA Abbott",
+              "non_striker": "OA Shah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "OA Shah",
+              "bowler": "LR Butterworth",
+              "non_striker": "JW Wells",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "OA Shah",
+              "bowler": "LR Butterworth",
+              "non_striker": "JW Wells",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "OA Shah",
+              "bowler": "LR Butterworth",
+              "non_striker": "JW Wells",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JW Wells",
+              "bowler": "LR Butterworth",
+              "non_striker": "OA Shah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "OA Shah",
+              "bowler": "LR Butterworth",
+              "non_striker": "JW Wells",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JW Wells",
+              "bowler": "LR Butterworth",
+              "non_striker": "OA Shah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "OA Shah",
+              "bowler": "LA Doran",
+              "non_striker": "JW Wells",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JW Wells",
+              "bowler": "LA Doran",
+              "non_striker": "OA Shah",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JW Wells",
+              "bowler": "LA Doran",
+              "non_striker": "OA Shah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JW Wells",
+              "bowler": "LA Doran",
+              "non_striker": "OA Shah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JW Wells",
+              "bowler": "LA Doran",
+              "non_striker": "OA Shah",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JW Wells",
+              "bowler": "LA Doran",
+              "non_striker": "OA Shah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "JW Wells",
+              "bowler": "FH Edwards",
+              "non_striker": "OA Shah",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "JW Wells",
+              "bowler": "FH Edwards",
+              "non_striker": "OA Shah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JW Wells",
+              "bowler": "FH Edwards",
+              "non_striker": "OA Shah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "JW Wells",
+                  "fielders": [
+                    {
+                      "name": "SA Abbott"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "OA Shah",
+              "bowler": "FH Edwards",
+              "non_striker": "TIF Triffitt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TIF Triffitt",
+              "bowler": "FH Edwards",
+              "non_striker": "OA Shah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TIF Triffitt",
+              "bowler": "FH Edwards",
+              "non_striker": "OA Shah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "TIF Triffitt",
+              "bowler": "SJ Coyte",
+              "non_striker": "OA Shah",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "TIF Triffitt",
+              "bowler": "SJ Coyte",
+              "non_striker": "OA Shah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TIF Triffitt",
+              "bowler": "SJ Coyte",
+              "non_striker": "OA Shah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "OA Shah",
+              "bowler": "SJ Coyte",
+              "non_striker": "TIF Triffitt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TIF Triffitt",
+              "bowler": "SJ Coyte",
+              "non_striker": "OA Shah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TIF Triffitt",
+              "bowler": "SJ Coyte",
+              "non_striker": "OA Shah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "OA Shah",
+              "bowler": "SA Abbott",
+              "non_striker": "TIF Triffitt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TIF Triffitt",
+              "bowler": "SA Abbott",
+              "non_striker": "OA Shah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "OA Shah",
+              "bowler": "SA Abbott",
+              "non_striker": "TIF Triffitt",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "OA Shah",
+              "bowler": "SA Abbott",
+              "non_striker": "TIF Triffitt",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "OA Shah",
+              "bowler": "SA Abbott",
+              "non_striker": "TIF Triffitt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TIF Triffitt",
+              "bowler": "SA Abbott",
+              "non_striker": "OA Shah",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "OA Shah",
+              "bowler": "LR Butterworth",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "TIF Triffitt",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "OA Shah",
+              "bowler": "LR Butterworth",
+              "non_striker": "TIF Triffitt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TIF Triffitt",
+              "bowler": "LR Butterworth",
+              "non_striker": "OA Shah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "OA Shah",
+              "bowler": "LR Butterworth",
+              "non_striker": "TIF Triffitt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TIF Triffitt",
+              "bowler": "LR Butterworth",
+              "non_striker": "OA Shah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "OA Shah",
+              "bowler": "LR Butterworth",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "TIF Triffitt",
+              "runs": {
+                "batter": 1,
+                "extras": 1,
+                "total": 2
+              }
+            },
+            {
+              "batter": "TIF Triffitt",
+              "bowler": "LR Butterworth",
+              "non_striker": "OA Shah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "OA Shah",
+              "bowler": "LR Butterworth",
+              "non_striker": "TIF Triffitt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "TIF Triffitt",
+              "bowler": "FH Edwards",
+              "non_striker": "OA Shah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TIF Triffitt",
+              "bowler": "FH Edwards",
+              "non_striker": "OA Shah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "OA Shah",
+              "bowler": "FH Edwards",
+              "non_striker": "TIF Triffitt",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "OA Shah",
+              "bowler": "FH Edwards",
+              "non_striker": "TIF Triffitt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TIF Triffitt",
+              "bowler": "FH Edwards",
+              "non_striker": "OA Shah",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "TIF Triffitt",
+              "bowler": "FH Edwards",
+              "non_striker": "OA Shah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "TIF Triffitt",
+              "bowler": "SJ Coyte",
+              "non_striker": "OA Shah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "TIF Triffitt",
+                  "fielders": [
+                    {
+                      "name": "CH Gayle"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "RJG Lockyear",
+              "bowler": "SJ Coyte",
+              "non_striker": "OA Shah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RJG Lockyear",
+              "bowler": "SJ Coyte",
+              "non_striker": "OA Shah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RJG Lockyear",
+              "bowler": "SJ Coyte",
+              "non_striker": "OA Shah",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "RJG Lockyear",
+              "bowler": "SJ Coyte",
+              "non_striker": "OA Shah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RJG Lockyear",
+              "bowler": "SJ Coyte",
+              "non_striker": "OA Shah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "RJG Lockyear",
+              "bowler": "LR Butterworth",
+              "non_striker": "OA Shah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "RJG Lockyear",
+                  "fielders": [
+                    {
+                      "name": "BR Dunk"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "MJ Johnston",
+              "bowler": "LR Butterworth",
+              "non_striker": "OA Shah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MJ Johnston",
+              "bowler": "LR Butterworth",
+              "non_striker": "OA Shah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MJ Johnston",
+              "bowler": "LR Butterworth",
+              "non_striker": "OA Shah",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.8,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 139
+      }
+    }
+  ]
+}

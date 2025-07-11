@@ -1,0 +1,910 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2023-02-05",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Hamilton",
+    "dates": [
+      "2023-02-03"
+    ],
+    "event": {
+      "name": "Women's Super Smash",
+      "match_number": 27
+    },
+    "gender": "female",
+    "match_type": "T20",
+    "officials": {
+      "match_referees": [
+        "SRM Morris"
+      ],
+      "reserve_umpires": [
+        "Lui Els"
+      ],
+      "tv_umpires": [
+        "CM Brown"
+      ],
+      "umpires": [
+        "BF Bowden",
+        "DJ Walker"
+      ]
+    },
+    "outcome": {
+      "winner": "Central Districts",
+      "by": {
+        "wickets": 7
+      }
+    },
+    "overs": 20,
+    "players": {
+      "Northern Districts": [
+        "SRH Curtis",
+        "LF Boucher",
+        "A Wellington",
+        "E Wolland",
+        "C Agafili",
+        "NH Patel",
+        "AM Ewart",
+        "MBA Lamplough",
+        "PC Graham",
+        "HE Topp",
+        "CR Sarsfield"
+      ],
+      "Central Districts": [
+        "NC Dodd",
+        "JM Watkin",
+        "GK Atkinson",
+        "RA Mair",
+        "FDM Devonshire",
+        "Ashtuti Kumar",
+        "OJS Bartlett",
+        "EG Cunningham",
+        "PA Chatterji",
+        "CL Green",
+        "KJ Gaging"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Wellington": "9b3bcca4",
+        "AM Ewart": "83b8fa73",
+        "Ashtuti Kumar": "8aa62462",
+        "BF Bowden": "efc0a862",
+        "C Agafili": "b9bb76c8",
+        "CL Green": "0160b1d9",
+        "CM Brown": "448f4f1c",
+        "CR Sarsfield": "66754320",
+        "DJ Walker": "d4aea8ac",
+        "E Wolland": "415c9efb",
+        "EG Cunningham": "ede7bb67",
+        "FDM Devonshire": "c8b0b64c",
+        "GK Atkinson": "add6bd03",
+        "HE Topp": "d9b3ff0a",
+        "JM Watkin": "7239a365",
+        "KJ Gaging": "7a759a8a",
+        "LF Boucher": "51afe432",
+        "Lui Els": "00812511",
+        "MBA Lamplough": "997fffbe",
+        "NC Dodd": "7260e1e9",
+        "NH Patel": "d945db3e",
+        "OJS Bartlett": "fb8c6afa",
+        "PA Chatterji": "8e7be59c",
+        "PC Graham": "b5c83d22",
+        "RA Mair": "d5eb8b84",
+        "SRH Curtis": "aa89a853",
+        "SRM Morris": "74b402c6"
+      }
+    },
+    "season": "2022/23",
+    "team_type": "club",
+    "teams": [
+      "Northern Districts",
+      "Central Districts"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Central Districts"
+    },
+    "venue": "Seddon Park, Hamilton"
+  },
+  "innings": [
+    {
+      "team": "Northern Districts",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "SRH Curtis",
+              "bowler": "RA Mair",
+              "non_striker": "LF Boucher",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LF Boucher",
+              "bowler": "RA Mair",
+              "non_striker": "SRH Curtis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "LF Boucher",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "A Wellington",
+              "bowler": "RA Mair",
+              "non_striker": "SRH Curtis",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "SRH Curtis",
+              "bowler": "RA Mair",
+              "non_striker": "A Wellington",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "A Wellington",
+              "bowler": "RA Mair",
+              "non_striker": "SRH Curtis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "A Wellington",
+                  "fielders": [
+                    {
+                      "name": "GK Atkinson"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "E Wolland",
+              "bowler": "RA Mair",
+              "non_striker": "SRH Curtis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "E Wolland",
+              "bowler": "FDM Devonshire",
+              "non_striker": "SRH Curtis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Wolland",
+              "bowler": "FDM Devonshire",
+              "non_striker": "SRH Curtis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SRH Curtis",
+              "bowler": "FDM Devonshire",
+              "non_striker": "E Wolland",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SRH Curtis",
+              "bowler": "FDM Devonshire",
+              "non_striker": "E Wolland",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SRH Curtis",
+              "bowler": "FDM Devonshire",
+              "non_striker": "E Wolland",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SRH Curtis",
+              "bowler": "FDM Devonshire",
+              "non_striker": "E Wolland",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "SRH Curtis",
+              "bowler": "CL Green",
+              "non_striker": "E Wolland",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Wolland",
+              "bowler": "CL Green",
+              "non_striker": "SRH Curtis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SRH Curtis",
+              "bowler": "CL Green",
+              "non_striker": "E Wolland",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SRH Curtis",
+              "bowler": "CL Green",
+              "non_striker": "E Wolland",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SRH Curtis",
+              "bowler": "CL Green",
+              "non_striker": "E Wolland",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Wolland",
+              "bowler": "CL Green",
+              "non_striker": "SRH Curtis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "E Wolland",
+              "bowler": "Ashtuti Kumar",
+              "non_striker": "SRH Curtis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SRH Curtis",
+              "bowler": "Ashtuti Kumar",
+              "non_striker": "E Wolland",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Wolland",
+              "bowler": "Ashtuti Kumar",
+              "non_striker": "SRH Curtis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Wolland",
+              "bowler": "Ashtuti Kumar",
+              "non_striker": "SRH Curtis",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "E Wolland",
+              "bowler": "Ashtuti Kumar",
+              "non_striker": "SRH Curtis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SRH Curtis",
+              "bowler": "Ashtuti Kumar",
+              "non_striker": "E Wolland",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SRH Curtis",
+                  "fielders": [
+                    {
+                      "name": "EG Cunningham"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "E Wolland",
+              "bowler": "JM Watkin",
+              "non_striker": "C Agafili",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "C Agafili",
+                  "fielders": [
+                    {
+                      "name": "NC Dodd"
+                    },
+                    {
+                      "name": "Ashtuti Kumar"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "NH Patel",
+              "bowler": "JM Watkin",
+              "non_striker": "E Wolland",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Wolland",
+              "bowler": "JM Watkin",
+              "non_striker": "NH Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NH Patel",
+              "bowler": "JM Watkin",
+              "non_striker": "E Wolland",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "NH Patel",
+                  "fielders": [
+                    {
+                      "name": "Ashtuti Kumar"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "AM Ewart",
+              "bowler": "JM Watkin",
+              "non_striker": "E Wolland",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Wolland",
+              "bowler": "JM Watkin",
+              "non_striker": "AM Ewart",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 1.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Central Districts",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "NC Dodd",
+              "bowler": "NH Patel",
+              "non_striker": "JM Watkin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NC Dodd",
+              "bowler": "NH Patel",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "JM Watkin",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JM Watkin",
+              "bowler": "NH Patel",
+              "non_striker": "NC Dodd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "JM Watkin",
+                  "fielders": [
+                    {
+                      "name": "SRH Curtis"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "GK Atkinson",
+              "bowler": "NH Patel",
+              "non_striker": "NC Dodd",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NC Dodd",
+              "bowler": "NH Patel",
+              "non_striker": "GK Atkinson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GK Atkinson",
+              "bowler": "NH Patel",
+              "non_striker": "NC Dodd",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "GK Atkinson",
+              "bowler": "A Wellington",
+              "non_striker": "NC Dodd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "GK Atkinson",
+                  "fielders": [
+                    {
+                      "name": "SRH Curtis"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "RA Mair",
+              "bowler": "A Wellington",
+              "non_striker": "NC Dodd",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NC Dodd",
+              "bowler": "A Wellington",
+              "non_striker": "RA Mair",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NC Dodd",
+              "bowler": "A Wellington",
+              "non_striker": "RA Mair",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "NC Dodd",
+              "bowler": "A Wellington",
+              "non_striker": "RA Mair",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "NC Dodd",
+                  "fielders": [
+                    {
+                      "name": "HE Topp"
+                    }
+                  ],
+                  "kind": "stumped"
+                }
+              ]
+            },
+            {
+              "batter": "FDM Devonshire",
+              "bowler": "A Wellington",
+              "non_striker": "RA Mair",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "RA Mair",
+              "bowler": "LF Boucher",
+              "non_striker": "FDM Devonshire",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "RA Mair",
+              "bowler": "LF Boucher",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "FDM Devonshire",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RA Mair",
+              "bowler": "LF Boucher",
+              "non_striker": "FDM Devonshire",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "RA Mair",
+              "bowler": "LF Boucher",
+              "non_striker": "FDM Devonshire",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "FDM Devonshire",
+              "bowler": "LF Boucher",
+              "non_striker": "RA Mair",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RA Mair",
+              "bowler": "LF Boucher",
+              "non_striker": "FDM Devonshire",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "FDM Devonshire",
+              "bowler": "LF Boucher",
+              "non_striker": "RA Mair",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "FDM Devonshire",
+              "bowler": "PC Graham",
+              "non_striker": "RA Mair",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "FDM Devonshire",
+              "bowler": "PC Graham",
+              "non_striker": "RA Mair",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "FDM Devonshire",
+              "bowler": "PC Graham",
+              "non_striker": "RA Mair",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "FDM Devonshire",
+              "bowler": "PC Graham",
+              "non_striker": "RA Mair",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "FDM Devonshire",
+              "bowler": "PC Graham",
+              "non_striker": "RA Mair",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "FDM Devonshire",
+              "bowler": "PC Graham",
+              "non_striker": "RA Mair",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "FDM Devonshire",
+              "bowler": "MBA Lamplough",
+              "non_striker": "RA Mair",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "FDM Devonshire",
+              "bowler": "MBA Lamplough",
+              "non_striker": "RA Mair",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RA Mair",
+              "bowler": "MBA Lamplough",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "FDM Devonshire",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RA Mair",
+              "bowler": "MBA Lamplough",
+              "non_striker": "FDM Devonshire",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "FDM Devonshire",
+              "bowler": "MBA Lamplough",
+              "non_striker": "RA Mair",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "FDM Devonshire",
+              "bowler": "MBA Lamplough",
+              "non_striker": "RA Mair",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "FDM Devonshire",
+              "bowler": "MBA Lamplough",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "RA Mair",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 1.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 5,
+        "runs": 39
+      }
+    }
+  ]
+}

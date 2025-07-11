@@ -1,0 +1,926 @@
+{
+  "meta": {
+    "data_version": "1.0.0",
+    "created": "2014-10-02",
+    "revision": 2
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Incheon",
+    "dates": [
+      "2014-10-02"
+    ],
+    "event": {
+      "name": "Asian Games Men's Cricket Competition",
+      "stage": "Semi Final"
+    },
+    "gender": "male",
+    "match_type": "IT20",
+    "missing": [
+      "player_of_match"
+    ],
+    "officials": {
+      "match_referees": [
+        "SLV Raju"
+      ],
+      "reserve_umpires": [
+        "Riaz Chaudhry"
+      ],
+      "umpires": [
+        "Sarika Prasad",
+        "B Ramani"
+      ]
+    },
+    "outcome": {
+      "result": "no result"
+    },
+    "overs": 20,
+    "players": {
+      "Bangladesh": [
+        "Tamim Iqbal",
+        "Anamul Haque",
+        "Mohammad Mithun",
+        "Shakib Al Hasan",
+        "Sabbir Rahman",
+        "Shuvagata Hom",
+        "Mashrafe Mortaza",
+        "Arafat Sunny",
+        "Mahmudullah",
+        "Rubel Hossain",
+        "Ziaur Rahman"
+      ],
+      "Sri Lanka": [
+        "WU Tharanga",
+        "LD Chandimal",
+        "HDRL Thirimanne",
+        "BMAJ Mendis",
+        "LHD Dilhara",
+        "RLB Rambukwella",
+        "CKB Kulasekara",
+        "KDK Vithanage",
+        "I Udana",
+        "PC de Silva",
+        "SMA Priyanjan"
+      ]
+    },
+    "registry": {
+      "people": {
+        "Anamul Haque": "72b245dd",
+        "Arafat Sunny": "1f7adc8a",
+        "B Ramani": "92ad5353",
+        "BMAJ Mendis": "9868bc75",
+        "CKB Kulasekara": "5c5a8c1f",
+        "HDRL Thirimanne": "c5928dec",
+        "I Udana": "ac5ae4af",
+        "KDK Vithanage": "f3bde2b3",
+        "LD Chandimal": "8dd02a98",
+        "LHD Dilhara": "30b60511",
+        "Mahmudullah": "bf1d7d3e",
+        "Mashrafe Mortaza": "e186f49c",
+        "Mohammad Mithun": "77191792",
+        "PC de Silva": "b40ee8a8",
+        "RLB Rambukwella": "5a892f36",
+        "Riaz Chaudhry": "3f6d9c7f",
+        "Rubel Hossain": "f56cd097",
+        "SLV Raju": "56ee86ce",
+        "SMA Priyanjan": "fec50c96",
+        "Sabbir Rahman": "7147f314",
+        "Sarika Prasad": "8ff397fa",
+        "Shakib Al Hasan": "7dc35884",
+        "Shuvagata Hom": "bb01f9e0",
+        "Tamim Iqbal": "3b041a12",
+        "WU Tharanga": "7ed9fd56",
+        "Ziaur Rahman": "c27518d2"
+      }
+    },
+    "season": "2014/15",
+    "team_type": "international",
+    "teams": [
+      "Bangladesh",
+      "Sri Lanka"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Sri Lanka"
+    },
+    "venue": "Yeonhui Cricket Ground"
+  },
+  "innings": [
+    {
+      "team": "Bangladesh",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Tamim Iqbal",
+              "bowler": "LHD Dilhara",
+              "non_striker": "Anamul Haque",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Tamim Iqbal",
+              "bowler": "LHD Dilhara",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Anamul Haque",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Anamul Haque",
+              "bowler": "LHD Dilhara",
+              "non_striker": "Tamim Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Anamul Haque",
+                  "fielders": [
+                    {
+                      "name": "RLB Rambukwella"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "Mohammad Mithun",
+              "bowler": "LHD Dilhara",
+              "non_striker": "Tamim Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Mithun",
+              "bowler": "LHD Dilhara",
+              "non_striker": "Tamim Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Mithun",
+              "bowler": "LHD Dilhara",
+              "non_striker": "Tamim Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Tamim Iqbal",
+              "bowler": "I Udana",
+              "non_striker": "Mohammad Mithun",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Tamim Iqbal",
+              "bowler": "I Udana",
+              "non_striker": "Mohammad Mithun",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Tamim Iqbal",
+              "bowler": "I Udana",
+              "non_striker": "Mohammad Mithun",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Tamim Iqbal",
+              "bowler": "I Udana",
+              "non_striker": "Mohammad Mithun",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Tamim Iqbal",
+              "bowler": "I Udana",
+              "non_striker": "Mohammad Mithun",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Tamim Iqbal",
+              "bowler": "I Udana",
+              "non_striker": "Mohammad Mithun",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Tamim Iqbal",
+              "bowler": "LHD Dilhara",
+              "non_striker": "Mohammad Mithun",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Tamim Iqbal",
+              "bowler": "LHD Dilhara",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Mohammad Mithun",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Mithun",
+              "bowler": "LHD Dilhara",
+              "non_striker": "Tamim Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "Mohammad Mithun"
+                }
+              ]
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "LHD Dilhara",
+              "non_striker": "Tamim Iqbal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Tamim Iqbal",
+              "bowler": "LHD Dilhara",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "LHD Dilhara",
+              "non_striker": "Tamim Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Tamim Iqbal",
+              "bowler": "I Udana",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "I Udana",
+              "non_striker": "Tamim Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Shakib Al Hasan",
+                  "fielders": [
+                    {
+                      "name": "KDK Vithanage"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "Tamim Iqbal",
+              "bowler": "I Udana",
+              "non_striker": "Sabbir Rahman",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Tamim Iqbal",
+              "bowler": "I Udana",
+              "non_striker": "Sabbir Rahman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Tamim Iqbal",
+              "bowler": "I Udana",
+              "non_striker": "Sabbir Rahman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sabbir Rahman",
+              "bowler": "I Udana",
+              "non_striker": "Tamim Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Tamim Iqbal",
+              "bowler": "CKB Kulasekara",
+              "non_striker": "Sabbir Rahman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sabbir Rahman",
+              "bowler": "CKB Kulasekara",
+              "non_striker": "Tamim Iqbal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Tamim Iqbal",
+              "bowler": "CKB Kulasekara",
+              "non_striker": "Sabbir Rahman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sabbir Rahman",
+              "bowler": "CKB Kulasekara",
+              "non_striker": "Tamim Iqbal",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Sabbir Rahman",
+              "bowler": "CKB Kulasekara",
+              "non_striker": "Tamim Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sabbir Rahman",
+              "bowler": "CKB Kulasekara",
+              "non_striker": "Tamim Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Tamim Iqbal",
+              "bowler": "I Udana",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Sabbir Rahman",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Tamim Iqbal",
+              "bowler": "I Udana",
+              "non_striker": "Sabbir Rahman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sabbir Rahman",
+              "bowler": "I Udana",
+              "non_striker": "Tamim Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sabbir Rahman",
+              "bowler": "I Udana",
+              "non_striker": "Tamim Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sabbir Rahman",
+              "bowler": "I Udana",
+              "non_striker": "Tamim Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sabbir Rahman",
+              "bowler": "I Udana",
+              "non_striker": "Tamim Iqbal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Tamim Iqbal",
+              "bowler": "I Udana",
+              "non_striker": "Sabbir Rahman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Sabbir Rahman",
+              "bowler": "RLB Rambukwella",
+              "non_striker": "Tamim Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sabbir Rahman",
+              "bowler": "RLB Rambukwella",
+              "non_striker": "Tamim Iqbal",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Sabbir Rahman",
+              "bowler": "RLB Rambukwella",
+              "non_striker": "Tamim Iqbal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Tamim Iqbal",
+              "bowler": "RLB Rambukwella",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Sabbir Rahman",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Tamim Iqbal",
+              "bowler": "RLB Rambukwella",
+              "non_striker": "Sabbir Rahman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sabbir Rahman",
+              "bowler": "RLB Rambukwella",
+              "non_striker": "Tamim Iqbal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Tamim Iqbal",
+              "bowler": "RLB Rambukwella",
+              "non_striker": "Sabbir Rahman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Tamim Iqbal",
+              "bowler": "CKB Kulasekara",
+              "non_striker": "Sabbir Rahman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sabbir Rahman",
+              "bowler": "CKB Kulasekara",
+              "non_striker": "Tamim Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sabbir Rahman",
+              "bowler": "CKB Kulasekara",
+              "non_striker": "Tamim Iqbal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Tamim Iqbal",
+              "bowler": "CKB Kulasekara",
+              "non_striker": "Sabbir Rahman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Tamim Iqbal",
+              "bowler": "CKB Kulasekara",
+              "non_striker": "Sabbir Rahman",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Tamim Iqbal",
+              "bowler": "CKB Kulasekara",
+              "non_striker": "Sabbir Rahman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "Sabbir Rahman",
+              "bowler": "RLB Rambukwella",
+              "non_striker": "Tamim Iqbal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Tamim Iqbal",
+              "bowler": "RLB Rambukwella",
+              "non_striker": "Sabbir Rahman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Tamim Iqbal",
+              "bowler": "RLB Rambukwella",
+              "non_striker": "Sabbir Rahman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sabbir Rahman",
+              "bowler": "RLB Rambukwella",
+              "non_striker": "Tamim Iqbal",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Sabbir Rahman",
+              "bowler": "RLB Rambukwella",
+              "non_striker": "Tamim Iqbal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Tamim Iqbal",
+              "bowler": "RLB Rambukwella",
+              "non_striker": "Sabbir Rahman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "Sabbir Rahman",
+              "bowler": "BMAJ Mendis",
+              "non_striker": "Tamim Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sabbir Rahman",
+              "bowler": "BMAJ Mendis",
+              "non_striker": "Tamim Iqbal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Tamim Iqbal",
+              "bowler": "BMAJ Mendis",
+              "non_striker": "Sabbir Rahman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sabbir Rahman",
+              "bowler": "BMAJ Mendis",
+              "non_striker": "Tamim Iqbal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Tamim Iqbal",
+              "bowler": "BMAJ Mendis",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Sabbir Rahman",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Tamim Iqbal",
+              "bowler": "BMAJ Mendis",
+              "non_striker": "Sabbir Rahman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sabbir Rahman",
+              "bowler": "BMAJ Mendis",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Tamim Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "Sabbir Rahman",
+              "bowler": "CKB Kulasekara",
+              "non_striker": "Tamim Iqbal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Tamim Iqbal",
+              "bowler": "CKB Kulasekara",
+              "non_striker": "Sabbir Rahman",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Tamim Iqbal",
+              "bowler": "CKB Kulasekara",
+              "non_striker": "Sabbir Rahman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sabbir Rahman",
+              "bowler": "CKB Kulasekara",
+              "non_striker": "Tamim Iqbal",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Sabbir Rahman",
+              "bowler": "CKB Kulasekara",
+              "non_striker": "Tamim Iqbal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Tamim Iqbal",
+              "bowler": "CKB Kulasekara",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Sabbir Rahman",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Tamim Iqbal",
+              "bowler": "CKB Kulasekara",
+              "non_striker": "Sabbir Rahman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.7,
+          "type": "mandatory"
+        }
+      ]
+    }
+  ]
+}
