@@ -1,0 +1,3277 @@
+{
+  "meta": {
+    "data_version": "1.0.0",
+    "created": "2016-08-31",
+    "revision": 3
+  },
+  "info": {
+    "balls_per_over": 6,
+    "dates": [
+      "2016-08-28"
+    ],
+    "event": {
+      "match_number": 3,
+      "name": "Saudari Cup"
+    },
+    "gender": "female",
+    "match_type": "IT20",
+    "missing": [
+      "player_of_match"
+    ],
+    "officials": {
+      "umpires": [
+        "Suharril Fetri",
+        "M Syahadat Ramli"
+      ]
+    },
+    "outcome": {
+      "by": {
+        "runs": 16
+      },
+      "winner": "Malaysia"
+    },
+    "overs": 20,
+    "players": {
+      "Malaysia": [
+        "Emylia Eliani",
+        "Christina Baret",
+        "Zumika Azmi",
+        "WA Duraisingam",
+        "Sasha Azmi",
+        "DI Chunan",
+        "Noor Hayati Zakaria",
+        "Nur Aishah",
+        "Jannadiah Halim",
+        "Yusrina Yaakop",
+        "Mahirah Izzati Ismail"
+      ],
+      "Singapore": [
+        "Kashish Agarwal",
+        "NA Pratt",
+        "GK Diviya",
+        "Ankita Ved",
+        "Samantha Singham",
+        "Vathana Sreemurugavel",
+        "T Sen",
+        "V Pasupathy",
+        "RR Seth",
+        "Shafina Mahesh",
+        "Smruthi Radhakrishnan"
+      ]
+    },
+    "registry": {
+      "people": {
+        "Ankita Ved": "691e535a",
+        "Christina Baret": "b42d42b1",
+        "DI Chunan": "a009fb86",
+        "Emylia Eliani": "841d07cc",
+        "GK Diviya": "992979fa",
+        "Jannadiah Halim": "eaf4f81c",
+        "Kashish Agarwal": "1d3f9a1e",
+        "M Syahadat Ramli": "5efa8af3",
+        "Mahirah Izzati Ismail": "b9b32e3c",
+        "NA Pratt": "0785b683",
+        "Noor Hayati Zakaria": "31382975",
+        "Nur Aishah": "f7301b56",
+        "RR Seth": "7ccc0a38",
+        "Samantha Singham": "ee08063a",
+        "Sasha Azmi": "9e4f6851",
+        "Shafina Mahesh": "0c40b02d",
+        "Smruthi Radhakrishnan": "9ef019c5",
+        "Suharril Fetri": "a96938ba",
+        "T Sen": "5d1c84b8",
+        "V Pasupathy": "8b002990",
+        "Vathana Sreemurugavel": "eb2d1983",
+        "WA Duraisingam": "7467fe01",
+        "Yusrina Yaakop": "c74d14f1",
+        "Zumika Azmi": "d35c1fc7"
+      }
+    },
+    "season": 2016,
+    "team_type": "international",
+    "teams": [
+      "Malaysia",
+      "Singapore"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "Malaysia"
+    },
+    "venue": "Johor Cricket Academy Oval"
+  },
+  "innings": [
+    {
+      "team": "Malaysia",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Emylia Eliani",
+              "bowler": "Kashish Agarwal",
+              "non_striker": "Christina Baret",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Emylia Eliani",
+              "bowler": "Kashish Agarwal",
+              "non_striker": "Christina Baret",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Emylia Eliani",
+              "bowler": "Kashish Agarwal",
+              "non_striker": "Christina Baret",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Emylia Eliani",
+                  "fielders": [
+                    {
+                      "name": "V Pasupathy"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "Zumika Azmi",
+              "bowler": "Kashish Agarwal",
+              "non_striker": "Christina Baret",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zumika Azmi",
+              "bowler": "Kashish Agarwal",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Christina Baret",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zumika Azmi",
+              "bowler": "Kashish Agarwal",
+              "non_striker": "Christina Baret",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zumika Azmi",
+              "bowler": "Kashish Agarwal",
+              "non_striker": "Christina Baret",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Christina Baret",
+              "bowler": "GK Diviya",
+              "non_striker": "Zumika Azmi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Christina Baret",
+              "bowler": "GK Diviya",
+              "non_striker": "Zumika Azmi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Christina Baret",
+              "bowler": "GK Diviya",
+              "non_striker": "Zumika Azmi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Christina Baret",
+              "bowler": "GK Diviya",
+              "non_striker": "Zumika Azmi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Christina Baret",
+              "bowler": "GK Diviya",
+              "non_striker": "Zumika Azmi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Christina Baret",
+              "bowler": "GK Diviya",
+              "non_striker": "Zumika Azmi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Zumika Azmi",
+              "bowler": "Kashish Agarwal",
+              "non_striker": "Christina Baret",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Christina Baret",
+              "bowler": "Kashish Agarwal",
+              "non_striker": "Zumika Azmi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Christina Baret",
+              "bowler": "Kashish Agarwal",
+              "non_striker": "Zumika Azmi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zumika Azmi",
+              "bowler": "Kashish Agarwal",
+              "non_striker": "Christina Baret",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zumika Azmi",
+              "bowler": "Kashish Agarwal",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Christina Baret",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zumika Azmi",
+              "bowler": "Kashish Agarwal",
+              "non_striker": "Christina Baret",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Christina Baret",
+              "bowler": "Kashish Agarwal",
+              "non_striker": "Zumika Azmi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Zumika Azmi",
+              "bowler": "GK Diviya",
+              "non_striker": "Christina Baret",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zumika Azmi",
+              "bowler": "GK Diviya",
+              "non_striker": "Christina Baret",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Zumika Azmi",
+              "bowler": "GK Diviya",
+              "non_striker": "Christina Baret",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Zumika Azmi",
+              "bowler": "GK Diviya",
+              "non_striker": "Christina Baret",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "run out",
+                  "player_out": "Zumika Azmi",
+                  "fielders": [
+                    {
+                      "name": "Samantha Singham"
+                    },
+                    {
+                      "name": "GK Diviya"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "Christina Baret",
+              "bowler": "GK Diviya",
+              "non_striker": "WA Duraisingam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Christina Baret",
+              "bowler": "GK Diviya",
+              "non_striker": "WA Duraisingam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "WA Duraisingam",
+              "bowler": "T Sen",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Christina Baret",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "WA Duraisingam",
+              "bowler": "T Sen",
+              "non_striker": "Christina Baret",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "WA Duraisingam",
+              "bowler": "T Sen",
+              "non_striker": "Christina Baret",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "WA Duraisingam",
+              "bowler": "T Sen",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Christina Baret",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "WA Duraisingam",
+              "bowler": "T Sen",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Christina Baret",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "WA Duraisingam",
+              "bowler": "T Sen",
+              "non_striker": "Christina Baret",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "WA Duraisingam",
+                  "fielders": [
+                    {
+                      "name": "Samantha Singham"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "Sasha Azmi",
+              "bowler": "T Sen",
+              "non_striker": "Christina Baret",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Christina Baret",
+              "bowler": "T Sen",
+              "non_striker": "Sasha Azmi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Christina Baret",
+              "bowler": "T Sen",
+              "non_striker": "Sasha Azmi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Sasha Azmi",
+              "bowler": "Smruthi Radhakrishnan",
+              "non_striker": "Christina Baret",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sasha Azmi",
+              "bowler": "Smruthi Radhakrishnan",
+              "non_striker": "Christina Baret",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Christina Baret",
+              "bowler": "Smruthi Radhakrishnan",
+              "non_striker": "Sasha Azmi",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "Sasha Azmi",
+              "bowler": "Smruthi Radhakrishnan",
+              "non_striker": "Christina Baret",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Sasha Azmi",
+              "bowler": "Smruthi Radhakrishnan",
+              "non_striker": "Christina Baret",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Christina Baret",
+              "bowler": "Smruthi Radhakrishnan",
+              "non_striker": "Sasha Azmi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Sasha Azmi",
+              "bowler": "T Sen",
+              "non_striker": "Christina Baret",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sasha Azmi",
+              "bowler": "T Sen",
+              "non_striker": "Christina Baret",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sasha Azmi",
+              "bowler": "T Sen",
+              "non_striker": "Christina Baret",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Sasha Azmi",
+              "bowler": "T Sen",
+              "non_striker": "Christina Baret",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sasha Azmi",
+              "bowler": "T Sen",
+              "non_striker": "Christina Baret",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Sasha Azmi",
+              "bowler": "T Sen",
+              "non_striker": "Christina Baret",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Christina Baret",
+              "bowler": "Smruthi Radhakrishnan",
+              "non_striker": "Sasha Azmi",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "Sasha Azmi",
+              "bowler": "Smruthi Radhakrishnan",
+              "non_striker": "Christina Baret",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sasha Azmi",
+              "bowler": "Smruthi Radhakrishnan",
+              "non_striker": "Christina Baret",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sasha Azmi",
+              "bowler": "Smruthi Radhakrishnan",
+              "non_striker": "Christina Baret",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Christina Baret",
+              "bowler": "Smruthi Radhakrishnan",
+              "non_striker": "Sasha Azmi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sasha Azmi",
+              "bowler": "Smruthi Radhakrishnan",
+              "non_striker": "Christina Baret",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "Christina Baret",
+              "bowler": "Samantha Singham",
+              "non_striker": "Sasha Azmi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Christina Baret",
+              "bowler": "Samantha Singham",
+              "non_striker": "Sasha Azmi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Christina Baret",
+              "bowler": "Samantha Singham",
+              "non_striker": "Sasha Azmi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sasha Azmi",
+              "bowler": "Samantha Singham",
+              "non_striker": "Christina Baret",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Sasha Azmi",
+              "bowler": "Samantha Singham",
+              "non_striker": "Christina Baret",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sasha Azmi",
+              "bowler": "Samantha Singham",
+              "non_striker": "Christina Baret",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "Sasha Azmi",
+              "bowler": "RR Seth",
+              "non_striker": "Christina Baret",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sasha Azmi",
+              "bowler": "RR Seth",
+              "non_striker": "Christina Baret",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Sasha Azmi",
+              "bowler": "RR Seth",
+              "non_striker": "Christina Baret",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Sasha Azmi",
+              "bowler": "RR Seth",
+              "non_striker": "Christina Baret",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Sasha Azmi",
+              "bowler": "RR Seth",
+              "non_striker": "Christina Baret",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Christina Baret",
+              "bowler": "RR Seth",
+              "non_striker": "Sasha Azmi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "Christina Baret",
+              "bowler": "Samantha Singham",
+              "non_striker": "Sasha Azmi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Christina Baret",
+              "bowler": "Samantha Singham",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Sasha Azmi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Christina Baret",
+              "bowler": "Samantha Singham",
+              "non_striker": "Sasha Azmi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Christina Baret",
+              "bowler": "Samantha Singham",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Sasha Azmi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Christina Baret",
+              "bowler": "Samantha Singham",
+              "non_striker": "Sasha Azmi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Christina Baret",
+              "bowler": "Samantha Singham",
+              "non_striker": "Sasha Azmi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Christina Baret",
+              "bowler": "Samantha Singham",
+              "non_striker": "Sasha Azmi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Christina Baret",
+              "bowler": "Samantha Singham",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "Sasha Azmi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "Christina Baret",
+              "bowler": "Smruthi Radhakrishnan",
+              "non_striker": "Sasha Azmi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Christina Baret",
+              "bowler": "Smruthi Radhakrishnan",
+              "non_striker": "Sasha Azmi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Christina Baret",
+              "bowler": "Smruthi Radhakrishnan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Sasha Azmi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Christina Baret",
+              "bowler": "Smruthi Radhakrishnan",
+              "non_striker": "Sasha Azmi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Christina Baret",
+              "bowler": "Smruthi Radhakrishnan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Sasha Azmi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Christina Baret",
+              "bowler": "Smruthi Radhakrishnan",
+              "non_striker": "Sasha Azmi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sasha Azmi",
+              "bowler": "Smruthi Radhakrishnan",
+              "non_striker": "Christina Baret",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sasha Azmi",
+              "bowler": "Smruthi Radhakrishnan",
+              "non_striker": "Christina Baret",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "Christina Baret",
+              "bowler": "Kashish Agarwal",
+              "non_striker": "Sasha Azmi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Christina Baret",
+              "bowler": "Kashish Agarwal",
+              "non_striker": "Sasha Azmi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Christina Baret",
+                  "fielders": [
+                    {
+                      "name": "Ankita Ved"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "DI Chunan",
+              "bowler": "Kashish Agarwal",
+              "non_striker": "Sasha Azmi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DI Chunan",
+              "bowler": "Kashish Agarwal",
+              "non_striker": "Sasha Azmi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DI Chunan",
+              "bowler": "Kashish Agarwal",
+              "non_striker": "Sasha Azmi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "DI Chunan",
+              "bowler": "Kashish Agarwal",
+              "non_striker": "Sasha Azmi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "Sasha Azmi",
+              "bowler": "GK Diviya",
+              "non_striker": "DI Chunan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sasha Azmi",
+              "bowler": "GK Diviya",
+              "non_striker": "DI Chunan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DI Chunan",
+              "bowler": "GK Diviya",
+              "non_striker": "Sasha Azmi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DI Chunan",
+              "bowler": "GK Diviya",
+              "non_striker": "Sasha Azmi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DI Chunan",
+              "bowler": "GK Diviya",
+              "non_striker": "Sasha Azmi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DI Chunan",
+              "bowler": "GK Diviya",
+              "non_striker": "Sasha Azmi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "Sasha Azmi",
+              "bowler": "RR Seth",
+              "non_striker": "DI Chunan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Sasha Azmi",
+              "bowler": "RR Seth",
+              "non_striker": "DI Chunan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sasha Azmi",
+              "bowler": "RR Seth",
+              "non_striker": "DI Chunan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Sasha Azmi",
+              "bowler": "RR Seth",
+              "non_striker": "DI Chunan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sasha Azmi",
+              "bowler": "RR Seth",
+              "non_striker": "DI Chunan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sasha Azmi",
+              "bowler": "RR Seth",
+              "non_striker": "DI Chunan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "DI Chunan",
+              "bowler": "Samantha Singham",
+              "non_striker": "Sasha Azmi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "DI Chunan",
+              "bowler": "Samantha Singham",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Sasha Azmi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DI Chunan",
+              "bowler": "Samantha Singham",
+              "non_striker": "Sasha Azmi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "non_boundary": true,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DI Chunan",
+              "bowler": "Samantha Singham",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Sasha Azmi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DI Chunan",
+              "bowler": "Samantha Singham",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Sasha Azmi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DI Chunan",
+              "bowler": "Samantha Singham",
+              "non_striker": "Sasha Azmi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sasha Azmi",
+              "bowler": "Samantha Singham",
+              "non_striker": "DI Chunan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DI Chunan",
+              "bowler": "Samantha Singham",
+              "non_striker": "Sasha Azmi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sasha Azmi",
+              "bowler": "Samantha Singham",
+              "non_striker": "DI Chunan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "DI Chunan",
+              "bowler": "Smruthi Radhakrishnan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Sasha Azmi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DI Chunan",
+              "bowler": "Smruthi Radhakrishnan",
+              "non_striker": "Sasha Azmi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DI Chunan",
+              "bowler": "Smruthi Radhakrishnan",
+              "non_striker": "Sasha Azmi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sasha Azmi",
+              "bowler": "Smruthi Radhakrishnan",
+              "non_striker": "DI Chunan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DI Chunan",
+              "bowler": "Smruthi Radhakrishnan",
+              "non_striker": "Sasha Azmi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DI Chunan",
+              "bowler": "Smruthi Radhakrishnan",
+              "non_striker": "Sasha Azmi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "DI Chunan",
+              "bowler": "Smruthi Radhakrishnan",
+              "non_striker": "Sasha Azmi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "stumped",
+                  "player_out": "DI Chunan",
+                  "fielders": [
+                    {
+                      "name": "Ankita Ved"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "Sasha Azmi",
+              "bowler": "T Sen",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Noor Hayati Zakaria",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sasha Azmi",
+              "bowler": "T Sen",
+              "non_striker": "Noor Hayati Zakaria",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Sasha Azmi",
+              "bowler": "T Sen",
+              "non_striker": "Noor Hayati Zakaria",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sasha Azmi",
+              "bowler": "T Sen",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Noor Hayati Zakaria",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sasha Azmi",
+              "bowler": "T Sen",
+              "non_striker": "Noor Hayati Zakaria",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sasha Azmi",
+              "bowler": "T Sen",
+              "non_striker": "Noor Hayati Zakaria",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Noor Hayati Zakaria",
+              "bowler": "T Sen",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Sasha Azmi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Noor Hayati Zakaria",
+              "bowler": "T Sen",
+              "non_striker": "Sasha Azmi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Noor Hayati Zakaria",
+              "bowler": "T Sen",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Sasha Azmi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Noor Hayati Zakaria",
+              "bowler": "T Sen",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Sasha Azmi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Noor Hayati Zakaria",
+              "bowler": "T Sen",
+              "non_striker": "Sasha Azmi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "Sasha Azmi",
+              "bowler": "Kashish Agarwal",
+              "non_striker": "Noor Hayati Zakaria",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sasha Azmi",
+              "bowler": "Kashish Agarwal",
+              "non_striker": "Noor Hayati Zakaria",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Sasha Azmi",
+              "bowler": "Kashish Agarwal",
+              "non_striker": "Noor Hayati Zakaria",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Sasha Azmi",
+              "bowler": "Kashish Agarwal",
+              "non_striker": "Noor Hayati Zakaria",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Sasha Azmi",
+              "bowler": "Kashish Agarwal",
+              "non_striker": "Noor Hayati Zakaria",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "lbw",
+                  "player_out": "Sasha Azmi"
+                }
+              ]
+            },
+            {
+              "batter": "Nur Aishah",
+              "bowler": "Kashish Agarwal",
+              "non_striker": "Noor Hayati Zakaria",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "Nur Aishah",
+              "bowler": "GK Diviya",
+              "non_striker": "Noor Hayati Zakaria",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Noor Hayati Zakaria",
+              "bowler": "GK Diviya",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Nur Aishah",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Noor Hayati Zakaria",
+              "bowler": "GK Diviya",
+              "non_striker": "Nur Aishah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Noor Hayati Zakaria",
+              "bowler": "GK Diviya",
+              "non_striker": "Nur Aishah",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Noor Hayati Zakaria",
+              "bowler": "GK Diviya",
+              "non_striker": "Nur Aishah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Noor Hayati Zakaria",
+              "bowler": "GK Diviya",
+              "non_striker": "Nur Aishah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Noor Hayati Zakaria",
+              "bowler": "GK Diviya",
+              "non_striker": "Nur Aishah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Singapore",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Kashish Agarwal",
+              "bowler": "WA Duraisingam",
+              "non_striker": "NA Pratt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NA Pratt",
+              "bowler": "WA Duraisingam",
+              "non_striker": "Kashish Agarwal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NA Pratt",
+              "bowler": "WA Duraisingam",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Kashish Agarwal",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NA Pratt",
+              "bowler": "WA Duraisingam",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "Kashish Agarwal",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Kashish Agarwal",
+              "bowler": "WA Duraisingam",
+              "non_striker": "NA Pratt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NA Pratt",
+              "bowler": "WA Duraisingam",
+              "non_striker": "Kashish Agarwal",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "Kashish Agarwal",
+              "bowler": "WA Duraisingam",
+              "non_striker": "NA Pratt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Kashish Agarwal",
+              "bowler": "Noor Hayati Zakaria",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "NA Pratt",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Kashish Agarwal",
+              "bowler": "Noor Hayati Zakaria",
+              "non_striker": "NA Pratt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Kashish Agarwal",
+              "bowler": "Noor Hayati Zakaria",
+              "non_striker": "NA Pratt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NA Pratt",
+              "bowler": "Noor Hayati Zakaria",
+              "non_striker": "Kashish Agarwal",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "NA Pratt",
+              "bowler": "Noor Hayati Zakaria",
+              "non_striker": "Kashish Agarwal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NA Pratt",
+              "bowler": "Noor Hayati Zakaria",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Kashish Agarwal",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NA Pratt",
+              "bowler": "Noor Hayati Zakaria",
+              "non_striker": "Kashish Agarwal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NA Pratt",
+              "bowler": "Noor Hayati Zakaria",
+              "non_striker": "Kashish Agarwal",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Kashish Agarwal",
+              "bowler": "WA Duraisingam",
+              "non_striker": "NA Pratt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NA Pratt",
+              "bowler": "WA Duraisingam",
+              "non_striker": "Kashish Agarwal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NA Pratt",
+              "bowler": "WA Duraisingam",
+              "non_striker": "Kashish Agarwal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Kashish Agarwal",
+              "bowler": "WA Duraisingam",
+              "non_striker": "NA Pratt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NA Pratt",
+              "bowler": "WA Duraisingam",
+              "non_striker": "Kashish Agarwal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NA Pratt",
+              "bowler": "WA Duraisingam",
+              "non_striker": "Kashish Agarwal",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Kashish Agarwal",
+              "bowler": "Mahirah Izzati Ismail",
+              "non_striker": "NA Pratt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NA Pratt",
+              "bowler": "Mahirah Izzati Ismail",
+              "non_striker": "Kashish Agarwal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Kashish Agarwal",
+              "bowler": "Mahirah Izzati Ismail",
+              "non_striker": "NA Pratt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Kashish Agarwal",
+              "bowler": "Mahirah Izzati Ismail",
+              "non_striker": "NA Pratt",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Kashish Agarwal",
+              "bowler": "Mahirah Izzati Ismail",
+              "non_striker": "NA Pratt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Kashish Agarwal",
+              "bowler": "Mahirah Izzati Ismail",
+              "non_striker": "NA Pratt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Kashish Agarwal",
+              "bowler": "Zumika Azmi",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "NA Pratt",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Kashish Agarwal",
+              "bowler": "Zumika Azmi",
+              "non_striker": "NA Pratt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Kashish Agarwal",
+              "bowler": "Zumika Azmi",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "NA Pratt",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Kashish Agarwal",
+              "bowler": "Zumika Azmi",
+              "non_striker": "NA Pratt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Kashish Agarwal",
+              "bowler": "Zumika Azmi",
+              "non_striker": "NA Pratt",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Kashish Agarwal",
+              "bowler": "Zumika Azmi",
+              "non_striker": "NA Pratt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Kashish Agarwal",
+              "bowler": "Zumika Azmi",
+              "non_striker": "NA Pratt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NA Pratt",
+              "bowler": "Zumika Azmi",
+              "non_striker": "Kashish Agarwal",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Kashish Agarwal",
+              "bowler": "Mahirah Izzati Ismail",
+              "non_striker": "NA Pratt",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Kashish Agarwal",
+              "bowler": "Mahirah Izzati Ismail",
+              "non_striker": "NA Pratt",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Kashish Agarwal",
+              "bowler": "Mahirah Izzati Ismail",
+              "non_striker": "NA Pratt",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Kashish Agarwal",
+              "bowler": "Mahirah Izzati Ismail",
+              "non_striker": "NA Pratt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NA Pratt",
+              "bowler": "Mahirah Izzati Ismail",
+              "non_striker": "Kashish Agarwal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NA Pratt",
+              "bowler": "Mahirah Izzati Ismail",
+              "non_striker": "Kashish Agarwal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "NA Pratt",
+                  "fielders": [
+                    {
+                      "name": "Christina Baret"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Kashish Agarwal",
+              "bowler": "Sasha Azmi",
+              "non_striker": "GK Diviya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Kashish Agarwal",
+                  "fielders": [
+                    {
+                      "name": "Christina Baret"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "Ankita Ved",
+              "bowler": "Sasha Azmi",
+              "non_striker": "GK Diviya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ankita Ved",
+              "bowler": "Sasha Azmi",
+              "non_striker": "GK Diviya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ankita Ved",
+              "bowler": "Sasha Azmi",
+              "non_striker": "GK Diviya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ankita Ved",
+              "bowler": "Sasha Azmi",
+              "non_striker": "GK Diviya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GK Diviya",
+              "bowler": "Sasha Azmi",
+              "non_striker": "Ankita Ved",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Ankita Ved",
+              "bowler": "Mahirah Izzati Ismail",
+              "non_striker": "GK Diviya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ankita Ved",
+              "bowler": "Mahirah Izzati Ismail",
+              "non_striker": "GK Diviya",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Ankita Ved",
+              "bowler": "Mahirah Izzati Ismail",
+              "non_striker": "GK Diviya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ankita Ved",
+              "bowler": "Mahirah Izzati Ismail",
+              "non_striker": "GK Diviya",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Ankita Ved",
+              "bowler": "Mahirah Izzati Ismail",
+              "non_striker": "GK Diviya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ankita Ved",
+              "bowler": "Mahirah Izzati Ismail",
+              "non_striker": "GK Diviya",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "GK Diviya",
+              "bowler": "Sasha Azmi",
+              "non_striker": "Ankita Ved",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GK Diviya",
+              "bowler": "Sasha Azmi",
+              "non_striker": "Ankita Ved",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GK Diviya",
+              "bowler": "Sasha Azmi",
+              "non_striker": "Ankita Ved",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ankita Ved",
+              "bowler": "Sasha Azmi",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "GK Diviya",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ankita Ved",
+              "bowler": "Sasha Azmi",
+              "non_striker": "GK Diviya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ankita Ved",
+              "bowler": "Sasha Azmi",
+              "non_striker": "GK Diviya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ankita Ved",
+              "bowler": "Sasha Azmi",
+              "non_striker": "GK Diviya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "GK Diviya",
+              "bowler": "Mahirah Izzati Ismail",
+              "non_striker": "Ankita Ved",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GK Diviya",
+              "bowler": "Mahirah Izzati Ismail",
+              "non_striker": "Ankita Ved",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GK Diviya",
+              "bowler": "Mahirah Izzati Ismail",
+              "non_striker": "Ankita Ved",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ankita Ved",
+              "bowler": "Mahirah Izzati Ismail",
+              "non_striker": "GK Diviya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ankita Ved",
+              "bowler": "Mahirah Izzati Ismail",
+              "non_striker": "GK Diviya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ankita Ved",
+              "bowler": "Mahirah Izzati Ismail",
+              "non_striker": "GK Diviya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "GK Diviya",
+              "bowler": "Sasha Azmi",
+              "non_striker": "Ankita Ved",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GK Diviya",
+              "bowler": "Sasha Azmi",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Ankita Ved",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GK Diviya",
+              "bowler": "Sasha Azmi",
+              "non_striker": "Ankita Ved",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ankita Ved",
+              "bowler": "Sasha Azmi",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "GK Diviya",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ankita Ved",
+              "bowler": "Sasha Azmi",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "GK Diviya",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GK Diviya",
+              "bowler": "Sasha Azmi",
+              "non_striker": "Ankita Ved",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GK Diviya",
+              "bowler": "Sasha Azmi",
+              "non_striker": "Ankita Ved",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ankita Ved",
+              "bowler": "Sasha Azmi",
+              "non_striker": "GK Diviya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "run out",
+                  "player_out": "Ankita Ved",
+                  "fielders": [
+                    {
+                      "name": "Mahirah Izzati Ismail"
+                    },
+                    {
+                      "name": "Sasha Azmi"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "Samantha Singham",
+              "bowler": "Jannadiah Halim",
+              "non_striker": "GK Diviya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Samantha Singham",
+              "bowler": "Jannadiah Halim",
+              "non_striker": "GK Diviya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GK Diviya",
+              "bowler": "Jannadiah Halim",
+              "non_striker": "Samantha Singham",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Samantha Singham",
+              "bowler": "Jannadiah Halim",
+              "non_striker": "GK Diviya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Samantha Singham",
+              "bowler": "Jannadiah Halim",
+              "non_striker": "GK Diviya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Samantha Singham",
+              "bowler": "Jannadiah Halim",
+              "non_striker": "GK Diviya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "Samantha Singham",
+              "bowler": "Sasha Azmi",
+              "non_striker": "GK Diviya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "run out",
+                  "player_out": "GK Diviya",
+                  "fielders": [
+                    {
+                      "name": "WA Duraisingam"
+                    },
+                    {
+                      "name": "Christina Baret"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "Vathana Sreemurugavel",
+              "bowler": "Sasha Azmi",
+              "non_striker": "Samantha Singham",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Vathana Sreemurugavel",
+              "bowler": "Sasha Azmi",
+              "non_striker": "Samantha Singham",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Samantha Singham",
+              "bowler": "Sasha Azmi",
+              "non_striker": "Vathana Sreemurugavel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Samantha Singham",
+              "bowler": "Sasha Azmi",
+              "non_striker": "Vathana Sreemurugavel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Samantha Singham",
+              "bowler": "Sasha Azmi",
+              "non_striker": "Vathana Sreemurugavel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "Samantha Singham",
+              "bowler": "Jannadiah Halim",
+              "non_striker": "Vathana Sreemurugavel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Samantha Singham",
+              "bowler": "Jannadiah Halim",
+              "non_striker": "Vathana Sreemurugavel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Samantha Singham",
+              "bowler": "Jannadiah Halim",
+              "non_striker": "Vathana Sreemurugavel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Vathana Sreemurugavel",
+              "bowler": "Jannadiah Halim",
+              "non_striker": "Samantha Singham",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Vathana Sreemurugavel",
+              "bowler": "Jannadiah Halim",
+              "non_striker": "Samantha Singham",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Vathana Sreemurugavel",
+              "bowler": "Jannadiah Halim",
+              "non_striker": "Samantha Singham",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "Samantha Singham",
+              "bowler": "Zumika Azmi",
+              "non_striker": "Vathana Sreemurugavel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Samantha Singham",
+              "bowler": "Zumika Azmi",
+              "non_striker": "Vathana Sreemurugavel",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Samantha Singham",
+              "bowler": "Zumika Azmi",
+              "non_striker": "Vathana Sreemurugavel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Vathana Sreemurugavel",
+              "bowler": "Zumika Azmi",
+              "non_striker": "Samantha Singham",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Vathana Sreemurugavel",
+              "bowler": "Zumika Azmi",
+              "non_striker": "Samantha Singham",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "kind": "run out",
+                  "player_out": "Vathana Sreemurugavel",
+                  "fielders": [
+                    {
+                      "name": "Yusrina Yaakop"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "T Sen",
+              "bowler": "Zumika Azmi",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Samantha Singham",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Sen",
+              "bowler": "Zumika Azmi",
+              "non_striker": "Samantha Singham",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "Samantha Singham",
+              "bowler": "Jannadiah Halim",
+              "non_striker": "T Sen",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Samantha Singham",
+              "bowler": "Jannadiah Halim",
+              "non_striker": "T Sen",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Samantha Singham",
+              "bowler": "Jannadiah Halim",
+              "non_striker": "T Sen",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Samantha Singham",
+              "bowler": "Jannadiah Halim",
+              "non_striker": "T Sen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Sen",
+              "bowler": "Jannadiah Halim",
+              "non_striker": "Samantha Singham",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Samantha Singham",
+              "bowler": "Jannadiah Halim",
+              "non_striker": "T Sen",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "T Sen",
+              "bowler": "Nur Aishah",
+              "non_striker": "Samantha Singham",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "T Sen",
+              "bowler": "Nur Aishah",
+              "non_striker": "Samantha Singham",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Samantha Singham",
+              "bowler": "Nur Aishah",
+              "non_striker": "T Sen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Sen",
+              "bowler": "Nur Aishah",
+              "non_striker": "Samantha Singham",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Samantha Singham",
+              "bowler": "Nur Aishah",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "T Sen",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "T Sen",
+              "bowler": "Nur Aishah",
+              "non_striker": "Samantha Singham",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "Samantha Singham",
+              "bowler": "Nur Aishah",
+              "non_striker": "T Sen",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "T Sen",
+              "bowler": "WA Duraisingam",
+              "non_striker": "Samantha Singham",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Sen",
+              "bowler": "WA Duraisingam",
+              "non_striker": "Samantha Singham",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Sen",
+              "bowler": "WA Duraisingam",
+              "non_striker": "Samantha Singham",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Sen",
+              "bowler": "WA Duraisingam",
+              "non_striker": "Samantha Singham",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "T Sen",
+              "bowler": "WA Duraisingam",
+              "non_striker": "Samantha Singham",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Samantha Singham",
+              "bowler": "WA Duraisingam",
+              "non_striker": "T Sen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "Samantha Singham",
+              "bowler": "Nur Aishah",
+              "non_striker": "T Sen",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Samantha Singham",
+              "bowler": "Nur Aishah",
+              "non_striker": "T Sen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Samantha Singham",
+              "bowler": "Nur Aishah",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "T Sen",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Samantha Singham",
+              "bowler": "Nur Aishah",
+              "non_striker": "T Sen",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Samantha Singham",
+              "bowler": "Nur Aishah",
+              "non_striker": "T Sen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Sen",
+              "bowler": "Nur Aishah",
+              "non_striker": "Samantha Singham",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Samantha Singham",
+              "bowler": "Nur Aishah",
+              "extras": {
+                "byes": 2
+              },
+              "non_striker": "T Sen",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "T Sen",
+              "bowler": "WA Duraisingam",
+              "non_striker": "Samantha Singham",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "T Sen",
+              "bowler": "WA Duraisingam",
+              "non_striker": "Samantha Singham",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "T Sen",
+              "bowler": "WA Duraisingam",
+              "non_striker": "Samantha Singham",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "T Sen",
+                  "fielders": [
+                    {
+                      "name": "Christina Baret"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "V Pasupathy",
+              "bowler": "WA Duraisingam",
+              "non_striker": "Samantha Singham",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "V Pasupathy"
+                }
+              ]
+            },
+            {
+              "batter": "RR Seth",
+              "bowler": "WA Duraisingam",
+              "non_striker": "Samantha Singham",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Samantha Singham",
+              "bowler": "WA Duraisingam",
+              "non_striker": "RR Seth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 138
+      }
+    }
+  ]
+}

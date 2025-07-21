@@ -1,0 +1,2827 @@
+{
+  "meta": {
+    "data_version": "1.0.0",
+    "created": "2020-11-23",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Sydney",
+    "dates": [
+      "2020-11-22"
+    ],
+    "event": {
+      "name": "Women's Big Bash League",
+      "match_number": 53
+    },
+    "gender": "female",
+    "match_type": "T20",
+    "officials": {
+      "match_referees": [
+        "Kent Hannam"
+      ],
+      "umpires": [
+        "Steven Farrell",
+        "CA Polosak"
+      ]
+    },
+    "outcome": {
+      "winner": "Sydney Thunder",
+      "by": {
+        "wickets": 6
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "S Ismail"
+    ],
+    "players": {
+      "Hobart Hurricanes": [
+        "RH Priest",
+        "NJ Carey",
+        "HK Matthews",
+        "CL Tryon",
+        "SK Moloney",
+        "NE Stalenberg",
+        "E Thompson",
+        "CL Hall",
+        "A Smith",
+        "B Hepburn",
+        "CL Rafferty"
+      ],
+      "Sydney Thunder": [
+        "TT Beaumont",
+        "R Trenaman",
+        "HC Knight",
+        "RL Haynes",
+        "P Litchfield",
+        "SJ Johnson",
+        "T Wilson",
+        "HJ Darlington",
+        "LG Smith",
+        "S Ismail",
+        "SL Bates"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Smith": "b125ce63",
+        "B Hepburn": "df04fc4f",
+        "CA Polosak": "26a360d2",
+        "CL Hall": "6026e2ae",
+        "CL Rafferty": "14a760dc",
+        "CL Tryon": "4d4605e6",
+        "E Thompson": "a7c3c366",
+        "HC Knight": "4ba0289e",
+        "HJ Darlington": "50b558d2",
+        "HK Matthews": "d32cf49a",
+        "Kent Hannam": "8cc171e7",
+        "LG Smith": "9c515112",
+        "NE Stalenberg": "609c519e",
+        "NJ Carey": "dff806f4",
+        "P Litchfield": "4e6ef14f",
+        "R Trenaman": "877dd709",
+        "RH Priest": "e6f0408a",
+        "RL Haynes": "d7c6b0fb",
+        "S Ismail": "108c4c09",
+        "SJ Johnson": "d7b754d4",
+        "SK Moloney": "a0bc8dc1",
+        "SL Bates": "0816fb1e",
+        "Steven Farrell": "512226fb",
+        "T Wilson": "32100b2d",
+        "TT Beaumont": "b2664905"
+      }
+    },
+    "season": "2020/21",
+    "team_type": "club",
+    "teams": [
+      "Hobart Hurricanes",
+      "Sydney Thunder"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Sydney Thunder"
+    },
+    "venue": "Drummoyne Oval"
+  },
+  "innings": [
+    {
+      "team": "Hobart Hurricanes",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "RH Priest",
+              "bowler": "S Ismail",
+              "non_striker": "NJ Carey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NJ Carey",
+              "bowler": "S Ismail",
+              "non_striker": "RH Priest",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "NJ Carey",
+                  "fielders": [
+                    {
+                      "name": "SL Bates"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "HK Matthews",
+              "bowler": "S Ismail",
+              "non_striker": "RH Priest",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HK Matthews",
+              "bowler": "S Ismail",
+              "non_striker": "RH Priest",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HK Matthews",
+              "bowler": "S Ismail",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "RH Priest",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HK Matthews",
+              "bowler": "S Ismail",
+              "non_striker": "RH Priest",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HK Matthews",
+              "bowler": "S Ismail",
+              "non_striker": "RH Priest",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "HK Matthews",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "RH Priest",
+              "bowler": "SL Bates",
+              "non_striker": "CL Tryon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RH Priest",
+              "bowler": "SL Bates",
+              "non_striker": "CL Tryon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RH Priest",
+              "bowler": "SL Bates",
+              "non_striker": "CL Tryon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RH Priest",
+              "bowler": "SL Bates",
+              "non_striker": "CL Tryon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RH Priest",
+              "bowler": "SL Bates",
+              "non_striker": "CL Tryon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RH Priest",
+              "bowler": "SL Bates",
+              "non_striker": "CL Tryon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "CL Tryon",
+              "bowler": "S Ismail",
+              "non_striker": "RH Priest",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CL Tryon",
+              "bowler": "S Ismail",
+              "non_striker": "RH Priest",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RH Priest",
+              "bowler": "S Ismail",
+              "non_striker": "CL Tryon",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CL Tryon",
+              "bowler": "S Ismail",
+              "non_striker": "RH Priest",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CL Tryon",
+              "bowler": "S Ismail",
+              "non_striker": "RH Priest",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "CL Tryon",
+                  "fielders": [
+                    {
+                      "name": "T Wilson"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "RH Priest",
+              "bowler": "S Ismail",
+              "non_striker": "SK Moloney",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "SK Moloney",
+              "bowler": "SJ Johnson",
+              "non_striker": "RH Priest",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SK Moloney",
+              "bowler": "SJ Johnson",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "RH Priest",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SK Moloney",
+              "bowler": "SJ Johnson",
+              "non_striker": "RH Priest",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SK Moloney",
+              "bowler": "SJ Johnson",
+              "non_striker": "RH Priest",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SK Moloney",
+              "bowler": "SJ Johnson",
+              "non_striker": "RH Priest",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SK Moloney",
+              "bowler": "SJ Johnson",
+              "non_striker": "RH Priest",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SK Moloney",
+              "bowler": "SJ Johnson",
+              "non_striker": "RH Priest",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "RH Priest",
+              "bowler": "S Ismail",
+              "non_striker": "SK Moloney",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RH Priest",
+              "bowler": "S Ismail",
+              "non_striker": "SK Moloney",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RH Priest",
+              "bowler": "S Ismail",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "SK Moloney",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RH Priest",
+              "bowler": "S Ismail",
+              "non_striker": "SK Moloney",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SK Moloney",
+              "bowler": "S Ismail",
+              "non_striker": "RH Priest",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SK Moloney",
+              "bowler": "S Ismail",
+              "non_striker": "RH Priest",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SK Moloney",
+              "bowler": "S Ismail",
+              "non_striker": "RH Priest",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "RH Priest",
+              "bowler": "SL Bates",
+              "non_striker": "SK Moloney",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SK Moloney",
+              "bowler": "SL Bates",
+              "non_striker": "RH Priest",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RH Priest",
+              "bowler": "SL Bates",
+              "non_striker": "SK Moloney",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RH Priest",
+              "bowler": "SL Bates",
+              "non_striker": "SK Moloney",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RH Priest",
+              "bowler": "SL Bates",
+              "non_striker": "SK Moloney",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RH Priest",
+              "bowler": "SL Bates",
+              "non_striker": "SK Moloney",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "SK Moloney",
+              "bowler": "S Ismail",
+              "non_striker": "RH Priest",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SK Moloney",
+              "bowler": "S Ismail",
+              "non_striker": "RH Priest",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SK Moloney",
+              "bowler": "S Ismail",
+              "non_striker": "RH Priest",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SK Moloney",
+              "bowler": "S Ismail",
+              "non_striker": "RH Priest",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SK Moloney",
+              "bowler": "S Ismail",
+              "non_striker": "RH Priest",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SK Moloney",
+              "bowler": "S Ismail",
+              "non_striker": "RH Priest",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "RH Priest",
+              "bowler": "HJ Darlington",
+              "non_striker": "SK Moloney",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RH Priest",
+              "bowler": "HJ Darlington",
+              "non_striker": "SK Moloney",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SK Moloney",
+              "bowler": "HJ Darlington",
+              "non_striker": "RH Priest",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SK Moloney",
+              "bowler": "HJ Darlington",
+              "non_striker": "RH Priest",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SK Moloney",
+              "bowler": "HJ Darlington",
+              "non_striker": "RH Priest",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SK Moloney",
+              "bowler": "HJ Darlington",
+              "non_striker": "RH Priest",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "RH Priest",
+              "bowler": "SJ Johnson",
+              "non_striker": "SK Moloney",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RH Priest",
+              "bowler": "SJ Johnson",
+              "non_striker": "SK Moloney",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RH Priest",
+              "bowler": "SJ Johnson",
+              "non_striker": "SK Moloney",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SK Moloney",
+              "bowler": "SJ Johnson",
+              "non_striker": "RH Priest",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RH Priest",
+              "bowler": "SJ Johnson",
+              "non_striker": "SK Moloney",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RH Priest",
+              "bowler": "SJ Johnson",
+              "non_striker": "SK Moloney",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "RH Priest",
+              "bowler": "LG Smith",
+              "non_striker": "SK Moloney",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SK Moloney",
+              "bowler": "LG Smith",
+              "non_striker": "RH Priest",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RH Priest",
+              "bowler": "LG Smith",
+              "non_striker": "SK Moloney",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RH Priest",
+              "bowler": "LG Smith",
+              "non_striker": "SK Moloney",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RH Priest",
+              "bowler": "LG Smith",
+              "non_striker": "SK Moloney",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RH Priest",
+              "bowler": "LG Smith",
+              "non_striker": "SK Moloney",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "RH Priest",
+              "bowler": "HJ Darlington",
+              "non_striker": "SK Moloney",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RH Priest",
+              "bowler": "HJ Darlington",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "SK Moloney",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SK Moloney",
+              "bowler": "HJ Darlington",
+              "non_striker": "RH Priest",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RH Priest",
+              "bowler": "HJ Darlington",
+              "non_striker": "SK Moloney",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RH Priest",
+              "bowler": "HJ Darlington",
+              "non_striker": "SK Moloney",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SK Moloney",
+              "bowler": "HJ Darlington",
+              "non_striker": "RH Priest",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RH Priest",
+              "bowler": "HJ Darlington",
+              "non_striker": "SK Moloney",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "SK Moloney",
+              "bowler": "HC Knight",
+              "non_striker": "RH Priest",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RH Priest",
+              "bowler": "HC Knight",
+              "non_striker": "SK Moloney",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SK Moloney",
+              "bowler": "HC Knight",
+              "non_striker": "RH Priest",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RH Priest",
+              "bowler": "HC Knight",
+              "non_striker": "SK Moloney",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SK Moloney",
+              "bowler": "HC Knight",
+              "non_striker": "RH Priest",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SK Moloney",
+              "bowler": "HC Knight",
+              "non_striker": "RH Priest",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "RH Priest",
+              "bowler": "SL Bates",
+              "non_striker": "SK Moloney",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "RH Priest",
+                  "fielders": [
+                    {
+                      "name": "LG Smith"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "SK Moloney",
+              "bowler": "SL Bates",
+              "non_striker": "NE Stalenberg",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NE Stalenberg",
+              "bowler": "SL Bates",
+              "non_striker": "SK Moloney",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SK Moloney",
+              "bowler": "SL Bates",
+              "non_striker": "NE Stalenberg",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "SK Moloney",
+              "bowler": "SL Bates",
+              "non_striker": "NE Stalenberg",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SK Moloney",
+              "bowler": "SL Bates",
+              "non_striker": "NE Stalenberg",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "SK Moloney",
+              "bowler": "LG Smith",
+              "non_striker": "NE Stalenberg",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SK Moloney",
+              "bowler": "LG Smith",
+              "non_striker": "NE Stalenberg",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SK Moloney",
+              "bowler": "LG Smith",
+              "non_striker": "NE Stalenberg",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SK Moloney",
+              "bowler": "LG Smith",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "NE Stalenberg",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SK Moloney",
+              "bowler": "LG Smith",
+              "non_striker": "NE Stalenberg",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NE Stalenberg",
+              "bowler": "LG Smith",
+              "non_striker": "SK Moloney",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NE Stalenberg",
+              "bowler": "LG Smith",
+              "non_striker": "SK Moloney",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "SK Moloney",
+              "bowler": "HC Knight",
+              "non_striker": "NE Stalenberg",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NE Stalenberg",
+              "bowler": "HC Knight",
+              "non_striker": "SK Moloney",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SK Moloney",
+              "bowler": "HC Knight",
+              "non_striker": "NE Stalenberg",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SK Moloney",
+                  "fielders": [
+                    {
+                      "name": "LG Smith"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "NE Stalenberg",
+              "bowler": "HC Knight",
+              "non_striker": "E Thompson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Thompson",
+              "bowler": "HC Knight",
+              "non_striker": "NE Stalenberg",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NE Stalenberg",
+              "bowler": "HC Knight",
+              "non_striker": "E Thompson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "NE Stalenberg",
+              "bowler": "HJ Darlington",
+              "non_striker": "E Thompson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "NE Stalenberg",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "CL Hall",
+              "bowler": "HJ Darlington",
+              "non_striker": "E Thompson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Thompson",
+              "bowler": "HJ Darlington",
+              "non_striker": "CL Hall",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Thompson",
+              "bowler": "HJ Darlington",
+              "non_striker": "CL Hall",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "E Thompson",
+                  "fielders": [
+                    {
+                      "name": "P Litchfield"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "CL Hall",
+              "bowler": "HJ Darlington",
+              "non_striker": "A Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Smith",
+              "bowler": "HJ Darlington",
+              "non_striker": "CL Hall",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "CL Hall",
+              "bowler": "HC Knight",
+              "non_striker": "A Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CL Hall",
+              "bowler": "HC Knight",
+              "non_striker": "A Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Smith",
+              "bowler": "HC Knight",
+              "non_striker": "CL Hall",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CL Hall",
+              "bowler": "HC Knight",
+              "non_striker": "A Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Smith",
+              "bowler": "HC Knight",
+              "non_striker": "CL Hall",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CL Hall",
+              "bowler": "HC Knight",
+              "non_striker": "A Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "CL Hall",
+              "bowler": "SJ Johnson",
+              "non_striker": "A Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Smith",
+              "bowler": "SJ Johnson",
+              "non_striker": "CL Hall",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CL Hall",
+              "bowler": "SJ Johnson",
+              "non_striker": "A Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Smith",
+              "bowler": "SJ Johnson",
+              "non_striker": "CL Hall",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CL Hall",
+              "bowler": "SJ Johnson",
+              "non_striker": "A Smith",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "CL Hall",
+              "bowler": "SJ Johnson",
+              "non_striker": "A Smith",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "A Smith",
+              "bowler": "HJ Darlington",
+              "non_striker": "CL Hall",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CL Hall",
+              "bowler": "HJ Darlington",
+              "non_striker": "A Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Smith",
+              "bowler": "HJ Darlington",
+              "non_striker": "CL Hall",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CL Hall",
+              "bowler": "HJ Darlington",
+              "non_striker": "A Smith",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "CL Hall",
+              "bowler": "HJ Darlington",
+              "non_striker": "A Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Smith",
+              "bowler": "HJ Darlington",
+              "non_striker": "CL Hall",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "A Smith",
+                  "fielders": [
+                    {
+                      "name": "TT Beaumont"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "CL Hall",
+              "bowler": "SJ Johnson",
+              "non_striker": "B Hepburn",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "CL Hall",
+              "bowler": "SJ Johnson",
+              "non_striker": "B Hepburn",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Hepburn",
+              "bowler": "SJ Johnson",
+              "non_striker": "CL Hall",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "B Hepburn",
+                  "fielders": [
+                    {
+                      "name": "P Litchfield"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "CL Hall",
+              "bowler": "SJ Johnson",
+              "non_striker": "CL Rafferty",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "CL Hall",
+              "bowler": "SJ Johnson",
+              "non_striker": "CL Rafferty",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CL Hall",
+              "bowler": "SJ Johnson",
+              "non_striker": "CL Rafferty",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Sydney Thunder",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "TT Beaumont",
+              "bowler": "CL Rafferty",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "R Trenaman",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TT Beaumont",
+              "bowler": "CL Rafferty",
+              "non_striker": "R Trenaman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Trenaman",
+              "bowler": "CL Rafferty",
+              "non_striker": "TT Beaumont",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Trenaman",
+              "bowler": "CL Rafferty",
+              "non_striker": "TT Beaumont",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "R Trenaman",
+              "bowler": "CL Rafferty",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "TT Beaumont",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Trenaman",
+              "bowler": "CL Rafferty",
+              "non_striker": "TT Beaumont",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Trenaman",
+              "bowler": "CL Rafferty",
+              "non_striker": "TT Beaumont",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Trenaman",
+              "bowler": "CL Rafferty",
+              "non_striker": "TT Beaumont",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "R Trenaman",
+              "bowler": "HK Matthews",
+              "non_striker": "TT Beaumont",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Trenaman",
+              "bowler": "HK Matthews",
+              "non_striker": "TT Beaumont",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Trenaman",
+              "bowler": "HK Matthews",
+              "non_striker": "TT Beaumont",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Trenaman",
+              "bowler": "HK Matthews",
+              "non_striker": "TT Beaumont",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Trenaman",
+              "bowler": "HK Matthews",
+              "non_striker": "TT Beaumont",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Trenaman",
+              "bowler": "HK Matthews",
+              "non_striker": "TT Beaumont",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "TT Beaumont",
+              "bowler": "CL Rafferty",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "R Trenaman",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Trenaman",
+              "bowler": "CL Rafferty",
+              "non_striker": "TT Beaumont",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "R Trenaman",
+              "bowler": "CL Rafferty",
+              "non_striker": "TT Beaumont",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Trenaman",
+              "bowler": "CL Rafferty",
+              "non_striker": "TT Beaumont",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Trenaman",
+              "bowler": "CL Rafferty",
+              "non_striker": "TT Beaumont",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Trenaman",
+              "bowler": "CL Rafferty",
+              "non_striker": "TT Beaumont",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "R Trenaman",
+              "bowler": "HK Matthews",
+              "non_striker": "TT Beaumont",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Trenaman",
+              "bowler": "HK Matthews",
+              "non_striker": "TT Beaumont",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Trenaman",
+              "bowler": "HK Matthews",
+              "non_striker": "TT Beaumont",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "R Trenaman",
+              "bowler": "HK Matthews",
+              "non_striker": "TT Beaumont",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Trenaman",
+              "bowler": "HK Matthews",
+              "non_striker": "TT Beaumont",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Trenaman",
+              "bowler": "HK Matthews",
+              "non_striker": "TT Beaumont",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "R Trenaman",
+                  "kind": "lbw"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "TT Beaumont",
+              "bowler": "CL Tryon",
+              "non_striker": "HC Knight",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "TT Beaumont",
+              "bowler": "CL Tryon",
+              "non_striker": "HC Knight",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TT Beaumont",
+              "bowler": "CL Tryon",
+              "non_striker": "HC Knight",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TT Beaumont",
+              "bowler": "CL Tryon",
+              "non_striker": "HC Knight",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TT Beaumont",
+              "bowler": "CL Tryon",
+              "non_striker": "HC Knight",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TT Beaumont",
+              "bowler": "CL Tryon",
+              "non_striker": "HC Knight",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "HC Knight",
+              "bowler": "B Hepburn",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "TT Beaumont",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HC Knight",
+              "bowler": "B Hepburn",
+              "non_striker": "TT Beaumont",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TT Beaumont",
+              "bowler": "B Hepburn",
+              "non_striker": "HC Knight",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "TT Beaumont",
+              "bowler": "B Hepburn",
+              "non_striker": "HC Knight",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TT Beaumont",
+              "bowler": "B Hepburn",
+              "non_striker": "HC Knight",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "TT Beaumont",
+              "bowler": "B Hepburn",
+              "non_striker": "HC Knight",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "TT Beaumont",
+              "bowler": "B Hepburn",
+              "non_striker": "HC Knight",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "HC Knight",
+              "bowler": "A Smith",
+              "non_striker": "TT Beaumont",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TT Beaumont",
+              "bowler": "A Smith",
+              "non_striker": "HC Knight",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TT Beaumont",
+              "bowler": "A Smith",
+              "non_striker": "HC Knight",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HC Knight",
+              "bowler": "A Smith",
+              "non_striker": "TT Beaumont",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TT Beaumont",
+              "bowler": "A Smith",
+              "non_striker": "HC Knight",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HC Knight",
+              "bowler": "A Smith",
+              "non_striker": "TT Beaumont",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "TT Beaumont",
+              "bowler": "NJ Carey",
+              "non_striker": "HC Knight",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TT Beaumont",
+              "bowler": "NJ Carey",
+              "non_striker": "HC Knight",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HC Knight",
+              "bowler": "NJ Carey",
+              "non_striker": "TT Beaumont",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "HC Knight",
+              "bowler": "NJ Carey",
+              "non_striker": "TT Beaumont",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TT Beaumont",
+              "bowler": "NJ Carey",
+              "non_striker": "HC Knight",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TT Beaumont",
+              "bowler": "NJ Carey",
+              "non_striker": "HC Knight",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "TT Beaumont",
+                  "fielders": [
+                    {
+                      "name": "RH Priest"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "HC Knight",
+              "bowler": "CL Rafferty",
+              "non_striker": "RL Haynes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HC Knight",
+              "bowler": "CL Rafferty",
+              "non_striker": "RL Haynes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RL Haynes",
+              "bowler": "CL Rafferty",
+              "non_striker": "HC Knight",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RL Haynes",
+              "bowler": "CL Rafferty",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "HC Knight",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RL Haynes",
+              "bowler": "CL Rafferty",
+              "non_striker": "HC Knight",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RL Haynes",
+              "bowler": "CL Rafferty",
+              "non_striker": "HC Knight",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RL Haynes",
+              "bowler": "CL Rafferty",
+              "non_striker": "HC Knight",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "RL Haynes",
+              "bowler": "SK Moloney",
+              "non_striker": "HC Knight",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "RL Haynes",
+              "bowler": "SK Moloney",
+              "non_striker": "HC Knight",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HC Knight",
+              "bowler": "SK Moloney",
+              "non_striker": "RL Haynes",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "HC Knight",
+              "bowler": "SK Moloney",
+              "non_striker": "RL Haynes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RL Haynes",
+              "bowler": "SK Moloney",
+              "non_striker": "HC Knight",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "RL Haynes",
+                  "fielders": [
+                    {
+                      "name": "NE Stalenberg"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "P Litchfield",
+              "bowler": "SK Moloney",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "HC Knight",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Litchfield",
+              "bowler": "SK Moloney",
+              "non_striker": "HC Knight",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "P Litchfield",
+              "bowler": "NJ Carey",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "HC Knight",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Litchfield",
+              "bowler": "NJ Carey",
+              "non_striker": "HC Knight",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Litchfield",
+              "bowler": "NJ Carey",
+              "non_striker": "HC Knight",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Litchfield",
+              "bowler": "NJ Carey",
+              "non_striker": "HC Knight",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Litchfield",
+              "bowler": "NJ Carey",
+              "non_striker": "HC Knight",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HC Knight",
+              "bowler": "NJ Carey",
+              "non_striker": "P Litchfield",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "HC Knight",
+              "bowler": "NJ Carey",
+              "non_striker": "P Litchfield",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "P Litchfield",
+              "bowler": "HK Matthews",
+              "non_striker": "HC Knight",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Litchfield",
+              "bowler": "HK Matthews",
+              "non_striker": "HC Knight",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "P Litchfield",
+              "bowler": "HK Matthews",
+              "non_striker": "HC Knight",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Litchfield",
+              "bowler": "HK Matthews",
+              "non_striker": "HC Knight",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Litchfield",
+              "bowler": "HK Matthews",
+              "non_striker": "HC Knight",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HC Knight",
+              "bowler": "HK Matthews",
+              "non_striker": "P Litchfield",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "HC Knight",
+              "bowler": "NJ Carey",
+              "non_striker": "P Litchfield",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "HC Knight",
+              "bowler": "NJ Carey",
+              "non_striker": "P Litchfield",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "HC Knight",
+                  "kind": "caught and bowled"
+                }
+              ]
+            },
+            {
+              "batter": "SJ Johnson",
+              "bowler": "NJ Carey",
+              "non_striker": "P Litchfield",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Litchfield",
+              "bowler": "NJ Carey",
+              "non_striker": "SJ Johnson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Litchfield",
+              "bowler": "NJ Carey",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "SJ Johnson",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Litchfield",
+              "bowler": "NJ Carey",
+              "non_striker": "SJ Johnson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Litchfield",
+              "bowler": "NJ Carey",
+              "non_striker": "SJ Johnson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "P Litchfield",
+              "bowler": "A Smith",
+              "non_striker": "SJ Johnson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SJ Johnson",
+              "bowler": "A Smith",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "P Litchfield",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SJ Johnson",
+              "bowler": "A Smith",
+              "non_striker": "P Litchfield",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SJ Johnson",
+              "bowler": "A Smith",
+              "non_striker": "P Litchfield",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Litchfield",
+              "bowler": "A Smith",
+              "non_striker": "SJ Johnson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SJ Johnson",
+              "bowler": "A Smith",
+              "non_striker": "P Litchfield",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SJ Johnson",
+              "bowler": "A Smith",
+              "non_striker": "P Litchfield",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "P Litchfield",
+              "bowler": "CL Tryon",
+              "non_striker": "SJ Johnson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Litchfield",
+              "bowler": "CL Tryon",
+              "non_striker": "SJ Johnson",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "P Litchfield",
+              "bowler": "CL Tryon",
+              "non_striker": "SJ Johnson",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "P Litchfield",
+              "bowler": "CL Tryon",
+              "non_striker": "SJ Johnson",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "P Litchfield",
+              "bowler": "CL Tryon",
+              "non_striker": "SJ Johnson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SJ Johnson",
+              "bowler": "CL Tryon",
+              "non_striker": "P Litchfield",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "SJ Johnson",
+              "bowler": "A Smith",
+              "non_striker": "P Litchfield",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Litchfield",
+              "bowler": "A Smith",
+              "non_striker": "SJ Johnson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Litchfield",
+              "bowler": "A Smith",
+              "non_striker": "SJ Johnson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SJ Johnson",
+              "bowler": "A Smith",
+              "non_striker": "P Litchfield",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SJ Johnson",
+              "bowler": "A Smith",
+              "non_striker": "P Litchfield",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SJ Johnson",
+              "bowler": "A Smith",
+              "non_striker": "P Litchfield",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "P Litchfield",
+              "bowler": "NJ Carey",
+              "non_striker": "SJ Johnson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SJ Johnson",
+              "bowler": "NJ Carey",
+              "non_striker": "P Litchfield",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Litchfield",
+              "bowler": "NJ Carey",
+              "non_striker": "SJ Johnson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Litchfield",
+              "bowler": "NJ Carey",
+              "non_striker": "SJ Johnson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SJ Johnson",
+              "bowler": "NJ Carey",
+              "non_striker": "P Litchfield",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.7,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 116
+      }
+    }
+  ]
+}

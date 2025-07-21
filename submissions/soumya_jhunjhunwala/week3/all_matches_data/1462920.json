@@ -1,0 +1,725 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2024-12-20",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Kigali City",
+    "dates": [
+      "2024-12-12"
+    ],
+    "event": {
+      "name": "Africa Continental Cup",
+      "match_number": 16
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 3037,
+    "officials": {
+      "match_referees": [
+        "ET Dube"
+      ],
+      "reserve_umpires": [
+        "Patric Makumbi"
+      ],
+      "umpires": [
+        "D Hagenimana",
+        "Gaston Niyibizi"
+      ]
+    },
+    "outcome": {
+      "winner": "Nigeria",
+      "by": {
+        "wickets": 10
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "Sulaimon Runsewe"
+    ],
+    "players": {
+      "Botswana": [
+        "M Kasselman",
+        "K Motlanka",
+        "T Perera",
+        "T Tshose",
+        "M Mooketsi",
+        "P Silas",
+        "B Khumalo",
+        "R Nehonde",
+        "B Kgosiemang",
+        "K Piet",
+        "V Balakrishnan"
+      ],
+      "Nigeria": [
+        "Sulaimon Runsewe",
+        "I Danladi",
+        "IO Okpe",
+        "Selim Salau",
+        "O Olaleye",
+        "SA Okpe",
+        "R Abdulkareem",
+        "VD Adewoye",
+        "P Aho",
+        "Mohameed Taiwo",
+        "I Uboh"
+      ]
+    },
+    "registry": {
+      "people": {
+        "B Kgosiemang": "059ec7a5",
+        "B Khumalo": "33ab1f1c",
+        "D Hagenimana": "de167462",
+        "ET Dube": "4c0891bc",
+        "Gaston Niyibizi": "eb99c84c",
+        "I Danladi": "c156cc1f",
+        "I Uboh": "baf3cf01",
+        "IO Okpe": "1c5c3dce",
+        "K Motlanka": "21549344",
+        "K Piet": "39fd9295",
+        "M Kasselman": "c6889eb6",
+        "M Mooketsi": "008a024c",
+        "Mohameed Taiwo": "a9d788e3",
+        "O Olaleye": "811785d2",
+        "P Aho": "2e392afa",
+        "P Silas": "9f2e1944",
+        "Patric Makumbi": "e4c69c16",
+        "R Abdulkareem": "b9e07e44",
+        "R Nehonde": "4393e047",
+        "SA Okpe": "681f522f",
+        "Selim Salau": "d18d3a0f",
+        "Sulaimon Runsewe": "c25d26dc",
+        "T Perera": "456397e5",
+        "T Tshose": "18ae55e4",
+        "V Balakrishnan": "0c1da0c4",
+        "VD Adewoye": "45a34a2d"
+      }
+    },
+    "season": "2024/25",
+    "team_type": "international",
+    "teams": [
+      "Botswana",
+      "Nigeria"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "Botswana"
+    },
+    "venue": "Gahanga International Cricket Stadium, Rwanda"
+  },
+  "innings": [
+    {
+      "team": "Botswana",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "M Kasselman",
+              "bowler": "Mohameed Taiwo",
+              "non_striker": "K Motlanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Kasselman",
+              "bowler": "Mohameed Taiwo",
+              "non_striker": "K Motlanka",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "M Kasselman",
+              "bowler": "Mohameed Taiwo",
+              "non_striker": "K Motlanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Kasselman",
+              "bowler": "Mohameed Taiwo",
+              "non_striker": "K Motlanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Kasselman",
+              "bowler": "Mohameed Taiwo",
+              "non_striker": "K Motlanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Kasselman",
+              "bowler": "Mohameed Taiwo",
+              "non_striker": "K Motlanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "K Motlanka",
+              "bowler": "P Aho",
+              "non_striker": "M Kasselman",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "K Motlanka",
+              "bowler": "P Aho",
+              "non_striker": "M Kasselman",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "K Motlanka",
+              "bowler": "P Aho",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "M Kasselman",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Kasselman",
+              "bowler": "P Aho",
+              "non_striker": "K Motlanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Kasselman",
+              "bowler": "P Aho",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "K Motlanka",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Kasselman",
+              "bowler": "P Aho",
+              "non_striker": "K Motlanka",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "K Motlanka",
+              "bowler": "P Aho",
+              "non_striker": "M Kasselman",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "M Kasselman",
+              "bowler": "SA Okpe",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "K Motlanka",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Kasselman",
+              "bowler": "SA Okpe",
+              "non_striker": "K Motlanka",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "M Kasselman",
+              "bowler": "SA Okpe",
+              "non_striker": "K Motlanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Kasselman",
+              "bowler": "SA Okpe",
+              "non_striker": "K Motlanka",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "K Motlanka",
+              "bowler": "SA Okpe",
+              "non_striker": "M Kasselman",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "K Motlanka",
+              "bowler": "SA Okpe",
+              "non_striker": "M Kasselman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Kasselman",
+              "bowler": "SA Okpe",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "K Motlanka",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "M Kasselman",
+              "bowler": "P Aho",
+              "non_striker": "K Motlanka",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "M Kasselman",
+              "bowler": "P Aho",
+              "non_striker": "K Motlanka",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "M Kasselman",
+              "bowler": "P Aho",
+              "non_striker": "K Motlanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "M Kasselman",
+                  "fielders": [
+                    {
+                      "name": "Mohameed Taiwo"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "T Perera",
+              "bowler": "P Aho",
+              "non_striker": "K Motlanka",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "T Perera",
+              "bowler": "P Aho",
+              "non_striker": "K Motlanka",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "T Perera",
+              "bowler": "P Aho",
+              "non_striker": "K Motlanka",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "K Motlanka",
+              "bowler": "Mohameed Taiwo",
+              "non_striker": "T Perera",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "K Motlanka",
+              "bowler": "Mohameed Taiwo",
+              "non_striker": "T Perera",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "K Motlanka",
+              "bowler": "Mohameed Taiwo",
+              "non_striker": "T Perera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "K Motlanka",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "T Tshose",
+              "bowler": "Mohameed Taiwo",
+              "non_striker": "T Perera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Tshose",
+              "bowler": "Mohameed Taiwo",
+              "non_striker": "T Perera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Tshose",
+              "bowler": "Mohameed Taiwo",
+              "non_striker": "T Perera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "T Tshose",
+                  "fielders": [
+                    {
+                      "name": "Sulaimon Runsewe"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 1.7,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Nigeria",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Sulaimon Runsewe",
+              "bowler": "B Kgosiemang",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "I Danladi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sulaimon Runsewe",
+              "bowler": "B Kgosiemang",
+              "non_striker": "I Danladi",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Sulaimon Runsewe",
+              "bowler": "B Kgosiemang",
+              "non_striker": "I Danladi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Sulaimon Runsewe",
+              "bowler": "B Kgosiemang",
+              "non_striker": "I Danladi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Danladi",
+              "bowler": "B Kgosiemang",
+              "non_striker": "Sulaimon Runsewe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sulaimon Runsewe",
+              "bowler": "B Kgosiemang",
+              "non_striker": "I Danladi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Sulaimon Runsewe",
+              "bowler": "B Kgosiemang",
+              "non_striker": "I Danladi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "I Danladi",
+              "bowler": "T Tshose",
+              "non_striker": "Sulaimon Runsewe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Danladi",
+              "bowler": "T Tshose",
+              "non_striker": "Sulaimon Runsewe",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "I Danladi",
+              "bowler": "T Tshose",
+              "non_striker": "Sulaimon Runsewe",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "I Danladi",
+              "bowler": "T Tshose",
+              "non_striker": "Sulaimon Runsewe",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "I Danladi",
+              "bowler": "T Tshose",
+              "non_striker": "Sulaimon Runsewe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sulaimon Runsewe",
+              "bowler": "T Tshose",
+              "non_striker": "I Danladi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "I Danladi",
+              "bowler": "B Khumalo",
+              "non_striker": "Sulaimon Runsewe",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "I Danladi",
+              "bowler": "B Khumalo",
+              "non_striker": "Sulaimon Runsewe",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "I Danladi",
+              "bowler": "B Khumalo",
+              "non_striker": "Sulaimon Runsewe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sulaimon Runsewe",
+              "bowler": "B Khumalo",
+              "non_striker": "I Danladi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sulaimon Runsewe",
+              "bowler": "B Khumalo",
+              "non_striker": "I Danladi",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 1.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 5,
+        "runs": 50
+      }
+    }
+  ]
+}

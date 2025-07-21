@@ -1,0 +1,2880 @@
+{
+  "meta": {
+    "data_version": "1.0.0",
+    "created": "2017-02-19",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "dates": [
+      "2017-01-09"
+    ],
+    "event": {
+      "match_number": 21,
+      "name": "Big Bash League"
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "officials": {
+      "match_referees": [
+        "SR Bernard"
+      ],
+      "reserve_umpires": [
+        "SA Lightbody"
+      ],
+      "tv_umpires": [
+        "GC Joshua"
+      ],
+      "umpires": [
+        "SAJ Craig",
+        "AK Wilds"
+      ]
+    },
+    "outcome": {
+      "by": {
+        "wickets": 6
+      },
+      "winner": "Sydney Sixers"
+    },
+    "overs": 20,
+    "player_of_match": [
+      "BJ Haddin"
+    ],
+    "players": {
+      "Melbourne Renegades": [
+        "SP Narine",
+        "AJ Finch",
+        "CL White",
+        "TLW Cooper",
+        "CJ Ferguson",
+        "NLTC Perera",
+        "MW Short",
+        "JL Pattinson",
+        "CP Tremain",
+        "PM Nevill",
+        "GB Hogg"
+      ],
+      "Sydney Sixers": [
+        "DP Hughes",
+        "MJ Lumb",
+        "NJ Maddinson",
+        "MC Henriques",
+        "BJ Haddin",
+        "JC Silk",
+        "J Botha",
+        "SA Abbott",
+        "BJ Dwarshuis",
+        "JM Bird",
+        "NM Lyon"
+      ]
+    },
+    "registry": {
+      "people": {
+        "AJ Finch": "b8d490fd",
+        "AK Wilds": "de412f40",
+        "BJ Dwarshuis": "e1b9f3a9",
+        "BJ Haddin": "b0c772ee",
+        "CJ Ferguson": "9b4935c8",
+        "CL White": "d0513f63",
+        "CP Tremain": "96824e68",
+        "DP Hughes": "f3982af9",
+        "GB Hogg": "f708a0bc",
+        "GC Joshua": "4c47ebf2",
+        "J Botha": "7c503806",
+        "JC Silk": "7a6dc294",
+        "JL Pattinson": "f752db61",
+        "JM Bird": "bc773eeb",
+        "MC Henriques": "32198ae0",
+        "MJ Lumb": "11df3dc8",
+        "MW Short": "a90e53ec",
+        "NJ Maddinson": "44afbf2d",
+        "NLTC Perera": "0f12f9df",
+        "NM Lyon": "96a6a7ad",
+        "PM Nevill": "a22fb7b5",
+        "SA Abbott": "1a2676c5",
+        "SA Lightbody": "680b8cbf",
+        "SAJ Craig": "689f2eed",
+        "SP Narine": "9d430b40",
+        "SR Bernard": "800187dc",
+        "TLW Cooper": "2318ba22"
+      }
+    },
+    "season": "2016/17",
+    "team_type": "club",
+    "teams": [
+      "Sydney Sixers",
+      "Melbourne Renegades"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "Melbourne Renegades"
+    },
+    "venue": "Sydney Cricket Ground"
+  },
+  "innings": [
+    {
+      "team": "Melbourne Renegades",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "SP Narine",
+              "bowler": "JM Bird",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SP Narine",
+              "bowler": "JM Bird",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SP Narine",
+              "bowler": "JM Bird",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "JM Bird",
+              "non_striker": "SP Narine",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SP Narine",
+              "bowler": "JM Bird",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught and bowled",
+                  "player_out": "SP Narine"
+                }
+              ]
+            },
+            {
+              "batter": "CL White",
+              "bowler": "JM Bird",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "AJ Finch",
+              "bowler": "BJ Dwarshuis",
+              "non_striker": "CL White",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CL White",
+              "bowler": "BJ Dwarshuis",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "CL White",
+              "bowler": "BJ Dwarshuis",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CL White",
+              "bowler": "BJ Dwarshuis",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "BJ Dwarshuis",
+              "non_striker": "CL White",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CL White",
+              "bowler": "BJ Dwarshuis",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "CL White",
+              "bowler": "JM Bird",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CL White",
+              "bowler": "JM Bird",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CL White",
+              "bowler": "JM Bird",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "CL White",
+              "bowler": "JM Bird",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CL White",
+              "bowler": "JM Bird",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "CL White",
+              "bowler": "JM Bird",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "CL White",
+              "bowler": "BJ Dwarshuis",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "CL White",
+              "bowler": "BJ Dwarshuis",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "CL White",
+                  "fielders": [
+                    {
+                      "name": "JM Bird"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "TLW Cooper",
+              "bowler": "BJ Dwarshuis",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "TLW Cooper",
+              "bowler": "BJ Dwarshuis",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "BJ Dwarshuis",
+              "non_striker": "TLW Cooper",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "BJ Dwarshuis",
+              "non_striker": "TLW Cooper",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "TLW Cooper",
+              "bowler": "JM Bird",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "JM Bird",
+              "non_striker": "TLW Cooper",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TLW Cooper",
+              "bowler": "JM Bird",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "TLW Cooper",
+              "bowler": "JM Bird",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "TLW Cooper",
+              "bowler": "JM Bird",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TLW Cooper",
+              "bowler": "JM Bird",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "AJ Finch",
+              "bowler": "SA Abbott",
+              "non_striker": "TLW Cooper",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TLW Cooper",
+              "bowler": "SA Abbott",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TLW Cooper",
+              "bowler": "SA Abbott",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TLW Cooper",
+              "bowler": "SA Abbott",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TLW Cooper",
+              "bowler": "SA Abbott",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "SA Abbott",
+              "non_striker": "TLW Cooper",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "AJ Finch",
+              "bowler": "NM Lyon",
+              "non_striker": "TLW Cooper",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "NM Lyon",
+              "non_striker": "TLW Cooper",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "NM Lyon",
+              "non_striker": "TLW Cooper",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "NM Lyon",
+              "non_striker": "TLW Cooper",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TLW Cooper",
+              "bowler": "NM Lyon",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "NM Lyon",
+              "non_striker": "TLW Cooper",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "AJ Finch",
+              "bowler": "NJ Maddinson",
+              "non_striker": "TLW Cooper",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "NJ Maddinson",
+              "non_striker": "TLW Cooper",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "NJ Maddinson",
+              "non_striker": "TLW Cooper",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "NJ Maddinson",
+              "non_striker": "TLW Cooper",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "NJ Maddinson",
+              "non_striker": "TLW Cooper",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TLW Cooper",
+              "bowler": "NJ Maddinson",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "AJ Finch",
+              "bowler": "NM Lyon",
+              "non_striker": "TLW Cooper",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "NM Lyon",
+              "non_striker": "TLW Cooper",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "NM Lyon",
+              "non_striker": "TLW Cooper",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "NM Lyon",
+              "non_striker": "TLW Cooper",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TLW Cooper",
+              "bowler": "NM Lyon",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "TLW Cooper",
+              "bowler": "NM Lyon",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "TLW Cooper",
+              "bowler": "SA Abbott",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "TLW Cooper",
+              "bowler": "SA Abbott",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "SA Abbott",
+              "non_striker": "TLW Cooper",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "SA Abbott",
+              "non_striker": "TLW Cooper",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TLW Cooper",
+              "bowler": "SA Abbott",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TLW Cooper",
+              "bowler": "SA Abbott",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "TLW Cooper",
+              "bowler": "J Botha",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "J Botha",
+              "non_striker": "TLW Cooper",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TLW Cooper",
+              "bowler": "J Botha",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "J Botha",
+              "non_striker": "TLW Cooper",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "J Botha",
+              "non_striker": "TLW Cooper",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TLW Cooper",
+              "bowler": "J Botha",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "AJ Finch",
+              "bowler": "BJ Dwarshuis",
+              "non_striker": "TLW Cooper",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "BJ Dwarshuis",
+              "non_striker": "TLW Cooper",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TLW Cooper",
+              "bowler": "BJ Dwarshuis",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "TLW Cooper",
+              "bowler": "BJ Dwarshuis",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "TLW Cooper",
+                  "fielders": [
+                    {
+                      "name": "BJ Haddin"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "CJ Ferguson",
+              "bowler": "BJ Dwarshuis",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CJ Ferguson",
+              "bowler": "BJ Dwarshuis",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "CJ Ferguson",
+              "bowler": "J Botha",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "J Botha",
+              "non_striker": "CJ Ferguson",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "J Botha",
+              "non_striker": "CJ Ferguson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CJ Ferguson",
+              "bowler": "J Botha",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CJ Ferguson",
+              "bowler": "J Botha",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "CJ Ferguson",
+              "bowler": "J Botha",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "CJ Ferguson",
+              "bowler": "SA Abbott",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "SA Abbott",
+              "non_striker": "CJ Ferguson",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "SA Abbott",
+              "non_striker": "CJ Ferguson",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "SA Abbott",
+              "non_striker": "CJ Ferguson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "SA Abbott",
+              "non_striker": "CJ Ferguson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "SA Abbott",
+              "non_striker": "CJ Ferguson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "AJ Finch",
+              "bowler": "NM Lyon",
+              "non_striker": "CJ Ferguson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "NM Lyon",
+              "non_striker": "CJ Ferguson",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "CJ Ferguson",
+              "bowler": "NM Lyon",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "NM Lyon",
+              "non_striker": "CJ Ferguson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CJ Ferguson",
+              "bowler": "NM Lyon",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "NM Lyon",
+              "non_striker": "CJ Ferguson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "AJ Finch",
+              "bowler": "JM Bird",
+              "non_striker": "CJ Ferguson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CJ Ferguson",
+              "bowler": "JM Bird",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "CJ Ferguson",
+              "bowler": "JM Bird",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CJ Ferguson",
+              "bowler": "JM Bird",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "CJ Ferguson",
+              "bowler": "JM Bird",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "JM Bird",
+              "non_striker": "CJ Ferguson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "AJ Finch",
+              "bowler": "J Botha",
+              "non_striker": "CJ Ferguson",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "J Botha",
+              "non_striker": "CJ Ferguson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "AJ Finch",
+                  "fielders": [
+                    {
+                      "name": "JM Bird"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "NLTC Perera",
+              "bowler": "J Botha",
+              "non_striker": "CJ Ferguson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CJ Ferguson",
+              "bowler": "J Botha",
+              "non_striker": "NLTC Perera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NLTC Perera",
+              "bowler": "J Botha",
+              "non_striker": "CJ Ferguson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NLTC Perera",
+              "bowler": "J Botha",
+              "non_striker": "CJ Ferguson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "NLTC Perera",
+              "bowler": "BJ Dwarshuis",
+              "non_striker": "CJ Ferguson",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "NLTC Perera",
+              "bowler": "BJ Dwarshuis",
+              "non_striker": "CJ Ferguson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NLTC Perera",
+              "bowler": "BJ Dwarshuis",
+              "non_striker": "CJ Ferguson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "NLTC Perera",
+                  "fielders": [
+                    {
+                      "name": "NJ Maddinson"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "CJ Ferguson",
+              "bowler": "BJ Dwarshuis",
+              "non_striker": "MW Short",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "CJ Ferguson",
+              "bowler": "BJ Dwarshuis",
+              "non_striker": "MW Short",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CJ Ferguson",
+              "bowler": "BJ Dwarshuis",
+              "non_striker": "MW Short",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "MW Short",
+              "bowler": "J Botha",
+              "non_striker": "CJ Ferguson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CJ Ferguson",
+              "bowler": "J Botha",
+              "non_striker": "MW Short",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MW Short",
+              "bowler": "J Botha",
+              "non_striker": "CJ Ferguson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CJ Ferguson",
+              "bowler": "J Botha",
+              "non_striker": "MW Short",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "CJ Ferguson",
+              "bowler": "J Botha",
+              "non_striker": "MW Short",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MW Short",
+              "bowler": "J Botha",
+              "non_striker": "CJ Ferguson",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "CJ Ferguson",
+              "bowler": "SA Abbott",
+              "non_striker": "MW Short",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "CJ Ferguson",
+              "bowler": "SA Abbott",
+              "non_striker": "MW Short",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "CJ Ferguson",
+              "bowler": "SA Abbott",
+              "non_striker": "MW Short",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MW Short",
+              "bowler": "SA Abbott",
+              "non_striker": "CJ Ferguson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CJ Ferguson",
+              "bowler": "SA Abbott",
+              "non_striker": "MW Short",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "CJ Ferguson",
+              "bowler": "SA Abbott",
+              "non_striker": "MW Short",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "CJ Ferguson",
+                  "fielders": [
+                    {
+                      "name": "NJ Maddinson"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Sydney Sixers",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "DP Hughes",
+              "bowler": "TLW Cooper",
+              "non_striker": "MJ Lumb",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DP Hughes",
+              "bowler": "TLW Cooper",
+              "non_striker": "MJ Lumb",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DP Hughes",
+              "bowler": "TLW Cooper",
+              "non_striker": "MJ Lumb",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DP Hughes",
+              "bowler": "TLW Cooper",
+              "non_striker": "MJ Lumb",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DP Hughes",
+              "bowler": "TLW Cooper",
+              "non_striker": "MJ Lumb",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MJ Lumb",
+              "bowler": "TLW Cooper",
+              "non_striker": "DP Hughes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "DP Hughes",
+              "bowler": "JL Pattinson",
+              "non_striker": "MJ Lumb",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MJ Lumb",
+              "bowler": "JL Pattinson",
+              "non_striker": "DP Hughes",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "DP Hughes",
+              "bowler": "JL Pattinson",
+              "non_striker": "MJ Lumb",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MJ Lumb",
+              "bowler": "JL Pattinson",
+              "non_striker": "DP Hughes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DP Hughes",
+              "bowler": "JL Pattinson",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "MJ Lumb",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DP Hughes",
+              "bowler": "JL Pattinson",
+              "non_striker": "MJ Lumb",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MJ Lumb",
+              "bowler": "JL Pattinson",
+              "non_striker": "DP Hughes",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "DP Hughes",
+              "bowler": "SP Narine",
+              "non_striker": "MJ Lumb",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DP Hughes",
+              "bowler": "SP Narine",
+              "non_striker": "MJ Lumb",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DP Hughes",
+              "bowler": "SP Narine",
+              "non_striker": "MJ Lumb",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MJ Lumb",
+              "bowler": "SP Narine",
+              "non_striker": "DP Hughes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MJ Lumb",
+              "bowler": "SP Narine",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "DP Hughes",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MJ Lumb",
+              "bowler": "SP Narine",
+              "non_striker": "DP Hughes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DP Hughes",
+              "bowler": "SP Narine",
+              "non_striker": "MJ Lumb",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "DP Hughes",
+              "bowler": "CP Tremain",
+              "non_striker": "MJ Lumb",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DP Hughes",
+              "bowler": "CP Tremain",
+              "non_striker": "MJ Lumb",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MJ Lumb",
+              "bowler": "CP Tremain",
+              "non_striker": "DP Hughes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DP Hughes",
+              "bowler": "CP Tremain",
+              "non_striker": "MJ Lumb",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DP Hughes",
+              "bowler": "CP Tremain",
+              "non_striker": "MJ Lumb",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DP Hughes",
+              "bowler": "CP Tremain",
+              "non_striker": "MJ Lumb",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "MJ Lumb",
+              "bowler": "JL Pattinson",
+              "non_striker": "DP Hughes",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MJ Lumb",
+              "bowler": "JL Pattinson",
+              "non_striker": "DP Hughes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DP Hughes",
+              "bowler": "JL Pattinson",
+              "non_striker": "MJ Lumb",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DP Hughes",
+              "bowler": "JL Pattinson",
+              "non_striker": "MJ Lumb",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DP Hughes",
+              "bowler": "JL Pattinson",
+              "non_striker": "MJ Lumb",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DP Hughes",
+              "bowler": "JL Pattinson",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "MJ Lumb",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DP Hughes",
+              "bowler": "JL Pattinson",
+              "non_striker": "MJ Lumb",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "DP Hughes",
+              "bowler": "CP Tremain",
+              "non_striker": "MJ Lumb",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MJ Lumb",
+              "bowler": "CP Tremain",
+              "non_striker": "DP Hughes",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MJ Lumb",
+              "bowler": "CP Tremain",
+              "non_striker": "DP Hughes",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MJ Lumb",
+              "bowler": "CP Tremain",
+              "non_striker": "DP Hughes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DP Hughes",
+              "bowler": "CP Tremain",
+              "non_striker": "MJ Lumb",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DP Hughes",
+              "bowler": "CP Tremain",
+              "non_striker": "MJ Lumb",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "MJ Lumb",
+              "bowler": "GB Hogg",
+              "non_striker": "DP Hughes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DP Hughes",
+              "bowler": "GB Hogg",
+              "non_striker": "MJ Lumb",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MJ Lumb",
+              "bowler": "GB Hogg",
+              "non_striker": "DP Hughes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MJ Lumb",
+              "bowler": "GB Hogg",
+              "non_striker": "DP Hughes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DP Hughes",
+              "bowler": "GB Hogg",
+              "non_striker": "MJ Lumb",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MJ Lumb",
+              "bowler": "GB Hogg",
+              "non_striker": "DP Hughes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "MJ Lumb",
+              "bowler": "SP Narine",
+              "non_striker": "DP Hughes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DP Hughes",
+              "bowler": "SP Narine",
+              "non_striker": "MJ Lumb",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "DP Hughes",
+              "bowler": "SP Narine",
+              "non_striker": "MJ Lumb",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DP Hughes",
+              "bowler": "SP Narine",
+              "non_striker": "MJ Lumb",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "DP Hughes",
+                  "fielders": [
+                    {
+                      "name": "NLTC Perera"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "MJ Lumb",
+              "bowler": "SP Narine",
+              "non_striker": "NJ Maddinson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NJ Maddinson",
+              "bowler": "SP Narine",
+              "non_striker": "MJ Lumb",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "NJ Maddinson",
+              "bowler": "GB Hogg",
+              "non_striker": "MJ Lumb",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NJ Maddinson",
+              "bowler": "GB Hogg",
+              "non_striker": "MJ Lumb",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MJ Lumb",
+              "bowler": "GB Hogg",
+              "non_striker": "NJ Maddinson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MJ Lumb",
+              "bowler": "GB Hogg",
+              "non_striker": "NJ Maddinson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NJ Maddinson",
+              "bowler": "GB Hogg",
+              "non_striker": "MJ Lumb",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "NJ Maddinson",
+              "bowler": "GB Hogg",
+              "non_striker": "MJ Lumb",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "NJ Maddinson",
+              "bowler": "NLTC Perera",
+              "non_striker": "MJ Lumb",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MJ Lumb",
+              "bowler": "NLTC Perera",
+              "non_striker": "NJ Maddinson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NJ Maddinson",
+              "bowler": "NLTC Perera",
+              "non_striker": "MJ Lumb",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MJ Lumb",
+              "bowler": "NLTC Perera",
+              "non_striker": "NJ Maddinson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "MJ Lumb",
+                  "fielders": [
+                    {
+                      "name": "SP Narine"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "MC Henriques",
+              "bowler": "NLTC Perera",
+              "non_striker": "NJ Maddinson",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MC Henriques",
+              "bowler": "NLTC Perera",
+              "non_striker": "NJ Maddinson",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "NJ Maddinson",
+              "bowler": "GB Hogg",
+              "non_striker": "MC Henriques",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "NJ Maddinson",
+              "bowler": "GB Hogg",
+              "non_striker": "MC Henriques",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "NJ Maddinson",
+              "bowler": "GB Hogg",
+              "non_striker": "MC Henriques",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "MC Henriques",
+              "bowler": "GB Hogg",
+              "non_striker": "NJ Maddinson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MC Henriques",
+              "bowler": "GB Hogg",
+              "non_striker": "NJ Maddinson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NJ Maddinson",
+              "bowler": "GB Hogg",
+              "non_striker": "MC Henriques",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "MC Henriques",
+              "bowler": "NLTC Perera",
+              "non_striker": "NJ Maddinson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NJ Maddinson",
+              "bowler": "NLTC Perera",
+              "non_striker": "MC Henriques",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MC Henriques",
+              "bowler": "NLTC Perera",
+              "non_striker": "NJ Maddinson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MC Henriques",
+              "bowler": "NLTC Perera",
+              "non_striker": "NJ Maddinson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NJ Maddinson",
+              "bowler": "NLTC Perera",
+              "non_striker": "MC Henriques",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MC Henriques",
+              "bowler": "NLTC Perera",
+              "non_striker": "NJ Maddinson",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "NJ Maddinson",
+              "bowler": "CP Tremain",
+              "non_striker": "MC Henriques",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MC Henriques",
+              "bowler": "CP Tremain",
+              "non_striker": "NJ Maddinson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NJ Maddinson",
+              "bowler": "CP Tremain",
+              "non_striker": "MC Henriques",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "NJ Maddinson",
+              "bowler": "CP Tremain",
+              "non_striker": "MC Henriques",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MC Henriques",
+              "bowler": "CP Tremain",
+              "non_striker": "NJ Maddinson",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MC Henriques",
+              "bowler": "CP Tremain",
+              "non_striker": "NJ Maddinson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "MC Henriques",
+              "bowler": "SP Narine",
+              "non_striker": "NJ Maddinson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NJ Maddinson",
+              "bowler": "SP Narine",
+              "non_striker": "MC Henriques",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "stumped",
+                  "player_out": "NJ Maddinson",
+                  "fielders": [
+                    {
+                      "name": "PM Nevill"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "BJ Haddin",
+              "bowler": "SP Narine",
+              "non_striker": "MC Henriques",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BJ Haddin",
+              "bowler": "SP Narine",
+              "non_striker": "MC Henriques",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MC Henriques",
+              "bowler": "SP Narine",
+              "non_striker": "BJ Haddin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MC Henriques",
+              "bowler": "SP Narine",
+              "non_striker": "BJ Haddin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "MC Henriques",
+              "bowler": "GB Hogg",
+              "non_striker": "BJ Haddin",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MC Henriques",
+              "bowler": "GB Hogg",
+              "non_striker": "BJ Haddin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BJ Haddin",
+              "bowler": "GB Hogg",
+              "non_striker": "MC Henriques",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "BJ Haddin",
+              "bowler": "GB Hogg",
+              "non_striker": "MC Henriques",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BJ Haddin",
+              "bowler": "GB Hogg",
+              "non_striker": "MC Henriques",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MC Henriques",
+              "bowler": "GB Hogg",
+              "non_striker": "BJ Haddin",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "BJ Haddin",
+              "bowler": "SP Narine",
+              "non_striker": "MC Henriques",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "BJ Haddin",
+              "bowler": "SP Narine",
+              "non_striker": "MC Henriques",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BJ Haddin",
+              "bowler": "SP Narine",
+              "non_striker": "MC Henriques",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BJ Haddin",
+              "bowler": "SP Narine",
+              "non_striker": "MC Henriques",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "BJ Haddin",
+              "bowler": "SP Narine",
+              "non_striker": "MC Henriques",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MC Henriques",
+              "bowler": "SP Narine",
+              "non_striker": "BJ Haddin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "MC Henriques",
+              "bowler": "NLTC Perera",
+              "non_striker": "BJ Haddin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BJ Haddin",
+              "bowler": "NLTC Perera",
+              "non_striker": "MC Henriques",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "BJ Haddin",
+              "bowler": "NLTC Perera",
+              "non_striker": "MC Henriques",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MC Henriques",
+              "bowler": "NLTC Perera",
+              "non_striker": "BJ Haddin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "MC Henriques",
+                  "fielders": [
+                    {
+                      "name": "CJ Ferguson"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "BJ Haddin",
+              "bowler": "NLTC Perera",
+              "non_striker": "JC Silk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JC Silk",
+              "bowler": "NLTC Perera",
+              "non_striker": "BJ Haddin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "JC Silk",
+              "bowler": "MW Short",
+              "non_striker": "BJ Haddin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BJ Haddin",
+              "bowler": "MW Short",
+              "non_striker": "JC Silk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JC Silk",
+              "bowler": "MW Short",
+              "non_striker": "BJ Haddin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BJ Haddin",
+              "bowler": "MW Short",
+              "non_striker": "JC Silk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JC Silk",
+              "bowler": "MW Short",
+              "non_striker": "BJ Haddin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JC Silk",
+              "bowler": "MW Short",
+              "non_striker": "BJ Haddin",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "BJ Haddin",
+              "bowler": "NLTC Perera",
+              "non_striker": "JC Silk",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "BJ Haddin",
+              "bowler": "NLTC Perera",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "JC Silk",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JC Silk",
+              "bowler": "NLTC Perera",
+              "non_striker": "BJ Haddin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BJ Haddin",
+              "bowler": "NLTC Perera",
+              "non_striker": "JC Silk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JC Silk",
+              "bowler": "NLTC Perera",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "BJ Haddin",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BJ Haddin",
+              "bowler": "NLTC Perera",
+              "non_striker": "JC Silk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "BJ Haddin",
+              "bowler": "JL Pattinson",
+              "non_striker": "JC Silk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BJ Haddin",
+              "bowler": "JL Pattinson",
+              "non_striker": "JC Silk",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "BJ Haddin",
+              "bowler": "JL Pattinson",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "JC Silk",
+              "runs": {
+                "batter": 2,
+                "extras": 1,
+                "total": 3
+              }
+            },
+            {
+              "batter": "BJ Haddin",
+              "bowler": "JL Pattinson",
+              "non_striker": "JC Silk",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 171
+      }
+    }
+  ]
+}

@@ -1,0 +1,2289 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2022-08-12",
+    "revision": 2
+  },
+  "info": {
+    "balls_per_over": 5,
+    "city": "London",
+    "dates": [
+      "2022-08-11"
+    ],
+    "event": {
+      "name": "The Hundred Women's Competition",
+      "match_number": 1
+    },
+    "gender": "female",
+    "match_type": "T20",
+    "officials": {
+      "match_referees": [
+        "SJ Davis"
+      ],
+      "reserve_umpires": [
+        "S McLelland"
+      ],
+      "tv_umpires": [
+        "NJ Llong"
+      ],
+      "umpires": [
+        "Rob White",
+        "SM Bartlett"
+      ]
+    },
+    "outcome": {
+      "winner": "Oval Invincibles",
+      "by": {
+        "wickets": 9
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "L Winfield-Hill"
+    ],
+    "players": {
+      "Northern Superchargers": [
+        "AJ Healy",
+        "JI Rodrigues",
+        "BAM Heath",
+        "HJ Armitage",
+        "L Wolvaardt",
+        "AN Davidson-Richards",
+        "JL Gunn",
+        "LCN Smith",
+        "BA Langston",
+        "LF Higham",
+        "KA Levick"
+      ],
+      "Oval Invincibles": [
+        "L Winfield-Hill",
+        "SW Bates",
+        "A Capsey",
+        "D van Niekerk",
+        "MK Villiers",
+        "KM Chathli",
+        "KE White",
+        "E Gray",
+        "R MacDonald-Gay",
+        "S Ismail",
+        "Sophia Smale"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Capsey": "910dd54e",
+        "AJ Healy": "321644de",
+        "AN Davidson-Richards": "35828bdd",
+        "BA Langston": "fb192f98",
+        "BAM Heath": "3b5a9438",
+        "D van Niekerk": "8c5775f3",
+        "E Gray": "58717de2",
+        "HJ Armitage": "f05167d2",
+        "JI Rodrigues": "cb08b611",
+        "JL Gunn": "907c51ab",
+        "KA Levick": "8f30d191",
+        "KE White": "35eda1e3",
+        "KM Chathli": "6ffbf04c",
+        "L Winfield-Hill": "5230a33d",
+        "L Wolvaardt": "e60f81c9",
+        "LCN Smith": "340202b0",
+        "LF Higham": "fbd79b9b",
+        "MK Villiers": "cd62f670",
+        "NJ Llong": "573fb985",
+        "R MacDonald-Gay": "459a7b0a",
+        "Rob White": "59b91222",
+        "S Ismail": "108c4c09",
+        "S McLelland": "fcc653b8",
+        "SJ Davis": "bc71b0b2",
+        "SM Bartlett": "7ba18406",
+        "SW Bates": "89bbc67a",
+        "Sophia Smale": "c296dba1"
+      }
+    },
+    "season": "2022",
+    "team_type": "club",
+    "teams": [
+      "Northern Superchargers",
+      "Oval Invincibles"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Oval Invincibles"
+    },
+    "venue": "Kennington Oval, London"
+  },
+  "innings": [
+    {
+      "team": "Northern Superchargers",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "AJ Healy",
+              "bowler": "MK Villiers",
+              "non_striker": "JI Rodrigues",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Healy",
+              "bowler": "MK Villiers",
+              "non_striker": "JI Rodrigues",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "AJ Healy",
+              "bowler": "MK Villiers",
+              "non_striker": "JI Rodrigues",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Healy",
+              "bowler": "MK Villiers",
+              "non_striker": "JI Rodrigues",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AJ Healy",
+              "bowler": "MK Villiers",
+              "non_striker": "JI Rodrigues",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "AJ Healy",
+              "bowler": "Sophia Smale",
+              "non_striker": "JI Rodrigues",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JI Rodrigues",
+              "bowler": "Sophia Smale",
+              "non_striker": "AJ Healy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AJ Healy",
+              "bowler": "Sophia Smale",
+              "non_striker": "JI Rodrigues",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "AJ Healy",
+                  "fielders": [
+                    {
+                      "name": "SW Bates"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "BAM Heath",
+              "bowler": "Sophia Smale",
+              "non_striker": "JI Rodrigues",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BAM Heath",
+              "bowler": "Sophia Smale",
+              "non_striker": "JI Rodrigues",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "JI Rodrigues",
+              "bowler": "S Ismail",
+              "non_striker": "BAM Heath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JI Rodrigues",
+              "bowler": "S Ismail",
+              "non_striker": "BAM Heath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JI Rodrigues",
+              "bowler": "S Ismail",
+              "non_striker": "BAM Heath",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BAM Heath",
+              "bowler": "S Ismail",
+              "non_striker": "JI Rodrigues",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JI Rodrigues",
+              "bowler": "S Ismail",
+              "non_striker": "BAM Heath",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "JI Rodrigues",
+              "bowler": "Sophia Smale",
+              "non_striker": "BAM Heath",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JI Rodrigues",
+              "bowler": "Sophia Smale",
+              "non_striker": "BAM Heath",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JI Rodrigues",
+              "bowler": "Sophia Smale",
+              "non_striker": "BAM Heath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JI Rodrigues",
+              "bowler": "Sophia Smale",
+              "non_striker": "BAM Heath",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BAM Heath",
+              "bowler": "Sophia Smale",
+              "non_striker": "JI Rodrigues",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "BAM Heath",
+              "bowler": "A Capsey",
+              "non_striker": "JI Rodrigues",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "BAM Heath",
+              "bowler": "A Capsey",
+              "non_striker": "JI Rodrigues",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "BAM Heath",
+                  "fielders": [
+                    {
+                      "name": "MK Villiers"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "HJ Armitage",
+              "bowler": "A Capsey",
+              "non_striker": "JI Rodrigues",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HJ Armitage",
+              "bowler": "A Capsey",
+              "non_striker": "JI Rodrigues",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JI Rodrigues",
+              "bowler": "A Capsey",
+              "non_striker": "HJ Armitage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "HJ Armitage",
+              "bowler": "S Ismail",
+              "non_striker": "JI Rodrigues",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "HJ Armitage",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "S Ismail",
+              "non_striker": "JI Rodrigues",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "S Ismail",
+              "non_striker": "JI Rodrigues",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "S Ismail",
+              "non_striker": "JI Rodrigues",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "S Ismail",
+              "non_striker": "JI Rodrigues",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "D van Niekerk",
+              "non_striker": "JI Rodrigues",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JI Rodrigues",
+              "bowler": "D van Niekerk",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "D van Niekerk",
+              "non_striker": "JI Rodrigues",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JI Rodrigues",
+              "bowler": "D van Niekerk",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "D van Niekerk",
+              "non_striker": "JI Rodrigues",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "JI Rodrigues",
+              "bowler": "MK Villiers",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JI Rodrigues",
+              "bowler": "MK Villiers",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JI Rodrigues",
+              "bowler": "MK Villiers",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "MK Villiers",
+              "non_striker": "JI Rodrigues",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "MK Villiers",
+              "non_striker": "JI Rodrigues",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "JI Rodrigues",
+              "bowler": "D van Niekerk",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "D van Niekerk",
+              "non_striker": "JI Rodrigues",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JI Rodrigues",
+              "bowler": "D van Niekerk",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JI Rodrigues",
+              "bowler": "D van Niekerk",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JI Rodrigues",
+              "bowler": "D van Niekerk",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "E Gray",
+              "non_striker": "JI Rodrigues",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "E Gray",
+              "non_striker": "JI Rodrigues",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "E Gray",
+              "non_striker": "JI Rodrigues",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JI Rodrigues",
+              "bowler": "E Gray",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JI Rodrigues",
+              "bowler": "E Gray",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "JI Rodrigues",
+              "bowler": "Sophia Smale",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "Sophia Smale",
+              "non_striker": "JI Rodrigues",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "Sophia Smale",
+              "non_striker": "JI Rodrigues",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "Sophia Smale",
+              "non_striker": "JI Rodrigues",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JI Rodrigues",
+              "bowler": "Sophia Smale",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "D van Niekerk",
+              "non_striker": "JI Rodrigues",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "D van Niekerk",
+              "non_striker": "JI Rodrigues",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JI Rodrigues",
+              "bowler": "D van Niekerk",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JI Rodrigues",
+              "bowler": "D van Niekerk",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "D van Niekerk",
+              "non_striker": "JI Rodrigues",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "S Ismail",
+              "extras": {
+                "byes": 4
+              },
+              "non_striker": "JI Rodrigues",
+              "runs": {
+                "batter": 0,
+                "extras": 4,
+                "total": 4
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "S Ismail",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "JI Rodrigues",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "S Ismail",
+              "non_striker": "JI Rodrigues",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "S Ismail",
+              "non_striker": "JI Rodrigues",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "S Ismail",
+              "non_striker": "JI Rodrigues",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JI Rodrigues",
+              "bowler": "S Ismail",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "JI Rodrigues",
+              "bowler": "Sophia Smale",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "JI Rodrigues",
+              "bowler": "Sophia Smale",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JI Rodrigues",
+              "bowler": "Sophia Smale",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JI Rodrigues",
+              "bowler": "Sophia Smale",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "Sophia Smale",
+              "non_striker": "JI Rodrigues",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JI Rodrigues",
+              "bowler": "Sophia Smale",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "JI Rodrigues",
+              "bowler": "R MacDonald-Gay",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JI Rodrigues",
+              "bowler": "R MacDonald-Gay",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "JI Rodrigues",
+                  "fielders": [
+                    {
+                      "name": "A Capsey"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "AN Davidson-Richards",
+              "bowler": "R MacDonald-Gay",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AN Davidson-Richards",
+              "bowler": "R MacDonald-Gay",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AN Davidson-Richards",
+              "bowler": "R MacDonald-Gay",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "E Gray",
+              "non_striker": "AN Davidson-Richards",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AN Davidson-Richards",
+              "bowler": "E Gray",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "E Gray",
+              "non_striker": "AN Davidson-Richards",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AN Davidson-Richards",
+              "bowler": "E Gray",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AN Davidson-Richards",
+              "bowler": "E Gray",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "AN Davidson-Richards",
+              "bowler": "MK Villiers",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AN Davidson-Richards",
+              "bowler": "MK Villiers",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "MK Villiers",
+              "non_striker": "AN Davidson-Richards",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AN Davidson-Richards",
+              "bowler": "MK Villiers",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AN Davidson-Richards",
+              "bowler": "MK Villiers",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "R MacDonald-Gay",
+              "non_striker": "AN Davidson-Richards",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AN Davidson-Richards",
+              "bowler": "R MacDonald-Gay",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AN Davidson-Richards",
+              "bowler": "R MacDonald-Gay",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "R MacDonald-Gay",
+              "non_striker": "AN Davidson-Richards",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "R MacDonald-Gay",
+              "non_striker": "AN Davidson-Richards",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "S Ismail",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "AN Davidson-Richards",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AN Davidson-Richards",
+              "bowler": "S Ismail",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "S Ismail",
+              "non_striker": "AN Davidson-Richards",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "S Ismail",
+              "non_striker": "AN Davidson-Richards",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "S Ismail",
+              "extras": {
+                "noballs": 2
+              },
+              "non_striker": "AN Davidson-Richards",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "S Ismail",
+              "non_striker": "AN Davidson-Richards",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "AN Davidson-Richards",
+              "bowler": "R MacDonald-Gay",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "R MacDonald-Gay",
+              "non_striker": "AN Davidson-Richards",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "R MacDonald-Gay",
+              "non_striker": "AN Davidson-Richards",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "R MacDonald-Gay",
+              "non_striker": "AN Davidson-Richards",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "R MacDonald-Gay",
+              "non_striker": "AN Davidson-Richards",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "L Wolvaardt",
+                  "fielders": [
+                    {
+                      "name": "SW Bates"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 4.5,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Oval Invincibles",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "L Winfield-Hill",
+              "bowler": "LF Higham",
+              "non_striker": "SW Bates",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Winfield-Hill",
+              "bowler": "LF Higham",
+              "non_striker": "SW Bates",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Winfield-Hill",
+              "bowler": "LF Higham",
+              "non_striker": "SW Bates",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SW Bates",
+              "bowler": "LF Higham",
+              "non_striker": "L Winfield-Hill",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SW Bates",
+              "bowler": "LF Higham",
+              "non_striker": "L Winfield-Hill",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "SW Bates",
+              "bowler": "BA Langston",
+              "non_striker": "L Winfield-Hill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Winfield-Hill",
+              "bowler": "BA Langston",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "SW Bates",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Winfield-Hill",
+              "bowler": "BA Langston",
+              "non_striker": "SW Bates",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Winfield-Hill",
+              "bowler": "BA Langston",
+              "non_striker": "SW Bates",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "L Winfield-Hill",
+              "bowler": "BA Langston",
+              "non_striker": "SW Bates",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "L Winfield-Hill",
+              "bowler": "BA Langston",
+              "non_striker": "SW Bates",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "L Winfield-Hill",
+              "bowler": "LF Higham",
+              "non_striker": "SW Bates",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SW Bates",
+              "bowler": "LF Higham",
+              "non_striker": "L Winfield-Hill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Winfield-Hill",
+              "bowler": "LF Higham",
+              "non_striker": "SW Bates",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Winfield-Hill",
+              "bowler": "LF Higham",
+              "non_striker": "SW Bates",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "L Winfield-Hill",
+              "bowler": "LF Higham",
+              "non_striker": "SW Bates",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "SW Bates",
+              "bowler": "LCN Smith",
+              "non_striker": "L Winfield-Hill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SW Bates",
+              "bowler": "LCN Smith",
+              "non_striker": "L Winfield-Hill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SW Bates",
+              "bowler": "LCN Smith",
+              "non_striker": "L Winfield-Hill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Winfield-Hill",
+              "bowler": "LCN Smith",
+              "non_striker": "SW Bates",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Winfield-Hill",
+              "bowler": "LCN Smith",
+              "non_striker": "SW Bates",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "L Winfield-Hill",
+              "bowler": "LCN Smith",
+              "non_striker": "SW Bates",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Winfield-Hill",
+              "bowler": "LCN Smith",
+              "non_striker": "SW Bates",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "L Winfield-Hill",
+              "bowler": "LCN Smith",
+              "non_striker": "SW Bates",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SW Bates",
+              "bowler": "LCN Smith",
+              "non_striker": "L Winfield-Hill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SW Bates",
+              "bowler": "LCN Smith",
+              "non_striker": "L Winfield-Hill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "SW Bates",
+              "bowler": "JL Gunn",
+              "non_striker": "L Winfield-Hill",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SW Bates",
+              "bowler": "JL Gunn",
+              "non_striker": "L Winfield-Hill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SW Bates",
+              "bowler": "JL Gunn",
+              "non_striker": "L Winfield-Hill",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SW Bates",
+              "bowler": "JL Gunn",
+              "non_striker": "L Winfield-Hill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SW Bates",
+              "bowler": "JL Gunn",
+              "non_striker": "L Winfield-Hill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "SW Bates",
+              "bowler": "KA Levick",
+              "non_striker": "L Winfield-Hill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Winfield-Hill",
+              "bowler": "KA Levick",
+              "non_striker": "SW Bates",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SW Bates",
+              "bowler": "KA Levick",
+              "non_striker": "L Winfield-Hill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SW Bates",
+              "bowler": "KA Levick",
+              "non_striker": "L Winfield-Hill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Winfield-Hill",
+              "bowler": "KA Levick",
+              "non_striker": "SW Bates",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "SW Bates",
+              "bowler": "AN Davidson-Richards",
+              "non_striker": "L Winfield-Hill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Winfield-Hill",
+              "bowler": "AN Davidson-Richards",
+              "non_striker": "SW Bates",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SW Bates",
+              "bowler": "AN Davidson-Richards",
+              "non_striker": "L Winfield-Hill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SW Bates",
+              "bowler": "AN Davidson-Richards",
+              "non_striker": "L Winfield-Hill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Winfield-Hill",
+              "bowler": "AN Davidson-Richards",
+              "non_striker": "SW Bates",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "L Winfield-Hill",
+              "bowler": "KA Levick",
+              "non_striker": "SW Bates",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SW Bates",
+              "bowler": "KA Levick",
+              "non_striker": "L Winfield-Hill",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SW Bates",
+              "bowler": "KA Levick",
+              "non_striker": "L Winfield-Hill",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SW Bates",
+              "bowler": "KA Levick",
+              "non_striker": "L Winfield-Hill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Winfield-Hill",
+              "bowler": "KA Levick",
+              "non_striker": "SW Bates",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "SW Bates",
+              "bowler": "LCN Smith",
+              "non_striker": "L Winfield-Hill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Winfield-Hill",
+              "bowler": "LCN Smith",
+              "non_striker": "SW Bates",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "L Winfield-Hill",
+              "bowler": "LCN Smith",
+              "non_striker": "SW Bates",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SW Bates",
+              "bowler": "LCN Smith",
+              "non_striker": "L Winfield-Hill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Winfield-Hill",
+              "bowler": "LCN Smith",
+              "non_striker": "SW Bates",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "SW Bates",
+              "bowler": "AN Davidson-Richards",
+              "non_striker": "L Winfield-Hill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Winfield-Hill",
+              "bowler": "AN Davidson-Richards",
+              "non_striker": "SW Bates",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "L Winfield-Hill",
+              "bowler": "AN Davidson-Richards",
+              "non_striker": "SW Bates",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Winfield-Hill",
+              "bowler": "AN Davidson-Richards",
+              "non_striker": "SW Bates",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SW Bates",
+              "bowler": "AN Davidson-Richards",
+              "non_striker": "L Winfield-Hill",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "SW Bates",
+              "bowler": "BA Langston",
+              "non_striker": "L Winfield-Hill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Winfield-Hill",
+              "bowler": "BA Langston",
+              "non_striker": "SW Bates",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "L Winfield-Hill",
+              "bowler": "BA Langston",
+              "non_striker": "SW Bates",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "L Winfield-Hill",
+              "bowler": "BA Langston",
+              "non_striker": "SW Bates",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SW Bates",
+              "bowler": "BA Langston",
+              "non_striker": "L Winfield-Hill",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "L Winfield-Hill",
+              "bowler": "KA Levick",
+              "non_striker": "SW Bates",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SW Bates",
+              "bowler": "KA Levick",
+              "non_striker": "L Winfield-Hill",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SW Bates",
+              "bowler": "KA Levick",
+              "non_striker": "L Winfield-Hill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SW Bates",
+              "bowler": "KA Levick",
+              "non_striker": "L Winfield-Hill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Winfield-Hill",
+              "bowler": "KA Levick",
+              "non_striker": "SW Bates",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "L Winfield-Hill",
+              "bowler": "JL Gunn",
+              "non_striker": "SW Bates",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SW Bates",
+              "bowler": "JL Gunn",
+              "non_striker": "L Winfield-Hill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SW Bates",
+              "bowler": "JL Gunn",
+              "non_striker": "L Winfield-Hill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SW Bates",
+                  "fielders": [
+                    {
+                      "name": "L Wolvaardt"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "A Capsey",
+              "bowler": "JL Gunn",
+              "non_striker": "L Winfield-Hill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Winfield-Hill",
+              "bowler": "JL Gunn",
+              "non_striker": "A Capsey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "L Winfield-Hill",
+              "bowler": "AN Davidson-Richards",
+              "non_striker": "A Capsey",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "L Winfield-Hill",
+              "bowler": "AN Davidson-Richards",
+              "non_striker": "A Capsey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Capsey",
+              "bowler": "AN Davidson-Richards",
+              "non_striker": "L Winfield-Hill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Winfield-Hill",
+              "bowler": "AN Davidson-Richards",
+              "non_striker": "A Capsey",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "L Winfield-Hill",
+              "bowler": "AN Davidson-Richards",
+              "non_striker": "A Capsey",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "L Winfield-Hill",
+              "bowler": "JL Gunn",
+              "non_striker": "A Capsey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Winfield-Hill",
+              "bowler": "JL Gunn",
+              "non_striker": "A Capsey",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "L Winfield-Hill",
+              "bowler": "JL Gunn",
+              "non_striker": "A Capsey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Capsey",
+              "bowler": "JL Gunn",
+              "non_striker": "L Winfield-Hill",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "A Capsey",
+              "bowler": "JL Gunn",
+              "non_striker": "L Winfield-Hill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "A Capsey",
+              "bowler": "LCN Smith",
+              "non_striker": "L Winfield-Hill",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "A Capsey",
+              "bowler": "LCN Smith",
+              "non_striker": "L Winfield-Hill",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "A Capsey",
+              "bowler": "LCN Smith",
+              "non_striker": "L Winfield-Hill",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "A Capsey",
+              "bowler": "LCN Smith",
+              "non_striker": "L Winfield-Hill",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 4.5,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 144
+      }
+    }
+  ]
+}

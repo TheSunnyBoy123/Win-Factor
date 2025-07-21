@@ -1,0 +1,2909 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2025-01-03",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Kirtipur",
+    "dates": [
+      "2024-12-11"
+    ],
+    "event": {
+      "name": "Nepal Premier League",
+      "match_number": 19
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "officials": {
+      "match_referees": [
+        "M Nayyar"
+      ],
+      "reserve_umpires": [
+        "Basu Karn"
+      ],
+      "tv_umpires": [
+        "Bismillah Shinwari"
+      ],
+      "umpires": [
+        "HR Giri",
+        "Rashid Riaz"
+      ]
+    },
+    "outcome": {
+      "winner": "Kathmandu Gurkhas",
+      "by": {
+        "runs": 18
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "Karan KC"
+    ],
+    "players": {
+      "Kathmandu Gurkhas": [
+        "SS Eskinazi",
+        "M Levitt",
+        "B Sharki",
+        "MG Erasmus",
+        "S Maharjan",
+        "DA Douthwaite",
+        "Rashid Khan",
+        "Karan KC",
+        "P Shrestha",
+        "Shahab Alam",
+        "D Kandel"
+      ],
+      "Lumbini Lions": [
+        "A Ghiraiya",
+        "A Saud",
+        "UBT Chand",
+        "TJ Moores",
+        "RK Paudel",
+        "S Jora",
+        "Saad Bin Zafar",
+        "B Yadav",
+        "Surya Tamang",
+        "RR Simmonds",
+        "Abhishesh Gautam"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Ghiraiya": "878b1e06",
+        "A Saud": "94b8d7dd",
+        "Abhishesh Gautam": "0baa5518",
+        "B Sharki": "fbdc8309",
+        "B Yadav": "ef07f354",
+        "Basu Karn": "c620f573",
+        "Bismillah Shinwari": "cae815a0",
+        "D Kandel": "2e80c353",
+        "DA Douthwaite": "03df7a25",
+        "HR Giri": "fea1e74f",
+        "Karan KC": "f53b3e1d",
+        "M Levitt": "6a71ba3a",
+        "M Nayyar": "b7bccddb",
+        "MG Erasmus": "95a5e066",
+        "P Shrestha": "534c4b03",
+        "RK Paudel": "1a3cc554",
+        "RR Simmonds": "fcf6b0f6",
+        "Rashid Khan": "69cccff3",
+        "Rashid Riaz": "fb82725e",
+        "S Jora": "156378d8",
+        "S Maharjan": "f0b3e7ee",
+        "SS Eskinazi": "75cbed9b",
+        "Saad Bin Zafar": "f28a60e0",
+        "Shahab Alam": "cdd9fa95",
+        "Surya Tamang": "579f2447",
+        "TJ Moores": "85dcb721",
+        "UBT Chand": "0c94f480"
+      }
+    },
+    "season": "2024/25",
+    "team_type": "club",
+    "teams": [
+      "Kathmandu Gurkhas",
+      "Lumbini Lions"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "Kathmandu Gurkhas"
+    },
+    "venue": "Tribhuvan University International Cricket Ground, Kirtipur"
+  },
+  "innings": [
+    {
+      "team": "Kathmandu Gurkhas",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "SS Eskinazi",
+              "bowler": "RR Simmonds",
+              "non_striker": "M Levitt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Levitt",
+              "bowler": "RR Simmonds",
+              "non_striker": "SS Eskinazi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Levitt",
+              "bowler": "RR Simmonds",
+              "non_striker": "SS Eskinazi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "M Levitt",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "B Sharki",
+              "bowler": "RR Simmonds",
+              "non_striker": "SS Eskinazi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SS Eskinazi",
+              "bowler": "RR Simmonds",
+              "non_striker": "B Sharki",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SS Eskinazi",
+              "bowler": "RR Simmonds",
+              "non_striker": "B Sharki",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "B Sharki",
+              "bowler": "Abhishesh Gautam",
+              "non_striker": "SS Eskinazi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SS Eskinazi",
+              "bowler": "Abhishesh Gautam",
+              "non_striker": "B Sharki",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Sharki",
+              "bowler": "Abhishesh Gautam",
+              "non_striker": "SS Eskinazi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Sharki",
+              "bowler": "Abhishesh Gautam",
+              "non_striker": "SS Eskinazi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Sharki",
+              "bowler": "Abhishesh Gautam",
+              "non_striker": "SS Eskinazi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "B Sharki",
+              "bowler": "Abhishesh Gautam",
+              "non_striker": "SS Eskinazi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "SS Eskinazi",
+              "bowler": "RR Simmonds",
+              "non_striker": "B Sharki",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Sharki",
+              "bowler": "RR Simmonds",
+              "non_striker": "SS Eskinazi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SS Eskinazi",
+              "bowler": "RR Simmonds",
+              "non_striker": "B Sharki",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SS Eskinazi",
+              "bowler": "RR Simmonds",
+              "non_striker": "B Sharki",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SS Eskinazi",
+              "bowler": "RR Simmonds",
+              "non_striker": "B Sharki",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Sharki",
+              "bowler": "RR Simmonds",
+              "non_striker": "SS Eskinazi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "SS Eskinazi",
+              "bowler": "Saad Bin Zafar",
+              "non_striker": "B Sharki",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SS Eskinazi",
+              "bowler": "Saad Bin Zafar",
+              "non_striker": "B Sharki",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SS Eskinazi",
+              "bowler": "Saad Bin Zafar",
+              "non_striker": "B Sharki",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SS Eskinazi",
+              "bowler": "Saad Bin Zafar",
+              "non_striker": "B Sharki",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SS Eskinazi",
+              "bowler": "Saad Bin Zafar",
+              "non_striker": "B Sharki",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SS Eskinazi",
+              "bowler": "Saad Bin Zafar",
+              "non_striker": "B Sharki",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "SS Eskinazi",
+              "bowler": "Abhishesh Gautam",
+              "non_striker": "B Sharki",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SS Eskinazi",
+              "bowler": "Abhishesh Gautam",
+              "non_striker": "B Sharki",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SS Eskinazi",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "MG Erasmus",
+              "bowler": "Abhishesh Gautam",
+              "non_striker": "B Sharki",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MG Erasmus",
+              "bowler": "Abhishesh Gautam",
+              "non_striker": "B Sharki",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MG Erasmus",
+              "bowler": "Abhishesh Gautam",
+              "non_striker": "B Sharki",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Sharki",
+              "bowler": "Abhishesh Gautam",
+              "non_striker": "MG Erasmus",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "MG Erasmus",
+              "bowler": "Saad Bin Zafar",
+              "non_striker": "B Sharki",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MG Erasmus",
+                  "fielders": [
+                    {
+                      "name": "S Jora"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "S Maharjan",
+              "bowler": "Saad Bin Zafar",
+              "non_striker": "B Sharki",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Maharjan",
+              "bowler": "Saad Bin Zafar",
+              "non_striker": "B Sharki",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Maharjan",
+              "bowler": "Saad Bin Zafar",
+              "non_striker": "B Sharki",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Maharjan",
+              "bowler": "Saad Bin Zafar",
+              "non_striker": "B Sharki",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Maharjan",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "DA Douthwaite",
+              "bowler": "Saad Bin Zafar",
+              "non_striker": "B Sharki",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "B Sharki",
+              "bowler": "Surya Tamang",
+              "non_striker": "DA Douthwaite",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DA Douthwaite",
+              "bowler": "Surya Tamang",
+              "non_striker": "B Sharki",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DA Douthwaite",
+              "bowler": "Surya Tamang",
+              "non_striker": "B Sharki",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DA Douthwaite",
+              "bowler": "Surya Tamang",
+              "non_striker": "B Sharki",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Sharki",
+              "bowler": "Surya Tamang",
+              "non_striker": "DA Douthwaite",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DA Douthwaite",
+              "bowler": "Surya Tamang",
+              "non_striker": "B Sharki",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "DA Douthwaite",
+              "bowler": "Saad Bin Zafar",
+              "non_striker": "B Sharki",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DA Douthwaite",
+              "bowler": "Saad Bin Zafar",
+              "non_striker": "B Sharki",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Sharki",
+              "bowler": "Saad Bin Zafar",
+              "non_striker": "DA Douthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Sharki",
+              "bowler": "Saad Bin Zafar",
+              "non_striker": "DA Douthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Sharki",
+              "bowler": "Saad Bin Zafar",
+              "non_striker": "DA Douthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Sharki",
+              "bowler": "Saad Bin Zafar",
+              "non_striker": "DA Douthwaite",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "DA Douthwaite",
+              "bowler": "RK Paudel",
+              "non_striker": "B Sharki",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Sharki",
+              "bowler": "RK Paudel",
+              "non_striker": "DA Douthwaite",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DA Douthwaite",
+              "bowler": "RK Paudel",
+              "non_striker": "B Sharki",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Sharki",
+              "bowler": "RK Paudel",
+              "non_striker": "DA Douthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Sharki",
+              "bowler": "RK Paudel",
+              "non_striker": "DA Douthwaite",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DA Douthwaite",
+              "bowler": "RK Paudel",
+              "non_striker": "B Sharki",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "B Sharki",
+              "bowler": "Surya Tamang",
+              "non_striker": "DA Douthwaite",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "B Sharki",
+              "bowler": "Surya Tamang",
+              "non_striker": "DA Douthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Sharki",
+              "bowler": "Surya Tamang",
+              "non_striker": "DA Douthwaite",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "B Sharki",
+              "bowler": "Surya Tamang",
+              "non_striker": "DA Douthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Sharki",
+              "bowler": "Surya Tamang",
+              "non_striker": "DA Douthwaite",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DA Douthwaite",
+              "bowler": "Surya Tamang",
+              "non_striker": "B Sharki",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "DA Douthwaite",
+              "bowler": "RK Paudel",
+              "non_striker": "B Sharki",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DA Douthwaite",
+              "bowler": "RK Paudel",
+              "non_striker": "B Sharki",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "DA Douthwaite",
+              "bowler": "RK Paudel",
+              "non_striker": "B Sharki",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "DA Douthwaite",
+              "bowler": "RK Paudel",
+              "non_striker": "B Sharki",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DA Douthwaite",
+              "bowler": "RK Paudel",
+              "non_striker": "B Sharki",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DA Douthwaite",
+              "bowler": "RK Paudel",
+              "non_striker": "B Sharki",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "DA Douthwaite",
+              "bowler": "Surya Tamang",
+              "non_striker": "B Sharki",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DA Douthwaite",
+              "bowler": "Surya Tamang",
+              "non_striker": "B Sharki",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DA Douthwaite",
+              "bowler": "Surya Tamang",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "B Sharki",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Sharki",
+              "bowler": "Surya Tamang",
+              "non_striker": "DA Douthwaite",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "B Sharki",
+              "bowler": "Surya Tamang",
+              "non_striker": "DA Douthwaite",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "B Sharki",
+              "bowler": "Surya Tamang",
+              "non_striker": "DA Douthwaite",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "B Sharki",
+              "bowler": "B Yadav",
+              "non_striker": "DA Douthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Sharki",
+              "bowler": "B Yadav",
+              "non_striker": "DA Douthwaite",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DA Douthwaite",
+              "bowler": "B Yadav",
+              "non_striker": "B Sharki",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DA Douthwaite",
+              "bowler": "B Yadav",
+              "non_striker": "B Sharki",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "DA Douthwaite",
+              "bowler": "B Yadav",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "B Sharki",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DA Douthwaite",
+              "bowler": "B Yadav",
+              "non_striker": "B Sharki",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DA Douthwaite",
+              "bowler": "B Yadav",
+              "non_striker": "B Sharki",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "DA Douthwaite",
+                  "fielders": [
+                    {
+                      "name": "RK Paudel"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "B Sharki",
+              "bowler": "Abhishesh Gautam",
+              "non_striker": "Rashid Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rashid Khan",
+              "bowler": "Abhishesh Gautam",
+              "non_striker": "B Sharki",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Sharki",
+              "bowler": "Abhishesh Gautam",
+              "non_striker": "Rashid Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rashid Khan",
+              "bowler": "Abhishesh Gautam",
+              "non_striker": "B Sharki",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Rashid Khan",
+                  "fielders": [
+                    {
+                      "name": "A Saud"
+                    },
+                    {
+                      "name": "RK Paudel"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "Karan KC",
+              "bowler": "Abhishesh Gautam",
+              "non_striker": "B Sharki",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Karan KC",
+              "bowler": "Abhishesh Gautam",
+              "non_striker": "B Sharki",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "B Sharki",
+              "bowler": "B Yadav",
+              "non_striker": "Karan KC",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Sharki",
+              "bowler": "B Yadav",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Karan KC",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Sharki",
+              "bowler": "B Yadav",
+              "non_striker": "Karan KC",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Sharki",
+              "bowler": "B Yadav",
+              "non_striker": "Karan KC",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "B Sharki",
+              "bowler": "B Yadav",
+              "non_striker": "Karan KC",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Karan KC",
+              "bowler": "B Yadav",
+              "non_striker": "B Sharki",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Sharki",
+              "bowler": "B Yadav",
+              "non_striker": "Karan KC",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "Karan KC",
+              "bowler": "Surya Tamang",
+              "non_striker": "B Sharki",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Karan KC",
+              "bowler": "Surya Tamang",
+              "non_striker": "B Sharki",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Karan KC",
+                  "fielders": [
+                    {
+                      "name": "S Jora"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "P Shrestha",
+              "bowler": "Surya Tamang",
+              "non_striker": "B Sharki",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Shrestha",
+              "bowler": "Surya Tamang",
+              "non_striker": "B Sharki",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Shrestha",
+              "bowler": "Surya Tamang",
+              "non_striker": "B Sharki",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Sharki",
+              "bowler": "Surya Tamang",
+              "non_striker": "P Shrestha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "P Shrestha",
+              "bowler": "RR Simmonds",
+              "non_striker": "B Sharki",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Shrestha",
+              "bowler": "RR Simmonds",
+              "non_striker": "B Sharki",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "P Shrestha",
+              "bowler": "RR Simmonds",
+              "non_striker": "B Sharki",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "P Shrestha",
+              "bowler": "RR Simmonds",
+              "non_striker": "B Sharki",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Sharki",
+              "bowler": "RR Simmonds",
+              "non_striker": "P Shrestha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Sharki",
+              "bowler": "RR Simmonds",
+              "non_striker": "P Shrestha",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "B Sharki",
+              "bowler": "Abhishesh Gautam",
+              "non_striker": "P Shrestha",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Shrestha",
+              "bowler": "Abhishesh Gautam",
+              "non_striker": "B Sharki",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Shrestha",
+              "bowler": "Abhishesh Gautam",
+              "non_striker": "B Sharki",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "P Shrestha",
+              "bowler": "Abhishesh Gautam",
+              "non_striker": "B Sharki",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Shrestha",
+              "bowler": "Abhishesh Gautam",
+              "non_striker": "B Sharki",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Sharki",
+              "bowler": "Abhishesh Gautam",
+              "non_striker": "P Shrestha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "B Sharki",
+                  "fielders": [
+                    {
+                      "name": "A Saud"
+                    }
+                  ],
+                  "kind": "stumped"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "P Shrestha",
+              "bowler": "Saad Bin Zafar",
+              "non_striker": "Shahab Alam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shahab Alam",
+              "bowler": "Saad Bin Zafar",
+              "non_striker": "P Shrestha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shahab Alam",
+              "bowler": "Saad Bin Zafar",
+              "non_striker": "P Shrestha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shahab Alam",
+              "bowler": "Saad Bin Zafar",
+              "non_striker": "P Shrestha",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Shahab Alam",
+              "bowler": "Saad Bin Zafar",
+              "non_striker": "P Shrestha",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Shahab Alam",
+              "bowler": "Saad Bin Zafar",
+              "non_striker": "P Shrestha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Shahab Alam",
+                  "fielders": [
+                    {
+                      "name": "S Jora"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "P Shrestha",
+              "bowler": "RR Simmonds",
+              "non_striker": "D Kandel",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "P Shrestha",
+              "bowler": "RR Simmonds",
+              "non_striker": "D Kandel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "P Shrestha",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Lumbini Lions",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "A Ghiraiya",
+              "bowler": "Shahab Alam",
+              "non_striker": "A Saud",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Ghiraiya",
+              "bowler": "Shahab Alam",
+              "non_striker": "A Saud",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Saud",
+              "bowler": "Shahab Alam",
+              "non_striker": "A Ghiraiya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Ghiraiya",
+              "bowler": "Shahab Alam",
+              "non_striker": "A Saud",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Ghiraiya",
+              "bowler": "Shahab Alam",
+              "non_striker": "A Saud",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Ghiraiya",
+              "bowler": "Shahab Alam",
+              "non_striker": "A Saud",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "A Saud",
+              "bowler": "D Kandel",
+              "non_striker": "A Ghiraiya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Saud",
+              "bowler": "D Kandel",
+              "non_striker": "A Ghiraiya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Saud",
+              "bowler": "D Kandel",
+              "non_striker": "A Ghiraiya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Saud",
+              "bowler": "D Kandel",
+              "non_striker": "A Ghiraiya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Ghiraiya",
+              "bowler": "D Kandel",
+              "non_striker": "A Saud",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Ghiraiya",
+              "bowler": "D Kandel",
+              "non_striker": "A Saud",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "A Saud",
+              "bowler": "Shahab Alam",
+              "non_striker": "A Ghiraiya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Saud",
+              "bowler": "Shahab Alam",
+              "non_striker": "A Ghiraiya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Ghiraiya",
+              "bowler": "Shahab Alam",
+              "non_striker": "A Saud",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "A Ghiraiya",
+              "bowler": "Shahab Alam",
+              "non_striker": "A Saud",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Ghiraiya",
+              "bowler": "Shahab Alam",
+              "non_striker": "A Saud",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Saud",
+              "bowler": "Shahab Alam",
+              "non_striker": "A Ghiraiya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "A Ghiraiya",
+              "bowler": "D Kandel",
+              "non_striker": "A Saud",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Ghiraiya",
+              "bowler": "D Kandel",
+              "non_striker": "A Saud",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "A Ghiraiya",
+                  "fielders": [
+                    {
+                      "name": "M Levitt"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "UBT Chand",
+              "bowler": "D Kandel",
+              "non_striker": "A Saud",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "UBT Chand",
+              "bowler": "D Kandel",
+              "non_striker": "A Saud",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Saud",
+              "bowler": "D Kandel",
+              "non_striker": "UBT Chand",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Saud",
+              "bowler": "D Kandel",
+              "non_striker": "UBT Chand",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "A Saud",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "UBT Chand",
+              "bowler": "MG Erasmus",
+              "non_striker": "TJ Moores",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TJ Moores",
+              "bowler": "MG Erasmus",
+              "non_striker": "UBT Chand",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TJ Moores",
+              "bowler": "MG Erasmus",
+              "non_striker": "UBT Chand",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "TJ Moores",
+              "bowler": "MG Erasmus",
+              "non_striker": "UBT Chand",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TJ Moores",
+              "bowler": "MG Erasmus",
+              "non_striker": "UBT Chand",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "TJ Moores",
+              "bowler": "MG Erasmus",
+              "non_striker": "UBT Chand",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "TJ Moores",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "UBT Chand",
+              "bowler": "D Kandel",
+              "non_striker": "RK Paudel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "UBT Chand",
+              "bowler": "D Kandel",
+              "non_striker": "RK Paudel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RK Paudel",
+              "bowler": "D Kandel",
+              "non_striker": "UBT Chand",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RK Paudel",
+              "bowler": "D Kandel",
+              "non_striker": "UBT Chand",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RK Paudel",
+              "bowler": "D Kandel",
+              "non_striker": "UBT Chand",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RK Paudel",
+              "bowler": "D Kandel",
+              "non_striker": "UBT Chand",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "UBT Chand",
+              "bowler": "Shahab Alam",
+              "non_striker": "RK Paudel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "UBT Chand",
+              "bowler": "Shahab Alam",
+              "non_striker": "RK Paudel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "UBT Chand",
+              "bowler": "Shahab Alam",
+              "non_striker": "RK Paudel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RK Paudel",
+              "bowler": "Shahab Alam",
+              "non_striker": "UBT Chand",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RK Paudel",
+              "bowler": "Shahab Alam",
+              "non_striker": "UBT Chand",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "RK Paudel",
+              "bowler": "Shahab Alam",
+              "non_striker": "UBT Chand",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "UBT Chand",
+              "bowler": "MG Erasmus",
+              "non_striker": "RK Paudel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RK Paudel",
+              "bowler": "MG Erasmus",
+              "non_striker": "UBT Chand",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RK Paudel",
+              "bowler": "MG Erasmus",
+              "non_striker": "UBT Chand",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "UBT Chand",
+              "bowler": "MG Erasmus",
+              "extras": {
+                "byes": 4
+              },
+              "non_striker": "RK Paudel",
+              "runs": {
+                "batter": 0,
+                "extras": 4,
+                "total": 4
+              }
+            },
+            {
+              "batter": "UBT Chand",
+              "bowler": "MG Erasmus",
+              "non_striker": "RK Paudel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RK Paudel",
+              "bowler": "MG Erasmus",
+              "non_striker": "UBT Chand",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "UBT Chand",
+              "bowler": "Rashid Khan",
+              "non_striker": "RK Paudel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RK Paudel",
+              "bowler": "Rashid Khan",
+              "non_striker": "UBT Chand",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RK Paudel",
+              "bowler": "Rashid Khan",
+              "non_striker": "UBT Chand",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "UBT Chand",
+              "bowler": "Rashid Khan",
+              "non_striker": "RK Paudel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RK Paudel",
+              "bowler": "Rashid Khan",
+              "non_striker": "UBT Chand",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "UBT Chand",
+              "bowler": "Rashid Khan",
+              "non_striker": "RK Paudel",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "RK Paudel",
+              "bowler": "D Kandel",
+              "non_striker": "UBT Chand",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "UBT Chand",
+              "bowler": "D Kandel",
+              "non_striker": "RK Paudel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "UBT Chand",
+              "bowler": "D Kandel",
+              "non_striker": "RK Paudel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RK Paudel",
+              "bowler": "D Kandel",
+              "non_striker": "UBT Chand",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "RK Paudel",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "S Jora",
+              "bowler": "D Kandel",
+              "non_striker": "UBT Chand",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Jora",
+              "bowler": "D Kandel",
+              "non_striker": "UBT Chand",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "S Jora",
+              "bowler": "Karan KC",
+              "non_striker": "UBT Chand",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "UBT Chand",
+              "bowler": "Karan KC",
+              "non_striker": "S Jora",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Jora",
+              "bowler": "Karan KC",
+              "non_striker": "UBT Chand",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Jora",
+              "bowler": "Karan KC",
+              "non_striker": "UBT Chand",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "UBT Chand",
+              "bowler": "Karan KC",
+              "non_striker": "S Jora",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "UBT Chand",
+              "bowler": "Karan KC",
+              "non_striker": "S Jora",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "UBT Chand",
+                  "fielders": [
+                    {
+                      "name": "Shahab Alam"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "S Jora",
+              "bowler": "MG Erasmus",
+              "non_striker": "Saad Bin Zafar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Saad Bin Zafar",
+              "bowler": "MG Erasmus",
+              "non_striker": "S Jora",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Saad Bin Zafar",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "B Yadav",
+              "bowler": "MG Erasmus",
+              "non_striker": "S Jora",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Yadav",
+              "bowler": "MG Erasmus",
+              "extras": {
+                "wides": 5
+              },
+              "non_striker": "S Jora",
+              "runs": {
+                "batter": 0,
+                "extras": 5,
+                "total": 5
+              }
+            },
+            {
+              "batter": "B Yadav",
+              "bowler": "MG Erasmus",
+              "non_striker": "S Jora",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Yadav",
+              "bowler": "MG Erasmus",
+              "non_striker": "S Jora",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Jora",
+              "bowler": "MG Erasmus",
+              "non_striker": "B Yadav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "B Yadav",
+              "bowler": "Karan KC",
+              "non_striker": "S Jora",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Yadav",
+              "bowler": "Karan KC",
+              "non_striker": "S Jora",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Yadav",
+              "bowler": "Karan KC",
+              "non_striker": "S Jora",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Jora",
+              "bowler": "Karan KC",
+              "non_striker": "B Yadav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Yadav",
+              "bowler": "Karan KC",
+              "non_striker": "S Jora",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Yadav",
+              "bowler": "Karan KC",
+              "non_striker": "S Jora",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "B Yadav",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "S Jora",
+              "bowler": "B Sharki",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Surya Tamang",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Jora",
+              "bowler": "B Sharki",
+              "non_striker": "Surya Tamang",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Jora",
+              "bowler": "B Sharki",
+              "non_striker": "Surya Tamang",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Surya Tamang",
+              "bowler": "B Sharki",
+              "non_striker": "S Jora",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Jora",
+              "bowler": "B Sharki",
+              "non_striker": "Surya Tamang",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Surya Tamang",
+              "bowler": "B Sharki",
+              "non_striker": "S Jora",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Surya Tamang",
+              "bowler": "B Sharki",
+              "non_striker": "S Jora",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "S Jora",
+              "bowler": "Karan KC",
+              "non_striker": "Surya Tamang",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Surya Tamang",
+              "bowler": "Karan KC",
+              "non_striker": "S Jora",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Surya Tamang",
+              "bowler": "Karan KC",
+              "non_striker": "S Jora",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Jora",
+              "bowler": "Karan KC",
+              "non_striker": "Surya Tamang",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Surya Tamang",
+              "bowler": "Karan KC",
+              "non_striker": "S Jora",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Jora",
+              "bowler": "Karan KC",
+              "non_striker": "Surya Tamang",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "S Jora",
+              "bowler": "Shahab Alam",
+              "non_striker": "Surya Tamang",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Jora",
+              "bowler": "Shahab Alam",
+              "non_striker": "Surya Tamang",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Jora",
+              "bowler": "Shahab Alam",
+              "non_striker": "Surya Tamang",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Jora",
+              "bowler": "Shahab Alam",
+              "non_striker": "Surya Tamang",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Jora",
+              "bowler": "Shahab Alam",
+              "non_striker": "Surya Tamang",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Surya Tamang",
+              "bowler": "Shahab Alam",
+              "non_striker": "S Jora",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "S Jora",
+              "bowler": "Rashid Khan",
+              "non_striker": "Surya Tamang",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "S Jora",
+              "bowler": "Rashid Khan",
+              "non_striker": "Surya Tamang",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Jora",
+              "bowler": "Rashid Khan",
+              "non_striker": "Surya Tamang",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "S Jora",
+              "bowler": "Rashid Khan",
+              "non_striker": "Surya Tamang",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Surya Tamang",
+              "bowler": "Rashid Khan",
+              "non_striker": "S Jora",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Surya Tamang",
+              "bowler": "Rashid Khan",
+              "non_striker": "S Jora",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "Surya Tamang",
+              "bowler": "MG Erasmus",
+              "non_striker": "S Jora",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Surya Tamang",
+              "bowler": "MG Erasmus",
+              "non_striker": "S Jora",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Surya Tamang",
+              "bowler": "MG Erasmus",
+              "non_striker": "S Jora",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Jora",
+              "bowler": "MG Erasmus",
+              "non_striker": "Surya Tamang",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Jora",
+              "bowler": "MG Erasmus",
+              "non_striker": "Surya Tamang",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Jora",
+              "bowler": "MG Erasmus",
+              "non_striker": "Surya Tamang",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "S Jora",
+              "bowler": "Karan KC",
+              "non_striker": "Surya Tamang",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Jora",
+              "bowler": "Karan KC",
+              "non_striker": "Surya Tamang",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Surya Tamang",
+              "bowler": "Karan KC",
+              "non_striker": "S Jora",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Jora",
+              "bowler": "Karan KC",
+              "non_striker": "Surya Tamang",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Jora",
+                  "fielders": [
+                    {
+                      "name": "Shahab Alam"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "RR Simmonds",
+              "bowler": "Karan KC",
+              "non_striker": "Surya Tamang",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RR Simmonds",
+              "bowler": "Karan KC",
+              "non_striker": "Surya Tamang",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "RR Simmonds",
+                  "fielders": [
+                    {
+                      "name": "B Sharki"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "Surya Tamang",
+              "bowler": "Rashid Khan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Abhishesh Gautam",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Surya Tamang",
+              "bowler": "Rashid Khan",
+              "non_striker": "Abhishesh Gautam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Abhishesh Gautam",
+              "bowler": "Rashid Khan",
+              "non_striker": "Surya Tamang",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Abhishesh Gautam",
+                  "kind": "lbw"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 104
+      }
+    }
+  ]
+}

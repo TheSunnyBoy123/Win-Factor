@@ -1,0 +1,1003 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2024-06-14",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Taunton",
+    "dates": [
+      "2024-06-14"
+    ],
+    "event": {
+      "name": "Vitality Blast",
+      "group": "South"
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "officials": {
+      "match_referees": [
+        "SG Hinks"
+      ],
+      "umpires": [
+        "ID Blackwell",
+        "Mark Newell"
+      ]
+    },
+    "outcome": {
+      "winner": "Somerset",
+      "by": {
+        "runs": 14
+      },
+      "method": "D/L"
+    },
+    "overs": 20,
+    "players": {
+      "Somerset": [
+        "T Banton",
+        "WCF Smeed",
+        "T Kohler-Cadmore",
+        "L Gregory",
+        "BGF Green",
+        "SR Dickson",
+        "TB Abell",
+        "RE van der Merwe",
+        "JH Davey",
+        "JT Ball",
+        "RP Meredith"
+      ],
+      "Kent": [
+        "Z Crawley",
+        "DJ Bell-Drummond",
+        "MK O'Riordan",
+        "SW Billings",
+        "JL Denly",
+        "JDM Evison",
+        "G Stewart",
+        "TS Muyeye",
+        "XC Bartlett",
+        "CH Stobo",
+        "NN Gilchrist"
+      ]
+    },
+    "registry": {
+      "people": {
+        "BGF Green": "34b37279",
+        "CH Stobo": "098229a5",
+        "DJ Bell-Drummond": "8f938a32",
+        "G Stewart": "a77472dc",
+        "ID Blackwell": "818e8bf2",
+        "JDM Evison": "00cada13",
+        "JH Davey": "d3868bd0",
+        "JL Denly": "bdadf7da",
+        "JT Ball": "3d0ed2f9",
+        "L Gregory": "06c2de82",
+        "MK O'Riordan": "94db3502",
+        "Mark Newell": "b33f0fa1",
+        "NN Gilchrist": "93cad673",
+        "RE van der Merwe": "05c2ca46",
+        "RP Meredith": "64775749",
+        "SG Hinks": "0bb4dc0d",
+        "SR Dickson": "2344bdd1",
+        "SW Billings": "c16d4035",
+        "T Banton": "25f7b7d6",
+        "T Kohler-Cadmore": "f836b33d",
+        "TB Abell": "ba9258a7",
+        "TS Muyeye": "10b79140",
+        "WCF Smeed": "4e18e961",
+        "XC Bartlett": "3b53243a",
+        "Z Crawley": "922e1b19"
+      }
+    },
+    "season": "2024",
+    "team_type": "club",
+    "teams": [
+      "Somerset",
+      "Kent"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Kent"
+    },
+    "venue": "The Cooper Associates County Ground, Taunton"
+  },
+  "innings": [
+    {
+      "team": "Somerset",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "T Banton",
+              "bowler": "XC Bartlett",
+              "non_striker": "WCF Smeed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "WCF Smeed",
+              "bowler": "XC Bartlett",
+              "non_striker": "T Banton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "WCF Smeed",
+              "bowler": "XC Bartlett",
+              "non_striker": "T Banton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "WCF Smeed",
+              "bowler": "XC Bartlett",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "T Banton",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "WCF Smeed",
+              "bowler": "XC Bartlett",
+              "non_striker": "T Banton",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "WCF Smeed",
+              "bowler": "XC Bartlett",
+              "non_striker": "T Banton",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Banton",
+              "bowler": "XC Bartlett",
+              "non_striker": "WCF Smeed",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "WCF Smeed",
+              "bowler": "CH Stobo",
+              "non_striker": "T Banton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "WCF Smeed",
+                  "fielders": [
+                    {
+                      "name": "Z Crawley"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "T Kohler-Cadmore",
+              "bowler": "CH Stobo",
+              "non_striker": "T Banton",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "T Kohler-Cadmore",
+              "bowler": "CH Stobo",
+              "non_striker": "T Banton",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "T Kohler-Cadmore",
+              "bowler": "CH Stobo",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "T Banton",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Banton",
+              "bowler": "CH Stobo",
+              "non_striker": "T Kohler-Cadmore",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "T Banton",
+              "bowler": "CH Stobo",
+              "non_striker": "T Kohler-Cadmore",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "T Kohler-Cadmore",
+              "bowler": "G Stewart",
+              "non_striker": "T Banton",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "T Kohler-Cadmore",
+              "bowler": "G Stewart",
+              "non_striker": "T Banton",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "T Kohler-Cadmore",
+              "bowler": "G Stewart",
+              "non_striker": "T Banton",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Banton",
+              "bowler": "G Stewart",
+              "non_striker": "T Kohler-Cadmore",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "T Banton",
+                  "fielders": [
+                    {
+                      "name": "TS Muyeye"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "L Gregory",
+              "bowler": "G Stewart",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "T Kohler-Cadmore",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Gregory",
+              "bowler": "G Stewart",
+              "non_striker": "T Kohler-Cadmore",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "L Gregory",
+              "bowler": "G Stewart",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "T Kohler-Cadmore",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Gregory",
+              "bowler": "G Stewart",
+              "non_striker": "T Kohler-Cadmore",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "T Kohler-Cadmore",
+              "bowler": "NN Gilchrist",
+              "non_striker": "L Gregory",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "T Kohler-Cadmore",
+              "bowler": "NN Gilchrist",
+              "non_striker": "L Gregory",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Gregory",
+              "bowler": "NN Gilchrist",
+              "non_striker": "T Kohler-Cadmore",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "L Gregory",
+              "bowler": "NN Gilchrist",
+              "non_striker": "T Kohler-Cadmore",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "L Gregory",
+                  "fielders": [
+                    {
+                      "name": "XC Bartlett"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "BGF Green",
+              "bowler": "NN Gilchrist",
+              "non_striker": "T Kohler-Cadmore",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Kohler-Cadmore",
+              "bowler": "NN Gilchrist",
+              "non_striker": "BGF Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "T Kohler-Cadmore",
+                  "fielders": [
+                    {
+                      "name": "JL Denly"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "BGF Green",
+              "bowler": "XC Bartlett",
+              "non_striker": "SR Dickson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BGF Green",
+              "bowler": "XC Bartlett",
+              "non_striker": "SR Dickson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SR Dickson",
+              "bowler": "XC Bartlett",
+              "non_striker": "BGF Green",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SR Dickson",
+              "bowler": "XC Bartlett",
+              "non_striker": "BGF Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SR Dickson",
+              "bowler": "XC Bartlett",
+              "non_striker": "BGF Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "BGF Green",
+                  "fielders": [
+                    {
+                      "name": "SW Billings"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "TB Abell",
+              "bowler": "XC Bartlett",
+              "non_striker": "SR Dickson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "player_out": "TB Abell",
+                  "fielders": [
+                    {
+                      "name": "JDM Evison"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 1.3,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Kent",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Z Crawley",
+              "bowler": "RP Meredith",
+              "non_striker": "DJ Bell-Drummond",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Z Crawley",
+              "bowler": "RP Meredith",
+              "non_striker": "DJ Bell-Drummond",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "player_out": "Z Crawley",
+                  "fielders": [
+                    {
+                      "substitute": true
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "MK O'Riordan",
+              "bowler": "RP Meredith",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "DJ Bell-Drummond",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJ Bell-Drummond",
+              "bowler": "RP Meredith",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "MK O'Riordan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJ Bell-Drummond",
+              "bowler": "RP Meredith",
+              "extras": {
+                "wides": 5
+              },
+              "non_striker": "MK O'Riordan",
+              "runs": {
+                "batter": 0,
+                "extras": 5,
+                "total": 5
+              }
+            },
+            {
+              "batter": "DJ Bell-Drummond",
+              "bowler": "RP Meredith",
+              "non_striker": "MK O'Riordan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "DJ Bell-Drummond",
+                  "fielders": [
+                    {
+                      "name": "JT Ball"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "SW Billings",
+              "bowler": "RP Meredith",
+              "non_striker": "MK O'Riordan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MK O'Riordan",
+              "bowler": "RP Meredith",
+              "non_striker": "SW Billings",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "SW Billings",
+              "bowler": "JT Ball",
+              "non_striker": "MK O'Riordan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SW Billings",
+              "bowler": "JT Ball",
+              "non_striker": "MK O'Riordan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MK O'Riordan",
+              "bowler": "JT Ball",
+              "non_striker": "SW Billings",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MK O'Riordan",
+              "bowler": "JT Ball",
+              "non_striker": "SW Billings",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MK O'Riordan",
+              "bowler": "JT Ball",
+              "non_striker": "SW Billings",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MK O'Riordan",
+                  "fielders": [
+                    {
+                      "name": "TB Abell"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "JL Denly",
+              "bowler": "JT Ball",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "SW Billings",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JL Denly",
+              "bowler": "JT Ball",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "SW Billings",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JL Denly",
+              "bowler": "JT Ball",
+              "non_striker": "SW Billings",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "SW Billings",
+              "bowler": "RP Meredith",
+              "non_striker": "JL Denly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SW Billings",
+              "bowler": "RP Meredith",
+              "non_striker": "JL Denly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SW Billings",
+              "bowler": "RP Meredith",
+              "non_striker": "JL Denly",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JL Denly",
+              "bowler": "RP Meredith",
+              "non_striker": "SW Billings",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JL Denly",
+              "bowler": "RP Meredith",
+              "non_striker": "SW Billings",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "JL Denly",
+              "bowler": "RP Meredith",
+              "non_striker": "SW Billings",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "SW Billings",
+              "bowler": "JT Ball",
+              "non_striker": "JL Denly",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SW Billings",
+              "bowler": "JT Ball",
+              "non_striker": "JL Denly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SW Billings",
+              "bowler": "JT Ball",
+              "non_striker": "JL Denly",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SW Billings",
+              "bowler": "JT Ball",
+              "non_striker": "JL Denly",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "player_out": "SW Billings",
+                  "fielders": [
+                    {
+                      "name": "TB Abell"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "JDM Evison",
+              "bowler": "JT Ball",
+              "non_striker": "JL Denly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JDM Evison",
+              "bowler": "JT Ball",
+              "non_striker": "JL Denly",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "JDM Evison",
+              "bowler": "BGF Green",
+              "non_striker": "JL Denly",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JL Denly",
+              "bowler": "BGF Green",
+              "non_striker": "JDM Evison",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JL Denly",
+              "bowler": "BGF Green",
+              "non_striker": "JDM Evison",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JDM Evison",
+              "bowler": "BGF Green",
+              "non_striker": "JL Denly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "JDM Evison",
+                  "fielders": [
+                    {
+                      "name": "WCF Smeed"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "G Stewart",
+              "bowler": "BGF Green",
+              "non_striker": "JL Denly",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JL Denly",
+              "bowler": "BGF Green",
+              "non_striker": "G Stewart",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 1.3,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 5,
+        "runs": 61
+      }
+    }
+  ]
+}

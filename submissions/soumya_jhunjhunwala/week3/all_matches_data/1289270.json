@@ -1,0 +1,2422 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2022-08-05",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Birmingham",
+    "dates": [
+      "2022-08-04"
+    ],
+    "event": {
+      "name": "Commonwealth Games Women's Cricket Competition",
+      "match_number": 12,
+      "group": "B"
+    },
+    "gender": "female",
+    "match_type": "T20",
+    "match_type_number": 1189,
+    "officials": {
+      "match_referees": [
+        "GS Lakshmi"
+      ],
+      "reserve_umpires": [
+        "CA Polosak"
+      ],
+      "tv_umpires": [
+        "JM Williams"
+      ],
+      "umpires": [
+        "Eloise Sheridan",
+        "VG Rathi"
+      ]
+    },
+    "outcome": {
+      "winner": "England",
+      "by": {
+        "wickets": 7
+      }
+    },
+    "overs": 20,
+    "players": {
+      "New Zealand": [
+        "SFM Devine",
+        "SW Bates",
+        "AC Kerr",
+        "ML Green",
+        "BM Halliday",
+        "HNK Jensen",
+        "LMM Tahuhu",
+        "IC Gaze",
+        "HM Rowe",
+        "RA Mair",
+        "FC Jonas"
+      ],
+      "England": [
+        "DN Wyatt",
+        "SIR Dunkley",
+        "A Capsey",
+        "NR Sciver",
+        "AE Jones",
+        "ME Bouchier",
+        "KH Brunt",
+        "S Ecclestone",
+        "FG Kemp",
+        "IECM Wong",
+        "S Glenn"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Capsey": "910dd54e",
+        "AC Kerr": "7673c908",
+        "AE Jones": "b05e45e4",
+        "BM Halliday": "efb6cb2a",
+        "CA Polosak": "26a360d2",
+        "DN Wyatt": "a139c379",
+        "Eloise Sheridan": "d8d43840",
+        "FC Jonas": "6df697a9",
+        "FG Kemp": "abc9f8a4",
+        "GS Lakshmi": "ba8d5615",
+        "HM Rowe": "8ca1f93a",
+        "HNK Jensen": "b8cce99f",
+        "IC Gaze": "60c250bf",
+        "IECM Wong": "e5b17517",
+        "JM Williams": "b61d9d70",
+        "KH Brunt": "6a434bd3",
+        "LMM Tahuhu": "60471339",
+        "ME Bouchier": "c2554b59",
+        "ML Green": "865eae1f",
+        "NR Sciver": "f3a18a0c",
+        "RA Mair": "d5eb8b84",
+        "S Ecclestone": "cdb82f1c",
+        "S Glenn": "b34e0c77",
+        "SFM Devine": "de69af96",
+        "SIR Dunkley": "3a9e9cb2",
+        "SW Bates": "89bbc67a",
+        "VG Rathi": "144e5b16"
+      }
+    },
+    "season": "2022",
+    "team_type": "international",
+    "teams": [
+      "New Zealand",
+      "England"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "New Zealand"
+    },
+    "venue": "Edgbaston, Birmingham"
+  },
+  "innings": [
+    {
+      "team": "New Zealand",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "SFM Devine",
+              "bowler": "KH Brunt",
+              "non_striker": "SW Bates",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SW Bates",
+              "bowler": "KH Brunt",
+              "non_striker": "SFM Devine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SW Bates",
+              "bowler": "KH Brunt",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "SFM Devine",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SFM Devine",
+              "bowler": "KH Brunt",
+              "non_striker": "SW Bates",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SFM Devine",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "AC Kerr",
+              "bowler": "KH Brunt",
+              "non_striker": "SW Bates",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AC Kerr",
+              "bowler": "KH Brunt",
+              "non_striker": "SW Bates",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "AC Kerr",
+              "bowler": "S Ecclestone",
+              "non_striker": "SW Bates",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SW Bates",
+              "bowler": "S Ecclestone",
+              "non_striker": "AC Kerr",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SW Bates",
+              "bowler": "S Ecclestone",
+              "non_striker": "AC Kerr",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SW Bates",
+              "bowler": "S Ecclestone",
+              "non_striker": "AC Kerr",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AC Kerr",
+              "bowler": "S Ecclestone",
+              "non_striker": "SW Bates",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AC Kerr",
+              "bowler": "S Ecclestone",
+              "non_striker": "SW Bates",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "AC Kerr",
+              "bowler": "KH Brunt",
+              "non_striker": "SW Bates",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AC Kerr",
+              "bowler": "KH Brunt",
+              "non_striker": "SW Bates",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "AC Kerr",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "ML Green",
+              "bowler": "KH Brunt",
+              "non_striker": "SW Bates",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ML Green",
+              "bowler": "KH Brunt",
+              "non_striker": "SW Bates",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ML Green",
+              "bowler": "KH Brunt",
+              "non_striker": "SW Bates",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ML Green",
+              "bowler": "KH Brunt",
+              "non_striker": "SW Bates",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "SW Bates",
+              "bowler": "IECM Wong",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SW Bates",
+              "bowler": "IECM Wong",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ML Green",
+              "bowler": "IECM Wong",
+              "non_striker": "SW Bates",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SW Bates",
+              "bowler": "IECM Wong",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SW Bates",
+                  "fielders": [
+                    {
+                      "name": "NR Sciver"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "BM Halliday",
+              "bowler": "IECM Wong",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BM Halliday",
+              "bowler": "IECM Wong",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "ML Green",
+              "bowler": "KH Brunt",
+              "non_striker": "BM Halliday",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ML Green",
+              "bowler": "KH Brunt",
+              "non_striker": "BM Halliday",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BM Halliday",
+              "bowler": "KH Brunt",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BM Halliday",
+              "bowler": "KH Brunt",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BM Halliday",
+              "bowler": "KH Brunt",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BM Halliday",
+              "bowler": "KH Brunt",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "BM Halliday",
+              "bowler": "FG Kemp",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "ML Green",
+              "bowler": "FG Kemp",
+              "non_striker": "BM Halliday",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ML Green",
+              "bowler": "FG Kemp",
+              "non_striker": "BM Halliday",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "ML Green",
+              "bowler": "FG Kemp",
+              "non_striker": "BM Halliday",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BM Halliday",
+              "bowler": "FG Kemp",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BM Halliday",
+              "bowler": "FG Kemp",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BM Halliday",
+              "bowler": "FG Kemp",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "ML Green",
+              "bowler": "NR Sciver",
+              "non_striker": "BM Halliday",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ML Green",
+              "bowler": "NR Sciver",
+              "non_striker": "BM Halliday",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ML Green",
+              "bowler": "NR Sciver",
+              "non_striker": "BM Halliday",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "BM Halliday",
+                  "fielders": [
+                    {
+                      "name": "AE Jones"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "ML Green",
+              "bowler": "NR Sciver",
+              "non_striker": "HNK Jensen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HNK Jensen",
+              "bowler": "NR Sciver",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ML Green",
+              "bowler": "NR Sciver",
+              "non_striker": "HNK Jensen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "HNK Jensen",
+              "bowler": "S Ecclestone",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HNK Jensen",
+              "bowler": "S Ecclestone",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HNK Jensen",
+              "bowler": "S Ecclestone",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ML Green",
+              "bowler": "S Ecclestone",
+              "non_striker": "HNK Jensen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HNK Jensen",
+              "bowler": "S Ecclestone",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ML Green",
+              "bowler": "S Ecclestone",
+              "non_striker": "HNK Jensen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "HNK Jensen",
+              "bowler": "S Glenn",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ML Green",
+              "bowler": "S Glenn",
+              "non_striker": "HNK Jensen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HNK Jensen",
+              "bowler": "S Glenn",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HNK Jensen",
+              "bowler": "S Glenn",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HNK Jensen",
+              "bowler": "S Glenn",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ML Green",
+              "bowler": "S Glenn",
+              "non_striker": "HNK Jensen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "HNK Jensen",
+              "bowler": "IECM Wong",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HNK Jensen",
+              "bowler": "IECM Wong",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HNK Jensen",
+              "bowler": "IECM Wong",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HNK Jensen",
+              "bowler": "IECM Wong",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "HNK Jensen",
+              "bowler": "IECM Wong",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HNK Jensen",
+              "bowler": "IECM Wong",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "HNK Jensen",
+              "bowler": "IECM Wong",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HNK Jensen",
+              "bowler": "IECM Wong",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "HNK Jensen",
+                  "fielders": [
+                    {
+                      "name": "DN Wyatt"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "ML Green",
+              "bowler": "NR Sciver",
+              "non_striker": "LMM Tahuhu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LMM Tahuhu",
+              "bowler": "NR Sciver",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LMM Tahuhu",
+              "bowler": "NR Sciver",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ML Green",
+              "bowler": "NR Sciver",
+              "non_striker": "LMM Tahuhu",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "ML Green",
+              "bowler": "NR Sciver",
+              "non_striker": "LMM Tahuhu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ML Green",
+              "bowler": "NR Sciver",
+              "non_striker": "LMM Tahuhu",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "LMM Tahuhu",
+              "bowler": "S Ecclestone",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LMM Tahuhu",
+              "bowler": "S Ecclestone",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ML Green",
+              "bowler": "S Ecclestone",
+              "non_striker": "LMM Tahuhu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "ML Green",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "IC Gaze",
+              "bowler": "S Ecclestone",
+              "non_striker": "LMM Tahuhu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IC Gaze",
+              "bowler": "S Ecclestone",
+              "non_striker": "LMM Tahuhu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IC Gaze",
+              "bowler": "S Ecclestone",
+              "non_striker": "LMM Tahuhu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "LMM Tahuhu",
+              "bowler": "S Glenn",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "IC Gaze",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LMM Tahuhu",
+              "bowler": "S Glenn",
+              "non_striker": "IC Gaze",
+              "review": {
+                "by": "England",
+                "batter": "LMM Tahuhu",
+                "decision": "struck down"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LMM Tahuhu",
+              "bowler": "S Glenn",
+              "non_striker": "IC Gaze",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "LMM Tahuhu",
+              "bowler": "S Glenn",
+              "non_striker": "IC Gaze",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "IC Gaze",
+              "bowler": "S Glenn",
+              "non_striker": "LMM Tahuhu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LMM Tahuhu",
+              "bowler": "S Glenn",
+              "non_striker": "IC Gaze",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "LMM Tahuhu",
+                  "fielders": [
+                    {
+                      "name": "AE Jones"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "HM Rowe",
+              "bowler": "S Glenn",
+              "non_striker": "IC Gaze",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "IC Gaze",
+              "bowler": "FG Kemp",
+              "non_striker": "HM Rowe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IC Gaze",
+              "bowler": "FG Kemp",
+              "non_striker": "HM Rowe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IC Gaze",
+              "bowler": "FG Kemp",
+              "non_striker": "HM Rowe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IC Gaze",
+              "bowler": "FG Kemp",
+              "non_striker": "HM Rowe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IC Gaze",
+              "bowler": "FG Kemp",
+              "non_striker": "HM Rowe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IC Gaze",
+              "bowler": "FG Kemp",
+              "non_striker": "HM Rowe",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "HM Rowe",
+              "bowler": "S Glenn",
+              "non_striker": "IC Gaze",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HM Rowe",
+              "bowler": "S Glenn",
+              "non_striker": "IC Gaze",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "IC Gaze",
+              "bowler": "S Glenn",
+              "non_striker": "HM Rowe",
+              "review": {
+                "by": "England",
+                "batter": "IC Gaze",
+                "decision": "struck down"
+              },
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HM Rowe",
+              "bowler": "S Glenn",
+              "non_striker": "IC Gaze",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "IC Gaze",
+                  "fielders": [
+                    {
+                      "name": "A Capsey"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "RA Mair",
+              "bowler": "S Glenn",
+              "non_striker": "HM Rowe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "RA Mair",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "FC Jonas",
+              "bowler": "S Glenn",
+              "non_striker": "HM Rowe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "HM Rowe",
+              "bowler": "S Ecclestone",
+              "non_striker": "FC Jonas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HM Rowe",
+              "bowler": "S Ecclestone",
+              "non_striker": "FC Jonas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "FC Jonas",
+              "bowler": "S Ecclestone",
+              "non_striker": "HM Rowe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "FC Jonas",
+              "bowler": "S Ecclestone",
+              "non_striker": "HM Rowe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "FC Jonas",
+              "bowler": "S Ecclestone",
+              "non_striker": "HM Rowe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "FC Jonas",
+              "bowler": "S Ecclestone",
+              "non_striker": "HM Rowe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "HM Rowe",
+              "bowler": "S Glenn",
+              "non_striker": "FC Jonas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "FC Jonas",
+              "bowler": "S Glenn",
+              "non_striker": "HM Rowe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "FC Jonas",
+              "bowler": "S Glenn",
+              "non_striker": "HM Rowe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "FC Jonas",
+              "bowler": "S Glenn",
+              "non_striker": "HM Rowe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "FC Jonas",
+              "bowler": "S Glenn",
+              "non_striker": "HM Rowe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HM Rowe",
+              "bowler": "S Glenn",
+              "non_striker": "FC Jonas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "FC Jonas",
+              "bowler": "NR Sciver",
+              "non_striker": "HM Rowe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "FC Jonas",
+              "bowler": "NR Sciver",
+              "non_striker": "HM Rowe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "FC Jonas",
+              "bowler": "NR Sciver",
+              "non_striker": "HM Rowe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HM Rowe",
+              "bowler": "NR Sciver",
+              "non_striker": "FC Jonas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "FC Jonas",
+              "bowler": "NR Sciver",
+              "non_striker": "HM Rowe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "FC Jonas",
+              "bowler": "NR Sciver",
+              "non_striker": "HM Rowe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "HM Rowe",
+              "bowler": "IECM Wong",
+              "non_striker": "FC Jonas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HM Rowe",
+              "bowler": "IECM Wong",
+              "non_striker": "FC Jonas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HM Rowe",
+              "bowler": "IECM Wong",
+              "non_striker": "FC Jonas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "FC Jonas",
+              "bowler": "IECM Wong",
+              "non_striker": "HM Rowe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HM Rowe",
+              "bowler": "IECM Wong",
+              "non_striker": "FC Jonas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HM Rowe",
+              "bowler": "IECM Wong",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "FC Jonas",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "HM Rowe",
+              "bowler": "FG Kemp",
+              "non_striker": "FC Jonas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HM Rowe",
+              "bowler": "FG Kemp",
+              "non_striker": "FC Jonas",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "HM Rowe",
+              "bowler": "FG Kemp",
+              "non_striker": "FC Jonas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "FC Jonas",
+              "bowler": "FG Kemp",
+              "non_striker": "HM Rowe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "FC Jonas",
+              "bowler": "FG Kemp",
+              "non_striker": "HM Rowe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HM Rowe",
+              "bowler": "FG Kemp",
+              "non_striker": "FC Jonas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.7,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "England",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "DN Wyatt",
+              "bowler": "FC Jonas",
+              "non_striker": "SIR Dunkley",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DN Wyatt",
+              "bowler": "FC Jonas",
+              "non_striker": "SIR Dunkley",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DN Wyatt",
+              "bowler": "FC Jonas",
+              "non_striker": "SIR Dunkley",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SIR Dunkley",
+              "bowler": "FC Jonas",
+              "non_striker": "DN Wyatt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SIR Dunkley",
+              "bowler": "FC Jonas",
+              "non_striker": "DN Wyatt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DN Wyatt",
+              "bowler": "FC Jonas",
+              "non_striker": "SIR Dunkley",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "DN Wyatt",
+                  "fielders": [
+                    {
+                      "name": "IC Gaze"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "SIR Dunkley",
+              "bowler": "HNK Jensen",
+              "non_striker": "A Capsey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SIR Dunkley",
+              "bowler": "HNK Jensen",
+              "non_striker": "A Capsey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SIR Dunkley",
+              "bowler": "HNK Jensen",
+              "non_striker": "A Capsey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SIR Dunkley",
+              "bowler": "HNK Jensen",
+              "non_striker": "A Capsey",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SIR Dunkley",
+              "bowler": "HNK Jensen",
+              "non_striker": "A Capsey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Capsey",
+              "bowler": "HNK Jensen",
+              "non_striker": "SIR Dunkley",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "SIR Dunkley",
+              "bowler": "FC Jonas",
+              "non_striker": "A Capsey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Capsey",
+              "bowler": "FC Jonas",
+              "non_striker": "SIR Dunkley",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SIR Dunkley",
+              "bowler": "FC Jonas",
+              "non_striker": "A Capsey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Capsey",
+              "bowler": "FC Jonas",
+              "non_striker": "SIR Dunkley",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "A Capsey",
+              "bowler": "FC Jonas",
+              "non_striker": "SIR Dunkley",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Capsey",
+              "bowler": "FC Jonas",
+              "non_striker": "SIR Dunkley",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "A Capsey",
+              "bowler": "LMM Tahuhu",
+              "non_striker": "SIR Dunkley",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "A Capsey",
+              "bowler": "LMM Tahuhu",
+              "non_striker": "SIR Dunkley",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Capsey",
+              "bowler": "LMM Tahuhu",
+              "non_striker": "SIR Dunkley",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "A Capsey",
+              "bowler": "LMM Tahuhu",
+              "non_striker": "SIR Dunkley",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Capsey",
+              "bowler": "LMM Tahuhu",
+              "non_striker": "SIR Dunkley",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "A Capsey",
+              "bowler": "LMM Tahuhu",
+              "non_striker": "SIR Dunkley",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "SIR Dunkley",
+              "bowler": "AC Kerr",
+              "non_striker": "A Capsey",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SIR Dunkley",
+              "bowler": "AC Kerr",
+              "non_striker": "A Capsey",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SIR Dunkley",
+              "bowler": "AC Kerr",
+              "non_striker": "A Capsey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SIR Dunkley",
+              "bowler": "AC Kerr",
+              "non_striker": "A Capsey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SIR Dunkley",
+              "bowler": "AC Kerr",
+              "non_striker": "A Capsey",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SIR Dunkley",
+              "bowler": "AC Kerr",
+              "non_striker": "A Capsey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "A Capsey",
+              "bowler": "SFM Devine",
+              "non_striker": "SIR Dunkley",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Capsey",
+              "bowler": "SFM Devine",
+              "non_striker": "SIR Dunkley",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Capsey",
+              "bowler": "SFM Devine",
+              "non_striker": "SIR Dunkley",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Capsey",
+              "bowler": "SFM Devine",
+              "non_striker": "SIR Dunkley",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Capsey",
+              "bowler": "SFM Devine",
+              "non_striker": "SIR Dunkley",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Capsey",
+              "bowler": "SFM Devine",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "SIR Dunkley",
+              "runs": {
+                "batter": 1,
+                "extras": 1,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SIR Dunkley",
+              "bowler": "SFM Devine",
+              "non_striker": "A Capsey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "A Capsey",
+              "bowler": "AC Kerr",
+              "non_striker": "SIR Dunkley",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Capsey",
+              "bowler": "AC Kerr",
+              "non_striker": "SIR Dunkley",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "A Capsey",
+                  "fielders": [
+                    {
+                      "name": "SFM Devine"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "NR Sciver",
+              "bowler": "AC Kerr",
+              "non_striker": "SIR Dunkley",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NR Sciver",
+              "bowler": "AC Kerr",
+              "non_striker": "SIR Dunkley",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NR Sciver",
+              "bowler": "AC Kerr",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "SIR Dunkley",
+              "review": {
+                "by": "New Zealand",
+                "batter": "NR Sciver",
+                "decision": "struck down"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SIR Dunkley",
+              "bowler": "AC Kerr",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "NR Sciver",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "SIR Dunkley",
+              "bowler": "HNK Jensen",
+              "non_striker": "NR Sciver",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SIR Dunkley",
+              "bowler": "HNK Jensen",
+              "non_striker": "NR Sciver",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SIR Dunkley",
+              "bowler": "HNK Jensen",
+              "non_striker": "NR Sciver",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SIR Dunkley",
+              "bowler": "HNK Jensen",
+              "non_striker": "NR Sciver",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NR Sciver",
+              "bowler": "HNK Jensen",
+              "non_striker": "SIR Dunkley",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NR Sciver",
+              "bowler": "HNK Jensen",
+              "non_striker": "SIR Dunkley",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "SIR Dunkley",
+              "bowler": "AC Kerr",
+              "non_striker": "NR Sciver",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SIR Dunkley",
+              "bowler": "AC Kerr",
+              "non_striker": "NR Sciver",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SIR Dunkley",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "AE Jones",
+              "bowler": "AC Kerr",
+              "non_striker": "NR Sciver",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AE Jones",
+              "bowler": "AC Kerr",
+              "non_striker": "NR Sciver",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AE Jones",
+              "bowler": "AC Kerr",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "NR Sciver",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AE Jones",
+              "bowler": "AC Kerr",
+              "non_striker": "NR Sciver",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AE Jones",
+              "bowler": "AC Kerr",
+              "non_striker": "NR Sciver",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "NR Sciver",
+              "bowler": "SFM Devine",
+              "non_striker": "AE Jones",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NR Sciver",
+              "bowler": "SFM Devine",
+              "non_striker": "AE Jones",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NR Sciver",
+              "bowler": "SFM Devine",
+              "non_striker": "AE Jones",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "NR Sciver",
+              "bowler": "SFM Devine",
+              "non_striker": "AE Jones",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NR Sciver",
+              "bowler": "SFM Devine",
+              "non_striker": "AE Jones",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NR Sciver",
+              "bowler": "SFM Devine",
+              "non_striker": "AE Jones",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "AE Jones",
+              "bowler": "AC Kerr",
+              "non_striker": "NR Sciver",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AE Jones",
+              "bowler": "AC Kerr",
+              "non_striker": "NR Sciver",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AE Jones",
+              "bowler": "AC Kerr",
+              "non_striker": "NR Sciver",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NR Sciver",
+              "bowler": "AC Kerr",
+              "non_striker": "AE Jones",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AE Jones",
+              "bowler": "AC Kerr",
+              "non_striker": "NR Sciver",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NR Sciver",
+              "bowler": "AC Kerr",
+              "non_striker": "AE Jones",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "NR Sciver",
+              "bowler": "HNK Jensen",
+              "non_striker": "AE Jones",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NR Sciver",
+              "bowler": "HNK Jensen",
+              "non_striker": "AE Jones",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AE Jones",
+              "bowler": "HNK Jensen",
+              "non_striker": "NR Sciver",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AE Jones",
+              "bowler": "HNK Jensen",
+              "non_striker": "NR Sciver",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.7,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 72
+      }
+    }
+  ]
+}

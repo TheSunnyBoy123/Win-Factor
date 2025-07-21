@@ -1,0 +1,2885 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2023-01-06",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "dates": [
+      "2016-01-03"
+    ],
+    "event": {
+      "name": "Syed Mushtaq Ali Trophy",
+      "group": "D"
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "missing": [
+      "umpires"
+    ],
+    "outcome": {
+      "winner": "Maharashtra",
+      "by": {
+        "runs": 31
+      }
+    },
+    "overs": 20,
+    "players": {
+      "Maharashtra": [
+        "SM Gugale",
+        "HH Khadiwale",
+        "KM Jadhav",
+        "NS Naik",
+        "PJ Bhati",
+        "AR Bawne",
+        "SS Mundhe",
+        "SM Kazi",
+        "AA Sanklecha",
+        "DJ Muthuswami",
+        "Satyajeet Bachhav"
+      ],
+      "Services": [
+        "Raushan Raj",
+        "Nitin Yadav",
+        "D Rai",
+        "Sumit Singh",
+        "Avishek Sinha",
+        "Aanshul Gupta",
+        "Devender Lohchab",
+        "Nakul Verma",
+        "Rajat Paliwal",
+        "Yashpal Singh",
+        "SR Swain"
+      ]
+    },
+    "registry": {
+      "people": {
+        "AA Sanklecha": "90a5e58a",
+        "AR Bawne": "afe3355a",
+        "Aanshul Gupta": "71ee052e",
+        "Avishek Sinha": "9fc68dcb",
+        "D Rai": "549fdc26",
+        "DJ Muthuswami": "2c76b512",
+        "Devender Lohchab": "92ac032e",
+        "HH Khadiwale": "4a65051a",
+        "KM Jadhav": "99d63244",
+        "NS Naik": "aedc3b7c",
+        "Nakul Verma": "38c0d699",
+        "Nitin Yadav": "ed3fdd1a",
+        "PJ Bhati": "278989a3",
+        "RA Tripathi": "77255a9e",
+        "Rajat Paliwal": "2fcb040c",
+        "Raushan Raj": "4b2056c7",
+        "SM Gugale": "fdf8d681",
+        "SM Kazi": "868e3639",
+        "SR Swain": "17f7177e",
+        "SS Mundhe": "0af3426f",
+        "Satyajeet Bachhav": "09a71776",
+        "Sumit Singh": "9ad3a550",
+        "Yashpal Singh": "297b26da"
+      }
+    },
+    "season": "2015/16",
+    "team_type": "club",
+    "teams": [
+      "Maharashtra",
+      "Services"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Services"
+    },
+    "venue": "Barabati Stadium"
+  },
+  "innings": [
+    {
+      "team": "Maharashtra",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "SM Gugale",
+              "bowler": "Raushan Raj",
+              "non_striker": "HH Khadiwale",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "HH Khadiwale",
+              "bowler": "Raushan Raj",
+              "non_striker": "SM Gugale",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SM Gugale",
+              "bowler": "Raushan Raj",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "HH Khadiwale",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SM Gugale",
+              "bowler": "Raushan Raj",
+              "non_striker": "HH Khadiwale",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SM Gugale",
+                  "fielders": [
+                    {
+                      "name": "Devender Lohchab"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "KM Jadhav",
+              "bowler": "Raushan Raj",
+              "non_striker": "HH Khadiwale",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KM Jadhav",
+              "bowler": "Raushan Raj",
+              "non_striker": "HH Khadiwale",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KM Jadhav",
+              "bowler": "Raushan Raj",
+              "non_striker": "HH Khadiwale",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "HH Khadiwale",
+              "bowler": "Nitin Yadav",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "KM Jadhav",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HH Khadiwale",
+              "bowler": "Nitin Yadav",
+              "non_striker": "KM Jadhav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KM Jadhav",
+              "bowler": "Nitin Yadav",
+              "non_striker": "HH Khadiwale",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HH Khadiwale",
+              "bowler": "Nitin Yadav",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "KM Jadhav",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HH Khadiwale",
+              "bowler": "Nitin Yadav",
+              "non_striker": "KM Jadhav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HH Khadiwale",
+              "bowler": "Nitin Yadav",
+              "non_striker": "KM Jadhav",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "HH Khadiwale",
+              "bowler": "Nitin Yadav",
+              "non_striker": "KM Jadhav",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "HH Khadiwale",
+              "bowler": "Nitin Yadav",
+              "non_striker": "KM Jadhav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "HH Khadiwale",
+                  "fielders": [
+                    {
+                      "name": "Nakul Verma"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "KM Jadhav",
+              "bowler": "Raushan Raj",
+              "non_striker": "NS Naik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KM Jadhav",
+              "bowler": "Raushan Raj",
+              "non_striker": "NS Naik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KM Jadhav",
+              "bowler": "Raushan Raj",
+              "non_striker": "NS Naik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KM Jadhav",
+              "bowler": "Raushan Raj",
+              "non_striker": "NS Naik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NS Naik",
+              "bowler": "Raushan Raj",
+              "non_striker": "KM Jadhav",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "NS Naik",
+              "bowler": "Raushan Raj",
+              "non_striker": "KM Jadhav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "NS Naik",
+              "bowler": "Nitin Yadav",
+              "non_striker": "KM Jadhav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KM Jadhav",
+              "bowler": "Nitin Yadav",
+              "non_striker": "NS Naik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NS Naik",
+              "bowler": "Nitin Yadav",
+              "non_striker": "KM Jadhav",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "NS Naik",
+              "bowler": "Nitin Yadav",
+              "non_striker": "KM Jadhav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NS Naik",
+              "bowler": "Nitin Yadav",
+              "non_striker": "KM Jadhav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NS Naik",
+              "bowler": "Nitin Yadav",
+              "non_striker": "KM Jadhav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "NS Naik",
+              "bowler": "Raushan Raj",
+              "non_striker": "KM Jadhav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NS Naik",
+              "bowler": "Raushan Raj",
+              "non_striker": "KM Jadhav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NS Naik",
+              "bowler": "Raushan Raj",
+              "non_striker": "KM Jadhav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NS Naik",
+              "bowler": "Raushan Raj",
+              "non_striker": "KM Jadhav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KM Jadhav",
+              "bowler": "Raushan Raj",
+              "non_striker": "NS Naik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NS Naik",
+              "bowler": "Raushan Raj",
+              "non_striker": "KM Jadhav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "NS Naik",
+              "bowler": "D Rai",
+              "non_striker": "KM Jadhav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NS Naik",
+              "bowler": "D Rai",
+              "non_striker": "KM Jadhav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KM Jadhav",
+              "bowler": "D Rai",
+              "non_striker": "NS Naik",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "NS Naik",
+              "bowler": "D Rai",
+              "non_striker": "KM Jadhav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NS Naik",
+              "bowler": "D Rai",
+              "non_striker": "KM Jadhav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KM Jadhav",
+              "bowler": "D Rai",
+              "non_striker": "NS Naik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "KM Jadhav",
+              "bowler": "Sumit Singh",
+              "non_striker": "NS Naik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KM Jadhav",
+              "bowler": "Sumit Singh",
+              "non_striker": "NS Naik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NS Naik",
+              "bowler": "Sumit Singh",
+              "non_striker": "KM Jadhav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KM Jadhav",
+              "bowler": "Sumit Singh",
+              "non_striker": "NS Naik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KM Jadhav",
+              "bowler": "Sumit Singh",
+              "non_striker": "NS Naik",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KM Jadhav",
+              "bowler": "Sumit Singh",
+              "non_striker": "NS Naik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "KM Jadhav",
+              "bowler": "D Rai",
+              "non_striker": "NS Naik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NS Naik",
+              "bowler": "D Rai",
+              "non_striker": "KM Jadhav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NS Naik",
+              "bowler": "D Rai",
+              "non_striker": "KM Jadhav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KM Jadhav",
+              "bowler": "D Rai",
+              "non_striker": "NS Naik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KM Jadhav",
+              "bowler": "D Rai",
+              "non_striker": "NS Naik",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "KM Jadhav",
+              "bowler": "D Rai",
+              "non_striker": "NS Naik",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "NS Naik",
+              "bowler": "Sumit Singh",
+              "non_striker": "KM Jadhav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KM Jadhav",
+              "bowler": "Sumit Singh",
+              "non_striker": "NS Naik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NS Naik",
+              "bowler": "Sumit Singh",
+              "non_striker": "KM Jadhav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KM Jadhav",
+              "bowler": "Sumit Singh",
+              "non_striker": "NS Naik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KM Jadhav",
+              "bowler": "Sumit Singh",
+              "non_striker": "NS Naik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NS Naik",
+              "bowler": "Sumit Singh",
+              "non_striker": "KM Jadhav",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "KM Jadhav",
+              "bowler": "D Rai",
+              "non_striker": "NS Naik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NS Naik",
+              "bowler": "D Rai",
+              "non_striker": "KM Jadhav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KM Jadhav",
+              "bowler": "D Rai",
+              "non_striker": "NS Naik",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "KM Jadhav",
+              "bowler": "D Rai",
+              "non_striker": "NS Naik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KM Jadhav",
+              "bowler": "D Rai",
+              "non_striker": "NS Naik",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KM Jadhav",
+              "bowler": "D Rai",
+              "non_striker": "NS Naik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "KM Jadhav",
+              "bowler": "Avishek Sinha",
+              "non_striker": "NS Naik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NS Naik",
+              "bowler": "Avishek Sinha",
+              "non_striker": "KM Jadhav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "KM Jadhav",
+                  "fielders": [
+                    {
+                      "name": "Rajat Paliwal"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "PJ Bhati",
+              "bowler": "Avishek Sinha",
+              "non_striker": "NS Naik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PJ Bhati",
+              "bowler": "Avishek Sinha",
+              "non_striker": "NS Naik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PJ Bhati",
+              "bowler": "Avishek Sinha",
+              "non_striker": "NS Naik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PJ Bhati",
+              "bowler": "Avishek Sinha",
+              "non_striker": "NS Naik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "PJ Bhati",
+              "bowler": "D Rai",
+              "non_striker": "NS Naik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NS Naik",
+              "bowler": "D Rai",
+              "non_striker": "PJ Bhati",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PJ Bhati",
+              "bowler": "D Rai",
+              "non_striker": "NS Naik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PJ Bhati",
+              "bowler": "D Rai",
+              "non_striker": "NS Naik",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "PJ Bhati",
+              "bowler": "D Rai",
+              "non_striker": "NS Naik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PJ Bhati",
+              "bowler": "D Rai",
+              "non_striker": "NS Naik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "PJ Bhati",
+              "bowler": "Avishek Sinha",
+              "non_striker": "NS Naik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NS Naik",
+              "bowler": "Avishek Sinha",
+              "non_striker": "PJ Bhati",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PJ Bhati",
+              "bowler": "Avishek Sinha",
+              "non_striker": "NS Naik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NS Naik",
+              "bowler": "Avishek Sinha",
+              "non_striker": "PJ Bhati",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PJ Bhati",
+              "bowler": "Avishek Sinha",
+              "non_striker": "NS Naik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NS Naik",
+              "bowler": "Avishek Sinha",
+              "non_striker": "PJ Bhati",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "PJ Bhati",
+              "bowler": "Sumit Singh",
+              "non_striker": "NS Naik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NS Naik",
+              "bowler": "Sumit Singh",
+              "non_striker": "PJ Bhati",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "NS Naik",
+              "bowler": "Sumit Singh",
+              "non_striker": "PJ Bhati",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PJ Bhati",
+              "bowler": "Sumit Singh",
+              "non_striker": "NS Naik",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "PJ Bhati",
+              "bowler": "Sumit Singh",
+              "non_striker": "NS Naik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "PJ Bhati",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "AR Bawne",
+              "bowler": "Sumit Singh",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "NS Naik",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "AR Bawne",
+              "bowler": "Avishek Sinha",
+              "non_striker": "NS Naik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AR Bawne",
+              "bowler": "Avishek Sinha",
+              "non_striker": "NS Naik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NS Naik",
+              "bowler": "Avishek Sinha",
+              "non_striker": "AR Bawne",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AR Bawne",
+              "bowler": "Avishek Sinha",
+              "non_striker": "NS Naik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AR Bawne",
+              "bowler": "Avishek Sinha",
+              "non_striker": "NS Naik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NS Naik",
+              "bowler": "Avishek Sinha",
+              "non_striker": "AR Bawne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "AR Bawne",
+              "bowler": "Sumit Singh",
+              "non_striker": "NS Naik",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AR Bawne",
+              "bowler": "Sumit Singh",
+              "non_striker": "NS Naik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "AR Bawne",
+                  "fielders": [
+                    {
+                      "name": "Nakul Verma"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "SS Mundhe",
+              "bowler": "Sumit Singh",
+              "non_striker": "NS Naik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SS Mundhe",
+              "bowler": "Sumit Singh",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "NS Naik",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NS Naik",
+              "bowler": "Sumit Singh",
+              "non_striker": "SS Mundhe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SS Mundhe",
+              "bowler": "Sumit Singh",
+              "non_striker": "NS Naik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "NS Naik",
+              "bowler": "Avishek Sinha",
+              "non_striker": "SS Mundhe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SS Mundhe",
+              "bowler": "Avishek Sinha",
+              "non_striker": "NS Naik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SS Mundhe",
+              "bowler": "Avishek Sinha",
+              "non_striker": "NS Naik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NS Naik",
+              "bowler": "Avishek Sinha",
+              "non_striker": "SS Mundhe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SS Mundhe",
+              "bowler": "Avishek Sinha",
+              "non_striker": "NS Naik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NS Naik",
+              "bowler": "Avishek Sinha",
+              "non_striker": "SS Mundhe",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "SS Mundhe",
+              "bowler": "Nitin Yadav",
+              "non_striker": "NS Naik",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SS Mundhe",
+              "bowler": "Nitin Yadav",
+              "non_striker": "NS Naik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NS Naik",
+              "bowler": "Nitin Yadav",
+              "non_striker": "SS Mundhe",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "NS Naik",
+              "bowler": "Nitin Yadav",
+              "non_striker": "SS Mundhe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SS Mundhe",
+              "bowler": "Nitin Yadav",
+              "non_striker": "NS Naik",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SS Mundhe",
+              "bowler": "Nitin Yadav",
+              "non_striker": "NS Naik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SS Mundhe",
+                  "fielders": [
+                    {
+                      "name": "Avishek Sinha"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "SM Kazi",
+              "bowler": "Raushan Raj",
+              "non_striker": "NS Naik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SM Kazi",
+                  "fielders": [
+                    {
+                      "name": "Nakul Verma"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "AA Sanklecha",
+              "bowler": "Raushan Raj",
+              "non_striker": "NS Naik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NS Naik",
+              "bowler": "Raushan Raj",
+              "non_striker": "AA Sanklecha",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AA Sanklecha",
+              "bowler": "Raushan Raj",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "NS Naik",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AA Sanklecha",
+              "bowler": "Raushan Raj",
+              "non_striker": "NS Naik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NS Naik",
+              "bowler": "Raushan Raj",
+              "non_striker": "AA Sanklecha",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "NS Naik",
+              "bowler": "Raushan Raj",
+              "non_striker": "AA Sanklecha",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "NS Naik",
+              "bowler": "Nitin Yadav",
+              "non_striker": "AA Sanklecha",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "NS Naik",
+              "bowler": "Nitin Yadav",
+              "non_striker": "AA Sanklecha",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "NS Naik",
+              "bowler": "Nitin Yadav",
+              "non_striker": "AA Sanklecha",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "NS Naik",
+              "bowler": "Nitin Yadav",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AA Sanklecha",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NS Naik",
+              "bowler": "Nitin Yadav",
+              "non_striker": "AA Sanklecha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NS Naik",
+              "bowler": "Nitin Yadav",
+              "non_striker": "AA Sanklecha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "NS Naik",
+                  "fielders": [
+                    {
+                      "name": "Avishek Sinha"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "DJ Muthuswami",
+              "bowler": "Nitin Yadav",
+              "non_striker": "AA Sanklecha",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Services",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Aanshul Gupta",
+              "bowler": "DJ Muthuswami",
+              "non_striker": "Devender Lohchab",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Aanshul Gupta",
+              "bowler": "DJ Muthuswami",
+              "non_striker": "Devender Lohchab",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Aanshul Gupta",
+              "bowler": "DJ Muthuswami",
+              "non_striker": "Devender Lohchab",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Aanshul Gupta",
+              "bowler": "DJ Muthuswami",
+              "non_striker": "Devender Lohchab",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Devender Lohchab",
+              "bowler": "DJ Muthuswami",
+              "non_striker": "Aanshul Gupta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Devender Lohchab",
+              "bowler": "DJ Muthuswami",
+              "non_striker": "Aanshul Gupta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Devender Lohchab",
+                  "fielders": [
+                    {
+                      "name": "NS Naik"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Aanshul Gupta",
+              "bowler": "AA Sanklecha",
+              "non_striker": "Nakul Verma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Aanshul Gupta",
+              "bowler": "AA Sanklecha",
+              "non_striker": "Nakul Verma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Aanshul Gupta",
+              "bowler": "AA Sanklecha",
+              "non_striker": "Nakul Verma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nakul Verma",
+              "bowler": "AA Sanklecha",
+              "non_striker": "Aanshul Gupta",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Nakul Verma",
+              "bowler": "AA Sanklecha",
+              "non_striker": "Aanshul Gupta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nakul Verma",
+              "bowler": "AA Sanklecha",
+              "non_striker": "Aanshul Gupta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Aanshul Gupta",
+              "bowler": "DJ Muthuswami",
+              "non_striker": "Nakul Verma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Aanshul Gupta",
+              "bowler": "DJ Muthuswami",
+              "non_striker": "Nakul Verma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Aanshul Gupta",
+              "bowler": "DJ Muthuswami",
+              "non_striker": "Nakul Verma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Aanshul Gupta",
+              "bowler": "DJ Muthuswami",
+              "non_striker": "Nakul Verma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nakul Verma",
+              "bowler": "DJ Muthuswami",
+              "non_striker": "Aanshul Gupta",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Aanshul Gupta",
+              "bowler": "DJ Muthuswami",
+              "non_striker": "Nakul Verma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Aanshul Gupta",
+                  "fielders": [
+                    {
+                      "name": "SM Gugale"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Nakul Verma",
+              "bowler": "AA Sanklecha",
+              "non_striker": "Sumit Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sumit Singh",
+              "bowler": "AA Sanklecha",
+              "non_striker": "Nakul Verma",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Sumit Singh",
+              "bowler": "AA Sanklecha",
+              "non_striker": "Nakul Verma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sumit Singh",
+              "bowler": "AA Sanklecha",
+              "non_striker": "Nakul Verma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nakul Verma",
+              "bowler": "AA Sanklecha",
+              "non_striker": "Sumit Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nakul Verma",
+              "bowler": "AA Sanklecha",
+              "non_striker": "Sumit Singh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Sumit Singh",
+              "bowler": "DJ Muthuswami",
+              "non_striker": "Nakul Verma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nakul Verma",
+              "bowler": "DJ Muthuswami",
+              "non_striker": "Sumit Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nakul Verma",
+              "bowler": "DJ Muthuswami",
+              "non_striker": "Sumit Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sumit Singh",
+              "bowler": "DJ Muthuswami",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Nakul Verma",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nakul Verma",
+              "bowler": "DJ Muthuswami",
+              "non_striker": "Sumit Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sumit Singh",
+              "bowler": "DJ Muthuswami",
+              "non_striker": "Nakul Verma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Sumit Singh",
+              "bowler": "AA Sanklecha",
+              "non_striker": "Nakul Verma",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Sumit Singh",
+              "bowler": "AA Sanklecha",
+              "non_striker": "Nakul Verma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nakul Verma",
+              "bowler": "AA Sanklecha",
+              "non_striker": "Sumit Singh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Nakul Verma",
+              "bowler": "AA Sanklecha",
+              "non_striker": "Sumit Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nakul Verma",
+              "bowler": "AA Sanklecha",
+              "non_striker": "Sumit Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nakul Verma",
+              "bowler": "AA Sanklecha",
+              "non_striker": "Sumit Singh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Sumit Singh",
+              "bowler": "SS Mundhe",
+              "non_striker": "Nakul Verma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sumit Singh",
+              "bowler": "SS Mundhe",
+              "non_striker": "Nakul Verma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nakul Verma",
+              "bowler": "SS Mundhe",
+              "non_striker": "Sumit Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nakul Verma",
+              "bowler": "SS Mundhe",
+              "non_striker": "Sumit Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sumit Singh",
+              "bowler": "SS Mundhe",
+              "non_striker": "Nakul Verma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nakul Verma",
+              "bowler": "SS Mundhe",
+              "non_striker": "Sumit Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Nakul Verma",
+                  "fielders": [
+                    {
+                      "name": "NS Naik"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Sumit Singh",
+              "bowler": "Satyajeet Bachhav",
+              "non_striker": "Rajat Paliwal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sumit Singh",
+              "bowler": "Satyajeet Bachhav",
+              "non_striker": "Rajat Paliwal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sumit Singh",
+              "bowler": "Satyajeet Bachhav",
+              "non_striker": "Rajat Paliwal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sumit Singh",
+              "bowler": "Satyajeet Bachhav",
+              "non_striker": "Rajat Paliwal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rajat Paliwal",
+              "bowler": "Satyajeet Bachhav",
+              "non_striker": "Sumit Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sumit Singh",
+              "bowler": "Satyajeet Bachhav",
+              "non_striker": "Rajat Paliwal",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "Rajat Paliwal",
+              "bowler": "SS Mundhe",
+              "non_striker": "Sumit Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rajat Paliwal",
+              "bowler": "SS Mundhe",
+              "non_striker": "Sumit Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sumit Singh",
+              "bowler": "SS Mundhe",
+              "non_striker": "Rajat Paliwal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rajat Paliwal",
+              "bowler": "SS Mundhe",
+              "non_striker": "Sumit Singh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Rajat Paliwal",
+              "bowler": "SS Mundhe",
+              "non_striker": "Sumit Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sumit Singh",
+              "bowler": "SS Mundhe",
+              "non_striker": "Rajat Paliwal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Sumit Singh",
+                  "fielders": [
+                    {
+                      "name": "KM Jadhav"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "Yashpal Singh",
+              "bowler": "Satyajeet Bachhav",
+              "non_striker": "Rajat Paliwal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rajat Paliwal",
+              "bowler": "Satyajeet Bachhav",
+              "non_striker": "Yashpal Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Yashpal Singh",
+              "bowler": "Satyajeet Bachhav",
+              "non_striker": "Rajat Paliwal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rajat Paliwal",
+              "bowler": "Satyajeet Bachhav",
+              "non_striker": "Yashpal Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rajat Paliwal",
+              "bowler": "Satyajeet Bachhav",
+              "non_striker": "Yashpal Singh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Rajat Paliwal",
+              "bowler": "Satyajeet Bachhav",
+              "non_striker": "Yashpal Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "Rajat Paliwal",
+              "bowler": "SS Mundhe",
+              "non_striker": "Yashpal Singh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Rajat Paliwal",
+              "bowler": "SS Mundhe",
+              "non_striker": "Yashpal Singh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Rajat Paliwal",
+              "bowler": "SS Mundhe",
+              "non_striker": "Yashpal Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Yashpal Singh",
+              "bowler": "SS Mundhe",
+              "non_striker": "Rajat Paliwal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rajat Paliwal",
+              "bowler": "SS Mundhe",
+              "non_striker": "Yashpal Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rajat Paliwal",
+              "bowler": "SS Mundhe",
+              "non_striker": "Yashpal Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "Rajat Paliwal",
+              "bowler": "SM Kazi",
+              "non_striker": "Yashpal Singh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Rajat Paliwal",
+              "bowler": "SM Kazi",
+              "non_striker": "Yashpal Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Rajat Paliwal",
+                  "fielders": [
+                    {
+                      "name": "KM Jadhav"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "SR Swain",
+              "bowler": "SM Kazi",
+              "non_striker": "Yashpal Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Yashpal Singh",
+              "bowler": "SM Kazi",
+              "non_striker": "SR Swain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SR Swain",
+              "bowler": "SM Kazi",
+              "non_striker": "Yashpal Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Yashpal Singh",
+              "bowler": "SM Kazi",
+              "non_striker": "SR Swain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "Yashpal Singh",
+              "bowler": "Satyajeet Bachhav",
+              "non_striker": "SR Swain",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Yashpal Singh",
+              "bowler": "Satyajeet Bachhav",
+              "non_striker": "SR Swain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SR Swain",
+              "bowler": "Satyajeet Bachhav",
+              "non_striker": "Yashpal Singh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SR Swain",
+              "bowler": "Satyajeet Bachhav",
+              "non_striker": "Yashpal Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Yashpal Singh",
+              "bowler": "Satyajeet Bachhav",
+              "non_striker": "SR Swain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yashpal Singh",
+              "bowler": "Satyajeet Bachhav",
+              "non_striker": "SR Swain",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "SR Swain",
+              "bowler": "SM Kazi",
+              "non_striker": "Yashpal Singh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SR Swain",
+              "bowler": "SM Kazi",
+              "non_striker": "Yashpal Singh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SR Swain",
+              "bowler": "SM Kazi",
+              "non_striker": "Yashpal Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SR Swain",
+              "bowler": "SM Kazi",
+              "non_striker": "Yashpal Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SR Swain",
+              "bowler": "SM Kazi",
+              "non_striker": "Yashpal Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Yashpal Singh",
+              "bowler": "SM Kazi",
+              "non_striker": "SR Swain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Yashpal Singh",
+                  "kind": "lbw"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "SR Swain",
+              "bowler": "SM Gugale",
+              "non_striker": "Avishek Sinha",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Avishek Sinha",
+              "bowler": "SM Gugale",
+              "non_striker": "SR Swain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Avishek Sinha",
+                  "fielders": [
+                    {
+                      "name": "RA Tripathi",
+                      "substitute": true
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "SR Swain",
+              "bowler": "SM Gugale",
+              "non_striker": "Raushan Raj",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SR Swain",
+              "bowler": "SM Gugale",
+              "non_striker": "Raushan Raj",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SR Swain",
+              "bowler": "SM Gugale",
+              "non_striker": "Raushan Raj",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Raushan Raj",
+              "bowler": "SM Gugale",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "SR Swain",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "Raushan Raj",
+              "bowler": "SM Kazi",
+              "non_striker": "SR Swain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SR Swain",
+              "bowler": "SM Kazi",
+              "non_striker": "Raushan Raj",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Raushan Raj",
+              "bowler": "SM Kazi",
+              "non_striker": "SR Swain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Raushan Raj",
+              "bowler": "SM Kazi",
+              "non_striker": "SR Swain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SR Swain",
+              "bowler": "SM Kazi",
+              "non_striker": "Raushan Raj",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Raushan Raj",
+              "bowler": "SM Kazi",
+              "non_striker": "SR Swain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "Raushan Raj",
+              "bowler": "SM Gugale",
+              "non_striker": "SR Swain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Raushan Raj",
+              "bowler": "SM Gugale",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "SR Swain",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SR Swain",
+              "bowler": "SM Gugale",
+              "non_striker": "Raushan Raj",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Raushan Raj",
+              "bowler": "SM Gugale",
+              "non_striker": "SR Swain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SR Swain",
+              "bowler": "SM Gugale",
+              "non_striker": "Raushan Raj",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SR Swain",
+                  "fielders": [
+                    {
+                      "name": "DJ Muthuswami"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "D Rai",
+              "bowler": "SM Gugale",
+              "non_striker": "Raushan Raj",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "Raushan Raj",
+              "bowler": "SM Kazi",
+              "non_striker": "D Rai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Rai",
+              "bowler": "SM Kazi",
+              "non_striker": "Raushan Raj",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Raushan Raj",
+              "bowler": "SM Kazi",
+              "non_striker": "D Rai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Rai",
+              "bowler": "SM Kazi",
+              "non_striker": "Raushan Raj",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Raushan Raj",
+              "bowler": "SM Kazi",
+              "non_striker": "D Rai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Rai",
+              "bowler": "SM Kazi",
+              "non_striker": "Raushan Raj",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "D Rai",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "Raushan Raj",
+              "bowler": "SM Gugale",
+              "non_striker": "Nitin Yadav",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Raushan Raj",
+              "bowler": "SM Gugale",
+              "non_striker": "Nitin Yadav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Raushan Raj",
+              "bowler": "SM Gugale",
+              "non_striker": "Nitin Yadav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Raushan Raj",
+                  "kind": "caught and bowled"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    }
+  ]
+}

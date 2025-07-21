@@ -1,0 +1,1761 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2021-11-01",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Dhaka",
+    "dates": [
+      "2017-12-03"
+    ],
+    "event": {
+      "name": "Bangladesh Premier League",
+      "match_number": 37
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "officials": {
+      "match_referees": [
+        "Debabrata Paul"
+      ],
+      "reserve_umpires": [
+        "Moniruzzaman"
+      ],
+      "tv_umpires": [
+        "REJ Martinesz"
+      ],
+      "umpires": [
+        "Nadir Shah",
+        "Tanvir Ahmed"
+      ]
+    },
+    "outcome": {
+      "winner": "Sylhet Sixers",
+      "by": {
+        "wickets": 10
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "Nasir Hossain"
+    ],
+    "players": {
+      "Sylhet Sixers": [
+        "Mohammad Rizwan",
+        "ADS Fletcher",
+        "Sabbir Rahman",
+        "Nasir Hossain",
+        "RA Whiteley",
+        "Sohail Tanvir",
+        "Kamrul Islam Rabbi",
+        "Abul Hasan",
+        "Nabil Samad",
+        "Babar Azam",
+        "Sharifullah"
+      ],
+      "Chittagong Vikings": [
+        "L Ronchi",
+        "Soumya Sarkar",
+        "LM Reece",
+        "S van Zyl",
+        "Sikandar Raza",
+        "Tanbir Hayder",
+        "Irfan Sukkur",
+        "RR Emrit",
+        "Sunzamul Islam",
+        "Nayeem Hasan",
+        "Taskin Ahmed"
+      ]
+    },
+    "registry": {
+      "people": {
+        "ADS Fletcher": "1bae756b",
+        "Abul Hasan": "5c756df3",
+        "Babar Azam": "8a75e999",
+        "Debabrata Paul": "a77f51d0",
+        "Irfan Sukkur": "3cc7dd5f",
+        "Kamrul Islam Rabbi": "f7e9a562",
+        "L Ronchi": "0fa5042b",
+        "LM Reece": "9789e56e",
+        "Mohammad Rizwan": "2f26ac1a",
+        "Moniruzzaman": "075e9f9c",
+        "Nabil Samad": "b8d18afc",
+        "Nadir Shah": "3515389d",
+        "Nasir Hossain": "6eea0b32",
+        "Nayeem Hasan": "1670dcfd",
+        "RA Whiteley": "d346d939",
+        "REJ Martinesz": "140cdf29",
+        "RR Emrit": "e7de4f6b",
+        "S van Zyl": "f4dfcbb4",
+        "Sabbir Rahman": "7147f314",
+        "Sharifullah": "8ac11b50",
+        "Sikandar Raza": "26d041c4",
+        "Sohail Tanvir": "64d43928",
+        "Soumya Sarkar": "4d9f9686",
+        "Sunzamul Islam": "0f348f58",
+        "Tanbir Hayder": "24104e5c",
+        "Tanvir Ahmed": "ea2df1f1",
+        "Taskin Ahmed": "ef18b66e"
+      }
+    },
+    "season": "2017/18",
+    "team_type": "club",
+    "teams": [
+      "Chittagong Vikings",
+      "Sylhet Sixers"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Sylhet Sixers"
+    },
+    "venue": "Shere Bangla National Stadium, Mirpur"
+  },
+  "innings": [
+    {
+      "team": "Chittagong Vikings",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "L Ronchi",
+              "bowler": "Nasir Hossain",
+              "non_striker": "Soumya Sarkar",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "L Ronchi",
+              "bowler": "Nasir Hossain",
+              "non_striker": "Soumya Sarkar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "L Ronchi",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "LM Reece",
+              "bowler": "Nasir Hossain",
+              "non_striker": "Soumya Sarkar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LM Reece",
+              "bowler": "Nasir Hossain",
+              "non_striker": "Soumya Sarkar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LM Reece",
+              "bowler": "Nasir Hossain",
+              "non_striker": "Soumya Sarkar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Soumya Sarkar",
+              "bowler": "Nasir Hossain",
+              "non_striker": "LM Reece",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Soumya Sarkar",
+                  "kind": "caught and bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "LM Reece",
+              "bowler": "Sohail Tanvir",
+              "non_striker": "S van Zyl",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LM Reece",
+              "bowler": "Sohail Tanvir",
+              "non_striker": "S van Zyl",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S van Zyl",
+              "bowler": "Sohail Tanvir",
+              "non_striker": "LM Reece",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LM Reece",
+              "bowler": "Sohail Tanvir",
+              "non_striker": "S van Zyl",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "LM Reece",
+              "bowler": "Sohail Tanvir",
+              "non_striker": "S van Zyl",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LM Reece",
+              "bowler": "Sohail Tanvir",
+              "non_striker": "S van Zyl",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "S van Zyl",
+              "bowler": "Nasir Hossain",
+              "non_striker": "LM Reece",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LM Reece",
+              "bowler": "Nasir Hossain",
+              "non_striker": "S van Zyl",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LM Reece",
+              "bowler": "Nasir Hossain",
+              "non_striker": "S van Zyl",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "LM Reece",
+              "bowler": "Nasir Hossain",
+              "non_striker": "S van Zyl",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LM Reece",
+              "bowler": "Nasir Hossain",
+              "non_striker": "S van Zyl",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "LM Reece",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "Sikandar Raza",
+              "bowler": "Nasir Hossain",
+              "non_striker": "S van Zyl",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Sikandar Raza",
+              "bowler": "Sharifullah",
+              "non_striker": "S van Zyl",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sikandar Raza",
+              "bowler": "Sharifullah",
+              "non_striker": "S van Zyl",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Sikandar Raza",
+                  "fielders": [
+                    {
+                      "name": "Sabbir Rahman"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "S van Zyl",
+              "bowler": "Sharifullah",
+              "non_striker": "Tanbir Hayder",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Tanbir Hayder",
+              "bowler": "Sharifullah",
+              "non_striker": "S van Zyl",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Tanbir Hayder",
+              "bowler": "Sharifullah",
+              "non_striker": "S van Zyl",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S van Zyl",
+              "bowler": "Sharifullah",
+              "non_striker": "Tanbir Hayder",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "S van Zyl",
+              "bowler": "Nasir Hossain",
+              "non_striker": "Tanbir Hayder",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S van Zyl",
+              "bowler": "Nasir Hossain",
+              "non_striker": "Tanbir Hayder",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Tanbir Hayder",
+              "bowler": "Nasir Hossain",
+              "non_striker": "S van Zyl",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Tanbir Hayder",
+              "bowler": "Nasir Hossain",
+              "non_striker": "S van Zyl",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Tanbir Hayder",
+              "bowler": "Nasir Hossain",
+              "non_striker": "S van Zyl",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Tanbir Hayder",
+              "bowler": "Nasir Hossain",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S van Zyl",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Tanbir Hayder",
+              "bowler": "Nasir Hossain",
+              "non_striker": "S van Zyl",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Tanbir Hayder",
+                  "kind": "lbw"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "S van Zyl",
+              "bowler": "Sharifullah",
+              "non_striker": "Irfan Sukkur",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Irfan Sukkur",
+              "bowler": "Sharifullah",
+              "non_striker": "S van Zyl",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Irfan Sukkur",
+              "bowler": "Sharifullah",
+              "non_striker": "S van Zyl",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Irfan Sukkur",
+              "bowler": "Sharifullah",
+              "non_striker": "S van Zyl",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Irfan Sukkur",
+              "bowler": "Sharifullah",
+              "non_striker": "S van Zyl",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Irfan Sukkur",
+              "bowler": "Sharifullah",
+              "non_striker": "S van Zyl",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "S van Zyl",
+              "bowler": "Nasir Hossain",
+              "non_striker": "Irfan Sukkur",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Irfan Sukkur",
+              "bowler": "Nasir Hossain",
+              "non_striker": "S van Zyl",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Irfan Sukkur",
+              "bowler": "Nasir Hossain",
+              "non_striker": "S van Zyl",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S van Zyl",
+              "bowler": "Nasir Hossain",
+              "non_striker": "Irfan Sukkur",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S van Zyl",
+              "bowler": "Nasir Hossain",
+              "non_striker": "Irfan Sukkur",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S van Zyl",
+                  "fielders": [
+                    {
+                      "name": "Kamrul Islam Rabbi"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "RR Emrit",
+              "bowler": "Nasir Hossain",
+              "non_striker": "Irfan Sukkur",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Irfan Sukkur",
+              "bowler": "Nabil Samad",
+              "non_striker": "RR Emrit",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RR Emrit",
+              "bowler": "Nabil Samad",
+              "non_striker": "Irfan Sukkur",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RR Emrit",
+              "bowler": "Nabil Samad",
+              "non_striker": "Irfan Sukkur",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Irfan Sukkur",
+              "bowler": "Nabil Samad",
+              "non_striker": "RR Emrit",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Irfan Sukkur",
+              "bowler": "Nabil Samad",
+              "non_striker": "RR Emrit",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RR Emrit",
+              "bowler": "Nabil Samad",
+              "non_striker": "Irfan Sukkur",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "Irfan Sukkur",
+              "bowler": "Sharifullah",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "RR Emrit",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Irfan Sukkur",
+              "bowler": "Sharifullah",
+              "non_striker": "RR Emrit",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Irfan Sukkur",
+              "bowler": "Sharifullah",
+              "non_striker": "RR Emrit",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Irfan Sukkur",
+              "bowler": "Sharifullah",
+              "non_striker": "RR Emrit",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Irfan Sukkur",
+                  "fielders": [
+                    {
+                      "name": "Sohail Tanvir"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "RR Emrit",
+              "bowler": "Sharifullah",
+              "non_striker": "Sunzamul Islam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sunzamul Islam",
+              "bowler": "Sharifullah",
+              "non_striker": "RR Emrit",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sunzamul Islam",
+              "bowler": "Sharifullah",
+              "non_striker": "RR Emrit",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "RR Emrit",
+              "bowler": "Nabil Samad",
+              "non_striker": "Sunzamul Islam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RR Emrit",
+              "bowler": "Nabil Samad",
+              "non_striker": "Sunzamul Islam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "RR Emrit",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "Nayeem Hasan",
+              "bowler": "Nabil Samad",
+              "non_striker": "Sunzamul Islam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nayeem Hasan",
+              "bowler": "Nabil Samad",
+              "non_striker": "Sunzamul Islam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sunzamul Islam",
+              "bowler": "Nabil Samad",
+              "non_striker": "Nayeem Hasan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Sunzamul Islam",
+              "bowler": "Nabil Samad",
+              "non_striker": "Nayeem Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "Nayeem Hasan",
+              "bowler": "Sharifullah",
+              "non_striker": "Sunzamul Islam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nayeem Hasan",
+              "bowler": "Sharifullah",
+              "non_striker": "Sunzamul Islam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sunzamul Islam",
+              "bowler": "Sharifullah",
+              "non_striker": "Nayeem Hasan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Sunzamul Islam",
+              "bowler": "Sharifullah",
+              "non_striker": "Nayeem Hasan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Sunzamul Islam",
+              "bowler": "Sharifullah",
+              "non_striker": "Nayeem Hasan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nayeem Hasan",
+              "bowler": "Sharifullah",
+              "non_striker": "Sunzamul Islam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "Nayeem Hasan",
+              "bowler": "Nabil Samad",
+              "non_striker": "Sunzamul Islam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nayeem Hasan",
+              "bowler": "Nabil Samad",
+              "non_striker": "Sunzamul Islam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nayeem Hasan",
+              "bowler": "Nabil Samad",
+              "non_striker": "Sunzamul Islam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Nayeem Hasan",
+                  "fielders": [
+                    {
+                      "name": "Mohammad Rizwan"
+                    }
+                  ],
+                  "kind": "stumped"
+                }
+              ]
+            },
+            {
+              "batter": "Taskin Ahmed",
+              "bowler": "Nabil Samad",
+              "non_striker": "Sunzamul Islam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Taskin Ahmed",
+              "bowler": "Nabil Samad",
+              "non_striker": "Sunzamul Islam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sunzamul Islam",
+              "bowler": "Nabil Samad",
+              "non_striker": "Taskin Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Sunzamul Islam",
+                  "kind": "lbw"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Sylhet Sixers",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Mohammad Rizwan",
+              "bowler": "Sunzamul Islam",
+              "non_striker": "ADS Fletcher",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Rizwan",
+              "bowler": "Sunzamul Islam",
+              "non_striker": "ADS Fletcher",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ADS Fletcher",
+              "bowler": "Sunzamul Islam",
+              "non_striker": "Mohammad Rizwan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ADS Fletcher",
+              "bowler": "Sunzamul Islam",
+              "non_striker": "Mohammad Rizwan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ADS Fletcher",
+              "bowler": "Sunzamul Islam",
+              "non_striker": "Mohammad Rizwan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ADS Fletcher",
+              "bowler": "Sunzamul Islam",
+              "non_striker": "Mohammad Rizwan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Mohammad Rizwan",
+              "bowler": "Nayeem Hasan",
+              "non_striker": "ADS Fletcher",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Rizwan",
+              "bowler": "Nayeem Hasan",
+              "non_striker": "ADS Fletcher",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Mohammad Rizwan",
+              "bowler": "Nayeem Hasan",
+              "non_striker": "ADS Fletcher",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Mohammad Rizwan",
+              "bowler": "Nayeem Hasan",
+              "non_striker": "ADS Fletcher",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ADS Fletcher",
+              "bowler": "Nayeem Hasan",
+              "non_striker": "Mohammad Rizwan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ADS Fletcher",
+              "bowler": "Nayeem Hasan",
+              "non_striker": "Mohammad Rizwan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Mohammad Rizwan",
+              "bowler": "Sunzamul Islam",
+              "non_striker": "ADS Fletcher",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ADS Fletcher",
+              "bowler": "Sunzamul Islam",
+              "non_striker": "Mohammad Rizwan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "ADS Fletcher",
+              "bowler": "Sunzamul Islam",
+              "non_striker": "Mohammad Rizwan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ADS Fletcher",
+              "bowler": "Sunzamul Islam",
+              "non_striker": "Mohammad Rizwan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "ADS Fletcher",
+              "bowler": "Sunzamul Islam",
+              "non_striker": "Mohammad Rizwan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ADS Fletcher",
+              "bowler": "Sunzamul Islam",
+              "non_striker": "Mohammad Rizwan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Mohammad Rizwan",
+              "bowler": "Nayeem Hasan",
+              "non_striker": "ADS Fletcher",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Mohammad Rizwan",
+              "bowler": "Nayeem Hasan",
+              "non_striker": "ADS Fletcher",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Rizwan",
+              "bowler": "Nayeem Hasan",
+              "non_striker": "ADS Fletcher",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ADS Fletcher",
+              "bowler": "Nayeem Hasan",
+              "non_striker": "Mohammad Rizwan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ADS Fletcher",
+              "bowler": "Nayeem Hasan",
+              "non_striker": "Mohammad Rizwan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ADS Fletcher",
+              "bowler": "Nayeem Hasan",
+              "non_striker": "Mohammad Rizwan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Mohammad Rizwan",
+              "bowler": "LM Reece",
+              "non_striker": "ADS Fletcher",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Rizwan",
+              "bowler": "LM Reece",
+              "non_striker": "ADS Fletcher",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Rizwan",
+              "bowler": "LM Reece",
+              "non_striker": "ADS Fletcher",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Rizwan",
+              "bowler": "LM Reece",
+              "non_striker": "ADS Fletcher",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Rizwan",
+              "bowler": "LM Reece",
+              "non_striker": "ADS Fletcher",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Mohammad Rizwan",
+              "bowler": "LM Reece",
+              "non_striker": "ADS Fletcher",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "ADS Fletcher",
+              "bowler": "Nayeem Hasan",
+              "non_striker": "Mohammad Rizwan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ADS Fletcher",
+              "bowler": "Nayeem Hasan",
+              "non_striker": "Mohammad Rizwan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "ADS Fletcher",
+              "bowler": "Nayeem Hasan",
+              "non_striker": "Mohammad Rizwan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ADS Fletcher",
+              "bowler": "Nayeem Hasan",
+              "non_striker": "Mohammad Rizwan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "ADS Fletcher",
+              "bowler": "Nayeem Hasan",
+              "non_striker": "Mohammad Rizwan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ADS Fletcher",
+              "bowler": "Nayeem Hasan",
+              "non_striker": "Mohammad Rizwan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Mohammad Rizwan",
+              "bowler": "LM Reece",
+              "non_striker": "ADS Fletcher",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ADS Fletcher",
+              "bowler": "LM Reece",
+              "non_striker": "Mohammad Rizwan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ADS Fletcher",
+              "bowler": "LM Reece",
+              "non_striker": "Mohammad Rizwan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Rizwan",
+              "bowler": "LM Reece",
+              "non_striker": "ADS Fletcher",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ADS Fletcher",
+              "bowler": "LM Reece",
+              "non_striker": "Mohammad Rizwan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ADS Fletcher",
+              "bowler": "LM Reece",
+              "non_striker": "Mohammad Rizwan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "ADS Fletcher",
+              "bowler": "Tanbir Hayder",
+              "non_striker": "Mohammad Rizwan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ADS Fletcher",
+              "bowler": "Tanbir Hayder",
+              "non_striker": "Mohammad Rizwan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "ADS Fletcher",
+              "bowler": "Tanbir Hayder",
+              "non_striker": "Mohammad Rizwan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Rizwan",
+              "bowler": "Tanbir Hayder",
+              "non_striker": "ADS Fletcher",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Mohammad Rizwan",
+              "bowler": "Tanbir Hayder",
+              "non_striker": "ADS Fletcher",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Mohammad Rizwan",
+              "bowler": "Tanbir Hayder",
+              "non_striker": "ADS Fletcher",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "ADS Fletcher",
+              "bowler": "LM Reece",
+              "non_striker": "Mohammad Rizwan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Rizwan",
+              "bowler": "LM Reece",
+              "non_striker": "ADS Fletcher",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ADS Fletcher",
+              "bowler": "LM Reece",
+              "non_striker": "Mohammad Rizwan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Rizwan",
+              "bowler": "LM Reece",
+              "non_striker": "ADS Fletcher",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Rizwan",
+              "bowler": "LM Reece",
+              "non_striker": "ADS Fletcher",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ADS Fletcher",
+              "bowler": "LM Reece",
+              "non_striker": "Mohammad Rizwan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "Mohammad Rizwan",
+              "bowler": "Sunzamul Islam",
+              "non_striker": "ADS Fletcher",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Rizwan",
+              "bowler": "Sunzamul Islam",
+              "non_striker": "ADS Fletcher",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Rizwan",
+              "bowler": "Sunzamul Islam",
+              "non_striker": "ADS Fletcher",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Rizwan",
+              "bowler": "Sunzamul Islam",
+              "non_striker": "ADS Fletcher",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ADS Fletcher",
+              "bowler": "Sunzamul Islam",
+              "non_striker": "Mohammad Rizwan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ADS Fletcher",
+              "bowler": "Sunzamul Islam",
+              "non_striker": "Mohammad Rizwan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "Mohammad Rizwan",
+              "bowler": "LM Reece",
+              "non_striker": "ADS Fletcher",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Rizwan",
+              "bowler": "LM Reece",
+              "non_striker": "ADS Fletcher",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Rizwan",
+              "bowler": "LM Reece",
+              "non_striker": "ADS Fletcher",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Rizwan",
+              "bowler": "LM Reece",
+              "non_striker": "ADS Fletcher",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Rizwan",
+              "bowler": "LM Reece",
+              "non_striker": "ADS Fletcher",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ADS Fletcher",
+              "bowler": "LM Reece",
+              "non_striker": "Mohammad Rizwan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "ADS Fletcher",
+              "bowler": "Sunzamul Islam",
+              "non_striker": "Mohammad Rizwan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 68
+      }
+    }
+  ]
+}

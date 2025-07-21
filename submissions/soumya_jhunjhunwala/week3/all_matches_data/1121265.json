@@ -1,0 +1,2835 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2021-11-01",
+    "revision": 2
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Dhaka",
+    "dates": [
+      "2017-11-20"
+    ],
+    "event": {
+      "name": "Bangladesh Premier League",
+      "match_number": 21
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "officials": {
+      "match_referees": [
+        "Samiur Rahman"
+      ],
+      "reserve_umpires": [
+        "Imran Parvez"
+      ],
+      "tv_umpires": [
+        "Anisur Rahman"
+      ],
+      "umpires": [
+        "Masudur Rahman",
+        "REJ Martinesz"
+      ]
+    },
+    "outcome": {
+      "winner": "Comilla Victorians",
+      "by": {
+        "wickets": 4
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "Hasan Ali"
+    ],
+    "players": {
+      "Dhaka Dynamites": [
+        "SP Narine",
+        "E Lewis",
+        "Mehedi Maruf",
+        "KC Sangakkara",
+        "KA Pollard",
+        "Shakib Al Hasan",
+        "Mosaddek Hossain",
+        "Jahurul Islam",
+        "Mohammad Saddam",
+        "Mohammad Amir",
+        "Abu Hider"
+      ],
+      "Comilla Victorians": [
+        "Tamim Iqbal",
+        "Liton Das",
+        "Imrul Kayes",
+        "Shoaib Malik",
+        "DM Bravo",
+        "JC Buttler",
+        "Mohammad Saifuddin",
+        "Mahedi Hasan",
+        "Rashid Khan",
+        "Hasan Ali",
+        "Al-Amin Hossain"
+      ]
+    },
+    "registry": {
+      "people": {
+        "Abu Hider": "31803fac",
+        "Al-Amin Hossain": "3f5f39cd",
+        "Anisur Rahman": "affbf093",
+        "DM Bravo": "14b14cd8",
+        "E Lewis": "0ebfb1ad",
+        "Hasan Ali": "2911de16",
+        "Imran Parvez": "ed087aa3",
+        "Imrul Kayes": "5fbe14fc",
+        "JC Buttler": "99b75528",
+        "Jahurul Islam": "6752c57b",
+        "KA Pollard": "a757b0d8",
+        "KC Sangakkara": "6b71e6cf",
+        "Liton Das": "0404d43c",
+        "Mahedi Hasan": "9dad0f2e",
+        "Masudur Rahman": "9581ac6b",
+        "Mehedi Maruf": "3361993b",
+        "Mohammad Amir": "e174dadd",
+        "Mohammad Saddam": "7bd03d63",
+        "Mohammad Saifuddin": "b3a28446",
+        "Mosaddek Hossain": "8919756f",
+        "REJ Martinesz": "140cdf29",
+        "Rashid Khan": "5f547c8b",
+        "SP Narine": "9d430b40",
+        "Samiur Rahman": "e41d80d9",
+        "Shakib Al Hasan": "7dc35884",
+        "Shoaib Malik": "64c34cd0",
+        "Tamim Iqbal": "3b041a12"
+      }
+    },
+    "season": "2017/18",
+    "team_type": "club",
+    "teams": [
+      "Dhaka Dynamites",
+      "Comilla Victorians"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "Dhaka Dynamites"
+    },
+    "venue": "Shere Bangla National Stadium, Mirpur"
+  },
+  "innings": [
+    {
+      "team": "Dhaka Dynamites",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "SP Narine",
+              "bowler": "Mahedi Hasan",
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SP Narine",
+              "bowler": "Mahedi Hasan",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Lewis",
+              "bowler": "Mahedi Hasan",
+              "non_striker": "SP Narine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Lewis",
+              "bowler": "Mahedi Hasan",
+              "non_striker": "SP Narine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Lewis",
+              "bowler": "Mahedi Hasan",
+              "non_striker": "SP Narine",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "E Lewis",
+              "bowler": "Mahedi Hasan",
+              "non_striker": "SP Narine",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "E Lewis",
+              "bowler": "Hasan Ali",
+              "non_striker": "SP Narine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "E Lewis",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Mehedi Maruf",
+              "bowler": "Hasan Ali",
+              "non_striker": "SP Narine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mehedi Maruf",
+              "bowler": "Hasan Ali",
+              "non_striker": "SP Narine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Mehedi Maruf",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "KC Sangakkara",
+              "bowler": "Hasan Ali",
+              "non_striker": "SP Narine",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "KC Sangakkara",
+              "bowler": "Hasan Ali",
+              "non_striker": "SP Narine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KC Sangakkara",
+              "bowler": "Hasan Ali",
+              "non_striker": "SP Narine",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "KC Sangakkara",
+              "bowler": "Mahedi Hasan",
+              "non_striker": "SP Narine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KC Sangakkara",
+              "bowler": "Mahedi Hasan",
+              "non_striker": "SP Narine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KC Sangakkara",
+              "bowler": "Mahedi Hasan",
+              "non_striker": "SP Narine",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SP Narine",
+              "bowler": "Mahedi Hasan",
+              "non_striker": "KC Sangakkara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SP Narine",
+              "bowler": "Mahedi Hasan",
+              "non_striker": "KC Sangakkara",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SP Narine",
+              "bowler": "Mahedi Hasan",
+              "non_striker": "KC Sangakkara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "SP Narine",
+              "bowler": "Hasan Ali",
+              "non_striker": "KC Sangakkara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SP Narine",
+              "bowler": "Hasan Ali",
+              "non_striker": "KC Sangakkara",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SP Narine",
+              "bowler": "Hasan Ali",
+              "non_striker": "KC Sangakkara",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "SP Narine",
+              "bowler": "Hasan Ali",
+              "non_striker": "KC Sangakkara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SP Narine",
+              "bowler": "Hasan Ali",
+              "non_striker": "KC Sangakkara",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SP Narine",
+              "bowler": "Hasan Ali",
+              "non_striker": "KC Sangakkara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "KC Sangakkara",
+              "bowler": "Rashid Khan",
+              "non_striker": "SP Narine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KC Sangakkara",
+              "bowler": "Rashid Khan",
+              "non_striker": "SP Narine",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "KC Sangakkara",
+              "bowler": "Rashid Khan",
+              "non_striker": "SP Narine",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SP Narine",
+              "bowler": "Rashid Khan",
+              "non_striker": "KC Sangakkara",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "SP Narine",
+              "bowler": "Rashid Khan",
+              "non_striker": "KC Sangakkara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SP Narine",
+              "bowler": "Rashid Khan",
+              "non_striker": "KC Sangakkara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "KC Sangakkara",
+              "bowler": "Mahedi Hasan",
+              "non_striker": "SP Narine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KC Sangakkara",
+              "bowler": "Mahedi Hasan",
+              "non_striker": "SP Narine",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KC Sangakkara",
+              "bowler": "Mahedi Hasan",
+              "non_striker": "SP Narine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KC Sangakkara",
+              "bowler": "Mahedi Hasan",
+              "non_striker": "SP Narine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KC Sangakkara",
+              "bowler": "Mahedi Hasan",
+              "non_striker": "SP Narine",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SP Narine",
+              "bowler": "Mahedi Hasan",
+              "non_striker": "KC Sangakkara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "KC Sangakkara",
+              "bowler": "Shoaib Malik",
+              "non_striker": "SP Narine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KC Sangakkara",
+              "bowler": "Shoaib Malik",
+              "non_striker": "SP Narine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KC Sangakkara",
+              "bowler": "Shoaib Malik",
+              "non_striker": "SP Narine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KC Sangakkara",
+              "bowler": "Shoaib Malik",
+              "non_striker": "SP Narine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KC Sangakkara",
+              "bowler": "Shoaib Malik",
+              "non_striker": "SP Narine",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SP Narine",
+              "bowler": "Shoaib Malik",
+              "non_striker": "KC Sangakkara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "SP Narine",
+              "bowler": "Mahedi Hasan",
+              "non_striker": "KC Sangakkara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KC Sangakkara",
+              "bowler": "Mahedi Hasan",
+              "non_striker": "SP Narine",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SP Narine",
+              "bowler": "Mahedi Hasan",
+              "non_striker": "KC Sangakkara",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SP Narine",
+              "bowler": "Mahedi Hasan",
+              "non_striker": "KC Sangakkara",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "SP Narine",
+              "bowler": "Mahedi Hasan",
+              "non_striker": "KC Sangakkara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KC Sangakkara",
+              "bowler": "Mahedi Hasan",
+              "non_striker": "SP Narine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "SP Narine",
+              "bowler": "Shoaib Malik",
+              "non_striker": "KC Sangakkara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KC Sangakkara",
+              "bowler": "Shoaib Malik",
+              "non_striker": "SP Narine",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SP Narine",
+              "bowler": "Shoaib Malik",
+              "non_striker": "KC Sangakkara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SP Narine",
+              "bowler": "Shoaib Malik",
+              "non_striker": "KC Sangakkara",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SP Narine",
+              "bowler": "Shoaib Malik",
+              "non_striker": "KC Sangakkara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SP Narine",
+              "bowler": "Shoaib Malik",
+              "non_striker": "KC Sangakkara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "SP Narine",
+              "bowler": "Mohammad Saifuddin",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "KC Sangakkara",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SP Narine",
+              "bowler": "Mohammad Saifuddin",
+              "non_striker": "KC Sangakkara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KC Sangakkara",
+              "bowler": "Mohammad Saifuddin",
+              "non_striker": "SP Narine",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KC Sangakkara",
+              "bowler": "Mohammad Saifuddin",
+              "non_striker": "SP Narine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KC Sangakkara",
+              "bowler": "Mohammad Saifuddin",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "SP Narine",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KC Sangakkara",
+              "bowler": "Mohammad Saifuddin",
+              "non_striker": "SP Narine",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SP Narine",
+              "bowler": "Mohammad Saifuddin",
+              "non_striker": "KC Sangakkara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SP Narine",
+              "bowler": "Mohammad Saifuddin",
+              "non_striker": "KC Sangakkara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "SP Narine",
+              "bowler": "Rashid Khan",
+              "non_striker": "KC Sangakkara",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SP Narine",
+              "bowler": "Rashid Khan",
+              "non_striker": "KC Sangakkara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KC Sangakkara",
+              "bowler": "Rashid Khan",
+              "non_striker": "SP Narine",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SP Narine",
+              "bowler": "Rashid Khan",
+              "non_striker": "KC Sangakkara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SP Narine",
+              "bowler": "Rashid Khan",
+              "non_striker": "KC Sangakkara",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SP Narine",
+              "bowler": "Rashid Khan",
+              "non_striker": "KC Sangakkara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "SP Narine",
+              "bowler": "Al-Amin Hossain",
+              "non_striker": "KC Sangakkara",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "SP Narine",
+              "bowler": "Al-Amin Hossain",
+              "non_striker": "KC Sangakkara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SP Narine",
+              "bowler": "Al-Amin Hossain",
+              "non_striker": "KC Sangakkara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SP Narine",
+              "bowler": "Al-Amin Hossain",
+              "non_striker": "KC Sangakkara",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SP Narine",
+              "bowler": "Al-Amin Hossain",
+              "non_striker": "KC Sangakkara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KC Sangakkara",
+              "bowler": "Al-Amin Hossain",
+              "non_striker": "SP Narine",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "KC Sangakkara",
+              "bowler": "Shoaib Malik",
+              "non_striker": "SP Narine",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KC Sangakkara",
+              "bowler": "Shoaib Malik",
+              "non_striker": "SP Narine",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SP Narine",
+              "bowler": "Shoaib Malik",
+              "non_striker": "KC Sangakkara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SP Narine",
+              "bowler": "Shoaib Malik",
+              "non_striker": "KC Sangakkara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KC Sangakkara",
+              "bowler": "Shoaib Malik",
+              "non_striker": "SP Narine",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "player_out": "KC Sangakkara",
+                  "fielders": [
+                    {
+                      "name": "Liton Das"
+                    },
+                    {
+                      "name": "Mahedi Hasan"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "KA Pollard",
+              "bowler": "Shoaib Malik",
+              "non_striker": "SP Narine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "SP Narine",
+              "bowler": "Mohammad Saifuddin",
+              "non_striker": "KA Pollard",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SP Narine",
+              "bowler": "Mohammad Saifuddin",
+              "non_striker": "KA Pollard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SP Narine",
+              "bowler": "Mohammad Saifuddin",
+              "non_striker": "KA Pollard",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "SP Narine",
+              "bowler": "Mohammad Saifuddin",
+              "non_striker": "KA Pollard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SP Narine",
+                  "fielders": [
+                    {
+                      "name": "Tamim Iqbal"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "Mohammad Saifuddin",
+              "non_striker": "KA Pollard",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KA Pollard",
+              "bowler": "Mohammad Saifuddin",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "KA Pollard",
+              "bowler": "Rashid Khan",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KA Pollard",
+              "bowler": "Rashid Khan",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KA Pollard",
+              "bowler": "Rashid Khan",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "KA Pollard",
+                  "fielders": [
+                    {
+                      "name": "Liton Das"
+                    },
+                    {
+                      "name": "Rashid Khan"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "Mosaddek Hossain",
+              "bowler": "Rashid Khan",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "Rashid Khan",
+              "non_striker": "Mosaddek Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "Rashid Khan",
+              "non_striker": "Mosaddek Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "Mosaddek Hossain",
+              "bowler": "Hasan Ali",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Mosaddek Hossain",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Jahurul Islam",
+              "bowler": "Hasan Ali",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "Hasan Ali",
+              "non_striker": "Jahurul Islam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Jahurul Islam",
+              "bowler": "Hasan Ali",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Jahurul Islam",
+              "bowler": "Hasan Ali",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "Hasan Ali",
+              "non_striker": "Jahurul Islam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "Jahurul Islam",
+              "bowler": "Rashid Khan",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Jahurul Islam",
+              "bowler": "Rashid Khan",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Jahurul Islam",
+              "bowler": "Rashid Khan",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Jahurul Islam",
+              "bowler": "Rashid Khan",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Jahurul Islam",
+              "bowler": "Rashid Khan",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Jahurul Islam",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "Mohammad Saddam",
+              "bowler": "Rashid Khan",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "Mohammad Saifuddin",
+              "non_striker": "Mohammad Saddam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Saddam",
+              "bowler": "Mohammad Saifuddin",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "Mohammad Saifuddin",
+              "non_striker": "Mohammad Saddam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shakib Al Hasan",
+              "bowler": "Mohammad Saifuddin",
+              "non_striker": "Mohammad Saddam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Shakib Al Hasan",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Mohammad Amir",
+              "bowler": "Mohammad Saifuddin",
+              "non_striker": "Mohammad Saddam",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Mohammad Amir",
+              "bowler": "Mohammad Saifuddin",
+              "non_striker": "Mohammad Saddam",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "Mohammad Saddam",
+              "bowler": "Hasan Ali",
+              "non_striker": "Mohammad Amir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Mohammad Saddam",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Abu Hider",
+              "bowler": "Hasan Ali",
+              "non_striker": "Mohammad Amir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Abu Hider",
+              "bowler": "Hasan Ali",
+              "non_striker": "Mohammad Amir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Abu Hider",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Comilla Victorians",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Tamim Iqbal",
+              "bowler": "Mohammad Amir",
+              "non_striker": "Liton Das",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Tamim Iqbal",
+              "bowler": "Mohammad Amir",
+              "non_striker": "Liton Das",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Tamim Iqbal",
+              "bowler": "Mohammad Amir",
+              "non_striker": "Liton Das",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Tamim Iqbal",
+              "bowler": "Mohammad Amir",
+              "extras": {
+                "wides": 5
+              },
+              "non_striker": "Liton Das",
+              "runs": {
+                "batter": 0,
+                "extras": 5,
+                "total": 5
+              }
+            },
+            {
+              "batter": "Tamim Iqbal",
+              "bowler": "Mohammad Amir",
+              "non_striker": "Liton Das",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Tamim Iqbal",
+              "bowler": "Mohammad Amir",
+              "non_striker": "Liton Das",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Tamim Iqbal",
+              "bowler": "Mohammad Amir",
+              "non_striker": "Liton Das",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Tamim Iqbal",
+              "bowler": "Abu Hider",
+              "non_striker": "Liton Das",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Liton Das",
+              "bowler": "Abu Hider",
+              "non_striker": "Tamim Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Liton Das",
+              "bowler": "Abu Hider",
+              "non_striker": "Tamim Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Liton Das",
+              "bowler": "Abu Hider",
+              "non_striker": "Tamim Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Liton Das",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Imrul Kayes",
+              "bowler": "Abu Hider",
+              "non_striker": "Tamim Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Imrul Kayes",
+              "bowler": "Abu Hider",
+              "non_striker": "Tamim Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Tamim Iqbal",
+              "bowler": "SP Narine",
+              "non_striker": "Imrul Kayes",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Tamim Iqbal",
+              "bowler": "SP Narine",
+              "non_striker": "Imrul Kayes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Tamim Iqbal",
+                  "fielders": [
+                    {
+                      "name": "KC Sangakkara"
+                    }
+                  ],
+                  "kind": "stumped"
+                }
+              ]
+            },
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "SP Narine",
+              "non_striker": "Imrul Kayes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "SP Narine",
+              "non_striker": "Imrul Kayes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "SP Narine",
+              "non_striker": "Imrul Kayes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "SP Narine",
+              "non_striker": "Imrul Kayes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Imrul Kayes",
+              "bowler": "Abu Hider",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Imrul Kayes",
+              "bowler": "Abu Hider",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Imrul Kayes",
+              "bowler": "Abu Hider",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Imrul Kayes",
+              "bowler": "Abu Hider",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Imrul Kayes",
+              "bowler": "Abu Hider",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Imrul Kayes",
+              "bowler": "Abu Hider",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "SP Narine",
+              "non_striker": "Imrul Kayes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Imrul Kayes",
+              "bowler": "SP Narine",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Imrul Kayes",
+              "bowler": "SP Narine",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Imrul Kayes",
+              "bowler": "SP Narine",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "SP Narine",
+              "non_striker": "Imrul Kayes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Imrul Kayes",
+              "bowler": "SP Narine",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "Mohammad Amir",
+              "non_striker": "Imrul Kayes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "Mohammad Amir",
+              "non_striker": "Imrul Kayes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "Mohammad Amir",
+              "non_striker": "Imrul Kayes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "Mohammad Amir",
+              "non_striker": "Imrul Kayes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "Mohammad Amir",
+              "non_striker": "Imrul Kayes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "Mohammad Amir",
+              "non_striker": "Imrul Kayes",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Imrul Kayes",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "Imrul Kayes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Imrul Kayes",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Imrul Kayes",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Imrul Kayes",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "Imrul Kayes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Imrul Kayes",
+              "bowler": "Mohammad Saddam",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "Mohammad Saddam",
+              "non_striker": "Imrul Kayes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Imrul Kayes",
+              "bowler": "Mohammad Saddam",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "Mohammad Saddam",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Imrul Kayes",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "Mohammad Saddam",
+              "non_striker": "Imrul Kayes",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "Mohammad Saddam",
+              "non_striker": "Imrul Kayes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "Mohammad Saddam",
+              "non_striker": "Imrul Kayes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "Imrul Kayes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Imrul Kayes",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Imrul Kayes",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "Imrul Kayes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Imrul Kayes",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Imrul Kayes",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "Imrul Kayes",
+              "bowler": "Mohammad Saddam",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "Mohammad Saddam",
+              "non_striker": "Imrul Kayes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Imrul Kayes",
+              "bowler": "Mohammad Saddam",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Imrul Kayes",
+                  "fielders": [
+                    {
+                      "name": "Abu Hider"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "DM Bravo",
+              "bowler": "Mohammad Saddam",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DM Bravo",
+              "bowler": "Mohammad Saddam",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DM Bravo",
+              "bowler": "Mohammad Saddam",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "Mohammad Amir",
+              "non_striker": "DM Bravo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DM Bravo",
+              "bowler": "Mohammad Amir",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DM Bravo",
+              "bowler": "Mohammad Amir",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "Mohammad Amir",
+              "non_striker": "DM Bravo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DM Bravo",
+              "bowler": "Mohammad Amir",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "Mohammad Amir",
+              "non_striker": "DM Bravo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "Abu Hider",
+              "non_striker": "DM Bravo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DM Bravo",
+              "bowler": "Abu Hider",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DM Bravo",
+              "bowler": "Abu Hider",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "Abu Hider",
+              "non_striker": "DM Bravo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DM Bravo",
+              "bowler": "Abu Hider",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DM Bravo",
+              "bowler": "Abu Hider",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "DM Bravo",
+              "bowler": "SP Narine",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "DM Bravo",
+                  "fielders": [
+                    {
+                      "name": "KC Sangakkara"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "JC Buttler",
+              "bowler": "SP Narine",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "SP Narine",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "SP Narine",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "SP Narine",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "SP Narine",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "JC Buttler",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JC Buttler",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JC Buttler",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "JC Buttler",
+              "bowler": "Abu Hider",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "JC Buttler",
+              "bowler": "Abu Hider",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "Abu Hider",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JC Buttler",
+              "bowler": "Abu Hider",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JC Buttler",
+              "bowler": "Abu Hider",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "Abu Hider",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JC Buttler",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "JC Buttler",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "Mohammad Amir",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JC Buttler",
+              "bowler": "Mohammad Amir",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "JC Buttler",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Mohammad Saifuddin",
+              "bowler": "Mohammad Amir",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Mohammad Saifuddin",
+              "bowler": "Mohammad Amir",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Mohammad Saifuddin",
+                  "fielders": [
+                    {
+                      "name": "KC Sangakkara"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Mahedi Hasan",
+              "bowler": "Mohammad Amir",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mahedi Hasan",
+              "bowler": "Mohammad Amir",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "Mohammad Saddam",
+              "non_striker": "Mahedi Hasan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mahedi Hasan",
+              "bowler": "Mohammad Saddam",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mahedi Hasan",
+              "bowler": "Mohammad Saddam",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "Mohammad Saddam",
+              "non_striker": "Mahedi Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "Mohammad Saddam",
+              "non_striker": "Mahedi Hasan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "Mohammad Saddam",
+              "non_striker": "Mahedi Hasan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "Mohammad Saddam",
+              "non_striker": "Mahedi Hasan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "SP Narine",
+              "non_striker": "Mahedi Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "SP Narine",
+              "non_striker": "Mahedi Hasan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mahedi Hasan",
+              "bowler": "SP Narine",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "SP Narine",
+              "non_striker": "Mahedi Hasan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mahedi Hasan",
+              "bowler": "SP Narine",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "SP Narine",
+              "non_striker": "Mahedi Hasan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "Mohammad Saddam",
+              "non_striker": "Mahedi Hasan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "Mohammad Saddam",
+              "non_striker": "Mahedi Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "Mohammad Saddam",
+              "non_striker": "Mahedi Hasan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "Mohammad Saddam",
+              "non_striker": "Mahedi Hasan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 129
+      }
+    }
+  ]
+}

@@ -1,0 +1,2650 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2024-08-09",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 5,
+    "city": "Nottingham",
+    "dates": [
+      "2024-08-07"
+    ],
+    "event": {
+      "name": "The Hundred Men's Competition",
+      "match_number": 20
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "officials": {
+      "match_referees": [
+        "WR Smith"
+      ],
+      "reserve_umpires": [
+        "S Redfern"
+      ],
+      "tv_umpires": [
+        "AY Harris"
+      ],
+      "umpires": [
+        "James Middlebrook",
+        "RJ Warren"
+      ]
+    },
+    "outcome": {
+      "winner": "Trent Rockets",
+      "by": {
+        "runs": 22
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "Rashid Khan"
+    ],
+    "players": {
+      "Trent Rockets": [
+        "A Lyth",
+        "T Banton",
+        "AD Hales",
+        "JE Root",
+        "R Powell",
+        "Rashid Khan",
+        "Imad Wasim",
+        "L Gregory",
+        "JA Turner",
+        "L Wood",
+        "SJ Cook"
+      ],
+      "London Spirit": [
+        "MS Pepper",
+        "KK Jennings",
+        "OJ Pope",
+        "DW Lawrence",
+        "SO Hetmyer",
+        "MJJ Critchley",
+        "AD Russell",
+        "LA Dawson",
+        "OP Stone",
+        "NT Ellis",
+        "RJ Gleeson"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Lyth": "70b8fd28",
+        "AD Hales": "92aeac25",
+        "AD Russell": "bbd41817",
+        "AY Harris": "90d95b82",
+        "CG Harrison": "f655d740",
+        "DW Lawrence": "4b685e2d",
+        "Imad Wasim": "9cb8d7a6",
+        "JA Turner": "cdd875d9",
+        "JE Root": "a343262c",
+        "James Middlebrook": "ddcd1520",
+        "KK Jennings": "8479a24a",
+        "L Gregory": "06c2de82",
+        "L Wood": "65b6943c",
+        "LA Dawson": "4a461c24",
+        "MJJ Critchley": "c5cc48bc",
+        "MS Pepper": "270e4c23",
+        "NT Ellis": "9eb1455b",
+        "OJ Pope": "e94bc520",
+        "OP Stone": "3f659464",
+        "R Powell": "650d5e49",
+        "RJ Gleeson": "402f8494",
+        "RJ Warren": "9d1c62d7",
+        "Rashid Khan": "5f547c8b",
+        "S Redfern": "5b038989",
+        "SJ Cook": "679cd31e",
+        "SO Hetmyer": "48a1d7b7",
+        "T Banton": "25f7b7d6",
+        "WR Smith": "ad962377"
+      }
+    },
+    "season": "2024",
+    "team_type": "club",
+    "teams": [
+      "Trent Rockets",
+      "London Spirit"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "Trent Rockets"
+    },
+    "venue": "Trent Bridge, Nottingham"
+  },
+  "innings": [
+    {
+      "team": "Trent Rockets",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "A Lyth",
+              "bowler": "RJ Gleeson",
+              "non_striker": "T Banton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Lyth",
+              "bowler": "RJ Gleeson",
+              "non_striker": "T Banton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Lyth",
+              "bowler": "RJ Gleeson",
+              "non_striker": "T Banton",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "A Lyth",
+              "bowler": "RJ Gleeson",
+              "non_striker": "T Banton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "A Lyth",
+                  "fielders": [
+                    {
+                      "name": "SO Hetmyer"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "AD Hales",
+              "bowler": "RJ Gleeson",
+              "non_striker": "T Banton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "AD Hales",
+              "bowler": "OP Stone",
+              "non_striker": "T Banton",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "AD Hales",
+              "bowler": "OP Stone",
+              "non_striker": "T Banton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AD Hales",
+              "bowler": "OP Stone",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "T Banton",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Banton",
+              "bowler": "OP Stone",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AD Hales",
+              "bowler": "OP Stone",
+              "non_striker": "T Banton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "T Banton",
+              "bowler": "RJ Gleeson",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Banton",
+              "bowler": "RJ Gleeson",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Banton",
+              "bowler": "RJ Gleeson",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AD Hales",
+              "bowler": "RJ Gleeson",
+              "non_striker": "T Banton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AD Hales",
+              "bowler": "RJ Gleeson",
+              "non_striker": "T Banton",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "AD Hales",
+              "bowler": "NT Ellis",
+              "non_striker": "T Banton",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AD Hales",
+              "bowler": "NT Ellis",
+              "non_striker": "T Banton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AD Hales",
+              "bowler": "NT Ellis",
+              "non_striker": "T Banton",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Banton",
+              "bowler": "NT Ellis",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "T Banton",
+              "bowler": "NT Ellis",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "AD Hales",
+              "bowler": "OP Stone",
+              "non_striker": "T Banton",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Banton",
+              "bowler": "OP Stone",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AD Hales",
+              "bowler": "OP Stone",
+              "non_striker": "T Banton",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Banton",
+              "bowler": "OP Stone",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Banton",
+              "bowler": "OP Stone",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "T Banton",
+              "bowler": "LA Dawson",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "T Banton",
+              "bowler": "LA Dawson",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AD Hales",
+              "bowler": "LA Dawson",
+              "non_striker": "T Banton",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Banton",
+              "bowler": "LA Dawson",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "T Banton",
+              "bowler": "LA Dawson",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "AD Hales",
+              "bowler": "MJJ Critchley",
+              "non_striker": "T Banton",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Banton",
+              "bowler": "MJJ Critchley",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "T Banton",
+              "bowler": "MJJ Critchley",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AD Hales",
+              "bowler": "MJJ Critchley",
+              "non_striker": "T Banton",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "AD Hales",
+              "bowler": "MJJ Critchley",
+              "non_striker": "T Banton",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "T Banton",
+              "bowler": "AD Russell",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "T Banton",
+              "bowler": "AD Russell",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AD Hales",
+              "bowler": "AD Russell",
+              "non_striker": "T Banton",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Banton",
+              "bowler": "AD Russell",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Banton",
+              "bowler": "AD Russell",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "T Banton",
+              "bowler": "NT Ellis",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AD Hales",
+              "bowler": "NT Ellis",
+              "non_striker": "T Banton",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AD Hales",
+              "bowler": "NT Ellis",
+              "non_striker": "T Banton",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Banton",
+              "bowler": "NT Ellis",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AD Hales",
+              "bowler": "NT Ellis",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "T Banton",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "T Banton",
+              "bowler": "LA Dawson",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AD Hales",
+              "bowler": "LA Dawson",
+              "non_striker": "T Banton",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Banton",
+              "bowler": "LA Dawson",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Banton",
+              "bowler": "LA Dawson",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "T Banton",
+              "bowler": "LA Dawson",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "T Banton",
+                  "fielders": [
+                    {
+                      "name": "AD Russell"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "AD Hales",
+              "bowler": "AD Russell",
+              "non_striker": "JE Root",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "AD Hales",
+              "bowler": "AD Russell",
+              "non_striker": "JE Root",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JE Root",
+              "bowler": "AD Russell",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JE Root",
+              "bowler": "AD Russell",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "JE Root",
+              "bowler": "AD Russell",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "JE Root",
+              "bowler": "MJJ Critchley",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AD Hales",
+              "bowler": "MJJ Critchley",
+              "non_striker": "JE Root",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JE Root",
+              "bowler": "MJJ Critchley",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AD Hales",
+              "bowler": "MJJ Critchley",
+              "non_striker": "JE Root",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AD Hales",
+              "bowler": "MJJ Critchley",
+              "non_striker": "JE Root",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "JE Root",
+              "bowler": "LA Dawson",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AD Hales",
+              "bowler": "LA Dawson",
+              "non_striker": "JE Root",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JE Root",
+              "bowler": "LA Dawson",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AD Hales",
+              "bowler": "LA Dawson",
+              "non_striker": "JE Root",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JE Root",
+              "bowler": "LA Dawson",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "AD Hales",
+              "bowler": "LA Dawson",
+              "non_striker": "JE Root",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JE Root",
+              "bowler": "LA Dawson",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "JE Root",
+              "bowler": "LA Dawson",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AD Hales",
+              "bowler": "LA Dawson",
+              "non_striker": "JE Root",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AD Hales",
+              "bowler": "LA Dawson",
+              "non_striker": "JE Root",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "AD Hales",
+              "bowler": "OP Stone",
+              "non_striker": "JE Root",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "AD Hales",
+              "bowler": "OP Stone",
+              "non_striker": "JE Root",
+              "review": {
+                "by": "Trent Rockets",
+                "umpire": "RJ Warren",
+                "batter": "AD Hales",
+                "decision": "upheld"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AD Hales",
+              "bowler": "OP Stone",
+              "non_striker": "JE Root",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JE Root",
+              "bowler": "OP Stone",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AD Hales",
+              "bowler": "OP Stone",
+              "non_striker": "JE Root",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "JE Root",
+              "bowler": "AD Russell",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AD Hales",
+              "bowler": "AD Russell",
+              "non_striker": "JE Root",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AD Hales",
+              "bowler": "AD Russell",
+              "extras": {
+                "noballs": 2
+              },
+              "non_striker": "JE Root",
+              "runs": {
+                "batter": 2,
+                "extras": 2,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AD Hales",
+              "bowler": "AD Russell",
+              "non_striker": "JE Root",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JE Root",
+              "bowler": "AD Russell",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AD Hales",
+              "bowler": "AD Russell",
+              "non_striker": "JE Root",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "AD Hales",
+              "bowler": "NT Ellis",
+              "non_striker": "JE Root",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AD Hales",
+              "bowler": "NT Ellis",
+              "extras": {
+                "noballs": 2
+              },
+              "non_striker": "JE Root",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AD Hales",
+              "bowler": "NT Ellis",
+              "non_striker": "JE Root",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JE Root",
+              "bowler": "NT Ellis",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "AD Hales",
+                  "fielders": [
+                    {
+                      "name": "MS Pepper"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "R Powell",
+              "bowler": "NT Ellis",
+              "non_striker": "JE Root",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Powell",
+              "bowler": "NT Ellis",
+              "non_striker": "JE Root",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "JE Root",
+              "bowler": "NT Ellis",
+              "non_striker": "R Powell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Powell",
+              "bowler": "NT Ellis",
+              "non_striker": "JE Root",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "R Powell",
+              "bowler": "NT Ellis",
+              "non_striker": "JE Root",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JE Root",
+              "bowler": "NT Ellis",
+              "non_striker": "R Powell",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "JE Root",
+              "bowler": "NT Ellis",
+              "non_striker": "R Powell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "JE Root",
+              "bowler": "RJ Gleeson",
+              "non_striker": "R Powell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Powell",
+              "bowler": "RJ Gleeson",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "JE Root",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Powell",
+              "bowler": "RJ Gleeson",
+              "non_striker": "JE Root",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Powell",
+              "bowler": "RJ Gleeson",
+              "non_striker": "JE Root",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "R Powell",
+              "bowler": "RJ Gleeson",
+              "non_striker": "JE Root",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JE Root",
+              "bowler": "RJ Gleeson",
+              "non_striker": "R Powell",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "JE Root",
+              "bowler": "RJ Gleeson",
+              "non_striker": "R Powell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JE Root",
+              "bowler": "RJ Gleeson",
+              "non_striker": "R Powell",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JE Root",
+              "bowler": "RJ Gleeson",
+              "non_striker": "R Powell",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JE Root",
+              "bowler": "RJ Gleeson",
+              "non_striker": "R Powell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "JE Root",
+                  "fielders": [
+                    {
+                      "name": "LA Dawson"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Rashid Khan",
+              "bowler": "RJ Gleeson",
+              "non_striker": "R Powell",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 4.5,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "London Spirit",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "MS Pepper",
+              "bowler": "L Wood",
+              "non_striker": "KK Jennings",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KK Jennings",
+              "bowler": "L Wood",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "MS Pepper",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MS Pepper",
+              "bowler": "L Wood",
+              "non_striker": "KK Jennings",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MS Pepper",
+              "bowler": "L Wood",
+              "non_striker": "KK Jennings",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KK Jennings",
+              "bowler": "L Wood",
+              "non_striker": "MS Pepper",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "KK Jennings",
+              "bowler": "Imad Wasim",
+              "non_striker": "MS Pepper",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MS Pepper",
+              "bowler": "Imad Wasim",
+              "non_striker": "KK Jennings",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MS Pepper",
+                  "fielders": [
+                    {
+                      "name": "Rashid Khan"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "OJ Pope",
+              "bowler": "Imad Wasim",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "KK Jennings",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "OJ Pope",
+              "bowler": "Imad Wasim",
+              "non_striker": "KK Jennings",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "OJ Pope",
+              "bowler": "Imad Wasim",
+              "non_striker": "KK Jennings",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "OJ Pope",
+              "bowler": "Imad Wasim",
+              "non_striker": "KK Jennings",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "KK Jennings",
+              "bowler": "L Wood",
+              "non_striker": "OJ Pope",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "OJ Pope",
+              "bowler": "L Wood",
+              "non_striker": "KK Jennings",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KK Jennings",
+              "bowler": "L Wood",
+              "non_striker": "OJ Pope",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KK Jennings",
+              "bowler": "L Wood",
+              "non_striker": "OJ Pope",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KK Jennings",
+              "bowler": "L Wood",
+              "non_striker": "OJ Pope",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "KK Jennings",
+              "bowler": "SJ Cook",
+              "non_striker": "OJ Pope",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KK Jennings",
+              "bowler": "SJ Cook",
+              "non_striker": "OJ Pope",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KK Jennings",
+              "bowler": "SJ Cook",
+              "non_striker": "OJ Pope",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "KK Jennings",
+              "bowler": "SJ Cook",
+              "non_striker": "OJ Pope",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "OJ Pope",
+              "bowler": "SJ Cook",
+              "non_striker": "KK Jennings",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "OJ Pope",
+              "bowler": "Imad Wasim",
+              "non_striker": "KK Jennings",
+              "review": {
+                "by": "London Spirit",
+                "umpire": "James Middlebrook",
+                "batter": "OJ Pope",
+                "decision": "struck down"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "OJ Pope",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "DW Lawrence",
+              "bowler": "Imad Wasim",
+              "non_striker": "KK Jennings",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KK Jennings",
+              "bowler": "Imad Wasim",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "DW Lawrence",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KK Jennings",
+              "bowler": "Imad Wasim",
+              "non_striker": "DW Lawrence",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KK Jennings",
+              "bowler": "Imad Wasim",
+              "non_striker": "DW Lawrence",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KK Jennings",
+              "bowler": "Imad Wasim",
+              "non_striker": "DW Lawrence",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "DW Lawrence",
+              "bowler": "L Gregory",
+              "non_striker": "KK Jennings",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "DW Lawrence",
+              "bowler": "L Gregory",
+              "non_striker": "KK Jennings",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DW Lawrence",
+              "bowler": "L Gregory",
+              "non_striker": "KK Jennings",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KK Jennings",
+              "bowler": "L Gregory",
+              "non_striker": "DW Lawrence",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KK Jennings",
+              "bowler": "L Gregory",
+              "non_striker": "DW Lawrence",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "DW Lawrence",
+              "bowler": "Rashid Khan",
+              "non_striker": "KK Jennings",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DW Lawrence",
+              "bowler": "Rashid Khan",
+              "non_striker": "KK Jennings",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "DW Lawrence",
+                  "fielders": [
+                    {
+                      "name": "R Powell"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "SO Hetmyer",
+              "bowler": "Rashid Khan",
+              "non_striker": "KK Jennings",
+              "review": {
+                "by": "Trent Rockets",
+                "umpire": "RJ Warren",
+                "batter": "SO Hetmyer",
+                "decision": "upheld"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SO Hetmyer",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "MJJ Critchley",
+              "bowler": "Rashid Khan",
+              "non_striker": "KK Jennings",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KK Jennings",
+              "bowler": "Rashid Khan",
+              "non_striker": "MJJ Critchley",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "MJJ Critchley",
+              "bowler": "Rashid Khan",
+              "non_striker": "KK Jennings",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KK Jennings",
+              "bowler": "Rashid Khan",
+              "non_striker": "MJJ Critchley",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "KK Jennings",
+                  "fielders": [
+                    {
+                      "name": "T Banton"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "AD Russell",
+              "bowler": "Rashid Khan",
+              "non_striker": "MJJ Critchley",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AD Russell",
+              "bowler": "Rashid Khan",
+              "non_striker": "MJJ Critchley",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MJJ Critchley",
+              "bowler": "Rashid Khan",
+              "non_striker": "AD Russell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "MJJ Critchley",
+              "bowler": "Imad Wasim",
+              "non_striker": "AD Russell",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MJJ Critchley",
+              "bowler": "Imad Wasim",
+              "non_striker": "AD Russell",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MJJ Critchley",
+              "bowler": "Imad Wasim",
+              "non_striker": "AD Russell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MJJ Critchley",
+              "bowler": "Imad Wasim",
+              "non_striker": "AD Russell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AD Russell",
+              "bowler": "Imad Wasim",
+              "non_striker": "MJJ Critchley",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "AD Russell",
+              "bowler": "Rashid Khan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "MJJ Critchley",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AD Russell",
+              "bowler": "Rashid Khan",
+              "non_striker": "MJJ Critchley",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "AD Russell",
+              "bowler": "Rashid Khan",
+              "extras": {
+                "byes": 4
+              },
+              "non_striker": "MJJ Critchley",
+              "runs": {
+                "batter": 0,
+                "extras": 4,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AD Russell",
+              "bowler": "Rashid Khan",
+              "non_striker": "MJJ Critchley",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AD Russell",
+              "bowler": "Rashid Khan",
+              "non_striker": "MJJ Critchley",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "AD Russell",
+              "bowler": "Rashid Khan",
+              "non_striker": "MJJ Critchley",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "MJJ Critchley",
+              "bowler": "JA Turner",
+              "extras": {
+                "noballs": 2
+              },
+              "non_striker": "AD Russell",
+              "runs": {
+                "batter": 1,
+                "extras": 2,
+                "total": 3
+              }
+            },
+            {
+              "batter": "AD Russell",
+              "bowler": "JA Turner",
+              "extras": {
+                "noballs": 2
+              },
+              "non_striker": "MJJ Critchley",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AD Russell",
+              "bowler": "L Gregory",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "MJJ Critchley",
+              "replacements": {
+                "role": [
+                  {
+                    "in": "L Gregory",
+                    "out": "JA Turner",
+                    "reason": "excluded - high full pitched balls",
+                    "role": "bowler"
+                  }
+                ]
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AD Russell",
+              "bowler": "L Gregory",
+              "non_striker": "MJJ Critchley",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MJJ Critchley",
+              "bowler": "L Gregory",
+              "non_striker": "AD Russell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MJJ Critchley",
+              "bowler": "L Gregory",
+              "non_striker": "AD Russell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AD Russell",
+              "bowler": "L Gregory",
+              "non_striker": "MJJ Critchley",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MJJ Critchley",
+              "bowler": "L Gregory",
+              "non_striker": "AD Russell",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "MJJ Critchley",
+              "bowler": "Imad Wasim",
+              "non_striker": "AD Russell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AD Russell",
+              "bowler": "Imad Wasim",
+              "non_striker": "MJJ Critchley",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MJJ Critchley",
+              "bowler": "Imad Wasim",
+              "non_striker": "AD Russell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AD Russell",
+              "bowler": "Imad Wasim",
+              "non_striker": "MJJ Critchley",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MJJ Critchley",
+              "bowler": "Imad Wasim",
+              "non_striker": "AD Russell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "AD Russell",
+              "bowler": "L Wood",
+              "non_striker": "MJJ Critchley",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AD Russell",
+              "bowler": "L Wood",
+              "non_striker": "MJJ Critchley",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "AD Russell",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "LA Dawson",
+              "bowler": "L Wood",
+              "non_striker": "MJJ Critchley",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MJJ Critchley",
+              "bowler": "L Wood",
+              "non_striker": "LA Dawson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LA Dawson",
+              "bowler": "L Wood",
+              "non_striker": "MJJ Critchley",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "LA Dawson",
+              "bowler": "SJ Cook",
+              "non_striker": "MJJ Critchley",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MJJ Critchley",
+              "bowler": "SJ Cook",
+              "non_striker": "LA Dawson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LA Dawson",
+              "bowler": "SJ Cook",
+              "non_striker": "MJJ Critchley",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MJJ Critchley",
+              "bowler": "SJ Cook",
+              "non_striker": "LA Dawson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LA Dawson",
+              "bowler": "SJ Cook",
+              "non_striker": "MJJ Critchley",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "LA Dawson",
+              "bowler": "L Gregory",
+              "non_striker": "MJJ Critchley",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "LA Dawson",
+              "bowler": "L Gregory",
+              "non_striker": "MJJ Critchley",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LA Dawson",
+              "bowler": "L Gregory",
+              "non_striker": "MJJ Critchley",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MJJ Critchley",
+              "bowler": "L Gregory",
+              "non_striker": "LA Dawson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LA Dawson",
+              "bowler": "L Gregory",
+              "non_striker": "MJJ Critchley",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "LA Dawson",
+              "bowler": "Rashid Khan",
+              "non_striker": "MJJ Critchley",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LA Dawson",
+              "bowler": "Rashid Khan",
+              "non_striker": "MJJ Critchley",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MJJ Critchley",
+              "bowler": "Rashid Khan",
+              "non_striker": "LA Dawson",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MJJ Critchley",
+              "bowler": "Rashid Khan",
+              "non_striker": "LA Dawson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LA Dawson",
+              "bowler": "Rashid Khan",
+              "non_striker": "MJJ Critchley",
+              "review": {
+                "by": "Trent Rockets",
+                "umpire": "RJ Warren",
+                "batter": "LA Dawson",
+                "decision": "upheld"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "LA Dawson",
+                  "kind": "lbw"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "MJJ Critchley",
+              "bowler": "SJ Cook",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "OP Stone",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MJJ Critchley",
+              "bowler": "SJ Cook",
+              "non_striker": "OP Stone",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "OP Stone",
+              "bowler": "SJ Cook",
+              "non_striker": "MJJ Critchley",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "OP Stone",
+              "bowler": "SJ Cook",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "MJJ Critchley",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MJJ Critchley",
+              "bowler": "SJ Cook",
+              "non_striker": "OP Stone",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "OP Stone",
+              "bowler": "SJ Cook",
+              "non_striker": "MJJ Critchley",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "MJJ Critchley",
+              "bowler": "L Wood",
+              "non_striker": "OP Stone",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "MJJ Critchley",
+              "bowler": "L Wood",
+              "non_striker": "OP Stone",
+              "review": {
+                "by": "Trent Rockets",
+                "umpire": "James Middlebrook",
+                "batter": "MJJ Critchley",
+                "decision": "struck down"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MJJ Critchley",
+              "bowler": "L Wood",
+              "extras": {
+                "noballs": 2
+              },
+              "non_striker": "OP Stone",
+              "runs": {
+                "batter": 1,
+                "extras": 2,
+                "total": 3
+              }
+            },
+            {
+              "batter": "OP Stone",
+              "bowler": "L Wood",
+              "non_striker": "MJJ Critchley",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "OP Stone",
+              "bowler": "L Wood",
+              "non_striker": "MJJ Critchley",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "OP Stone",
+                  "fielders": [
+                    {
+                      "name": "A Lyth"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "NT Ellis",
+              "bowler": "L Wood",
+              "non_striker": "MJJ Critchley",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "MJJ Critchley",
+              "bowler": "SJ Cook",
+              "non_striker": "NT Ellis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MJJ Critchley",
+              "bowler": "SJ Cook",
+              "non_striker": "NT Ellis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MJJ Critchley",
+              "bowler": "SJ Cook",
+              "non_striker": "NT Ellis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MJJ Critchley",
+              "bowler": "SJ Cook",
+              "non_striker": "NT Ellis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MJJ Critchley",
+              "bowler": "SJ Cook",
+              "non_striker": "NT Ellis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "player_out": "MJJ Critchley",
+                  "fielders": [
+                    {
+                      "name": "CG Harrison",
+                      "substitute": true
+                    },
+                    {
+                      "name": "T Banton"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "RJ Gleeson",
+              "bowler": "L Gregory",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "NT Ellis",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NT Ellis",
+              "bowler": "L Gregory",
+              "non_striker": "RJ Gleeson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "NT Ellis",
+                  "kind": "caught and bowled"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 4.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 167
+      }
+    }
+  ]
+}

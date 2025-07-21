@@ -1,0 +1,188 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2022-03-31",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Johannesburg",
+    "dates": [
+      "2017-12-10"
+    ],
+    "event": {
+      "name": "Ram Slam T20 Challenge",
+      "match_number": 30
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "officials": {
+      "match_referees": [
+        "ZTA Ndamane"
+      ],
+      "reserve_umpires": [
+        "Siphelele Gasa"
+      ],
+      "tv_umpires": [
+        "AT Holdstock"
+      ],
+      "umpires": [
+        "BP Jele",
+        "BM White"
+      ]
+    },
+    "outcome": {
+      "result": "no result"
+    },
+    "overs": 20,
+    "players": {
+      "Lions": [
+        "HE van der Dussen",
+        "RR Hendricks",
+        "M Mosehle",
+        "RD Rickelton",
+        "D Pretorius",
+        "PWA Mulder",
+        "BC Fortuin",
+        "K Rabada",
+        "AM Phangiso",
+        "GC Viljoen",
+        "OA Ramela"
+      ],
+      "Knights": [
+        "RS Second",
+        "PE Kruger",
+        "KD Petersen",
+        "TB de Bruyn",
+        "DA Miller",
+        "LL Mnyanda",
+        "R McLaren",
+        "M de Lange",
+        "SC van Schalkwyk",
+        "E Leie",
+        "M Budaza"
+      ]
+    },
+    "registry": {
+      "people": {
+        "AM Phangiso": "7f8ecc51",
+        "AT Holdstock": "6fa3258c",
+        "BC Fortuin": "9a2fc964",
+        "BM White": "66c21d35",
+        "BP Jele": "7bb1331e",
+        "D Pretorius": "11614d87",
+        "DA Miller": "d67d5f00",
+        "E Leie": "a7bc76a0",
+        "GC Viljoen": "a316d663",
+        "HE van der Dussen": "9948e262",
+        "K Rabada": "e62dd25d",
+        "KD Petersen": "bf64dc29",
+        "LL Mnyanda": "b847829f",
+        "M Budaza": "1d105638",
+        "M Mosehle": "8836fcac",
+        "M de Lange": "d4eef961",
+        "OA Ramela": "04a5b56e",
+        "PE Kruger": "39181592",
+        "PWA Mulder": "c96f6ac5",
+        "R McLaren": "c654af19",
+        "RD Rickelton": "e66732f8",
+        "RR Hendricks": "b8cc58c9",
+        "RS Second": "13d0b3d6",
+        "SC van Schalkwyk": "97b0e4ff",
+        "Siphelele Gasa": "e50baa87",
+        "TB de Bruyn": "90d6cdea",
+        "ZTA Ndamane": "545cc6db"
+      }
+    },
+    "season": "2017/18",
+    "team_type": "club",
+    "teams": [
+      "Lions",
+      "Knights"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Knights"
+    },
+    "venue": "New Wanderers Stadium, Johannesburg"
+  },
+  "innings": [
+    {
+      "team": "Lions",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "M de Lange",
+              "non_striker": "RR Hendricks",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "M de Lange",
+              "non_striker": "RR Hendricks",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "M de Lange",
+              "non_striker": "RR Hendricks",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RR Hendricks",
+              "bowler": "M de Lange",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RR Hendricks",
+              "bowler": "M de Lange",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "M de Lange",
+              "non_striker": "RR Hendricks",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 0.6,
+          "type": "mandatory"
+        }
+      ]
+    }
+  ]
+}

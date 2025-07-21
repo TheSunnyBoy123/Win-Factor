@@ -1,0 +1,848 @@
+{
+  "meta": {
+    "data_version": "1.0.0",
+    "created": "2021-01-27",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Auckland",
+    "dates": [
+      "2021-01-03"
+    ],
+    "event": {
+      "name": "Super Smash",
+      "match_number": 9
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "officials": {
+      "match_referees": [
+        "RE Hayward"
+      ],
+      "umpires": [
+        "A Mehrotra",
+        "JAK Bromley"
+      ]
+    },
+    "outcome": {
+      "winner": "Canterbury",
+      "by": {
+        "wickets": 10
+      }
+    },
+    "overs": 20,
+    "players": {
+      "Auckland": [
+        "GD Phillips",
+        "MS Chapman",
+        "RR O'Donnell",
+        "BJ Horne",
+        "SM Solia",
+        "WT O'Donnell",
+        "WER Somerville",
+        "RM ter Braak",
+        "L Delport",
+        "BG Lister",
+        "DK Ferns"
+      ],
+      "Canterbury": [
+        "KJ McClure",
+        "CJ Bowes",
+        "CE McConchie",
+        "LJ Carter",
+        "CD Fletcher",
+        "MW Hay",
+        "SB Davey",
+        "TD Astle",
+        "WSA Williams",
+        "EJ Nuttall",
+        "FW Sheat"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Mehrotra": "f336ff13",
+        "BG Lister": "79f5bc26",
+        "BJ Horne": "5d99a16a",
+        "CD Fletcher": "4af9f5d4",
+        "CE McConchie": "d285acaf",
+        "CJ Bowes": "45df0e72",
+        "DK Ferns": "f28c7456",
+        "EJ Nuttall": "c9bb898a",
+        "FW Sheat": "56d471f2",
+        "GD Phillips": "9a46c4e5",
+        "JAK Bromley": "ccf7baaf",
+        "KJ McClure": "4c895bc1",
+        "L Delport": "2c1438ef",
+        "LJ Carter": "dfb51f40",
+        "MS Chapman": "7fa12533",
+        "MW Hay": "a11be10c",
+        "RE Hayward": "57689d0b",
+        "RM ter Braak": "ac3e5a31",
+        "RR O'Donnell": "2742086d",
+        "SB Davey": "f45cd5c8",
+        "SM Solia": "fd9f43bb",
+        "TD Astle": "383dd431",
+        "WER Somerville": "74a1c1e3",
+        "WSA Williams": "861eed37",
+        "WT O'Donnell": "730b57de"
+      }
+    },
+    "season": "2020/21",
+    "team_type": "club",
+    "teams": [
+      "Auckland",
+      "Canterbury"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Canterbury"
+    },
+    "venue": "Eden Park Outer Oval"
+  },
+  "innings": [
+    {
+      "team": "Auckland",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "GD Phillips",
+              "bowler": "EJ Nuttall",
+              "non_striker": "MS Chapman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MS Chapman",
+              "bowler": "EJ Nuttall",
+              "non_striker": "GD Phillips",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MS Chapman",
+              "bowler": "EJ Nuttall",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "GD Phillips",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MS Chapman",
+              "bowler": "EJ Nuttall",
+              "non_striker": "GD Phillips",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GD Phillips",
+              "bowler": "EJ Nuttall",
+              "non_striker": "MS Chapman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "GD Phillips",
+                  "fielders": [
+                    {
+                      "name": "LJ Carter"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "MS Chapman",
+              "bowler": "EJ Nuttall",
+              "non_striker": "RR O'Donnell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RR O'Donnell",
+              "bowler": "EJ Nuttall",
+              "non_striker": "MS Chapman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "RR O'Donnell",
+              "bowler": "SB Davey",
+              "non_striker": "MS Chapman",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "RR O'Donnell",
+              "bowler": "SB Davey",
+              "non_striker": "MS Chapman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MS Chapman",
+              "bowler": "SB Davey",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "RR O'Donnell",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MS Chapman",
+              "bowler": "SB Davey",
+              "non_striker": "RR O'Donnell",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MS Chapman",
+              "bowler": "SB Davey",
+              "non_striker": "RR O'Donnell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RR O'Donnell",
+              "bowler": "SB Davey",
+              "non_striker": "MS Chapman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "RR O'Donnell",
+                  "fielders": [
+                    {
+                      "name": "WSA Williams"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "MS Chapman",
+              "bowler": "SB Davey",
+              "non_striker": "BJ Horne",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "MS Chapman",
+              "bowler": "TD Astle",
+              "non_striker": "BJ Horne",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BJ Horne",
+              "bowler": "TD Astle",
+              "non_striker": "MS Chapman",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "BJ Horne",
+              "bowler": "TD Astle",
+              "non_striker": "MS Chapman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MS Chapman",
+              "bowler": "TD Astle",
+              "non_striker": "BJ Horne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MS Chapman",
+              "bowler": "TD Astle",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "BJ Horne",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MS Chapman",
+              "bowler": "TD Astle",
+              "non_striker": "BJ Horne",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MS Chapman",
+              "bowler": "TD Astle",
+              "non_striker": "BJ Horne",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "BJ Horne",
+              "bowler": "WSA Williams",
+              "non_striker": "MS Chapman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MS Chapman",
+              "bowler": "WSA Williams",
+              "non_striker": "BJ Horne",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MS Chapman",
+              "bowler": "WSA Williams",
+              "non_striker": "BJ Horne",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MS Chapman",
+              "bowler": "WSA Williams",
+              "non_striker": "BJ Horne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MS Chapman",
+                  "fielders": [
+                    {
+                      "name": "LJ Carter"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "SM Solia",
+              "bowler": "WSA Williams",
+              "non_striker": "BJ Horne",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SM Solia",
+              "bowler": "WSA Williams",
+              "non_striker": "BJ Horne",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "BJ Horne",
+              "bowler": "FW Sheat",
+              "non_striker": "SM Solia",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "BJ Horne",
+              "bowler": "FW Sheat",
+              "non_striker": "SM Solia",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "BJ Horne",
+              "bowler": "FW Sheat",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "SM Solia",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SM Solia",
+              "bowler": "FW Sheat",
+              "non_striker": "BJ Horne",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BJ Horne",
+              "bowler": "FW Sheat",
+              "non_striker": "SM Solia",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SM Solia",
+              "bowler": "FW Sheat",
+              "non_striker": "BJ Horne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SM Solia",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 1.7,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Canterbury",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "KJ McClure",
+              "bowler": "BG Lister",
+              "non_striker": "CJ Bowes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KJ McClure",
+              "bowler": "BG Lister",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "CJ Bowes",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KJ McClure",
+              "bowler": "BG Lister",
+              "non_striker": "CJ Bowes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KJ McClure",
+              "bowler": "BG Lister",
+              "non_striker": "CJ Bowes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KJ McClure",
+              "bowler": "BG Lister",
+              "non_striker": "CJ Bowes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KJ McClure",
+              "bowler": "BG Lister",
+              "non_striker": "CJ Bowes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CJ Bowes",
+              "bowler": "BG Lister",
+              "non_striker": "KJ McClure",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "KJ McClure",
+              "bowler": "RM ter Braak",
+              "non_striker": "CJ Bowes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KJ McClure",
+              "bowler": "RM ter Braak",
+              "non_striker": "CJ Bowes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CJ Bowes",
+              "bowler": "RM ter Braak",
+              "non_striker": "KJ McClure",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "CJ Bowes",
+              "bowler": "RM ter Braak",
+              "non_striker": "KJ McClure",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "CJ Bowes",
+              "bowler": "RM ter Braak",
+              "non_striker": "KJ McClure",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CJ Bowes",
+              "bowler": "RM ter Braak",
+              "non_striker": "KJ McClure",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "KJ McClure",
+              "bowler": "L Delport",
+              "non_striker": "CJ Bowes",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "KJ McClure",
+              "bowler": "L Delport",
+              "non_striker": "CJ Bowes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CJ Bowes",
+              "bowler": "L Delport",
+              "non_striker": "KJ McClure",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KJ McClure",
+              "bowler": "L Delport",
+              "non_striker": "CJ Bowes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KJ McClure",
+              "bowler": "L Delport",
+              "non_striker": "CJ Bowes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CJ Bowes",
+              "bowler": "L Delport",
+              "non_striker": "KJ McClure",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "CJ Bowes",
+              "bowler": "WER Somerville",
+              "non_striker": "KJ McClure",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "CJ Bowes",
+              "bowler": "WER Somerville",
+              "non_striker": "KJ McClure",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KJ McClure",
+              "bowler": "WER Somerville",
+              "non_striker": "CJ Bowes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CJ Bowes",
+              "bowler": "WER Somerville",
+              "non_striker": "KJ McClure",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "CJ Bowes",
+              "bowler": "WER Somerville",
+              "non_striker": "KJ McClure",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "CJ Bowes",
+              "bowler": "WER Somerville",
+              "non_striker": "KJ McClure",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "CJ Bowes",
+              "bowler": "DK Ferns",
+              "non_striker": "KJ McClure",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "CJ Bowes",
+              "bowler": "DK Ferns",
+              "non_striker": "KJ McClure",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KJ McClure",
+              "bowler": "DK Ferns",
+              "non_striker": "CJ Bowes",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 1.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 5,
+        "runs": 53
+      }
+    }
+  ]
+}

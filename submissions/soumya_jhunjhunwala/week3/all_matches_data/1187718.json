@@ -1,0 +1,2863 @@
+{
+  "meta": {
+    "data_version": "1.0.0",
+    "created": "2020-02-15",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Hamilton",
+    "dates": [
+      "2020-02-06"
+    ],
+    "event": {
+      "name": "South Africa Women tour of New Zealand",
+      "match_number": 2
+    },
+    "gender": "female",
+    "match_type": "T20",
+    "match_type_number": 837,
+    "missing": [
+      "player_of_match",
+      "reviews"
+    ],
+    "officials": {
+      "match_referees": [
+        "GAV Baxter"
+      ],
+      "reserve_umpires": [
+        "Lui Els"
+      ],
+      "tv_umpires": [
+        "JM Dempsey"
+      ],
+      "umpires": [
+        "CM Brown",
+        "Kim Cotton"
+      ]
+    },
+    "outcome": {
+      "winner": "New Zealand",
+      "by": {
+        "wickets": 5
+      }
+    },
+    "overs": 20,
+    "players": {
+      "South Africa": [
+        "L Lee",
+        "L Wolvaardt",
+        "N de Klerk",
+        "D van Niekerk",
+        "M du Preez",
+        "CL Tryon",
+        "S Luus",
+        "T Chetty",
+        "S Ismail",
+        "A Khaka",
+        "M Klaas"
+      ],
+      "New Zealand": [
+        "SFM Devine",
+        "RH Priest",
+        "SW Bates",
+        "ML Green",
+        "KT Perkins",
+        "KJ Martin",
+        "HNK Jensen",
+        "AC Kerr",
+        "LMM Tahuhu",
+        "RA Mair",
+        "LM Kasperek"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Khaka": "0d518f89",
+        "AC Kerr": "7673c908",
+        "CL Tryon": "4d4605e6",
+        "CM Brown": "448f4f1c",
+        "D van Niekerk": "8c5775f3",
+        "GAV Baxter": "cb4b3ab0",
+        "HNK Jensen": "b8cce99f",
+        "JM Dempsey": "153c9f33",
+        "KJ Martin": "cf75a839",
+        "KT Perkins": "78ad3258",
+        "Kim Cotton": "67a7c2ee",
+        "L Lee": "7b01ce83",
+        "L Wolvaardt": "e60f81c9",
+        "LM Kasperek": "9b73d523",
+        "LMM Tahuhu": "60471339",
+        "Lui Els": "00812511",
+        "M Klaas": "ce85fcaf",
+        "M du Preez": "e219f17a",
+        "ML Green": "865eae1f",
+        "N de Klerk": "ea544967",
+        "RA Mair": "d5eb8b84",
+        "RH Priest": "e6f0408a",
+        "S Ismail": "108c4c09",
+        "S Luus": "6d76bc23",
+        "SFM Devine": "de69af96",
+        "SW Bates": "89bbc67a",
+        "T Chetty": "53a5767d"
+      }
+    },
+    "season": "2019/20",
+    "team_type": "international",
+    "teams": [
+      "New Zealand",
+      "South Africa"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "New Zealand"
+    },
+    "venue": "Seddon Park"
+  },
+  "innings": [
+    {
+      "team": "South Africa",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "L Lee",
+              "bowler": "LM Kasperek",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Lee",
+              "bowler": "LM Kasperek",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "LM Kasperek",
+              "non_striker": "L Lee",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "LM Kasperek",
+              "non_striker": "L Lee",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Lee",
+              "bowler": "LM Kasperek",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Lee",
+              "bowler": "LM Kasperek",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "L Lee",
+              "bowler": "RA Mair",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "lbw",
+                  "player_out": "L Lee"
+                }
+              ]
+            },
+            {
+              "batter": "N de Klerk",
+              "bowler": "RA Mair",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "RA Mair",
+              "non_striker": "N de Klerk",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "RA Mair",
+              "non_striker": "N de Klerk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "RA Mair",
+              "non_striker": "N de Klerk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "RA Mair",
+              "non_striker": "N de Klerk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "N de Klerk",
+              "bowler": "LMM Tahuhu",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N de Klerk",
+              "bowler": "LMM Tahuhu",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N de Klerk",
+              "bowler": "LMM Tahuhu",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N de Klerk",
+              "bowler": "LMM Tahuhu",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "LMM Tahuhu",
+              "non_striker": "N de Klerk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "LMM Tahuhu",
+              "non_striker": "N de Klerk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "N de Klerk",
+              "bowler": "RA Mair",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N de Klerk",
+              "bowler": "RA Mair",
+              "extras": {
+                "legbyes": 2
+              },
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "N de Klerk",
+              "bowler": "RA Mair",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "RA Mair",
+              "non_striker": "N de Klerk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N de Klerk",
+              "bowler": "RA Mair",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "N de Klerk",
+              "bowler": "RA Mair",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "LMM Tahuhu",
+              "non_striker": "N de Klerk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N de Klerk",
+              "bowler": "LMM Tahuhu",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N de Klerk",
+              "bowler": "LMM Tahuhu",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N de Klerk",
+              "bowler": "LMM Tahuhu",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "LMM Tahuhu",
+              "non_striker": "N de Klerk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N de Klerk",
+              "bowler": "LMM Tahuhu",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "LMM Tahuhu",
+              "non_striker": "N de Klerk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "N de Klerk",
+              "bowler": "RA Mair",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "RA Mair",
+              "non_striker": "N de Klerk",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "RA Mair",
+              "non_striker": "N de Klerk",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "RA Mair",
+              "non_striker": "N de Klerk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N de Klerk",
+              "bowler": "RA Mair",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "RA Mair",
+              "non_striker": "N de Klerk",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "N de Klerk",
+              "bowler": "SFM Devine",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "N de Klerk",
+                  "fielders": [
+                    {
+                      "name": "RH Priest"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "D van Niekerk",
+              "bowler": "SFM Devine",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "SFM Devine",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D van Niekerk",
+              "bowler": "SFM Devine",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "D van Niekerk",
+              "bowler": "SFM Devine",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D van Niekerk",
+              "bowler": "SFM Devine",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "HNK Jensen",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "run out",
+                  "player_out": "L Wolvaardt"
+                }
+              ]
+            },
+            {
+              "batter": "D van Niekerk",
+              "bowler": "HNK Jensen",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D van Niekerk",
+              "bowler": "HNK Jensen",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "D van Niekerk",
+              "bowler": "HNK Jensen",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M du Preez",
+              "bowler": "HNK Jensen",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D van Niekerk",
+              "bowler": "HNK Jensen",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "D van Niekerk",
+              "bowler": "SFM Devine",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D van Niekerk",
+              "bowler": "SFM Devine",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M du Preez",
+              "bowler": "SFM Devine",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M du Preez",
+              "bowler": "SFM Devine",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M du Preez",
+              "bowler": "SFM Devine",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M du Preez",
+              "bowler": "SFM Devine",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "D van Niekerk",
+              "bowler": "HNK Jensen",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D van Niekerk",
+              "bowler": "HNK Jensen",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M du Preez",
+              "bowler": "HNK Jensen",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M du Preez",
+              "bowler": "HNK Jensen",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D van Niekerk",
+              "bowler": "HNK Jensen",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "D van Niekerk",
+              "bowler": "HNK Jensen",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D van Niekerk",
+              "bowler": "HNK Jensen",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "M du Preez",
+              "bowler": "AC Kerr",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D van Niekerk",
+              "bowler": "AC Kerr",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M du Preez",
+              "bowler": "AC Kerr",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M du Preez",
+              "bowler": "AC Kerr",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "M du Preez",
+              "bowler": "AC Kerr",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "M du Preez",
+              "bowler": "AC Kerr",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "D van Niekerk",
+              "bowler": "SFM Devine",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M du Preez",
+              "bowler": "SFM Devine",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "M du Preez",
+              "bowler": "SFM Devine",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D van Niekerk",
+              "bowler": "SFM Devine",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M du Preez",
+              "bowler": "SFM Devine",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "M du Preez",
+              "bowler": "SFM Devine",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "D van Niekerk",
+              "bowler": "LM Kasperek",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M du Preez",
+              "bowler": "LM Kasperek",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "M du Preez",
+              "bowler": "LM Kasperek",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D van Niekerk",
+              "bowler": "LM Kasperek",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D van Niekerk",
+              "bowler": "LM Kasperek",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M du Preez",
+              "bowler": "LM Kasperek",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "D van Niekerk",
+              "bowler": "LMM Tahuhu",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M du Preez",
+              "bowler": "LMM Tahuhu",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D van Niekerk",
+              "bowler": "LMM Tahuhu",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "D van Niekerk",
+                  "fielders": [
+                    {
+                      "name": "AC Kerr"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "CL Tryon",
+              "bowler": "LMM Tahuhu",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CL Tryon",
+              "bowler": "LMM Tahuhu",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CL Tryon",
+              "bowler": "LMM Tahuhu",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "CL Tryon",
+                  "fielders": [
+                    {
+                      "name": "RH Priest"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "M du Preez",
+              "bowler": "LM Kasperek",
+              "non_striker": "S Luus",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Luus",
+              "bowler": "LM Kasperek",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M du Preez",
+              "bowler": "LM Kasperek",
+              "non_striker": "S Luus",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Luus",
+              "bowler": "LM Kasperek",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Luus",
+              "bowler": "LM Kasperek",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M du Preez",
+              "bowler": "LM Kasperek",
+              "non_striker": "S Luus",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "S Luus",
+              "bowler": "LMM Tahuhu",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Luus",
+              "bowler": "LMM Tahuhu",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "run out",
+                  "player_out": "S Luus"
+                }
+              ]
+            },
+            {
+              "batter": "T Chetty",
+              "bowler": "LMM Tahuhu",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Chetty",
+              "bowler": "LMM Tahuhu",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M du Preez",
+              "bowler": "LMM Tahuhu",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Chetty",
+              "bowler": "LMM Tahuhu",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "M du Preez",
+              "bowler": "AC Kerr",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Chetty",
+              "bowler": "AC Kerr",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M du Preez",
+              "bowler": "AC Kerr",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "M du Preez",
+                  "fielders": [
+                    {
+                      "name": "HNK Jensen"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "T Chetty",
+              "bowler": "AC Kerr",
+              "non_striker": "S Ismail",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Ismail",
+              "bowler": "AC Kerr",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Ismail",
+              "bowler": "AC Kerr",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "T Chetty",
+              "bowler": "HNK Jensen",
+              "non_striker": "S Ismail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Chetty",
+              "bowler": "HNK Jensen",
+              "non_striker": "S Ismail",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Ismail",
+              "bowler": "HNK Jensen",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Ismail",
+              "bowler": "HNK Jensen",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "stumped",
+                  "player_out": "S Ismail",
+                  "fielders": [
+                    {
+                      "name": "RH Priest"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "A Khaka",
+              "bowler": "HNK Jensen",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Khaka",
+              "bowler": "HNK Jensen",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "T Chetty",
+              "bowler": "AC Kerr",
+              "non_striker": "A Khaka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Khaka",
+              "bowler": "AC Kerr",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Chetty",
+              "bowler": "AC Kerr",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "A Khaka",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Khaka",
+              "bowler": "AC Kerr",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Chetty",
+              "bowler": "AC Kerr",
+              "non_striker": "A Khaka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Chetty",
+              "bowler": "AC Kerr",
+              "non_striker": "A Khaka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "T Chetty",
+              "bowler": "RA Mair",
+              "non_striker": "A Khaka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Khaka",
+              "bowler": "RA Mair",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Chetty",
+              "bowler": "RA Mair",
+              "non_striker": "A Khaka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "T Chetty",
+                  "fielders": [
+                    {
+                      "name": "SW Bates"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "A Khaka",
+              "bowler": "RA Mair",
+              "non_striker": "M Klaas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "run out",
+                  "player_out": "M Klaas"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "New Zealand",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "SFM Devine",
+              "bowler": "S Ismail",
+              "non_striker": "RH Priest",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RH Priest",
+              "bowler": "S Ismail",
+              "non_striker": "SFM Devine",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RH Priest",
+              "bowler": "S Ismail",
+              "non_striker": "SFM Devine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RH Priest",
+              "bowler": "S Ismail",
+              "non_striker": "SFM Devine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RH Priest",
+              "bowler": "S Ismail",
+              "non_striker": "SFM Devine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RH Priest",
+              "bowler": "S Ismail",
+              "non_striker": "SFM Devine",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "RH Priest",
+              "bowler": "A Khaka",
+              "non_striker": "SFM Devine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RH Priest",
+              "bowler": "A Khaka",
+              "non_striker": "SFM Devine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "RH Priest",
+                  "fielders": [
+                    {
+                      "name": "M du Preez"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "SW Bates",
+              "bowler": "A Khaka",
+              "non_striker": "SFM Devine",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SFM Devine",
+              "bowler": "A Khaka",
+              "non_striker": "SW Bates",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SFM Devine",
+              "bowler": "A Khaka",
+              "non_striker": "SW Bates",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SFM Devine",
+              "bowler": "A Khaka",
+              "non_striker": "SW Bates",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "SFM Devine",
+              "bowler": "S Ismail",
+              "non_striker": "SW Bates",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SW Bates",
+              "bowler": "S Ismail",
+              "non_striker": "SFM Devine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SW Bates",
+              "bowler": "S Ismail",
+              "non_striker": "SFM Devine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SW Bates",
+              "bowler": "S Ismail",
+              "non_striker": "SFM Devine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SW Bates",
+              "bowler": "S Ismail",
+              "non_striker": "SFM Devine",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SFM Devine",
+              "bowler": "S Ismail",
+              "non_striker": "SW Bates",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "SW Bates",
+              "bowler": "A Khaka",
+              "non_striker": "SFM Devine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SW Bates",
+              "bowler": "A Khaka",
+              "non_striker": "SFM Devine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SW Bates",
+              "bowler": "A Khaka",
+              "non_striker": "SFM Devine",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SFM Devine",
+              "bowler": "A Khaka",
+              "non_striker": "SW Bates",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SFM Devine",
+              "bowler": "A Khaka",
+              "non_striker": "SW Bates",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SFM Devine",
+              "bowler": "A Khaka",
+              "non_striker": "SW Bates",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "SW Bates",
+              "bowler": "S Ismail",
+              "non_striker": "SFM Devine",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SW Bates",
+              "bowler": "S Ismail",
+              "non_striker": "SFM Devine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "SW Bates"
+                }
+              ]
+            },
+            {
+              "batter": "ML Green",
+              "bowler": "S Ismail",
+              "non_striker": "SFM Devine",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SFM Devine",
+              "bowler": "S Ismail",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SFM Devine",
+              "bowler": "S Ismail",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SFM Devine",
+              "bowler": "S Ismail",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SFM Devine",
+              "bowler": "S Ismail",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "ML Green",
+              "bowler": "M Klaas",
+              "non_striker": "SFM Devine",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SFM Devine",
+              "bowler": "M Klaas",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "SFM Devine",
+              "bowler": "M Klaas",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ML Green",
+              "bowler": "M Klaas",
+              "non_striker": "SFM Devine",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SFM Devine",
+              "bowler": "M Klaas",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 1,
+                "extras": 1,
+                "total": 2
+              }
+            },
+            {
+              "batter": "ML Green",
+              "bowler": "M Klaas",
+              "non_striker": "SFM Devine",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "ML Green",
+              "bowler": "M Klaas",
+              "non_striker": "SFM Devine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "SFM Devine",
+              "bowler": "D van Niekerk",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ML Green",
+              "bowler": "D van Niekerk",
+              "non_striker": "SFM Devine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ML Green",
+              "bowler": "D van Niekerk",
+              "non_striker": "SFM Devine",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SFM Devine",
+              "bowler": "D van Niekerk",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SFM Devine",
+              "bowler": "D van Niekerk",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ML Green",
+              "bowler": "D van Niekerk",
+              "non_striker": "SFM Devine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "SFM Devine",
+              "bowler": "N de Klerk",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ML Green",
+              "bowler": "N de Klerk",
+              "non_striker": "SFM Devine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ML Green",
+              "bowler": "N de Klerk",
+              "non_striker": "SFM Devine",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "ML Green",
+              "bowler": "N de Klerk",
+              "non_striker": "SFM Devine",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SFM Devine",
+              "bowler": "N de Klerk",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SFM Devine",
+              "bowler": "N de Klerk",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SFM Devine",
+              "bowler": "N de Klerk",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "SFM Devine",
+              "bowler": "D van Niekerk",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SFM Devine",
+              "bowler": "D van Niekerk",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SFM Devine",
+              "bowler": "D van Niekerk",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SFM Devine",
+              "bowler": "D van Niekerk",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ML Green",
+              "bowler": "D van Niekerk",
+              "non_striker": "SFM Devine",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SFM Devine",
+              "bowler": "D van Niekerk",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "ML Green",
+              "bowler": "CL Tryon",
+              "non_striker": "SFM Devine",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SFM Devine",
+              "bowler": "CL Tryon",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ML Green",
+              "bowler": "CL Tryon",
+              "non_striker": "SFM Devine",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SFM Devine",
+              "bowler": "CL Tryon",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ML Green",
+              "bowler": "CL Tryon",
+              "non_striker": "SFM Devine",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SFM Devine",
+              "bowler": "CL Tryon",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "ML Green",
+              "bowler": "D van Niekerk",
+              "non_striker": "SFM Devine",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SFM Devine",
+              "bowler": "D van Niekerk",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SFM Devine",
+              "bowler": "D van Niekerk",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SFM Devine",
+              "bowler": "D van Niekerk",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ML Green",
+              "bowler": "D van Niekerk",
+              "non_striker": "SFM Devine",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SFM Devine",
+              "bowler": "D van Niekerk",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "SFM Devine",
+              "bowler": "CL Tryon",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SFM Devine",
+              "bowler": "CL Tryon",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "SFM Devine",
+              "bowler": "CL Tryon",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "SFM Devine",
+              "bowler": "CL Tryon",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "SFM Devine",
+              "bowler": "CL Tryon",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SFM Devine",
+              "bowler": "CL Tryon",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 1,
+                "extras": 1,
+                "total": 2
+              }
+            },
+            {
+              "batter": "ML Green",
+              "bowler": "CL Tryon",
+              "non_striker": "SFM Devine",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "ML Green",
+              "bowler": "D van Niekerk",
+              "non_striker": "SFM Devine",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SFM Devine",
+              "bowler": "D van Niekerk",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ML Green",
+              "bowler": "D van Niekerk",
+              "non_striker": "SFM Devine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "ML Green",
+                  "fielders": [
+                    {
+                      "name": "S Luus"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "KT Perkins",
+              "bowler": "D van Niekerk",
+              "non_striker": "SFM Devine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KT Perkins",
+              "bowler": "D van Niekerk",
+              "non_striker": "SFM Devine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KT Perkins",
+              "bowler": "D van Niekerk",
+              "non_striker": "SFM Devine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "SFM Devine",
+              "bowler": "A Khaka",
+              "non_striker": "KT Perkins",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KT Perkins",
+              "bowler": "A Khaka",
+              "non_striker": "SFM Devine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KT Perkins",
+              "bowler": "A Khaka",
+              "non_striker": "SFM Devine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KT Perkins",
+              "bowler": "A Khaka",
+              "non_striker": "SFM Devine",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "KT Perkins",
+              "bowler": "A Khaka",
+              "non_striker": "SFM Devine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KT Perkins",
+              "bowler": "A Khaka",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "SFM Devine",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "KT Perkins",
+              "bowler": "S Luus",
+              "non_striker": "SFM Devine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KT Perkins",
+              "bowler": "S Luus",
+              "non_striker": "SFM Devine",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "KT Perkins",
+              "bowler": "S Luus",
+              "non_striker": "SFM Devine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KT Perkins",
+              "bowler": "S Luus",
+              "non_striker": "SFM Devine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KT Perkins",
+              "bowler": "S Luus",
+              "non_striker": "SFM Devine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KT Perkins",
+              "bowler": "S Luus",
+              "non_striker": "SFM Devine",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "KT Perkins",
+              "bowler": "A Khaka",
+              "non_striker": "SFM Devine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "lbw",
+                  "player_out": "KT Perkins"
+                }
+              ]
+            },
+            {
+              "batter": "KJ Martin",
+              "bowler": "A Khaka",
+              "non_striker": "SFM Devine",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KJ Martin",
+              "bowler": "A Khaka",
+              "non_striker": "SFM Devine",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SFM Devine",
+              "bowler": "A Khaka",
+              "non_striker": "KJ Martin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KJ Martin",
+              "bowler": "A Khaka",
+              "non_striker": "SFM Devine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KJ Martin",
+              "bowler": "A Khaka",
+              "non_striker": "SFM Devine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "SFM Devine",
+              "bowler": "S Luus",
+              "non_striker": "KJ Martin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "stumped",
+                  "player_out": "SFM Devine",
+                  "fielders": [
+                    {
+                      "name": "T Chetty"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "HNK Jensen",
+              "bowler": "S Luus",
+              "non_striker": "KJ Martin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HNK Jensen",
+              "bowler": "S Luus",
+              "non_striker": "KJ Martin",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "HNK Jensen",
+              "bowler": "S Luus",
+              "non_striker": "KJ Martin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HNK Jensen",
+              "bowler": "S Luus",
+              "non_striker": "KJ Martin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HNK Jensen",
+              "bowler": "S Luus",
+              "non_striker": "KJ Martin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "KJ Martin",
+              "bowler": "S Ismail",
+              "non_striker": "HNK Jensen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KJ Martin",
+              "bowler": "S Ismail",
+              "non_striker": "HNK Jensen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KJ Martin",
+              "bowler": "S Ismail",
+              "non_striker": "HNK Jensen",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KJ Martin",
+              "bowler": "S Ismail",
+              "non_striker": "HNK Jensen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HNK Jensen",
+              "bowler": "S Ismail",
+              "non_striker": "KJ Martin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HNK Jensen",
+              "bowler": "S Ismail",
+              "non_striker": "KJ Martin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "KJ Martin",
+              "bowler": "S Luus",
+              "non_striker": "HNK Jensen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KJ Martin",
+              "bowler": "S Luus",
+              "non_striker": "HNK Jensen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KJ Martin",
+              "bowler": "S Luus",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "HNK Jensen",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.7,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 120
+      }
+    }
+  ]
+}
