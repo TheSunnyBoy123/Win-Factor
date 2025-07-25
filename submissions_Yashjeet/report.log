@@ -18,3 +18,12 @@
 2025-07-10 00:25:47,236 - httpx - INFO - HTTP Request: GET http://127.0.0.1:7863/gradio_api/startup-events "HTTP/1.1 200 OK"
 2025-07-10 00:25:47,247 - httpx - INFO - HTTP Request: HEAD http://127.0.0.1:7863/ "HTTP/1.1 200 OK"
 2025-07-10 00:25:48,255 - httpx - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-07-23 00:51:08,744 - pyswarms.single.global_best - INFO - Optimize for 30 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2025-07-23 01:32:44,556 - pyswarms.single.global_best - INFO - Optimization finished | best cost: -0.06970305442810058, best pos: [1.00188527e+02 6.69886833e-02 5.19496591e+00 8.47283545e-01
+ 3.36272625e-01 6.54484705e-01 1.93367616e+00]
+2025-07-23 01:47:48,334 - pyswarms.single.global_best - INFO - Optimize for 30 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2025-07-23 02:09:55,261 - pyswarms.single.global_best - INFO - Optimization finished | best cost: -0.06845362186431884, best pos: [1.14713844e+02 3.67401929e-02 7.85839502e+00 7.67675047e-01
+ 6.89025527e-01 2.75043072e-01 2.91060411e+00]
+2025-07-23 08:02:06,776 - httpx - INFO - HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-07-23 08:02:06,786 - httpx - INFO - HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2025-07-23 08:02:08,754 - httpx - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
