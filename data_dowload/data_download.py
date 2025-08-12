@@ -1136,8 +1136,8 @@ def download_and_preprocess():
     
     print("Running adding_names()")
     adding_names()
-
-    print("Running style_based_features()")
-    style_based_features()
+    
+    # print("Running style_based_features()")
+    # style_based_features()
 
 download_and_preprocess()
