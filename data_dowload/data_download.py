@@ -55,7 +55,7 @@ def execute_scraper():
 dir_with_cricsheets_json = json_dir
 stored_dir = dir_with_cricsheets_json
 
-output_csv_json_generator = this_file_dir + "data/interim/total_data.csv"
+output_csv_json_generator = "/content/data/interim/total_data.csv"
 
 match_types_unique = set()
 
