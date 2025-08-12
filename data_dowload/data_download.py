@@ -737,7 +737,7 @@ def rename_date():
     total_data_path = this_file_dir + "data/interim/total_data.csv"
     df = pd.read_csv(total_data_path, index_col= False)
 
-    df['date'] = df['date'].str.split(" - ").str[0]
+    df['date'] = df['dates'].str.split(" - ").str[0]
     df.rename(columns={'date': 'start_date'}, inplace=True)
     os.remove(total_data_path)
     df.to_csv(total_data_path)
