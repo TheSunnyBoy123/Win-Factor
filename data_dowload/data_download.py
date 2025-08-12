@@ -55,8 +55,8 @@ def execute_scraper():
 dir_with_cricsheets_json = json_dir
 stored_dir = dir_with_cricsheets_json
 # Ensure the folder exists before writing
-os.makedirs(os.path.dirname(output_csv_json_generator), exist_ok=True)
 output_csv_json_generator = "/content/data/interim/total_data.csv"
+os.makedirs(os.path.dirname(output_csv_json_generator), exist_ok=True)
 
 match_types_unique = set()
 
